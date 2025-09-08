@@ -1,0 +1,44 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	TSV_VALUE_INCORRECT_TYPE	A value in a column did not match the acceptable type for that column headers specified format.	age	1	0
+warning	B0_FIELD_IDENTIFIER_RECOMMENDED	File is missing B0FieldIdentifier metadata and IntendedFor metadata, so it will not be possible to use to perform susceptibility distortion correction. B0FieldIdentifier metadata permits the flexible selection of images for estimating B0 inhomogeneity fields, and B0FieldSource permits EPI images to indicate the identifier of the estimated field to use. 	B0FieldIdentifier	11	11
+warning	EVENT_ONSET_ORDER	The onset column in events.tsv files should be sorted. 		11	11
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	55	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	55	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EchoTime	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	FlipAngle	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionAddress	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionName	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	55	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MRAcquisitionType	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MagneticFieldStrength	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceDetails	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceType	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilActiveElements	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilName	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ScanningSequence	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceName	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceVariant	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StationName	132	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	11	11
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	55	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	accuracy	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	alt	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	choiceRT	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	cong	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	iti	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	reward	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	run	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	targetRT	11	11
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	task	11	11

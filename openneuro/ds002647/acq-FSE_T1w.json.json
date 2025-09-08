@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/acq-FSE_T1w.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

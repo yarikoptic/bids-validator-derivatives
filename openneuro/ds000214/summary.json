@@ -1,0 +1,278 @@
+{
+  "sessions": [],
+  "subjects": [
+    "EESS001",
+    "EESS002",
+    "EESS003",
+    "EESS004",
+    "EESS005",
+    "EESS006",
+    "EESS007",
+    "EESS008",
+    "EESS009",
+    "EESS010",
+    "EESS011",
+    "EESS012",
+    "EESS013",
+    "EESS014",
+    "EESS015",
+    "EESS017",
+    "EESS018",
+    "EESS019",
+    "EESS021",
+    "EESS022",
+    "EESS023",
+    "EESS024",
+    "EESS025",
+    "EESS026",
+    "EESS027",
+    "EESS029",
+    "EESS030",
+    "EESS031",
+    "EESS033",
+    "EESS034",
+    "EESS035",
+    "EESS036",
+    "EESS037",
+    "EESS038",
+    "EESS039",
+    "EESS040"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "EESS001",
+      "age": 25,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS002",
+      "age": 35,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS003",
+      "age": 27,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS004",
+      "age": 20,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS005",
+      "age": 32,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS006",
+      "age": 51,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS007",
+      "age": 43,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS008",
+      "age": 30,
+      "sex": "M",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS009",
+      "age": 43,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS010",
+      "age": 24,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS011",
+      "age": 46,
+      "sex": "M",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS012",
+      "age": 43,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS013",
+      "age": 41,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS014",
+      "age": 21,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS015",
+      "age": 41,
+      "sex": "M",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS017",
+      "age": 46,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS018",
+      "age": 36,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS019",
+      "age": 46,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS021",
+      "age": 41,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS022",
+      "age": 50,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS023",
+      "age": 38,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS024",
+      "age": 29,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS025",
+      "age": 38,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS026",
+      "age": 26,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS027",
+      "age": 35,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS029",
+      "age": 34,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS030",
+      "age": 26,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS031",
+      "age": 31,
+      "sex": "M",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS033",
+      "age": 24,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS034",
+      "age": 32,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS035",
+      "age": 35,
+      "sex": "M",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS036",
+      "age": 28,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS037",
+      "age": 33,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS038",
+      "age": 26,
+      "sex": "F",
+      "group": "Patient"
+    },
+    {
+      "participantId": "EESS039",
+      "age": 42,
+      "sex": "F",
+      "group": "Control"
+    },
+    {
+      "participantId": "EESS040",
+      "age": 40,
+      "sex": "M",
+      "group": "Control"
+    }
+  ],
+  "tasks": [
+    "Cyberball"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 116,
+  "size": 185882,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

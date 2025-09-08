@@ -1,0 +1,77 @@
+{
+  "sessions": [
+    "SITUATION1A",
+    "SITUATION1B",
+    "SITUATION2A",
+    "SITUATION3A",
+    "SITUATION4A",
+    "SITUATION2B",
+    "SITUATION2C",
+    "SITUATION2APART1",
+    "SITUATION2APART2",
+    "SITUATION1C",
+    "SITUATION1D",
+    "SITUATION2D",
+    "SITUATION3B",
+    "SITUATION3C",
+    "SITUATION3D",
+    "SITUATION3E",
+    "SITUATION3F",
+    "SITUATION3G"
+  ],
+  "subjects": [
+    "RESP0059",
+    "RESP0280",
+    "RESP0301",
+    "RESP0356",
+    "RESP0384",
+    "RESP0465"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "RESP0059",
+      "age": 15,
+      "sex": "F"
+    },
+    {
+      "participantId": "RESP0280",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0356",
+      "age": 16,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0301",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0384",
+      "age": 7,
+      "sex": "F"
+    },
+    {
+      "participantId": "RESP0465",
+      "age": 6,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "task-acute"
+  ],
+  "modalities": [
+    "iEEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 433,
+  "size": 340209,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "ieeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

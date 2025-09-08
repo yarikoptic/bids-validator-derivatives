@@ -1,0 +1,335 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "condit",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "gender",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "race",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "yrschool",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "saps7",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "saps20",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "saps25",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "saps34",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "sans8",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "sans13",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "sans17",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "sans22",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "sans25",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "d4prime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "LFLUNOVS",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CFLUNOVA",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "TRAILB",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "WCSTPSVE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "WAIS_VOCAB_SCALED",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "WAIS_MATRICS_SCALE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "LOGIALMEMORY_SCALE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "FAMILYPICT_SCALE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "LNS_SCALE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "SST_SCALE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "DST_SCALE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_iq_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_wm_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_em_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_ra_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_pos_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_neg_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "z_dis_4grp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "fyrschool",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "myrschool",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "parent_yrsschool",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback0_nont",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback0_targ",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback1_nont",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback1_targ",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback2_nont",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback2_targ",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback0_nont_medrt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback0_targ_medrt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback1_nont_medrt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback1_targ_medrt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback2_nont_medrt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "nback2_targ_medrt",
+        "severity": "warning"
+      }
+    ]
+  }
+}

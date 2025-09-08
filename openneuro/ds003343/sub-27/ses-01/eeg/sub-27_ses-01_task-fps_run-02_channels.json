@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_MUST_DEFINE",
+        "location": "/sub-27/ses-01/eeg/sub-27_ses-01_task-fps_run-02_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "subCode": "software_filters",
+        "severity": "error"
+      }
+    ]
+  }
+}

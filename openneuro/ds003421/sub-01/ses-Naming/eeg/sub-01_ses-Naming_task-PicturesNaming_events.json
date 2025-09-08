@@ -1,0 +1,30 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "onset",
+        "location": "/sub-01/ses-Naming/eeg/sub-01_ses-Naming_task-PicturesNaming_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "duration",
+        "location": "/sub-01/ses-Naming/eeg/sub-01_ses-Naming_task-PicturesNaming_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "response_time",
+        "location": "/sub-01/ses-Naming/eeg/sub-01_ses-Naming_task-PicturesNaming_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

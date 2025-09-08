@@ -1,0 +1,1304 @@
+{
+  "sessions": [
+    "02",
+    "01"
+  ],
+  "subjects": [
+    "010001",
+    "010002",
+    "010003",
+    "010004",
+    "010005",
+    "010006",
+    "010007",
+    "010008",
+    "010009",
+    "010010",
+    "010011",
+    "010012",
+    "010014",
+    "010015",
+    "010016",
+    "010017",
+    "010018",
+    "010019",
+    "010020",
+    "010021",
+    "010022",
+    "010023",
+    "010024",
+    "010025",
+    "010026",
+    "010027",
+    "010028",
+    "010029",
+    "010030",
+    "010031",
+    "010032",
+    "010033",
+    "010034",
+    "010035",
+    "010036",
+    "010037",
+    "010038",
+    "010039",
+    "010040",
+    "010041",
+    "010042",
+    "010043",
+    "010044",
+    "010045",
+    "010046",
+    "010047",
+    "010048",
+    "010049",
+    "010050",
+    "010051",
+    "010052",
+    "010053",
+    "010054",
+    "010055",
+    "010056",
+    "010057",
+    "010058",
+    "010059",
+    "010060",
+    "010061",
+    "010062",
+    "010063",
+    "010064",
+    "010065",
+    "010066",
+    "010067",
+    "010068",
+    "010069",
+    "010070",
+    "010071",
+    "010072",
+    "010073",
+    "010074",
+    "010075",
+    "010076",
+    "010077",
+    "010078",
+    "010079",
+    "010080",
+    "010081",
+    "010082",
+    "010083",
+    "010084",
+    "010085",
+    "010086",
+    "010087",
+    "010088",
+    "010089",
+    "010090",
+    "010091",
+    "010092",
+    "010093",
+    "010094",
+    "010096",
+    "010097",
+    "010098",
+    "010099",
+    "010100",
+    "010101",
+    "010102",
+    "010103",
+    "010104",
+    "010105",
+    "010106",
+    "010107",
+    "010108",
+    "010109",
+    "010110",
+    "010111",
+    "010112",
+    "010113",
+    "010114",
+    "010115",
+    "010116",
+    "010117",
+    "010118",
+    "010119",
+    "010120",
+    "010121",
+    "010122",
+    "010123",
+    "010124",
+    "010125",
+    "010126",
+    "010127",
+    "010128",
+    "010129",
+    "010130",
+    "010131",
+    "010132",
+    "010133",
+    "010134",
+    "010135",
+    "010136",
+    "010137",
+    "010138",
+    "010139",
+    "010140",
+    "010141",
+    "010142",
+    "010143",
+    "010144",
+    "010145",
+    "010146",
+    "010147",
+    "010148",
+    "010149",
+    "010150",
+    "010151",
+    "010152",
+    "010153",
+    "010154",
+    "010155",
+    "010156",
+    "010157",
+    "010158",
+    "010159",
+    "010160",
+    "010161",
+    "010162",
+    "010163",
+    "010164",
+    "010165",
+    "010166",
+    "010167",
+    "010168",
+    "010169",
+    "010170",
+    "010171",
+    "010172",
+    "010173",
+    "010174",
+    "010175",
+    "010176",
+    "010177",
+    "010178",
+    "010179",
+    "010180",
+    "010181",
+    "010182",
+    "010183",
+    "010184",
+    "010185",
+    "010186",
+    "010187",
+    "010188",
+    "010189",
+    "010190",
+    "010191",
+    "010192",
+    "010193",
+    "010194",
+    "010195",
+    "010196",
+    "010197",
+    "010198",
+    "010199",
+    "010200",
+    "010201",
+    "010202",
+    "010203",
+    "010204",
+    "010205",
+    "010206",
+    "010207",
+    "010208",
+    "010209",
+    "010210",
+    "010211",
+    "010212",
+    "010213",
+    "010214",
+    "010215",
+    "010216",
+    "010217",
+    "010218",
+    "010219",
+    "010220",
+    "010221",
+    "010222",
+    "010223",
+    "010224",
+    "010225",
+    "010226",
+    "010227",
+    "010228",
+    "010229",
+    "010230",
+    "010231",
+    "010232",
+    "010233",
+    "010234",
+    "010235",
+    "010236",
+    "010237",
+    "010238",
+    "010239",
+    "010240",
+    "010241",
+    "010242",
+    "010243",
+    "010244",
+    "010245",
+    "010246",
+    "010247",
+    "010249",
+    "010250",
+    "010251",
+    "010252",
+    "010253",
+    "010254",
+    "010255",
+    "010256",
+    "010257",
+    "010258",
+    "010259",
+    "010260",
+    "010261",
+    "010262",
+    "010263",
+    "010264",
+    "010265",
+    "010266",
+    "010267",
+    "010268",
+    "010269",
+    "010270",
+    "010271",
+    "010272",
+    "010273",
+    "010274",
+    "010275",
+    "010276",
+    "010277",
+    "010278",
+    "010279",
+    "010280",
+    "010281",
+    "010282",
+    "010283",
+    "010284",
+    "010285",
+    "010286",
+    "010287",
+    "010288",
+    "010289",
+    "010290",
+    "010291",
+    "010292",
+    "010293",
+    "010294",
+    "010295",
+    "010296",
+    "010297",
+    "010298",
+    "010299",
+    "010300",
+    "010301",
+    "010302",
+    "010303",
+    "010304",
+    "010305",
+    "010306",
+    "010307",
+    "010308",
+    "010309",
+    "010310",
+    "010311",
+    "010312",
+    "010313",
+    "010314",
+    "010315",
+    "010316",
+    "010317",
+    "010318",
+    "010319",
+    "010320",
+    "010321"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "010001"
+    },
+    {
+      "participantId": "010002"
+    },
+    {
+      "participantId": "010004"
+    },
+    {
+      "participantId": "010005"
+    },
+    {
+      "participantId": "010006"
+    },
+    {
+      "participantId": "010007"
+    },
+    {
+      "participantId": "010008"
+    },
+    {
+      "participantId": "010009"
+    },
+    {
+      "participantId": "010011"
+    },
+    {
+      "participantId": "010012"
+    },
+    {
+      "participantId": "010014"
+    },
+    {
+      "participantId": "010015"
+    },
+    {
+      "participantId": "010016"
+    },
+    {
+      "participantId": "010017"
+    },
+    {
+      "participantId": "010018"
+    },
+    {
+      "participantId": "010019"
+    },
+    {
+      "participantId": "010020"
+    },
+    {
+      "participantId": "010021"
+    },
+    {
+      "participantId": "010003"
+    },
+    {
+      "participantId": "010010"
+    },
+    {
+      "participantId": "010100"
+    },
+    {
+      "participantId": "010022"
+    },
+    {
+      "participantId": "010023"
+    },
+    {
+      "participantId": "010024"
+    },
+    {
+      "participantId": "010104"
+    },
+    {
+      "participantId": "010321"
+    },
+    {
+      "participantId": "010110"
+    },
+    {
+      "participantId": "010134"
+    },
+    {
+      "participantId": "010150"
+    },
+    {
+      "participantId": "010169"
+    },
+    {
+      "participantId": "010025"
+    },
+    {
+      "participantId": "010026"
+    },
+    {
+      "participantId": "010027"
+    },
+    {
+      "participantId": "010320"
+    },
+    {
+      "participantId": "010028"
+    },
+    {
+      "participantId": "010029"
+    },
+    {
+      "participantId": "010030"
+    },
+    {
+      "participantId": "010031"
+    },
+    {
+      "participantId": "010032"
+    },
+    {
+      "participantId": "010033"
+    },
+    {
+      "participantId": "010034"
+    },
+    {
+      "participantId": "010170"
+    },
+    {
+      "participantId": "010035"
+    },
+    {
+      "participantId": "010183"
+    },
+    {
+      "participantId": "010197"
+    },
+    {
+      "participantId": "010036"
+    },
+    {
+      "participantId": "010037"
+    },
+    {
+      "participantId": "010199"
+    },
+    {
+      "participantId": "010202"
+    },
+    {
+      "participantId": "010038"
+    },
+    {
+      "participantId": "010039"
+    },
+    {
+      "participantId": "010207"
+    },
+    {
+      "participantId": "010040"
+    },
+    {
+      "participantId": "010041"
+    },
+    {
+      "participantId": "010042"
+    },
+    {
+      "participantId": "010219"
+    },
+    {
+      "participantId": "010043"
+    },
+    {
+      "participantId": "010222"
+    },
+    {
+      "participantId": "010044"
+    },
+    {
+      "participantId": "010045"
+    },
+    {
+      "participantId": "010046"
+    },
+    {
+      "participantId": "010047"
+    },
+    {
+      "participantId": "010048"
+    },
+    {
+      "participantId": "010223"
+    },
+    {
+      "participantId": "010049"
+    },
+    {
+      "participantId": "010234"
+    },
+    {
+      "participantId": "010050"
+    },
+    {
+      "participantId": "010051"
+    },
+    {
+      "participantId": "010235"
+    },
+    {
+      "participantId": "010052"
+    },
+    {
+      "participantId": "010053"
+    },
+    {
+      "participantId": "010054"
+    },
+    {
+      "participantId": "010055"
+    },
+    {
+      "participantId": "010056"
+    },
+    {
+      "participantId": "010057"
+    },
+    {
+      "participantId": "010058"
+    },
+    {
+      "participantId": "010059"
+    },
+    {
+      "participantId": "010060"
+    },
+    {
+      "participantId": "010061"
+    },
+    {
+      "participantId": "010062"
+    },
+    {
+      "participantId": "010063"
+    },
+    {
+      "participantId": "010064"
+    },
+    {
+      "participantId": "010065"
+    },
+    {
+      "participantId": "010066"
+    },
+    {
+      "participantId": "010236"
+    },
+    {
+      "participantId": "010067"
+    },
+    {
+      "participantId": "010237"
+    },
+    {
+      "participantId": "010068"
+    },
+    {
+      "participantId": "010069"
+    },
+    {
+      "participantId": "010070"
+    },
+    {
+      "participantId": "010238"
+    },
+    {
+      "participantId": "010071"
+    },
+    {
+      "participantId": "010072"
+    },
+    {
+      "participantId": "010073"
+    },
+    {
+      "participantId": "010074"
+    },
+    {
+      "participantId": "010075"
+    },
+    {
+      "participantId": "010076"
+    },
+    {
+      "participantId": "010077"
+    },
+    {
+      "participantId": "010078"
+    },
+    {
+      "participantId": "010239"
+    },
+    {
+      "participantId": "010079"
+    },
+    {
+      "participantId": "010080"
+    },
+    {
+      "participantId": "010240"
+    },
+    {
+      "participantId": "010081"
+    },
+    {
+      "participantId": "010082"
+    },
+    {
+      "participantId": "010083"
+    },
+    {
+      "participantId": "010084"
+    },
+    {
+      "participantId": "010241"
+    },
+    {
+      "participantId": "010085"
+    },
+    {
+      "participantId": "010242"
+    },
+    {
+      "participantId": "010086"
+    },
+    {
+      "participantId": "010087"
+    },
+    {
+      "participantId": "010243"
+    },
+    {
+      "participantId": "010244"
+    },
+    {
+      "participantId": "010245"
+    },
+    {
+      "participantId": "010246"
+    },
+    {
+      "participantId": "010088"
+    },
+    {
+      "participantId": "010089"
+    },
+    {
+      "participantId": "010090"
+    },
+    {
+      "participantId": "010091"
+    },
+    {
+      "participantId": "010247"
+    },
+    {
+      "participantId": "010249"
+    },
+    {
+      "participantId": "010092"
+    },
+    {
+      "participantId": "010093"
+    },
+    {
+      "participantId": "010250"
+    },
+    {
+      "participantId": "010251"
+    },
+    {
+      "participantId": "010094"
+    },
+    {
+      "participantId": "010252"
+    },
+    {
+      "participantId": "010253"
+    },
+    {
+      "participantId": "010096"
+    },
+    {
+      "participantId": "010097"
+    },
+    {
+      "participantId": "010098"
+    },
+    {
+      "participantId": "010099"
+    },
+    {
+      "participantId": "010101"
+    },
+    {
+      "participantId": "010102"
+    },
+    {
+      "participantId": "010103"
+    },
+    {
+      "participantId": "010105"
+    },
+    {
+      "participantId": "010106"
+    },
+    {
+      "participantId": "010107"
+    },
+    {
+      "participantId": "010108"
+    },
+    {
+      "participantId": "010109"
+    },
+    {
+      "participantId": "010111"
+    },
+    {
+      "participantId": "010112"
+    },
+    {
+      "participantId": "010113"
+    },
+    {
+      "participantId": "010114"
+    },
+    {
+      "participantId": "010115"
+    },
+    {
+      "participantId": "010116"
+    },
+    {
+      "participantId": "010117"
+    },
+    {
+      "participantId": "010118"
+    },
+    {
+      "participantId": "010119"
+    },
+    {
+      "participantId": "010120"
+    },
+    {
+      "participantId": "010121"
+    },
+    {
+      "participantId": "010122"
+    },
+    {
+      "participantId": "010123"
+    },
+    {
+      "participantId": "010124"
+    },
+    {
+      "participantId": "010125"
+    },
+    {
+      "participantId": "010126"
+    },
+    {
+      "participantId": "010254"
+    },
+    {
+      "participantId": "010127"
+    },
+    {
+      "participantId": "010128"
+    },
+    {
+      "participantId": "010255"
+    },
+    {
+      "participantId": "010129"
+    },
+    {
+      "participantId": "010130"
+    },
+    {
+      "participantId": "010131"
+    },
+    {
+      "participantId": "010132"
+    },
+    {
+      "participantId": "010133"
+    },
+    {
+      "participantId": "010135"
+    },
+    {
+      "participantId": "010136"
+    },
+    {
+      "participantId": "010137"
+    },
+    {
+      "participantId": "010256"
+    },
+    {
+      "participantId": "010138"
+    },
+    {
+      "participantId": "010139"
+    },
+    {
+      "participantId": "010257"
+    },
+    {
+      "participantId": "010258"
+    },
+    {
+      "participantId": "010259"
+    },
+    {
+      "participantId": "010260"
+    },
+    {
+      "participantId": "010140"
+    },
+    {
+      "participantId": "010141"
+    },
+    {
+      "participantId": "010142"
+    },
+    {
+      "participantId": "010143"
+    },
+    {
+      "participantId": "010261"
+    },
+    {
+      "participantId": "010262"
+    },
+    {
+      "participantId": "010144"
+    },
+    {
+      "participantId": "010145"
+    },
+    {
+      "participantId": "010263"
+    },
+    {
+      "participantId": "010264"
+    },
+    {
+      "participantId": "010146"
+    },
+    {
+      "participantId": "010147"
+    },
+    {
+      "participantId": "010148"
+    },
+    {
+      "participantId": "010149"
+    },
+    {
+      "participantId": "010151"
+    },
+    {
+      "participantId": "010152"
+    },
+    {
+      "participantId": "010153"
+    },
+    {
+      "participantId": "010154"
+    },
+    {
+      "participantId": "010265"
+    },
+    {
+      "participantId": "010155"
+    },
+    {
+      "participantId": "010266"
+    },
+    {
+      "participantId": "010156"
+    },
+    {
+      "participantId": "010267"
+    },
+    {
+      "participantId": "010268"
+    },
+    {
+      "participantId": "010269"
+    },
+    {
+      "participantId": "010270"
+    },
+    {
+      "participantId": "010271"
+    },
+    {
+      "participantId": "010272"
+    },
+    {
+      "participantId": "010157"
+    },
+    {
+      "participantId": "010158"
+    },
+    {
+      "participantId": "010159"
+    },
+    {
+      "participantId": "010160"
+    },
+    {
+      "participantId": "010161"
+    },
+    {
+      "participantId": "010273"
+    },
+    {
+      "participantId": "010162"
+    },
+    {
+      "participantId": "010163"
+    },
+    {
+      "participantId": "010164"
+    },
+    {
+      "participantId": "010165"
+    },
+    {
+      "participantId": "010166"
+    },
+    {
+      "participantId": "010167"
+    },
+    {
+      "participantId": "010274"
+    },
+    {
+      "participantId": "010275"
+    },
+    {
+      "participantId": "010168"
+    },
+    {
+      "participantId": "010171"
+    },
+    {
+      "participantId": "010172"
+    },
+    {
+      "participantId": "010173"
+    },
+    {
+      "participantId": "010174"
+    },
+    {
+      "participantId": "010175"
+    },
+    {
+      "participantId": "010176"
+    },
+    {
+      "participantId": "010177"
+    },
+    {
+      "participantId": "010178"
+    },
+    {
+      "participantId": "010276"
+    },
+    {
+      "participantId": "010179"
+    },
+    {
+      "participantId": "010180"
+    },
+    {
+      "participantId": "010181"
+    },
+    {
+      "participantId": "010277"
+    },
+    {
+      "participantId": "010278"
+    },
+    {
+      "participantId": "010279"
+    },
+    {
+      "participantId": "010280"
+    },
+    {
+      "participantId": "010182"
+    },
+    {
+      "participantId": "010281"
+    },
+    {
+      "participantId": "010282"
+    },
+    {
+      "participantId": "010184"
+    },
+    {
+      "participantId": "010185"
+    },
+    {
+      "participantId": "010186"
+    },
+    {
+      "participantId": "010187"
+    },
+    {
+      "participantId": "010188"
+    },
+    {
+      "participantId": "010189"
+    },
+    {
+      "participantId": "010190"
+    },
+    {
+      "participantId": "010283"
+    },
+    {
+      "participantId": "010284"
+    },
+    {
+      "participantId": "010285"
+    },
+    {
+      "participantId": "010286"
+    },
+    {
+      "participantId": "010287"
+    },
+    {
+      "participantId": "010288"
+    },
+    {
+      "participantId": "010289"
+    },
+    {
+      "participantId": "010290"
+    },
+    {
+      "participantId": "010291"
+    },
+    {
+      "participantId": "010191"
+    },
+    {
+      "participantId": "010292"
+    },
+    {
+      "participantId": "010293"
+    },
+    {
+      "participantId": "010192"
+    },
+    {
+      "participantId": "010193"
+    },
+    {
+      "participantId": "010294"
+    },
+    {
+      "participantId": "010194"
+    },
+    {
+      "participantId": "010295"
+    },
+    {
+      "participantId": "010195"
+    },
+    {
+      "participantId": "010296"
+    },
+    {
+      "participantId": "010297"
+    },
+    {
+      "participantId": "010196"
+    },
+    {
+      "participantId": "010298"
+    },
+    {
+      "participantId": "010198"
+    },
+    {
+      "participantId": "010200"
+    },
+    {
+      "participantId": "010299"
+    },
+    {
+      "participantId": "010201"
+    },
+    {
+      "participantId": "010300"
+    },
+    {
+      "participantId": "010203"
+    },
+    {
+      "participantId": "010204"
+    },
+    {
+      "participantId": "010205"
+    },
+    {
+      "participantId": "010206"
+    },
+    {
+      "participantId": "010208"
+    },
+    {
+      "participantId": "010209"
+    },
+    {
+      "participantId": "010210"
+    },
+    {
+      "participantId": "010319"
+    },
+    {
+      "participantId": "010211"
+    },
+    {
+      "participantId": "010212"
+    },
+    {
+      "participantId": "010213"
+    },
+    {
+      "participantId": "010214"
+    },
+    {
+      "participantId": "010215"
+    },
+    {
+      "participantId": "010216"
+    },
+    {
+      "participantId": "010217"
+    },
+    {
+      "participantId": "010301"
+    },
+    {
+      "participantId": "010218"
+    },
+    {
+      "participantId": "010302"
+    },
+    {
+      "participantId": "010303"
+    },
+    {
+      "participantId": "010304"
+    },
+    {
+      "participantId": "010305"
+    },
+    {
+      "participantId": "010306"
+    },
+    {
+      "participantId": "010220"
+    },
+    {
+      "participantId": "010307"
+    },
+    {
+      "participantId": "010308"
+    },
+    {
+      "participantId": "010221"
+    },
+    {
+      "participantId": "010309"
+    },
+    {
+      "participantId": "010224"
+    },
+    {
+      "participantId": "010310"
+    },
+    {
+      "participantId": "010225"
+    },
+    {
+      "participantId": "010311"
+    },
+    {
+      "participantId": "010312"
+    },
+    {
+      "participantId": "010313"
+    },
+    {
+      "participantId": "010314"
+    },
+    {
+      "participantId": "010226"
+    },
+    {
+      "participantId": "010227"
+    },
+    {
+      "participantId": "010228"
+    },
+    {
+      "participantId": "010315"
+    },
+    {
+      "participantId": "010316"
+    },
+    {
+      "participantId": "010229"
+    },
+    {
+      "participantId": "010230"
+    },
+    {
+      "participantId": "010231"
+    },
+    {
+      "participantId": "010232"
+    },
+    {
+      "participantId": "010317"
+    },
+    {
+      "participantId": "010233"
+    },
+    {
+      "participantId": "010318"
+    }
+  ],
+  "tasks": [
+    "Rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural",
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 12040,
+  "size": 6246193,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

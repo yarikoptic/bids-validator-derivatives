@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "size",
+        "location": "/sub-RESP0384/ses-SITUATION2D/ieeg/sub-RESP0384_ses-SITUATION2D_electrodes.json",
+        "rule": "rules.tabular_data.ieeg.iEEGElectrodes",
+        "severity": "warning"
+      }
+    ]
+  }
+}

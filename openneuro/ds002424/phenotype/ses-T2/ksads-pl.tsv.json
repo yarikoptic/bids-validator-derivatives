@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/phenotype/ses-T2/ksads-pl.tsv",
+        "severity": "error"
+      }
+    ]
+  }
+}

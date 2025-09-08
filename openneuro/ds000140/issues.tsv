@@ -1,0 +1,35 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	Funding	1	0
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	Instructions	1	0
+error	TSV_COLUMN_HEADER_DUPLICATE	Two elements in the first row of a TSV are the same. Each column header must be unique.		1	1
+error	TSV_COLUMN_MISSING	A required column is missing	duration	2	1
+error	TSV_COLUMN_MISSING	A required column is missing	onset	2	1
+warning	EVENT_ONSET_ORDER	The onset column in events.tsv files should be sorted. 		1	1
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	297	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EchoTime	33	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	FlipAngle	33	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionAddress	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionName	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MRAcquisitionType	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceDetails	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilActiveElements	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilName	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ScanningSequence	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceName	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceVariant	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StationName	330	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	297	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TotalReadoutTime	297	33
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	ratings	296	33
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	regulate-up/down	296	33
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	temperature	296	33

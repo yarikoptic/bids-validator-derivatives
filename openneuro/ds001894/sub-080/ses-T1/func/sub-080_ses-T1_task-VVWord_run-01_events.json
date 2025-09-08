@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-080/ses-T1/func/sub-080_ses-T1_task-VVWord_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      }
+    ]
+  }
+}

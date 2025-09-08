@@ -1,0 +1,25 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	TSV_VALUE_INCORRECT_TYPE	A value in a column did not match the acceptable type for that column headers specified format.	trial_type	5	4
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	MISC_CHANNEL_COUNT_MISMATCH	The MiscChannelCount metadata does not match the number of channels with type MISC in the associated channels.tsv file. 		40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturer	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturersModelName	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGGround	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGPlacementScheme	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HardwareFilters	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HeadCircumference	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MISCChannelCount	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SubjectArtefactDescription	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	40	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TriggerChannelCount	40	24
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	duration	40	0
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	onset	40	0
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	response_time	40	0

@@ -1,0 +1,365 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "G104",
+    "G105",
+    "G106",
+    "G107",
+    "G109",
+    "G110",
+    "G111",
+    "G112",
+    "G114",
+    "G119",
+    "G121",
+    "G123",
+    "G124",
+    "G126",
+    "G127",
+    "G129",
+    "G131",
+    "G132",
+    "G133",
+    "G136",
+    "G137",
+    "G138",
+    "G140",
+    "G141",
+    "G306",
+    "G307",
+    "G311",
+    "G313",
+    "G314",
+    "G315",
+    "G317",
+    "G318",
+    "G320",
+    "G322",
+    "G324",
+    "G326",
+    "G327",
+    "G329",
+    "G330",
+    "G336",
+    "G340",
+    "G342",
+    "G345",
+    "G348",
+    "G350",
+    "G353",
+    "G356",
+    "G357"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "G306",
+      "age": 22,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G307",
+      "age": 20,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G311",
+      "age": 24,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G313",
+      "age": 22,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G314",
+      "age": 21,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G315",
+      "age": 20,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G317",
+      "age": 25,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G318",
+      "age": 22,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G320",
+      "age": 19,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G322",
+      "age": 18,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G324",
+      "age": 18,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G326",
+      "age": 21,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G327",
+      "age": 25,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G329",
+      "age": 26,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G330",
+      "age": 27,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G336",
+      "age": 24,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G340",
+      "age": 22,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G342",
+      "age": 21,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G345",
+      "age": 22,
+      "sex": "f",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G348",
+      "age": 20,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G350",
+      "age": 20,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G353",
+      "age": 25,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G356",
+      "age": 21,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G357",
+      "age": 20,
+      "sex": "m",
+      "group": "Neurotypical"
+    },
+    {
+      "participantId": "G104",
+      "age": 30,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G105",
+      "age": 27,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G106",
+      "age": 23,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G107",
+      "age": 25,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G109",
+      "age": 21,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G110",
+      "age": 21,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G111",
+      "age": 18,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G112",
+      "age": 18,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G114",
+      "age": 19,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G119",
+      "age": 18,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G121",
+      "age": 18,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G123",
+      "age": 28,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G124",
+      "age": 25,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G126",
+      "age": 24,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G127",
+      "age": 26,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G129",
+      "age": 25,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G131",
+      "age": 21,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G132",
+      "age": 19,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G133",
+      "age": 19,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G136",
+      "age": 23,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G137",
+      "age": 19,
+      "sex": "f",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G138",
+      "age": 19,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G140",
+      "age": 25,
+      "sex": "m",
+      "group": "ASD"
+    },
+    {
+      "participantId": "G141",
+      "age": 23,
+      "sex": "f",
+      "group": "ASD"
+    }
+  ],
+  "tasks": [
+    "CRF"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 291,
+  "size": 44334,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

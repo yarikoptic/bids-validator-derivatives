@@ -1,0 +1,69 @@
+{
+  "sessions": [],
+  "subjects": [
+    "12"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "group": "sedation"
+    },
+    {
+      "participantId": "02",
+      "group": "sedation"
+    },
+    {
+      "participantId": "03",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "04",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "05",
+      "group": "sedation"
+    },
+    {
+      "participantId": "06",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "07",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "08",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "09",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "10",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "11",
+      "group": "ischemia"
+    },
+    {
+      "participantId": "12",
+      "group": "sedation"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 5,
+  "size": 1860,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

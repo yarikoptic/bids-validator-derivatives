@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "issueMessage": "onset, duration, Task\r0, 10, baseline\r10, 5, Instruc Fixation\r15, 15, baseline\r30, 2.5, Cue _ trial 1\r32.5, 10, Delay\r42.5, 2.5, Go and Move\r45, 15, ITI\r60, 2.5, Cue _ trial 2\r62.5, 10, Delay\r72.5, 2.5, Go and Move\r75, 15, ITI\r90, 2.5, Cue _ trial 3\r92.5, 10, Delay\r102.5, 2.5, Go and Move\r105, 15, ITI\r120, 2.5, Cue _ trial 4\r122.5, 10, Delay\r132.5, 2.5, Go and Move\r135, 15, ITI\r150, 2.5, Cue _ trial 5\r152.5, 10, Delay\r162.5, 2.5, Go and Move\r165, 15, ITI\r180, 2.5, Cue _ trial 6\r182.5, 10, Delay\r192.5, 2.5, Go and Move\r195, 15, ITI\r210, 2.5, Cue _ trial 7\r212.5, 10, Delay\r222.5, 2.5, Go and Move\r225, 15, ITI\r240, 2.5, Cue _ trial 8\r242.5, 10, Delay\r252.5, 2.5, Go and Move\r255, 15, ITI\r270, 5, Instruc Dissociated\r275, 15, baseline\r290, 2.5, Cue _ trial 1\r292.5, 10, Delay\r302.5, 2.5, Go and Move\r305, 15, ITI\r320, 2.5, Cue _ trial 2\r322.5, 10, Delay\r332.5, 2.5, Go and Move\r335, 15, ITI\r350, 2.5, Cue _ trial 3\r352.5, 10, Delay\r362.5, 2.5, Go and Move\r365, 15, ITI\r380, 2.5, Cue _ trial 4\r382.5, 10, Delay\r392.5, 2.5, Go and Move\r395, 15, ITI\r410, 2.5, Cue _ trial 5\r412.5, 10, Delay\r422.5, 2.5, Go and Move\r425, 15, ITI\r440, 2.5, Cue _ trial 6\r442.5, 10, Delay\r452.5, 2.5, Go and Move\r455, 15, ITI\r470, 2.5, Cue _ trial 7\r472.5, 10, Delay\r482.5, 2.5, Go and Move\r485, 15, ITI\r500, 2.5, Cue _ trial 8\r502.5, 10, Delay\r512.5, 2.5, Go and Move\r515, 15, ITI\r530, 5, Instruc Standard\r535, 15, baseline\r550, 2.5, Cue _ trial 1\r552.5, 10, Delay\r562.5, 2.5, Go and Move\r565, 15, ITI\r580, 2.5, Cue _ trial 2\r582.5, 10, Delay\r592.5, 2.5, Go and Move\r595, 15, ITI\r610, 2.5, Cue _ trial 3\r612.5, 10, Delay\r622.5, 2.5, Go and Move\r625, 15, ITI\r640, 2.5, Cue _ trial 4\r642.5, 10, Delay\r652.5, 2.5, Go and Move\r655, 15, ITI\r670, 2.5, Cue _ trial 5\r672.5, 10, Delay\r682.5, 2.5, Go and Move\r685, 15, ITI\r700, 2.5, Cue _ trial 6\r702.5, 10, Delay\r712.5, 2.5, Go and Move\r715, 15, ITI\r730, 2.5, Cue _ trial 7\r732.5, 10, Delay\r742.5, 2.5, Go and Move\r745, 15, ITI\r760, 2.5, Cue _ trial 8\r762.5, 10, Delay\r772.5, 2.5, Go and Move\r775, 15, ITI",
+        "severity": "error"
+      },
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-04/func/sub-04_task-localizer_events.tsv",
+        "issueMessage": "Column 1 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	ContrastBolusIngredient	19	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	DelayTime	57	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	DwellTime	19	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	Funding	1	0
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	InversionTime	57	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	MultibandAccelerationFactor	76	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	NonlinearGradientCorrection	19	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	NumberOfVolumesDiscardedByScanner	57	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	NumberShots	228	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	ParallelReductionFactorInPlane	76	19
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	PartialFourier	76	19
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MRAcquisitionType	76	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PhaseEncodingDirection	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilActiveElements	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ScanningSequence	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceName	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceVariant	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StationName	57	19
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	57	19
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	load_type	57	19
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	processing_stage	57	19
+warning	UNKNOWN_BIDS_VERSION	The BIDSVersion field of 'dataset_description.json' does not match a known release. The BIDS Schema used for validation may be out of date. 		1	0

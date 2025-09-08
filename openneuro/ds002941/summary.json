@@ -1,0 +1,159 @@
+{
+  "sessions": [],
+  "subjects": [
+    "1001",
+    "1002",
+    "1003",
+    "1004",
+    "1005",
+    "1006",
+    "1007",
+    "1008",
+    "1009",
+    "1010",
+    "1014",
+    "1016",
+    "1017",
+    "1019",
+    "1021",
+    "1022",
+    "1025",
+    "1026",
+    "1027",
+    "1029",
+    "1030",
+    "1031",
+    "1032",
+    "1034",
+    "1035",
+    "1036"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1001",
+      "age": 19
+    },
+    {
+      "participantId": "1004",
+      "age": 22
+    },
+    {
+      "participantId": "1008",
+      "age": 27
+    },
+    {
+      "participantId": "1010",
+      "age": 27
+    },
+    {
+      "participantId": "1014",
+      "age": 28
+    },
+    {
+      "participantId": "1016",
+      "age": 28
+    },
+    {
+      "participantId": "1017",
+      "age": 29
+    },
+    {
+      "participantId": "1019",
+      "age": 30
+    },
+    {
+      "participantId": "1021",
+      "age": 23
+    },
+    {
+      "participantId": "1022",
+      "age": 23
+    },
+    {
+      "participantId": "1026",
+      "age": 22
+    },
+    {
+      "participantId": "1027",
+      "age": 23
+    },
+    {
+      "participantId": "1030",
+      "age": 24
+    },
+    {
+      "participantId": "1031",
+      "age": 26
+    },
+    {
+      "participantId": "1032",
+      "age": 26
+    },
+    {
+      "participantId": "1034",
+      "age": 28
+    },
+    {
+      "participantId": "1035",
+      "age": 29
+    },
+    {
+      "participantId": "1036",
+      "age": 30
+    },
+    {
+      "participantId": "1002",
+      "age": 20
+    },
+    {
+      "participantId": "1003",
+      "age": 22
+    },
+    {
+      "participantId": "1005",
+      "age": 24
+    },
+    {
+      "participantId": "1006",
+      "age": 26
+    },
+    {
+      "participantId": "1007",
+      "age": 26
+    },
+    {
+      "participantId": "1009",
+      "age": 27
+    },
+    {
+      "participantId": "1025",
+      "age": 22
+    },
+    {
+      "participantId": "1029",
+      "age": 24
+    }
+  ],
+  "tasks": [
+    "Single-Digit Multiplication",
+    "Numerosity Judgement",
+    "Rhyming Judgement",
+    "Single-Digit Subtraction"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 405,
+  "size": 683103,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,33 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "locLREye"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 246,
+  "size": 183448,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

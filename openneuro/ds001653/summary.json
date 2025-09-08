@@ -1,0 +1,229 @@
+{
+  "sessions": [
+    "1",
+    "2"
+  ],
+  "subjects": [
+    "jgrAesAWc11L",
+    "jgrAesAWc11R",
+    "jgrAesAWc11R1L",
+    "jgrAesAWc12R",
+    "jgrAesAWc1NT",
+    "jgrAesAWc21L",
+    "jgrAesAWc21R",
+    "jgrAesAWc21R1L",
+    "jgrAesAWc22R",
+    "jgrAesISOc11L",
+    "jgrAesISOc11R",
+    "jgrAesISOc11R1L",
+    "jgrAesISOc12R",
+    "jgrAesISOc1NT",
+    "jgrAesISOc21L",
+    "jgrAesISOc21R",
+    "jgrAesISOc21R1L",
+    "jgrAesISOc22R",
+    "jgrAesISOc2NT",
+    "jgrAesMEDISOc11L",
+    "jgrAesMEDISOc11R",
+    "jgrAesMEDISOc11R1L",
+    "jgrAesMEDISOc12R",
+    "jgrAesMEDISOc1NT",
+    "jgrAesMEDISOc21L",
+    "jgrAesMEDISOc21R",
+    "jgrAesMEDISOc21R1L",
+    "jgrAesMEDISOc22r",
+    "jgrAesMEDISOc2NT"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "jgrAesAWc11R1L"
+    },
+    {
+      "participantId": "jgrAesAWc12R"
+    },
+    {
+      "participantId": "jgrAesAWc1NT"
+    },
+    {
+      "participantId": "jgrAesAWc11L"
+    },
+    {
+      "participantId": "jgrAesAWc11R"
+    },
+    {
+      "participantId": "jgrAesISOc1NT"
+    },
+    {
+      "participantId": "jgrAesISOc11R"
+    },
+    {
+      "participantId": "jgrAesISOc11L"
+    },
+    {
+      "participantId": "jgrAesISOc12R"
+    },
+    {
+      "participantId": "jgrAesISOc11R1L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc1NT"
+    },
+    {
+      "participantId": "jgrAesMEDISOc11R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc11L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc12R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc11R1L"
+    },
+    {
+      "participantId": "jgrAesAWc1NT"
+    },
+    {
+      "participantId": "jgrAesAWc11R"
+    },
+    {
+      "participantId": "jgrAesAWc11L"
+    },
+    {
+      "participantId": "jgrAesAWc11R1L"
+    },
+    {
+      "participantId": "jgrAesAWc12R"
+    },
+    {
+      "participantId": "jgrAesISOc11R1L"
+    },
+    {
+      "participantId": "jgrAesISOc11R"
+    },
+    {
+      "participantId": "jgrAesISOc12R"
+    },
+    {
+      "participantId": "jgrAesISOc1NT"
+    },
+    {
+      "participantId": "jgrAesMEDISOc11R1L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc11R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc12R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc11L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc1NT"
+    },
+    {
+      "participantId": "jgrAesAWc21R"
+    },
+    {
+      "participantId": "jgrAesAWc21R1L"
+    },
+    {
+      "participantId": "jgrAesAWc22R"
+    },
+    {
+      "participantId": "jgrAesAWc21L"
+    },
+    {
+      "participantId": "jgrAesISOc2NT"
+    },
+    {
+      "participantId": "jgrAesISOc21R"
+    },
+    {
+      "participantId": "jgrAesISOc21L"
+    },
+    {
+      "participantId": "jgrAesISOc22R"
+    },
+    {
+      "participantId": "jgrAesISOc21R1L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc2NT"
+    },
+    {
+      "participantId": "jgrAesMEDISOc21R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc21L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc22r"
+    },
+    {
+      "participantId": "jgrAesMEDISOc21R1L"
+    },
+    {
+      "participantId": "jgrAesAWc21R"
+    },
+    {
+      "participantId": "jgrAesAWc21R1L"
+    },
+    {
+      "participantId": "jgrAesAWc21L"
+    },
+    {
+      "participantId": "jgrAesAWc22R"
+    },
+    {
+      "participantId": "jgrAesISOc21L"
+    },
+    {
+      "participantId": "jgrAesISOc21R1L"
+    },
+    {
+      "participantId": "jgrAesISOc21R"
+    },
+    {
+      "participantId": "jgrAesISOc2NT"
+    },
+    {
+      "participantId": "jgrAesISOc22R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc22r"
+    },
+    {
+      "participantId": "jgrAesMEDISOc2NT"
+    },
+    {
+      "participantId": "jgrAesMEDISOc21R"
+    },
+    {
+      "participantId": "jgrAesMEDISOc21L"
+    },
+    {
+      "participantId": "jgrAesMEDISOc21R1L"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 460,
+  "size": 87812,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

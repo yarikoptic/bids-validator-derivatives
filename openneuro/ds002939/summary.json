@@ -1,0 +1,119 @@
+{
+  "sessions": [],
+  "subjects": [
+    "chiba750",
+    "glen"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "chiba750",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "chibaIngenia",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "douglas",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "glen",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "juntendo750w",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "juntendoAchieva",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "juntendoPrisma",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "juntendoSkyra",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "mgh",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "oxfordFmrib",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "perform",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "poly",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "tokyo750w",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "tokyoIngenia",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "tokyoSigna1",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "tokyoSigna2",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "tokyoSkyra",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "ucl",
+      "age": 39,
+      "sex": "m"
+    },
+    {
+      "participantId": "unf",
+      "age": 39,
+      "sex": "m"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 8,
+  "size": 4148,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

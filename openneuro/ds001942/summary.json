@@ -1,0 +1,108 @@
+{
+  "sessions": [
+    "SES01",
+    "SES02",
+    "SES03",
+    "SES04",
+    "SES05"
+  ],
+  "subjects": [
+    "S01",
+    "S02",
+    "S03",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "S05",
+      "age": 30,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "S10",
+      "age": 30,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "S11",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "S09",
+      "age": 30,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "S07",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "S03",
+      "age": 26,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "S08",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "S02",
+      "age": 27,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "S06",
+      "age": 29,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "S01",
+      "age": 27,
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "TODO: full task name for auditory",
+    "TODO: full task name for rest",
+    "rest",
+    "auditory"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural",
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 2062,
+  "size": 20957165,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

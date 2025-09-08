@@ -1,0 +1,124 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 39,
+      "sex": "Male"
+    },
+    {
+      "participantId": "002",
+      "age": 19,
+      "sex": "Female"
+    },
+    {
+      "participantId": "003",
+      "age": 20,
+      "sex": "Female"
+    },
+    {
+      "participantId": "004",
+      "age": 20,
+      "sex": "Male"
+    },
+    {
+      "participantId": "005",
+      "age": 18,
+      "sex": "Male"
+    },
+    {
+      "participantId": "006",
+      "age": 20,
+      "sex": "Female"
+    },
+    {
+      "participantId": "007",
+      "age": 20,
+      "sex": "Male"
+    },
+    {
+      "participantId": "008",
+      "age": 19,
+      "sex": "Male"
+    },
+    {
+      "participantId": "009",
+      "age": 20,
+      "sex": "Male"
+    },
+    {
+      "participantId": "010",
+      "age": 20,
+      "sex": "Female"
+    },
+    {
+      "participantId": "011",
+      "age": 18,
+      "sex": "Male"
+    },
+    {
+      "participantId": "012",
+      "age": 22,
+      "sex": "Female"
+    },
+    {
+      "participantId": "013",
+      "age": 19,
+      "sex": "Male"
+    },
+    {
+      "participantId": "014",
+      "age": 19,
+      "sex": "Male"
+    },
+    {
+      "participantId": "015",
+      "age": 26,
+      "sex": "Male"
+    },
+    {
+      "participantId": "016",
+      "age": 19,
+      "sex": "Male"
+    },
+    {
+      "participantId": "017",
+      "age": 18,
+      "sex": "Female"
+    }
+  ],
+  "tasks": [
+    "ContinuousVideoGamePlay"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 278,
+  "size": 2661633,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

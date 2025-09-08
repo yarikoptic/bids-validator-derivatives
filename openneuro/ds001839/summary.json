@@ -1,0 +1,36 @@
+{
+  "sessions": [],
+  "subjects": [
+    "5879027",
+    "5879188",
+    "5880716",
+    "5883280",
+    "5883490",
+    "5883567"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "rest15",
+    "rest30",
+    "stand15",
+    "stand30",
+    "step15",
+    "step30"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 123,
+  "size": 48732,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-emptyroom/ses-20140603/sub-emptyroom_ses-20140603_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "acq_time\r",
+        "severity": "warning"
+      }
+    ]
+  }
+}

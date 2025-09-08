@@ -1,0 +1,31 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	EchoTime	18	6
+warning	ECHO_TIME_GREATER_THAN	'EchoTime' is greater than 1. Are you sure it's expressed in seconds? 		6	6
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	1024	254
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	104	26
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	386	96
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionAddress	332	83
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionName	132	33
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	282	72
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MRAcquisitionType	103	26
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MagneticFieldStrength	47	12
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	47	12
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	47	12
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	1024	254
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	1024	254
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PartialFourierDirection	719	196
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PhaseEncodingDirection	140	70
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceDetails	384	94
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceType	1024	254
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilActiveElements	472	116
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilName	384	94
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ScanningSequence	103	26
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceName	356	87
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceVariant	103	26
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SliceTiming	282	217
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	103	26
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StationName	104	26
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TotalReadoutTime	114	57

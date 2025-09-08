@@ -1,0 +1,82 @@
+{
+  "sessions": [],
+  "subjects": [
+    "audio05",
+    "audio06",
+    "audio07",
+    "audio08",
+    "text01",
+    "text02",
+    "text03",
+    "text04"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "text01",
+      "age": 27,
+      "sex": "M",
+      "group": "text"
+    },
+    {
+      "participantId": "text02",
+      "age": 18,
+      "sex": "F",
+      "group": "text"
+    },
+    {
+      "participantId": "text03",
+      "age": 25,
+      "sex": "F",
+      "group": "text"
+    },
+    {
+      "participantId": "text04",
+      "age": 20,
+      "sex": "M",
+      "group": "text"
+    },
+    {
+      "participantId": "audio05",
+      "age": 26,
+      "sex": "M",
+      "group": "audio"
+    },
+    {
+      "participantId": "audio06",
+      "age": 20,
+      "sex": "M",
+      "group": "audio"
+    },
+    {
+      "participantId": "audio07",
+      "age": 25,
+      "sex": "F",
+      "group": "audio"
+    },
+    {
+      "participantId": "audio08",
+      "age": 19,
+      "sex": "F",
+      "group": "audio"
+    }
+  ],
+  "tasks": [
+    "Ironia VEV"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 113,
+  "size": 83205,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

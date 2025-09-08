@@ -1,0 +1,77 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "BlockNum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "BlockTrialNum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "MotionReward",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ColorReward",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SignedMotionCohRight",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SignedColorCohRight",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Choice_isRight",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-dts_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "isMissedTrial",
+        "severity": "warning"
+      }
+    ]
+  }
+}

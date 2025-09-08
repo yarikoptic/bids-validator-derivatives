@@ -1,0 +1,183 @@
+{
+  "sessions": [
+    "hc",
+    "off",
+    "on"
+  ],
+  "subjects": [
+    "hc1",
+    "hc10",
+    "hc18",
+    "hc2",
+    "hc20",
+    "hc21",
+    "hc24",
+    "hc25",
+    "hc29",
+    "hc30",
+    "hc31",
+    "hc32",
+    "hc33",
+    "hc4",
+    "hc7",
+    "hc8",
+    "pd11",
+    "pd12",
+    "pd13",
+    "pd14",
+    "pd16",
+    "pd17",
+    "pd19",
+    "pd22",
+    "pd23",
+    "pd26",
+    "pd28",
+    "pd3",
+    "pd5",
+    "pd6",
+    "pd9"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "hc1",
+      "age": 54
+    },
+    {
+      "participantId": "hc2",
+      "age": 50
+    },
+    {
+      "participantId": "pd3",
+      "age": 52
+    },
+    {
+      "participantId": "hc4",
+      "age": 50
+    },
+    {
+      "participantId": "pd5",
+      "age": 67
+    },
+    {
+      "participantId": "pd6",
+      "age": 62
+    },
+    {
+      "participantId": "hc7",
+      "age": 54
+    },
+    {
+      "participantId": "hc8",
+      "age": 71
+    },
+    {
+      "participantId": "pd9",
+      "age": 55
+    },
+    {
+      "participantId": "hc10",
+      "age": 59
+    },
+    {
+      "participantId": "pd12",
+      "age": 74
+    },
+    {
+      "participantId": "pd11",
+      "age": 71
+    },
+    {
+      "participantId": "pd13",
+      "age": 62
+    },
+    {
+      "participantId": "pd14",
+      "age": 63
+    },
+    {
+      "participantId": "pd16",
+      "age": 74
+    },
+    {
+      "participantId": "pd17",
+      "age": 55
+    },
+    {
+      "participantId": "hc18",
+      "age": 57
+    },
+    {
+      "participantId": "pd19",
+      "age": 69
+    },
+    {
+      "participantId": "hc20",
+      "age": 68
+    },
+    {
+      "participantId": "hc21",
+      "age": 72
+    },
+    {
+      "participantId": "pd22",
+      "age": 47
+    },
+    {
+      "participantId": "pd23",
+      "age": 66
+    },
+    {
+      "participantId": "hc24",
+      "age": 61
+    },
+    {
+      "participantId": "hc25",
+      "age": 74
+    },
+    {
+      "participantId": "pd26",
+      "age": 71
+    },
+    {
+      "participantId": "pd28",
+      "age": 61
+    },
+    {
+      "participantId": "hc29",
+      "age": 60
+    },
+    {
+      "participantId": "hc30",
+      "age": 69
+    },
+    {
+      "participantId": "hc31",
+      "age": 82
+    },
+    {
+      "participantId": "hc32",
+      "age": 60
+    },
+    {
+      "participantId": "hc33",
+      "age": 75
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "EEG",
+    "beh"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 328,
+  "size": 168244,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "beh",
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

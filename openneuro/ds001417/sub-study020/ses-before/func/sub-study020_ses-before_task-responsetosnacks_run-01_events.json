@@ -1,0 +1,42 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-study020/ses-before/func/sub-study020_ses-before_task-responsetosnacks_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-study020/ses-before/func/sub-study020_ses-before_task-responsetosnacks_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "fixation_onset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-study020/ses-before/func/sub-study020_ses-before_task-responsetosnacks_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "item_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-study020/ses-before/func/sub-study020_ses-before_task-responsetosnacks_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "item_rank",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-study020/ses-before/func/sub-study020_ses-before_task-responsetosnacks_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "is_one",
+        "severity": "warning"
+      }
+    ]
+  }
+}

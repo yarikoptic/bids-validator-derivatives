@@ -1,0 +1,61 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "DeviceSerialNumber",
+        "issueMessage": "must be string\n\nField description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/T1w.json",
+        "affects": [
+          "/sub-007/ses-01/anat/sub-007_ses-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "InversionTime",
+        "issueMessage": "must be > 0\n\nField description: The inversion time (TI) for the acquisition, specified in seconds.\nInversion time is the time after the middle of inverting RF pulse to middle\nof excitation pulse to detect the amount of longitudinal magnetization.\nCorresponds to [DICOM Tag 0018, 0082](https://dicomlookup.com/dicomtags/(0018,0082)) `Inversion Time`\n(please note that the DICOM term is in milliseconds not seconds).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/T1w.json",
+        "affects": [
+          "/sub-007/ses-01/anat/sub-007_ses-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be > 0\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/T1w.json",
+        "affects": [
+          "/sub-007/ses-01/anat/sub-007_ses-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be array\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/T1w.json",
+        "affects": [
+          "/sub-007/ses-01/anat/sub-007_ses-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must match a schema in anyOf\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/T1w.json",
+        "affects": [
+          "/sub-007/ses-01/anat/sub-007_ses-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

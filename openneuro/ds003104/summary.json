@@ -1,0 +1,32 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": null,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "somato"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 12,
+  "size": 43731,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,290 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "onset",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'test'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "duration",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 10,
+        "issueMessage": "'temp_go_duration'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "text",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "key_press",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "block_duration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "timing_post_trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "time_elapsed",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "internal_node_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "exp_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "subject_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trigger_times",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "triggers",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "possible_responses",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stim_duration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "exp_stage",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SS_stimulus",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SS_trial_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SS_duration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "load",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_num",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stop_trial_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "adaptive_trial_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stim",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "yes_response_key",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "no_response_key",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SSD_target",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SSD_non_target",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SSTarget",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SSNonTarget",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "go_acc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stop_acc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SS_delay",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "adaptive_acc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-336/func/sub-336_task-Beast_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "new_trial_type",
+        "severity": "warning"
+      }
+    ]
+  }
+}

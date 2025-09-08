@@ -1,0 +1,133 @@
+{
+  "sessions": [],
+  "subjects": [
+    "M80303814",
+    "M80314102",
+    "M80315906",
+    "M80320049",
+    "M80324791",
+    "M80344042",
+    "M80351181",
+    "M80355653",
+    "M80361035",
+    "M80365488",
+    "M80371898"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "M80382996",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80324791",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "M80315906",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "M80361035",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80303814",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80344042",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80396927",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80391109",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80351181",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80365488",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80314102",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80371898",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "M80374661",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80377182",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80334973",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80320049",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "M80398579",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "M80379364",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "M80355653",
+      "age": 20,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "vtsreward"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 267,
+  "size": 346989,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

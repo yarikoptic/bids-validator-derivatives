@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENTS_TSV_MISSING",
+        "location": "/sub-emptyroom/ses-20150112/meg/sub-emptyroom_ses-20150112_task-noise_run-02_meg.ds/",
+        "rule": "rules.checks.events.EventsMissing",
+        "severity": "warning"
+      }
+    ]
+  }
+}

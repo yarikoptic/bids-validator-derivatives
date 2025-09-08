@@ -1,0 +1,35 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-07/ses-perceptionNaturalImageTraining09/func/sub-07_ses-perceptionNaturalImageTraining09_task-GODtrain_run-06_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/ses-perceptionNaturalImageTraining09/func/sub-07_ses-perceptionNaturalImageTraining09_task-GODtrain_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/ses-perceptionNaturalImageTraining09/func/sub-07_ses-perceptionNaturalImageTraining09_task-GODtrain_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "category_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/ses-perceptionNaturalImageTraining09/func/sub-07_ses-perceptionNaturalImageTraining09_task-GODtrain_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "image_index",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	AcquisitionDuration	3	0
+error	JSON_SCHEMA_VALIDATION_ERROR	Invalid JSON sidecar file. The sidecar is not formatted according the schema.	DelayTime	3	0
+error	TSV_VALUE_INCORRECT_TYPE	A value in a column did not match the acceptable type for that column headers specified format.	response_time	148	37
+error	VOLUME_TIMING_AND_REPETITION_TIME_MUTUALLY_EXCLUSIVE	The fields 'VolumeTiming' and 'RepetitionTime' for this file are mutually exclusive. Choose 'RepetitionTime' when the same repetition time is used for all volumes, or 'VolumeTiming' when variable times are used. 		608	38
+warning	DEPRECATED_ACQUISITION_DURATION	The 'AcquisitionDuration' field has been replaced with 'FrameAcquisitionDuration' to indicate the duration of volume acquisition in sparse acquisition sequences. 		608	38
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	608	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	608	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EchoTime	75	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	FlipAngle	75	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionAddress	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionName	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	608	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MRAcquisitionType	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MagneticFieldStrength	75	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	75	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PhaseEncodingDirection	608	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceDetails	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceType	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilActiveElements	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilName	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ScanningSequence	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceName	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceVariant	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StationName	683	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	608	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	608	38
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TotalReadoutTime	608	38

@@ -1,0 +1,94 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MagneticFieldStrength",
+        "issueMessage": "must be number\n\nField description: Nominal field strength of MR magnet in Tesla.\nCorresponds to [DICOM Tag 0018, 0087](https://dicomlookup.com/dicomtags/(0018,0087)) `Magnetic Field Strength`.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must be number\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must be array\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must match a schema in anyOf\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "InversionTime",
+        "issueMessage": "must be number\n\nField description: The inversion time (TI) for the acquisition, specified in seconds.\nInversion time is the time after the middle of inverting RF pulse to middle\nof excitation pulse to detect the amount of longitudinal magnetization.\nCorresponds to [DICOM Tag 0018, 0082](https://dicomlookup.com/dicomtags/(0018,0082)) `Inversion Time`\n(please note that the DICOM term is in milliseconds not seconds).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be number\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be array\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must match a schema in anyOf\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.json",
+        "affects": [
+          "/sub-control19/ses-2postEEG/anat/sub-control19_ses-2postEEG_T1w.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-12/ses-cathodalpre/eeg/sub-12_ses-cathodalpre_task-attentionalblink_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "line": 2,
+        "issueMessage": "'eeg'",
+        "severity": "error"
+      }
+    ]
+  }
+}

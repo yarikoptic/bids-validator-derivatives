@@ -1,0 +1,754 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "065",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "002",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "003",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "004",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "005",
+      "age": 22,
+      "sex": "2"
+    },
+    {
+      "participantId": "006",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "007",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "008",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "009",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "010",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "011",
+      "age": 21,
+      "sex": "2"
+    },
+    {
+      "participantId": "012",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "013",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "014",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "015",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "016",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "017",
+      "age": 21,
+      "sex": "1"
+    },
+    {
+      "participantId": "018",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "019",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "020",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "021",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "022",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "023",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "024",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "025",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "026",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "027",
+      "age": 23,
+      "sex": "2"
+    },
+    {
+      "participantId": "028",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "029",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "030",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "031",
+      "age": 20,
+      "sex": "2"
+    },
+    {
+      "participantId": "032",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "033",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "034",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "035",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "036",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "037",
+      "age": 21,
+      "sex": "2"
+    },
+    {
+      "participantId": "038",
+      "age": null,
+      "sex": "NaN"
+    },
+    {
+      "participantId": "039",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "040",
+      "age": 20,
+      "sex": "2"
+    },
+    {
+      "participantId": "041",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "042",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "043",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "044",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "045",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "046",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "047",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "048",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "049",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "050",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "051",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "052",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "053",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "054",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "055",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "056",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "057",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "058",
+      "age": 21,
+      "sex": "1"
+    },
+    {
+      "participantId": "059",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "060",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "061",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "062",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "063",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "064",
+      "age": null,
+      "sex": "2"
+    },
+    {
+      "participantId": "065",
+      "age": 21,
+      "sex": "1"
+    },
+    {
+      "participantId": "066",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "067",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "068",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "069",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "070",
+      "age": 21,
+      "sex": "1"
+    },
+    {
+      "participantId": "071",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "072",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "073",
+      "age": 21,
+      "sex": "1"
+    },
+    {
+      "participantId": "074",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "075",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "076",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "077",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "078",
+      "age": 20,
+      "sex": "2"
+    },
+    {
+      "participantId": "079",
+      "age": 23,
+      "sex": "1"
+    },
+    {
+      "participantId": "080",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "081",
+      "age": 20,
+      "sex": "2"
+    },
+    {
+      "participantId": "082",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "083",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "084",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "085",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "086",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "087",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "088",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "089",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "090",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "091",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "092",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "093",
+      "age": 21,
+      "sex": "2"
+    },
+    {
+      "participantId": "094",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "095",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "096",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "097",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "098",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "099",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "100",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "101",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "102",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "103",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "104",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "105",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "106",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "107",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "108",
+      "age": 24,
+      "sex": "2"
+    },
+    {
+      "participantId": "109",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "110",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "111",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "112",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "113",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "114",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "115",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "116",
+      "age": 18,
+      "sex": "2"
+    },
+    {
+      "participantId": "117",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "118",
+      "age": 20,
+      "sex": "1"
+    },
+    {
+      "participantId": "119",
+      "age": 19,
+      "sex": "1"
+    },
+    {
+      "participantId": "120",
+      "age": 18,
+      "sex": "1"
+    },
+    {
+      "participantId": "121",
+      "age": 19,
+      "sex": "2"
+    },
+    {
+      "participantId": "122",
+      "age": 18,
+      "sex": "2"
+    }
+  ],
+  "tasks": [
+    "ProbabilisticSelection"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 982,
+  "size": 6741435,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

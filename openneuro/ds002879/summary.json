@@ -1,0 +1,221 @@
+{
+  "sessions": [],
+  "subjects": [
+    "2500",
+    "2502",
+    "2503",
+    "2504",
+    "2505",
+    "2506",
+    "2507",
+    "2508",
+    "2509",
+    "2510",
+    "2511",
+    "2512",
+    "2514",
+    "2515",
+    "2516",
+    "2517",
+    "2518",
+    "2519",
+    "2520",
+    "2521",
+    "2522",
+    "2523",
+    "2525",
+    "2526",
+    "2527",
+    "2528",
+    "2529",
+    "2530",
+    "2532",
+    "2533",
+    "2534",
+    "2535"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "2500",
+      "age": 21.31,
+      "sex": "1"
+    },
+    {
+      "participantId": "2502",
+      "age": 19.41,
+      "sex": "2"
+    },
+    {
+      "participantId": "2503",
+      "age": 19.9,
+      "sex": "1"
+    },
+    {
+      "participantId": "2504",
+      "age": 19.43,
+      "sex": "1"
+    },
+    {
+      "participantId": "2505",
+      "age": 21.31,
+      "sex": "1"
+    },
+    {
+      "participantId": "2506",
+      "age": 18.88,
+      "sex": "1"
+    },
+    {
+      "participantId": "2507",
+      "age": 21.9,
+      "sex": "2"
+    },
+    {
+      "participantId": "2508",
+      "age": 20.57,
+      "sex": "1"
+    },
+    {
+      "participantId": "2509",
+      "age": 21.3,
+      "sex": "2"
+    },
+    {
+      "participantId": "2510",
+      "age": 18.01,
+      "sex": "2"
+    },
+    {
+      "participantId": "2511",
+      "age": 18.68,
+      "sex": "1"
+    },
+    {
+      "participantId": "2512",
+      "age": 18.94,
+      "sex": "2"
+    },
+    {
+      "participantId": "2514",
+      "age": 28.48,
+      "sex": "1"
+    },
+    {
+      "participantId": "2515",
+      "age": 20.44,
+      "sex": "1"
+    },
+    {
+      "participantId": "2516",
+      "age": 21.59,
+      "sex": "1"
+    },
+    {
+      "participantId": "2517",
+      "age": 23.74,
+      "sex": "1"
+    },
+    {
+      "participantId": "2518",
+      "age": 20.14,
+      "sex": "1"
+    },
+    {
+      "participantId": "2519",
+      "age": 23.28,
+      "sex": "2"
+    },
+    {
+      "participantId": "2520",
+      "age": 19.3,
+      "sex": "2"
+    },
+    {
+      "participantId": "2521",
+      "age": 21.55,
+      "sex": "2"
+    },
+    {
+      "participantId": "2522",
+      "age": 20.2,
+      "sex": "2"
+    },
+    {
+      "participantId": "2523",
+      "age": 19.97,
+      "sex": "1"
+    },
+    {
+      "participantId": "2525",
+      "age": 19.64,
+      "sex": "1"
+    },
+    {
+      "participantId": "2526",
+      "age": 20.44,
+      "sex": "2"
+    },
+    {
+      "participantId": "2527",
+      "age": 34.77,
+      "sex": "2"
+    },
+    {
+      "participantId": "2528",
+      "age": 19.89,
+      "sex": "1"
+    },
+    {
+      "participantId": "2529",
+      "age": 18.38,
+      "sex": "2"
+    },
+    {
+      "participantId": "2530",
+      "age": 23.94,
+      "sex": "1"
+    },
+    {
+      "participantId": "2532",
+      "age": 22.63,
+      "sex": "2"
+    },
+    {
+      "participantId": "2533",
+      "age": 22.34,
+      "sex": "2"
+    },
+    {
+      "participantId": "2534",
+      "age": 22.58,
+      "sex": "2"
+    },
+    {
+      "participantId": "2535",
+      "age": 22.29,
+      "sex": "1"
+    }
+  ],
+  "tasks": [
+    "Audio-Audio Non-Word Rhyming",
+    "Audio-Audio Word Rhyming",
+    "Visual-Visual Non-Word Rhyming",
+    "Visual-Visual Word Rhyming"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 462,
+  "size": 982788,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

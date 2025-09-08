@@ -1,0 +1,55 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "Age",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "Gender",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "Handedness",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "HasRestData",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "YearsEduSelf",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "Hispanic",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "Race",
+        "severity": "warning"
+      }
+    ]
+  }
+}

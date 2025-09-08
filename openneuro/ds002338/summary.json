@@ -1,0 +1,165 @@
+{
+  "sessions": [],
+  "subjects": [
+    "xp201",
+    "xp202",
+    "xp203",
+    "xp204",
+    "xp205",
+    "xp206",
+    "xp207",
+    "xp211",
+    "xp213",
+    "xp216",
+    "xp217",
+    "xp218",
+    "xp219",
+    "xp220",
+    "xp221",
+    "xp222",
+    "xp210"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "xp201",
+      "age": 41,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp202",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp203",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp204",
+      "age": 34,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp205",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp206",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp207",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp208",
+      "age": 47,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp209",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp210",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp211",
+      "age": 50,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp212",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp213",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp214",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp215",
+      "age": 44,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp216",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp217",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp218",
+      "age": 46,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp219",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp220",
+      "age": 66,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp221",
+      "age": 42,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp222",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp223",
+      "age": 18,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "1dNF",
+    "1dNF_run-01",
+    "2dNF",
+    "2dNF_run-02",
+    "MIpost",
+    "MIpre"
+  ],
+  "modalities": [
+    "EEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 481,
+  "size": 335369,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "eeg",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

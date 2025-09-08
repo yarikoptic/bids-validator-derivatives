@@ -1,0 +1,195 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 25,
+      "sex": "m"
+    },
+    {
+      "participantId": "002",
+      "age": 25,
+      "sex": "m"
+    },
+    {
+      "participantId": "003",
+      "age": 23,
+      "sex": "f"
+    },
+    {
+      "participantId": "004",
+      "age": 22,
+      "sex": "m"
+    },
+    {
+      "participantId": "005",
+      "age": 23,
+      "sex": "m"
+    },
+    {
+      "participantId": "006",
+      "age": 19,
+      "sex": "f"
+    },
+    {
+      "participantId": "007",
+      "age": 22,
+      "sex": "m"
+    },
+    {
+      "participantId": "008",
+      "age": 20,
+      "sex": "m"
+    },
+    {
+      "participantId": "009",
+      "age": 22,
+      "sex": "f"
+    },
+    {
+      "participantId": "010",
+      "age": 20,
+      "sex": "f"
+    },
+    {
+      "participantId": "011",
+      "age": 19,
+      "sex": "m"
+    },
+    {
+      "participantId": "012",
+      "age": 19,
+      "sex": "f"
+    },
+    {
+      "participantId": "013",
+      "age": 21,
+      "sex": "f"
+    },
+    {
+      "participantId": "014",
+      "age": 20,
+      "sex": "m"
+    },
+    {
+      "participantId": "015",
+      "age": 19,
+      "sex": "f"
+    },
+    {
+      "participantId": "016",
+      "age": 19,
+      "sex": "f"
+    },
+    {
+      "participantId": "017",
+      "age": 21,
+      "sex": "f"
+    },
+    {
+      "participantId": "018",
+      "age": 21,
+      "sex": "m"
+    },
+    {
+      "participantId": "019",
+      "age": 18,
+      "sex": "f"
+    },
+    {
+      "participantId": "020",
+      "age": 18,
+      "sex": "f"
+    },
+    {
+      "participantId": "021",
+      "age": 18,
+      "sex": "f"
+    },
+    {
+      "participantId": "022",
+      "age": 20,
+      "sex": "m"
+    },
+    {
+      "participantId": "023",
+      "age": 19,
+      "sex": "m"
+    },
+    {
+      "participantId": "024",
+      "age": 18,
+      "sex": "m"
+    },
+    {
+      "participantId": "025",
+      "age": 19,
+      "sex": "m"
+    },
+    {
+      "participantId": "026",
+      "age": 18,
+      "sex": "f"
+    },
+    {
+      "participantId": "027",
+      "age": 18,
+      "sex": "f"
+    },
+    {
+      "participantId": "028",
+      "age": 19,
+      "sex": "f"
+    }
+  ],
+  "tasks": [
+    "effort1",
+    "effort2"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 88,
+  "size": 12178,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

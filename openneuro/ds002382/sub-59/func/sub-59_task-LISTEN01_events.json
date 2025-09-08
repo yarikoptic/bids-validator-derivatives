@@ -1,0 +1,63 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "weight",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "auxillary",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Word",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Concreteness",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Log_Freq",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "DenB",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-59/func/sub-59_task-LISTEN01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Freq_Den_Interxn",
+        "severity": "warning"
+      }
+    ]
+  }
+}

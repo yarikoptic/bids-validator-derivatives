@@ -1,0 +1,26 @@
+{
+  "sessions": [],
+  "subjects": [
+    "204"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "music"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 9,
+  "size": 24185,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,23 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-19/func/sub-19_task-maplistening_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "trial_type",
+        "location": "/sub-19/func/sub-19_task-maplistening_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'sequential'",
+        "severity": "error"
+      }
+    ]
+  }
+}

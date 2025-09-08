@@ -1,0 +1,194 @@
+{
+  "sessions": [],
+  "subjects": [
+    "cntrl01",
+    "cntrl02",
+    "cntrl03",
+    "cntrl04",
+    "cntrl05",
+    "cntrl06",
+    "cntrl07",
+    "cntrl08",
+    "cntrl09",
+    "cntrl10",
+    "cntrl11",
+    "cntrl12",
+    "cntrl13",
+    "cntrl14",
+    "pddn01",
+    "pddn02",
+    "pddn03",
+    "pddn04",
+    "pddn05",
+    "pddn06",
+    "pddn07",
+    "pddn08",
+    "pddn09",
+    "pddn10",
+    "pddn11",
+    "pddn12",
+    "pddn13",
+    "pddn14"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "cntrl01",
+      "age": 69.94,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl02",
+      "age": 60.69,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl03",
+      "age": 76.77,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl04",
+      "age": 74.28,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl05",
+      "age": 57.76,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl06",
+      "age": 73.33,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl07",
+      "age": 60.63,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl08",
+      "age": 62.31,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl09",
+      "age": 64.89,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl10",
+      "age": 38,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl11",
+      "age": 66.63,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl12",
+      "age": 62.58,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl13",
+      "age": 67.44,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "cntrl14",
+      "age": 70.45,
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "pddn01",
+      "age": 69.17,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn02",
+      "age": 70.02,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn03",
+      "age": 72.83,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn04",
+      "age": 64.94,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn05",
+      "age": 77.65,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn06",
+      "age": 58.4,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn07",
+      "age": 70.24,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn08",
+      "age": 73.43,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn09",
+      "age": 62.11,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn10",
+      "age": 68.91,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn11",
+      "age": 48.1,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn12",
+      "age": 56.67,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn13",
+      "age": 63.44,
+      "group": "PD-denovo"
+    },
+    {
+      "participantId": "pddn14",
+      "age": 36.27,
+      "group": "PD-denovo"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 145,
+  "size": 92148,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

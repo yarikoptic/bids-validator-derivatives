@@ -1,0 +1,49 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "MOCCAG001",
+    "MOCCAG002",
+    "MOCCAG003"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "MOCCAG001",
+      "age": 0,
+      "sex": "f"
+    },
+    {
+      "participantId": "MOCCAG002",
+      "age": 0,
+      "sex": "f"
+    },
+    {
+      "participantId": "MOCCAG003",
+      "age": 0,
+      "sex": "m"
+    }
+  ],
+  "tasks": [
+    "reward",
+    "delay"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 184,
+  "size": 207189,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

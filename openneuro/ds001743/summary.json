@@ -1,0 +1,96 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 19,
+      "group": "Patient"
+    },
+    {
+      "participantId": "02",
+      "age": 54,
+      "group": "Patient"
+    },
+    {
+      "participantId": "03",
+      "age": 57,
+      "group": "Patient"
+    },
+    {
+      "participantId": "04",
+      "age": 59,
+      "group": "Patient"
+    },
+    {
+      "participantId": "05",
+      "age": 65,
+      "group": "Patient"
+    },
+    {
+      "participantId": "06",
+      "age": 66,
+      "group": "Patient"
+    },
+    {
+      "participantId": "07",
+      "age": 21,
+      "group": "Control"
+    },
+    {
+      "participantId": "08",
+      "age": 34,
+      "group": "Control"
+    },
+    {
+      "participantId": "09",
+      "age": 26,
+      "group": "Control"
+    },
+    {
+      "participantId": "10",
+      "age": 21,
+      "group": "Control"
+    },
+    {
+      "participantId": "11",
+      "age": 21,
+      "group": "Control"
+    },
+    {
+      "participantId": "12",
+      "age": 21,
+      "group": "Control"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 51,
+  "size": 19220,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,246 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionName",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETInstitutionInformation",
+        "issueMessage": "Field description: The name of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerRadLex",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: ID of the tracer compound from the RadLex Ontology.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerSNOMED",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: ID of the tracer compound from the SNOMED Ontology\n(subclass of Radioactive isotope).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerMolecularWeight",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Accurate molecular weight of the tracer used.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerMolecularWeightUnits",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit of the molecular weights measurement (for example, `\"g/mol\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectedMassPerWeight",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Injected mass per kilogram bodyweight.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectedMassPerWeightUnits",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit format of the injected mass per kilogram bodyweight\n(for example, `\"ug/kg\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SpecificRadioactivityMeasTime",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Time to which specific radioactivity measurement above applies in the default\nunit `\"hh:mm:ss\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MolarActivity",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Molar activity of compound injected.\nCorresponds to [DICOM Tag 0018, 1077](https://dicomlookup.com/dicomtags/(0018,1077))\n`Radiopharmaceutical Specific Activity`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MolarActivityUnits",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit of the specified molar radioactivity (for example, `\"GBq/umol\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MolarActivityMeasTime",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Time to which molar radioactivity measurement above applies in the default\nunit `\"hh:mm:ss\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionRadioactivity",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Amount of radioactivity infused into the patient.\nThis value must be less than or equal to the total injected radioactivity\n(`\"InjectedRadioactivity\"`).\nUnits should be the same as `\"InjectedRadioactivityUnits\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionStart",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Time of start of infusion with respect to `\"TimeZero\"` in the default unit\nseconds.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionSpeed",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: If given, infusion speed.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionSpeedUnits",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit of infusion speed (for example, `\"mL/s\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectedVolume",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Injected volume of the radiotracer in the unit `\"mL\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Purity",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Purity of the radiolabeled compound (between 0 and 100%).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalDoseAmount",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Dose amount of pharmaceutical coadministered with tracer.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalDoseUnits",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Unit format relating to pharmaceutical dose\n(for example, `\"mg\"` or `\"mg/kg\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ReconMethodImplementationVersion",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Identification for the software used, such as name and version.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "AttenuationCorrectionMethodReference",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Reference paper for the attenuation correction method used.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ScaleFactor",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Scale factor for each frame. This field MUST be defined if the imaging data (`.nii[.gz]`) are scaled.\nIf this field is not defined, then it is assumed that the scaling factor is 1. Defining this field\nwhen the scaling factor is 1 is RECOMMENDED, for the sake of clarity.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ScatterFraction",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Scatter fraction for each frame (Units: 0-100%).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DecayCorrectionFactor",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Decay correction factor for each frame.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DoseCalibrationFactor",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Multiplication factor used to transform raw data (in counts/sec) to meaningful unit (Bq/ml).\nCorresponds to [DICOM Tag 0054, 1322](https://dicomlookup.com/dicomtags/(0054,1322)) `Dose Calibration Factor`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PromptRate",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Prompt rate for each frame (same units as `Units`, for example, `\"Bq/mL\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SinglesRate",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Singles rate for each frame (same units as `Units`, for example, `\"Bq/mL\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "RandomRate",
+        "location": "/sub-000104/ses-displaced/pet/sub-000104_ses-displaced_pet.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Random rate for each frame (same units as `\"Units\"`, for example, `\"Bq/mL\"`).\n"
+      }
+    ]
+  }
+}

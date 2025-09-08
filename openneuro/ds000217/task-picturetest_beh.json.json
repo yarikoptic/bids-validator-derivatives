@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/task-picturetest_beh.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

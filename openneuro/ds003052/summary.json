@@ -1,0 +1,46 @@
+{
+  "sessions": [],
+  "subjects": [
+    "CNDR01",
+    "CNDR02",
+    "CNDR03",
+    "CNDR04",
+    "CNDR05",
+    "CNDR06",
+    "CNDR07",
+    "CNDR08",
+    "CNDR09",
+    "CNDR10",
+    "CNDR11",
+    "CNDR12",
+    "CNDR13",
+    "CNDR14",
+    "HNL01",
+    "HNL02",
+    "HNL03",
+    "HNL04",
+    "HNL05",
+    "HNL06",
+    "HNL07",
+    "NDRI01",
+    "NDRI02",
+    "NDRI03",
+    "exvivoMTLatlas"
+  ],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 28,
+  "size": 8461,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

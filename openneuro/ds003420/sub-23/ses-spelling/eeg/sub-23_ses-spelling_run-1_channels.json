@@ -1,0 +1,20 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-23/ses-spelling/eeg/sub-23_ses-spelling_run-1_channels.tsv",
+        "issueMessage": "task missing from rule rules.files.raw.channels.channels",
+        "rule": "rules.files.raw.channels.channels",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_MUST_DEFINE",
+        "location": "/sub-23/ses-spelling/eeg/sub-23_ses-spelling_run-1_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "subCode": "software_filters",
+        "severity": "error"
+      }
+    ]
+  }
+}

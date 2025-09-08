@@ -1,0 +1,39 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	SIDECAR_KEY_REQUIRED	A data file's JSON sidecar is missing a key listed as required.	TotalAcquiredPairs	63	63
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	126	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	126	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	126	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingLocationDescription	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingOrientation	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingPulseAverageB1	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingPulseAverageGradient	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingPulseDuration	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingPulseFlipAngle	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingPulseInterval	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	LabelingPulseMaximumGradient	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	126	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	126	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PartialFourierDirection	126	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PhaseEncodingDirection	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceType	63	63
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TotalReadoutTime	63	63
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	Age	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	BNT	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	CERAD Constructional praxis	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	CERAD Construtional praxis (delayed)	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	CERAD word list	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	Gender	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	MMSE	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	Phonetic fluency	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	STROOP color	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	STROOP interference	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	STROOP reading	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	Semantic fluency	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	TMT A	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	TMT B	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	WAIS-III digits test	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	WMS-III logical memory I	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	WSM-III logical memory II	1	0

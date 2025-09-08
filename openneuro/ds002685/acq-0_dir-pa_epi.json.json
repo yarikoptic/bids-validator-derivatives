@@ -1,0 +1,25 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-0_dir-pa_epi.json",
+        "affects": "/sub-11/ses-15/fmap/sub-11_ses-15_acq-0_dir-pa_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-0_dir-pa_epi.json,/dir-pa_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-0_dir-pa_epi.json",
+        "affects": "/sub-15/ses-00/fmap/sub-15_ses-00_acq-0_dir-pa_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-0_dir-pa_epi.json,/dir-pa_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/acq-0_dir-pa_epi.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

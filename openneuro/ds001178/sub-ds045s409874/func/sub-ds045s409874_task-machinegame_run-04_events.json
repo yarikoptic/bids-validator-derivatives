@@ -1,0 +1,49 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-ds045s409874/func/sub-ds045s409874_task-machinegame_run-04_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-ds045s409874/func/sub-ds045s409874_task-machinegame_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-ds045s409874/func/sub-ds045s409874_task-machinegame_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-ds045s409874/func/sub-ds045s409874_task-machinegame_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "points_earned",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-ds045s409874/func/sub-ds045s409874_task-machinegame_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "iti_start_time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-ds045s409874/func/sub-ds045s409874_task-machinegame_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "iti_length",
+        "severity": "warning"
+      }
+    ]
+  }
+}

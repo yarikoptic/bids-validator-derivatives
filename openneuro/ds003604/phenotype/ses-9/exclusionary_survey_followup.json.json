@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/phenotype/ses-9/exclusionary_survey_followup.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

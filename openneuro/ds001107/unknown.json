@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_DATASET_DESCRIPTION",
+        "affects": [
+          "/dataset_description.json"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	TSV_VALUE_INCORRECT_TYPE	A value in a column did not match the acceptable type for that column headers specified format.	response_time	2	2
+warning	B0_FIELD_IDENTIFIER_RECOMMENDED	File is missing B0FieldIdentifier metadata and IntendedFor metadata, so it will not be possible to use to perform susceptibility distortion correction. B0FieldIdentifier metadata permits the flexible selection of images for estimating B0 inhomogeneity fields, and B0FieldSource permits EPI images to indicate the identifier of the estimated field to use. 	B0FieldIdentifier	188	24
+warning	EVENT_ONSET_ORDER	The onset column in events.tsv files should be sorted. 		3	2
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	805	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	805	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	1261	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	4	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	4	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	805	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	1261	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	1261	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PartialFourierDirection	1261	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceType	1261	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SliceTiming	360	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	768	24
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	805	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	blockNum	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	boldRun	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	condition	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	numCorr	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	numErr	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	numTrial	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	possCorr	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	respMade	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	runNum	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	setSize	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	startTRreal	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	startTime	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	startTimeReal	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	taskName	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	timeOfTR	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	trialDur	768	24
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	trialType	768	24

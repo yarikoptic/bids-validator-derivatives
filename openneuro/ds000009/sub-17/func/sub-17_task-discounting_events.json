@@ -1,0 +1,140 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "reaction_time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "percent_off_trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "immediate_amount",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "delayed_amount",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "delay_time_words",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "delay_time_days",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "k_this_trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response_button",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response_binarized",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onset.plus.rt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onset.plus.stimdur",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "absolute_time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trialnum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onset_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "duration_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_type_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "easy_par_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/func/sub-17_task-discounting_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "hard_par_orig",
+        "severity": "warning"
+      }
+    ]
+  }
+}

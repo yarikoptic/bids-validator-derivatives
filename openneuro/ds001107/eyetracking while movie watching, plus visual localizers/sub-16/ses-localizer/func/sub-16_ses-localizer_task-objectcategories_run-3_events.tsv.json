@@ -1,0 +1,20 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "INVALID_LOCATION",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-objectcategories_run-3_events.tsv",
+        "issueMessage": "Expected location: /sub-16/ses-localizer/",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-objectcategories_run-3_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      }
+    ]
+  }
+}

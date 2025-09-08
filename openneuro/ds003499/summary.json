@@ -1,0 +1,574 @@
+{
+  "sessions": [],
+  "subjects": [
+    "103",
+    "105",
+    "106",
+    "107",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "118",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "131",
+    "132",
+    "134",
+    "135",
+    "136",
+    "141",
+    "142",
+    "143",
+    "144",
+    "146",
+    "147",
+    "149",
+    "151",
+    "152",
+    "153",
+    "154",
+    "156",
+    "157",
+    "158",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "178",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "207",
+    "212",
+    "214",
+    "215",
+    "216",
+    "219",
+    "220",
+    "221",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "103",
+      "age": 18.32222222,
+      "sex": "M"
+    },
+    {
+      "participantId": "105",
+      "age": 20.70833333,
+      "sex": "M"
+    },
+    {
+      "participantId": "106",
+      "age": 18.82777778,
+      "sex": "M"
+    },
+    {
+      "participantId": "107",
+      "age": 20.01666667,
+      "sex": "F"
+    },
+    {
+      "participantId": "110",
+      "age": 23.5,
+      "sex": "M"
+    },
+    {
+      "participantId": "111",
+      "age": 24.25555556,
+      "sex": "F"
+    },
+    {
+      "participantId": "112",
+      "age": 25.86666667,
+      "sex": "F"
+    },
+    {
+      "participantId": "113",
+      "age": 20.98611111,
+      "sex": "F"
+    },
+    {
+      "participantId": "114",
+      "age": 19.59166667,
+      "sex": "F"
+    },
+    {
+      "participantId": "115",
+      "age": 24.34722222,
+      "sex": "M"
+    },
+    {
+      "participantId": "116",
+      "age": 21.96388889,
+      "sex": "M"
+    },
+    {
+      "participantId": "118",
+      "age": 21.72777778,
+      "sex": "F"
+    },
+    {
+      "participantId": "120",
+      "age": 22.025,
+      "sex": "F"
+    },
+    {
+      "participantId": "121",
+      "age": 18.68333333,
+      "sex": "F"
+    },
+    {
+      "participantId": "122",
+      "age": 20.98055556,
+      "sex": "M"
+    },
+    {
+      "participantId": "123",
+      "age": 18.85277778,
+      "sex": "F"
+    },
+    {
+      "participantId": "124",
+      "age": 19.67777778,
+      "sex": "M"
+    },
+    {
+      "participantId": "125",
+      "age": 21.65,
+      "sex": "F"
+    },
+    {
+      "participantId": "126",
+      "age": 19.5,
+      "sex": "M"
+    },
+    {
+      "participantId": "127",
+      "age": 20.93333333,
+      "sex": "F"
+    },
+    {
+      "participantId": "128",
+      "age": 10.6,
+      "sex": "M"
+    },
+    {
+      "participantId": "131",
+      "age": 8.177777778,
+      "sex": "M"
+    },
+    {
+      "participantId": "132",
+      "age": 14.71666667,
+      "sex": "M"
+    },
+    {
+      "participantId": "134",
+      "age": 9.263888889,
+      "sex": "F"
+    },
+    {
+      "participantId": "135",
+      "age": 10.35277778,
+      "sex": "F"
+    },
+    {
+      "participantId": "136",
+      "age": 17.30277778,
+      "sex": "F"
+    },
+    {
+      "participantId": "141",
+      "age": 16.42222222,
+      "sex": "F"
+    },
+    {
+      "participantId": "142",
+      "age": 16.08055556,
+      "sex": "M"
+    },
+    {
+      "participantId": "143",
+      "age": 13.24722222,
+      "sex": "M"
+    },
+    {
+      "participantId": "144",
+      "age": 11.63055556,
+      "sex": "F"
+    },
+    {
+      "participantId": "146",
+      "age": 11.85555556,
+      "sex": "M"
+    },
+    {
+      "participantId": "147",
+      "age": 11.16388889,
+      "sex": "F"
+    },
+    {
+      "participantId": "149",
+      "age": 10.04166667,
+      "sex": "M"
+    },
+    {
+      "participantId": "151",
+      "age": 14.55,
+      "sex": "F"
+    },
+    {
+      "participantId": "152",
+      "age": 12.30833333,
+      "sex": "M"
+    },
+    {
+      "participantId": "153",
+      "age": 9.766666667,
+      "sex": "M"
+    },
+    {
+      "participantId": "154",
+      "age": 8.322222222,
+      "sex": "M"
+    },
+    {
+      "participantId": "156",
+      "age": 17.68333333,
+      "sex": "F"
+    },
+    {
+      "participantId": "157",
+      "age": 15.78888889,
+      "sex": "F"
+    },
+    {
+      "participantId": "158",
+      "age": 11.51111111,
+      "sex": "M"
+    },
+    {
+      "participantId": "161",
+      "age": 9.938888889,
+      "sex": "M"
+    },
+    {
+      "participantId": "162",
+      "age": 16.58611111,
+      "sex": "M"
+    },
+    {
+      "participantId": "163",
+      "age": 16.23055556,
+      "sex": "F"
+    },
+    {
+      "participantId": "164",
+      "age": 14.16666667,
+      "sex": "M"
+    },
+    {
+      "participantId": "165",
+      "age": 16.61111111,
+      "sex": "F"
+    },
+    {
+      "participantId": "166",
+      "age": 9.733333333,
+      "sex": "F"
+    },
+    {
+      "participantId": "167",
+      "age": 11.12222222,
+      "sex": "M"
+    },
+    {
+      "participantId": "171",
+      "age": 12.46111111,
+      "sex": "M"
+    },
+    {
+      "participantId": "172",
+      "age": 12.71666667,
+      "sex": "F"
+    },
+    {
+      "participantId": "173",
+      "age": 16.40277778,
+      "sex": "M"
+    },
+    {
+      "participantId": "174",
+      "age": 17.45555556,
+      "sex": "F"
+    },
+    {
+      "participantId": "175",
+      "age": 14.26388889,
+      "sex": "M"
+    },
+    {
+      "participantId": "176",
+      "age": 10.49166667,
+      "sex": "M"
+    },
+    {
+      "participantId": "178",
+      "age": 14.06944444,
+      "sex": "F"
+    },
+    {
+      "participantId": "181",
+      "age": 13.68333333,
+      "sex": "F"
+    },
+    {
+      "participantId": "182",
+      "age": 15.87777778,
+      "sex": "F"
+    },
+    {
+      "participantId": "183",
+      "age": 15.40277778,
+      "sex": "M"
+    },
+    {
+      "participantId": "184",
+      "age": 8.277777778,
+      "sex": "F"
+    },
+    {
+      "participantId": "185",
+      "age": 11.67777778,
+      "sex": "F"
+    },
+    {
+      "participantId": "186",
+      "age": 8.672222222,
+      "sex": "M"
+    },
+    {
+      "participantId": "187",
+      "age": 8.022222222,
+      "sex": "F"
+    },
+    {
+      "participantId": "188",
+      "age": 8.888888889,
+      "sex": "F"
+    },
+    {
+      "participantId": "190",
+      "age": 8.291666667,
+      "sex": "F"
+    },
+    {
+      "participantId": "191",
+      "age": 23.59722222,
+      "sex": "F"
+    },
+    {
+      "participantId": "192",
+      "age": 24.73055556,
+      "sex": "M"
+    },
+    {
+      "participantId": "193",
+      "age": 25.19444444,
+      "sex": "F"
+    },
+    {
+      "participantId": "194",
+      "age": 25.11388889,
+      "sex": "M"
+    },
+    {
+      "participantId": "195",
+      "age": 21.68888889,
+      "sex": "M"
+    },
+    {
+      "participantId": "196",
+      "age": 22.40555556,
+      "sex": "M"
+    },
+    {
+      "participantId": "197",
+      "age": 24.00555556,
+      "sex": "F"
+    },
+    {
+      "participantId": "201",
+      "age": 22.31388889,
+      "sex": "F"
+    },
+    {
+      "participantId": "202",
+      "age": 23.49722222,
+      "sex": "M"
+    },
+    {
+      "participantId": "203",
+      "age": 13.72777778,
+      "sex": "F"
+    },
+    {
+      "participantId": "204",
+      "age": 17.06944444,
+      "sex": "F"
+    },
+    {
+      "participantId": "205",
+      "age": 15.35,
+      "sex": "M"
+    },
+    {
+      "participantId": "207",
+      "age": 17.33611111,
+      "sex": "M"
+    },
+    {
+      "participantId": "212",
+      "age": 16.6,
+      "sex": "M"
+    },
+    {
+      "participantId": "214",
+      "age": 16.00555556,
+      "sex": "M"
+    },
+    {
+      "participantId": "215",
+      "age": 12.15833333,
+      "sex": "F"
+    },
+    {
+      "participantId": "216",
+      "age": 12.525,
+      "sex": "F"
+    },
+    {
+      "participantId": "219",
+      "age": 13.925,
+      "sex": "M"
+    },
+    {
+      "participantId": "220",
+      "age": 9.461111111,
+      "sex": "F"
+    },
+    {
+      "participantId": "221",
+      "age": 10.01111111,
+      "sex": "F"
+    },
+    {
+      "participantId": "223",
+      "age": 21.89444444,
+      "sex": "M"
+    },
+    {
+      "participantId": "224",
+      "age": 11.675,
+      "sex": "M"
+    },
+    {
+      "participantId": "225",
+      "age": 15.63055556,
+      "sex": "F"
+    },
+    {
+      "participantId": "226",
+      "age": 14.44166667,
+      "sex": "F"
+    },
+    {
+      "participantId": "227",
+      "age": 14.24444444,
+      "sex": "M"
+    },
+    {
+      "participantId": "228",
+      "age": 10.86388889,
+      "sex": "F"
+    },
+    {
+      "participantId": "229",
+      "age": 13.05833333,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Frequency-learning Block 1",
+    "Frequency-learning Block 2",
+    "Frequency Reports Block 1",
+    "Frequency Reports Block 2",
+    "Memory Test Block 1",
+    "Memory Test Block 2",
+    "Paired Associates Block 1",
+    "Paired Associates Block 2"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 12710,
+  "size": 35946823,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

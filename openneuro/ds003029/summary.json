@@ -1,0 +1,234 @@
+{
+  "sessions": [
+    "presurgery"
+  ],
+  "subjects": [
+    "jh101",
+    "jh102",
+    "jh103",
+    "jh104",
+    "jh105",
+    "jh106",
+    "jh108",
+    "pt01",
+    "pt10",
+    "pt11",
+    "pt12",
+    "pt13",
+    "pt14",
+    "pt15",
+    "pt16",
+    "pt17",
+    "pt2",
+    "pt3",
+    "pt6",
+    "pt7",
+    "pt8",
+    "umf001",
+    "umf002",
+    "umf003",
+    "umf004",
+    "umf005",
+    "ummc001",
+    "ummc002",
+    "ummc003",
+    "ummc004",
+    "ummc005",
+    "ummc006",
+    "ummc007",
+    "ummc008",
+    "ummc009"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "jh101",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "jh102",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "jh103",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "jh104",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "jh105",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "jh106",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "jh108",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "pt01",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt10",
+      "age": 44,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt11",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "pt12",
+      "age": 43,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt13",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "pt14",
+      "age": 49,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt15",
+      "age": 59,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt16",
+      "age": 52,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt17",
+      "age": 13,
+      "sex": "M"
+    },
+    {
+      "participantId": "pt2",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt3",
+      "age": 45,
+      "sex": "M"
+    },
+    {
+      "participantId": "pt6",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "pt7",
+      "age": 39,
+      "sex": "F"
+    },
+    {
+      "participantId": "pt8",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "umf001",
+      "age": 37,
+      "sex": "F"
+    },
+    {
+      "participantId": "umf002",
+      "age": 39,
+      "sex": "F"
+    },
+    {
+      "participantId": "umf003",
+      "age": 43,
+      "sex": "M"
+    },
+    {
+      "participantId": "umf004",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "umf005",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "ummc001",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc002",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc003",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc004",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc005",
+      "age": 47,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc006",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc007",
+      "age": 54,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc008",
+      "age": 49,
+      "sex": "M"
+    },
+    {
+      "participantId": "ummc009",
+      "age": 36,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "ictal"
+  ],
+  "modalities": [
+    "iEEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 679,
+  "size": 1085125,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "ieeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

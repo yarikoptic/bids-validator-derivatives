@@ -1,0 +1,678 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/task-maplistening_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

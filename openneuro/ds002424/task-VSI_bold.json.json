@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "PartialFourier",
+        "issueMessage": "must be number\n\nField description: The fraction of partial Fourier information collected.\n",
+        "rule": "rules.sidecars.mri.MRISpatialEncoding",
+        "location": "/task-VSI_bold.json",
+        "affects": [
+          "/sub-02/ses-T1/func/sub-02_ses-T1_task-VSI_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

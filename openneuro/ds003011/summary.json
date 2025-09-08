@@ -1,0 +1,55 @@
+{
+  "sessions": [
+    "Y1CMH",
+    "Y1MRC",
+    "Y1ZHH",
+    "Y2CMH",
+    "Y2MRC",
+    "Y2ZHH",
+    "Y3CMH",
+    "Y3MRP",
+    "Y3ZHP",
+    "Y4CMP"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01"
+    },
+    {
+      "participantId": "02"
+    },
+    {
+      "participantId": "03"
+    },
+    {
+      "participantId": "04"
+    }
+  ],
+  "tasks": [
+    "rest eyes closed"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 282,
+  "size": 294616,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

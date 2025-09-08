@@ -1,0 +1,4 @@
+subject_id	error_codes_ext_n	error_codes_n	error_n	warning_codes_ext_n	warning_codes_n	warning_n
+root	1	1	4	1	1	4
+sub-001	0	0	0	1	1	52
+sub-002	0	0	0	1	1	52

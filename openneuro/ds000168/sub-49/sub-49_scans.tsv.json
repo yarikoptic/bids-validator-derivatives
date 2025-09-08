@@ -1,0 +1,61 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "FirstALDT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "SecondALDT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "ALIR",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "FirstALDTVoc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "SecondALDTVoc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "FirstALFloatVoc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-49/sub-49_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "SecondALFloatVoc",
+        "severity": "warning"
+      }
+    ]
+  }
+}

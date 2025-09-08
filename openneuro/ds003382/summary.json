@@ -1,0 +1,105 @@
+{
+  "sessions": [],
+  "subjects": [
+    "02",
+    "05",
+    "06",
+    "07",
+    "08",
+    "10",
+    "12",
+    "13",
+    "14",
+    "16"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "02",
+      "age": 48,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "05",
+      "age": 21,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "06",
+      "age": 29,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "07",
+      "age": 32,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "08",
+      "age": 48,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "10",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "12",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "13",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "14",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "16",
+      "age": 27,
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "fullchecker",
+    "halfchecker",
+    "rest fPET and fMRI",
+    "rest",
+    "checkerboard"
+  ],
+  "modalities": [
+    "MRI",
+    "PET"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "PET_Static",
+    "MRI_Structural",
+    "PET_Dynamic"
+  ],
+  "totalFiles": 382,
+  "size": 2540406,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func",
+    "pet"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

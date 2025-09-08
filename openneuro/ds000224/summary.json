@@ -1,0 +1,97 @@
+{
+  "sessions": [
+    "func01",
+    "func02",
+    "func03",
+    "func04",
+    "func05",
+    "func06",
+    "func07",
+    "func08",
+    "func09",
+    "func10",
+    "struct01",
+    "struct02",
+    "func11"
+  ],
+  "subjects": [
+    "MSC01",
+    "MSC02",
+    "MSC03",
+    "MSC04",
+    "MSC05",
+    "MSC06",
+    "MSC07",
+    "MSC08",
+    "MSC09",
+    "MSC10"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "MSC01",
+      "age": 34
+    },
+    {
+      "participantId": "MSC02",
+      "age": 34
+    },
+    {
+      "participantId": "MSC03",
+      "age": 29
+    },
+    {
+      "participantId": "MSC04",
+      "age": 28
+    },
+    {
+      "participantId": "MSC05",
+      "age": 27
+    },
+    {
+      "participantId": "MSC06",
+      "age": 24
+    },
+    {
+      "participantId": "MSC07",
+      "age": 31
+    },
+    {
+      "participantId": "MSC08",
+      "age": 27
+    },
+    {
+      "participantId": "MSC09",
+      "age": 26
+    },
+    {
+      "participantId": "MSC10",
+      "age": 31
+    }
+  ],
+  "tasks": [
+    "glasslexical",
+    "memoryfaces",
+    "memoryscenes",
+    "memorywords",
+    "motor",
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 2189,
+  "size": 27048178748,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "phenotype",
+    "fmap",
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

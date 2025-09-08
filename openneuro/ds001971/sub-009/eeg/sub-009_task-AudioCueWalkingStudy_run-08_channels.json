@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-009/eeg/sub-009_task-AudioCueWalkingStudy_run-08_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "line": 114,
+        "issueMessage": "'AUX'",
+        "severity": "error"
+      }
+    ]
+  }
+}

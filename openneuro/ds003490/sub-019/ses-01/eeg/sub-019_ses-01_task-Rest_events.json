@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-019/ses-01/eeg/sub-019_ses-01_task-Rest_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

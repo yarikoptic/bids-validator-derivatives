@@ -1,0 +1,91 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 2,
+        "issueMessage": "'Ey112'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "DOB ",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 2",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 3",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 4",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 5",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 6",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "rs-fMRI 7",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "excluded_rs-fMRI_sessions",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "dMRI",
+        "severity": "warning"
+      }
+    ]
+  }
+}

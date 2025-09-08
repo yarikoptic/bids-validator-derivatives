@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "set_num",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "keypress",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-1545/func/sub-1545_task-mst_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "similarity_bin",
+        "severity": "warning"
+      }
+    ]
+  }
+}

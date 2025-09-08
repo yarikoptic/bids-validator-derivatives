@@ -1,0 +1,36 @@
+severity	code	code_message	sub_code	n	n_subjects
+warning	EXCESSIVE_COORDSYSTEM_SPECIFICITY	Task, acquisition or run entities detected in coordsystem.tsv. Coordinate systems should generally not vary within a session. Consider removing the excess entity/entities or create new sessions when multiple coordinate systems are appropriate. 		20	20
+warning	EXCESSIVE_ELECTRODE_SPECIFICITY	Task, acquisition or run entities detected in electrodes.tsv. Electrode definitions should generally not vary within a session. Consider removing the excess entity/entities or create a new session each time electrodes are reconfigured. 		20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystem	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystemDescription	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateUnits	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinates	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystem	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystemDescription	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateUnits	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinates	20	20
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	trial_type	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturer	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturersModelName	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGGround	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGPlacementScheme	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HardwareFilters	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HeadCircumference	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MISCChannelCount	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SubjectArtefactDescription	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskName	20	20
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TriggerChannelCount	20	20
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	sample	20	20
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	duration	20	20
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	onset	20	20
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	response_time	20	20
+warning	UNKNOWN_BIDS_VERSION	The BIDSVersion field of 'dataset_description.json' does not match a known release. The BIDS Schema used for validation may be out of date. 		1	0

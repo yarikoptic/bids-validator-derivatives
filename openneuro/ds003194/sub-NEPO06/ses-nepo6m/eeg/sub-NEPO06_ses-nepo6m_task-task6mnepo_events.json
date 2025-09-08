@@ -1,0 +1,28 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-NEPO06/ses-nepo6m/eeg/sub-NEPO06_ses-nepo6m_task-task6mnepo_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-NEPO06/ses-nepo6m/eeg/sub-NEPO06_ses-nepo6m_task-task6mnepo_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "value",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-NEPO06/ses-nepo6m/eeg/sub-NEPO06_ses-nepo6m_task-task6mnepo_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "sample",
+        "severity": "warning"
+      }
+    ]
+  }
+}

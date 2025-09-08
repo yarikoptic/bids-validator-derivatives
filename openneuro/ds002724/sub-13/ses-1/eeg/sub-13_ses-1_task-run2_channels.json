@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-13/ses-1/eeg/sub-13_ses-1_task-run2_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "line": 36,
+        "issueMessage": "'UserReport'",
+        "severity": "error"
+      }
+    ]
+  }
+}

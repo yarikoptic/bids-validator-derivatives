@@ -1,0 +1,244 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CBI_Overall",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_Overall",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_ArchitecturalDesign",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_CreativeWriting",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_CulinaryArts",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_Dance",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_Humor",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_Inventions",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_Music",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_ScientificDiscovery",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_TheaterAndFilm",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "CAQ_VisualArts",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalCreativity",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalRichnessAndColourfulnessOfImagery",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalEmotions_Feelings",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalFutureOrientation",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalHumor_ConceptualIncongruity",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalProvocativeQuestions",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalOriginality",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VerbalFluency",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualOriginality",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualElaboration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualFlexibility",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualOpenness",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualDiffPerspective",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualMvtOrSound",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualRichness",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualAbstractTitle",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualContext",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualSynthesis",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualInternalPerspective",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualEmotion",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualFantasy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ATTA_VisualAbstractDesign",
+        "severity": "warning"
+      }
+    ]
+  }
+}

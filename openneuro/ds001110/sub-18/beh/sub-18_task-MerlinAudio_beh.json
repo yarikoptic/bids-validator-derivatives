@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/sub-18/beh/sub-18_task-MerlinAudio_beh.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

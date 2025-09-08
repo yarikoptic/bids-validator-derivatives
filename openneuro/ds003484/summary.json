@@ -1,0 +1,41 @@
+{
+  "sessions": [],
+  "subjects": [
+    "for01",
+    "for02",
+    "for03",
+    "for04",
+    "for06",
+    "for08",
+    "for10",
+    "for11",
+    "for12",
+    "for13",
+    "for14",
+    "for15",
+    "for16",
+    "for17",
+    "for18",
+    "for19",
+    "for20",
+    "for21",
+    "for22",
+    "for23"
+  ],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 22,
+  "size": 4390,
+  "dataProcessed": true,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

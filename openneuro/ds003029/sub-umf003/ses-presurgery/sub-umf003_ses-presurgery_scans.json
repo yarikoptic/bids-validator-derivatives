@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-umf003/ses-presurgery/sub-umf003_ses-presurgery_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "original_filename",
+        "severity": "warning"
+      }
+    ]
+  }
+}

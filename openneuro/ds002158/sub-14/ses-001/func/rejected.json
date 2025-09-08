@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-14/ses-001/func/rejected/",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "sessions": [],
+  "subjects": [
+    "sc001",
+    "sc002",
+    "sc003",
+    "sc004",
+    "sc005",
+    "sc006",
+    "sc007",
+    "sc008",
+    "sc009",
+    "sc010",
+    "sc011",
+    "sc012",
+    "sc013",
+    "sc014",
+    "sc015",
+    "sc016",
+    "sc017",
+    "sc018",
+    "sc019",
+    "sc020",
+    "sc021",
+    "sc022",
+    "sc023",
+    "sc024",
+    "sc025",
+    "sc026",
+    "sc027",
+    "sc028",
+    "sc029",
+    "sc030",
+    "sc031",
+    "sc032",
+    "sc033",
+    "sc034",
+    "sc035",
+    "sc036",
+    "sc037",
+    "sc038",
+    "sc039",
+    "sc040",
+    "sc041"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "sc001",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc002",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc003",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc004",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc005",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc006",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc007",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc008",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc009",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc010",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc011",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc012",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc013",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc014",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc015",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc016",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc017",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc018",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc019",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc020",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc021",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc022",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc023",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc024",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc025",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc026",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc027",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc028",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc029",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc030",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc031",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc032",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc033",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc034",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc035",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc036",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc037",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc038",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc039",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "sc040",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sc041",
+      "age": 22,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "RepYo1",
+    "RepYo2"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 336,
+  "size": 1334042,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,34 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "table1 codes,bids code,age,gender,group",
+        "severity": "warning"
+      }
+    ]
+  }
+}

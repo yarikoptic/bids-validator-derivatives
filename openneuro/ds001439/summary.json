@@ -1,0 +1,135 @@
+{
+  "sessions": [],
+  "subjects": [
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "11",
+    "12",
+    "13",
+    "14",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "24",
+    "25"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "04",
+      "age": 35,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "08",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "13",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "14",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "16",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "17",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "18",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "19",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "20",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "21",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "22",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "24",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "25",
+      "age": 24,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "ieh",
+    "tom"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 580,
+  "size": 640585,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

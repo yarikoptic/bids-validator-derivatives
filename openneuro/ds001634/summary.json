@@ -1,0 +1,55 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "ep2d_bold_WorkingMemory_Run1",
+    "ep2d_bold_WorkingMemory_Run2",
+    "ep2d_bold_WorkingMemory_Run3",
+    "ep2d_bold_WorkingMemory_Order1",
+    "ep2d_bold_WorkingMemory_Order2",
+    "ep2d_bold_WorkingMemory_Order3",
+    "ep2d_bold_WorkingMemory_order1",
+    "ep2d_bold_WorkingMemory_order2",
+    "ep2d_bold_WorkingMemory_order1_run1 ",
+    "ep2d_bold_WorkingMemory_order1_run2 ",
+    "ep2d_bold_WorkingMemory_order1_run3 ",
+    "ep2d_bold_WorkingMemory_order3"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 212,
+  "size": 263978,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

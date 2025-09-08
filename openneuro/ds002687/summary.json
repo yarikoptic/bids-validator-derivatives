@@ -1,0 +1,177 @@
+{
+  "sessions": [],
+  "subjects": [
+    "1501",
+    "1503",
+    "1505",
+    "1506",
+    "1507",
+    "1509",
+    "1510",
+    "1511",
+    "1512",
+    "1513",
+    "1514",
+    "1515",
+    "1516",
+    "1517",
+    "1518",
+    "1519",
+    "1520",
+    "1522",
+    "1524",
+    "1525",
+    "1528",
+    "1529",
+    "1530",
+    "1531"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1501",
+      "age": 26.73,
+      "sex": "2"
+    },
+    {
+      "participantId": "1503",
+      "age": 26.52,
+      "sex": "1"
+    },
+    {
+      "participantId": "1505",
+      "age": 28.4,
+      "sex": "1"
+    },
+    {
+      "participantId": "1506",
+      "age": 28.96,
+      "sex": "1"
+    },
+    {
+      "participantId": "1507",
+      "age": 26.33,
+      "sex": "2"
+    },
+    {
+      "participantId": "1509",
+      "age": 20.4,
+      "sex": "1"
+    },
+    {
+      "participantId": "1510",
+      "age": 25.46,
+      "sex": "2"
+    },
+    {
+      "participantId": "1511",
+      "age": 25.36,
+      "sex": "2"
+    },
+    {
+      "participantId": "1512",
+      "age": 24.81,
+      "sex": "2"
+    },
+    {
+      "participantId": "1513",
+      "age": 24.5,
+      "sex": "1"
+    },
+    {
+      "participantId": "1514",
+      "age": 27.51,
+      "sex": "2"
+    },
+    {
+      "participantId": "1515",
+      "age": 28.41,
+      "sex": "2"
+    },
+    {
+      "participantId": "1516",
+      "age": 28.24,
+      "sex": "2"
+    },
+    {
+      "participantId": "1517",
+      "age": 26.17,
+      "sex": "2"
+    },
+    {
+      "participantId": "1518",
+      "age": 30.14,
+      "sex": "1"
+    },
+    {
+      "participantId": "1519",
+      "age": 26.11,
+      "sex": "2"
+    },
+    {
+      "participantId": "1520",
+      "age": 22.5,
+      "sex": "2"
+    },
+    {
+      "participantId": "1522",
+      "age": 21.59,
+      "sex": "1"
+    },
+    {
+      "participantId": "1524",
+      "age": 24.99,
+      "sex": "1"
+    },
+    {
+      "participantId": "1525",
+      "age": 28.48,
+      "sex": "1"
+    },
+    {
+      "participantId": "1528",
+      "age": 27.14,
+      "sex": "1"
+    },
+    {
+      "participantId": "1529",
+      "age": 21.95,
+      "sex": "2"
+    },
+    {
+      "participantId": "1530",
+      "age": 29.47,
+      "sex": "2"
+    },
+    {
+      "participantId": "1531",
+      "age": 27.44,
+      "sex": "2"
+    }
+  ],
+  "tasks": [
+    "VisuoSpatial Working Memory, Large Reward, Delayed Feedback",
+    "VisuoSpatial Working Memory, Large Reward, Immediate Feedback",
+    "VisuoSpatial Working Memory, Small Reward, Delayed Feedback",
+    "VisuoSpatial Working Memory, Small Reward, Immediate Feedback",
+    "Verbal Working Memory, Large Reward, Delayed Feedback",
+    "Verbal Working Memory, Large Reward, Immediate Feedback",
+    "Verbal Working Memory, Small Reward, Delayed Feedback",
+    "Verbal Working Memory, Small Reward, Immediate Feedback"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 416,
+  "size": 1035951,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

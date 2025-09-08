@@ -1,0 +1,77 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "event",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_number",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "requested_SOA",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "actual_SOA",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "resp1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "resp2",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rt1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func19/func/sub-RTC01_ses-func19_task-sst_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rt2",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-012/func/sub-012_task-viewing_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-012/func/sub-012_task-viewing_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-012/func/sub-012_task-viewing_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": " duration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-012/func/sub-012_task-viewing_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": " events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-012/func/sub-012_task-viewing_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-012/func/sub-012_task-viewing_run-2_events.tsv",
+        "issueMessage": "Column 1 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      }
+    ]
+  }
+}

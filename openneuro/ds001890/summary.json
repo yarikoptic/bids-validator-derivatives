@@ -1,0 +1,271 @@
+{
+  "sessions": [
+    "1",
+    "2"
+  ],
+  "subjects": [
+    "jgrADc11L",
+    "jgrADc1NT",
+    "jgrADc21L",
+    "jgrADc2NT",
+    "jgrADc2R1",
+    "jgrADc31L",
+    "jgrADc31R",
+    "jgrADc32L",
+    "jgrADc32R",
+    "jgrADc3NT2",
+    "jgrADc41L",
+    "jgrADc41R",
+    "jgrADc42L",
+    "jgrADc42R",
+    "jgrADc4NT",
+    "jgrADc51L",
+    "jgrADc5NT",
+    "jgrADc61L",
+    "jgrADc61R",
+    "jgrADc62L",
+    "jgrADc6NT",
+    "jgrADc71L",
+    "jgrADc71R",
+    "jgrADc7NT",
+    "jgrADc81L",
+    "jgrADc81R",
+    "jgrADc8NT",
+    "jgrADc91L",
+    "jgrADc91R",
+    "jgrADc9NT"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "c1NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c1NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c2NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c2NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c2R1",
+      "sex": "M"
+    },
+    {
+      "participantId": "c4NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c4NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c5NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c5NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c6NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c6NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c7NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c7NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c8NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c8NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c9NT",
+      "sex": "M"
+    },
+    {
+      "participantId": "c11L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c11L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c21L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c31L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c31R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c31R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c32L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c32L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c32R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c32R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c41L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c41L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c41R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c41R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c42L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c42L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c42R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c42R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c51L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c51L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c61L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c61L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c61R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c61R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c62L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c71L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c71L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c71R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c71R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c81L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c81L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c81R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c81R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c91L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c91L",
+      "sex": "M"
+    },
+    {
+      "participantId": "c91R",
+      "sex": "M"
+    },
+    {
+      "participantId": "c3NT2",
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 217,
+  "size": 43256,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

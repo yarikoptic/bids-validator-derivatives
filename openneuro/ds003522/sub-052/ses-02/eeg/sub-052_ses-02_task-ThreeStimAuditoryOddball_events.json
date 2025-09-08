@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-052/ses-02/eeg/sub-052_ses-02_task-ThreeStimAuditoryOddball_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

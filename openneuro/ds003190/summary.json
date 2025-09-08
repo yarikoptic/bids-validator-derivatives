@@ -1,0 +1,102 @@
+{
+  "sessions": [
+    "01",
+    "02",
+    "03"
+  ],
+  "subjects": [
+    "01",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01"
+    },
+    {
+      "participantId": "02"
+    },
+    {
+      "participantId": "03"
+    },
+    {
+      "participantId": "04"
+    },
+    {
+      "participantId": "05"
+    },
+    {
+      "participantId": "06"
+    },
+    {
+      "participantId": "07"
+    },
+    {
+      "participantId": "08"
+    },
+    {
+      "participantId": "09"
+    },
+    {
+      "participantId": "010"
+    },
+    {
+      "participantId": "011"
+    },
+    {
+      "participantId": "012"
+    },
+    {
+      "participantId": "013"
+    },
+    {
+      "participantId": "014"
+    },
+    {
+      "participantId": "015"
+    },
+    {
+      "participantId": "016"
+    },
+    {
+      "participantId": "017"
+    },
+    {
+      "participantId": "018"
+    },
+    {
+      "participantId": "019"
+    }
+  ],
+  "tasks": [
+    "cnos"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 1685,
+  "size": 18620562,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

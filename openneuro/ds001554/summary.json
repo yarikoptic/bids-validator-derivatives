@@ -1,0 +1,141 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "sex": "F"
+    },
+    {
+      "participantId": "02",
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "sex": "F"
+    },
+    {
+      "participantId": "04",
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "sex": "M"
+    },
+    {
+      "participantId": "06",
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "sex": "F"
+    },
+    {
+      "participantId": "08",
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "sex": "F"
+    },
+    {
+      "participantId": "10",
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "sex": "F"
+    },
+    {
+      "participantId": "13",
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "sex": "M"
+    },
+    {
+      "participantId": "15",
+      "sex": "F"
+    },
+    {
+      "participantId": "16",
+      "sex": "F"
+    },
+    {
+      "participantId": "17",
+      "sex": "F"
+    },
+    {
+      "participantId": "18",
+      "sex": "F"
+    },
+    {
+      "participantId": "19",
+      "sex": "F"
+    },
+    {
+      "participantId": "20",
+      "sex": "M"
+    },
+    {
+      "participantId": "21",
+      "sex": "M"
+    },
+    {
+      "participantId": "22",
+      "sex": "M"
+    },
+    {
+      "participantId": "23",
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "listening"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 74,
+  "size": 10265,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

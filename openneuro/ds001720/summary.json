@@ -1,0 +1,1046 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "065",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001"
+    },
+    {
+      "participantId": "002"
+    },
+    {
+      "participantId": "003"
+    },
+    {
+      "participantId": "004"
+    },
+    {
+      "participantId": "005"
+    },
+    {
+      "participantId": "006"
+    },
+    {
+      "participantId": "007"
+    },
+    {
+      "participantId": "008"
+    },
+    {
+      "participantId": "009"
+    },
+    {
+      "participantId": "010"
+    },
+    {
+      "participantId": "011"
+    },
+    {
+      "participantId": "012"
+    },
+    {
+      "participantId": "013"
+    },
+    {
+      "participantId": "014"
+    },
+    {
+      "participantId": "015"
+    },
+    {
+      "participantId": "016"
+    },
+    {
+      "participantId": "017"
+    },
+    {
+      "participantId": "018"
+    },
+    {
+      "participantId": "019"
+    },
+    {
+      "participantId": "020"
+    },
+    {
+      "participantId": "021"
+    },
+    {
+      "participantId": "022"
+    },
+    {
+      "participantId": "023"
+    },
+    {
+      "participantId": "024"
+    },
+    {
+      "participantId": "025"
+    },
+    {
+      "participantId": "026"
+    },
+    {
+      "participantId": "027"
+    },
+    {
+      "participantId": "028"
+    },
+    {
+      "participantId": "029"
+    },
+    {
+      "participantId": "030"
+    },
+    {
+      "participantId": "031"
+    },
+    {
+      "participantId": "032"
+    },
+    {
+      "participantId": "033"
+    },
+    {
+      "participantId": "034"
+    },
+    {
+      "participantId": "035"
+    },
+    {
+      "participantId": "036"
+    },
+    {
+      "participantId": "037"
+    },
+    {
+      "participantId": "038"
+    },
+    {
+      "participantId": "039"
+    },
+    {
+      "participantId": "040"
+    },
+    {
+      "participantId": "041"
+    },
+    {
+      "participantId": "042"
+    },
+    {
+      "participantId": "043"
+    },
+    {
+      "participantId": "044"
+    },
+    {
+      "participantId": "045"
+    },
+    {
+      "participantId": "046"
+    },
+    {
+      "participantId": "047"
+    },
+    {
+      "participantId": "048"
+    },
+    {
+      "participantId": "049"
+    },
+    {
+      "participantId": "050"
+    },
+    {
+      "participantId": "051"
+    },
+    {
+      "participantId": "052"
+    },
+    {
+      "participantId": "053"
+    },
+    {
+      "participantId": "054"
+    },
+    {
+      "participantId": "055"
+    },
+    {
+      "participantId": "056"
+    },
+    {
+      "participantId": "057"
+    },
+    {
+      "participantId": "058"
+    },
+    {
+      "participantId": "059"
+    },
+    {
+      "participantId": "060"
+    },
+    {
+      "participantId": "061"
+    },
+    {
+      "participantId": "062"
+    },
+    {
+      "participantId": "063"
+    },
+    {
+      "participantId": "064"
+    },
+    {
+      "participantId": "065"
+    },
+    {
+      "participantId": "066"
+    },
+    {
+      "participantId": "067"
+    },
+    {
+      "participantId": "068"
+    },
+    {
+      "participantId": "069"
+    },
+    {
+      "participantId": "070"
+    },
+    {
+      "participantId": "071"
+    },
+    {
+      "participantId": "072"
+    },
+    {
+      "participantId": "073"
+    },
+    {
+      "participantId": "074"
+    },
+    {
+      "participantId": "075"
+    },
+    {
+      "participantId": "076"
+    },
+    {
+      "participantId": "077"
+    },
+    {
+      "participantId": "078"
+    },
+    {
+      "participantId": "079"
+    },
+    {
+      "participantId": "080"
+    },
+    {
+      "participantId": "081"
+    },
+    {
+      "participantId": "082"
+    },
+    {
+      "participantId": "083"
+    },
+    {
+      "participantId": "084"
+    },
+    {
+      "participantId": "085"
+    },
+    {
+      "participantId": "086"
+    },
+    {
+      "participantId": "087"
+    },
+    {
+      "participantId": "088"
+    },
+    {
+      "participantId": "089"
+    },
+    {
+      "participantId": "090"
+    },
+    {
+      "participantId": "091"
+    },
+    {
+      "participantId": "092"
+    },
+    {
+      "participantId": "093"
+    },
+    {
+      "participantId": "094"
+    },
+    {
+      "participantId": "095"
+    },
+    {
+      "participantId": "096"
+    },
+    {
+      "participantId": "097"
+    },
+    {
+      "participantId": "098"
+    },
+    {
+      "participantId": "099"
+    },
+    {
+      "participantId": "100"
+    },
+    {
+      "participantId": "101"
+    },
+    {
+      "participantId": "102"
+    },
+    {
+      "participantId": "103"
+    },
+    {
+      "participantId": "104"
+    },
+    {
+      "participantId": "105"
+    },
+    {
+      "participantId": "106"
+    },
+    {
+      "participantId": "107"
+    },
+    {
+      "participantId": "108"
+    },
+    {
+      "participantId": "109"
+    },
+    {
+      "participantId": "110"
+    },
+    {
+      "participantId": "111"
+    },
+    {
+      "participantId": "112"
+    },
+    {
+      "participantId": "113"
+    },
+    {
+      "participantId": "114"
+    },
+    {
+      "participantId": "115"
+    },
+    {
+      "participantId": "116"
+    },
+    {
+      "participantId": "117"
+    },
+    {
+      "participantId": "118"
+    },
+    {
+      "participantId": "119"
+    },
+    {
+      "participantId": "120"
+    },
+    {
+      "participantId": "121"
+    },
+    {
+      "participantId": "122"
+    },
+    {
+      "participantId": "123"
+    },
+    {
+      "participantId": "124"
+    },
+    {
+      "participantId": "125"
+    },
+    {
+      "participantId": "126"
+    },
+    {
+      "participantId": "127"
+    },
+    {
+      "participantId": "128"
+    },
+    {
+      "participantId": "129"
+    },
+    {
+      "participantId": "130"
+    },
+    {
+      "participantId": "131"
+    },
+    {
+      "participantId": "132"
+    },
+    {
+      "participantId": "133"
+    },
+    {
+      "participantId": "134"
+    },
+    {
+      "participantId": "135"
+    },
+    {
+      "participantId": "136"
+    },
+    {
+      "participantId": "137"
+    },
+    {
+      "participantId": "138"
+    },
+    {
+      "participantId": "139"
+    },
+    {
+      "participantId": "140"
+    },
+    {
+      "participantId": "141"
+    },
+    {
+      "participantId": "142"
+    },
+    {
+      "participantId": "143"
+    },
+    {
+      "participantId": "144"
+    },
+    {
+      "participantId": "145"
+    },
+    {
+      "participantId": "146"
+    },
+    {
+      "participantId": "147"
+    },
+    {
+      "participantId": "148"
+    },
+    {
+      "participantId": "149"
+    },
+    {
+      "participantId": "150"
+    },
+    {
+      "participantId": "151"
+    },
+    {
+      "participantId": "152"
+    },
+    {
+      "participantId": "153"
+    },
+    {
+      "participantId": "154"
+    },
+    {
+      "participantId": "155"
+    },
+    {
+      "participantId": "156"
+    },
+    {
+      "participantId": "157"
+    },
+    {
+      "participantId": "158"
+    },
+    {
+      "participantId": "159"
+    },
+    {
+      "participantId": "160"
+    },
+    {
+      "participantId": "161"
+    },
+    {
+      "participantId": "162"
+    },
+    {
+      "participantId": "163"
+    },
+    {
+      "participantId": "164"
+    },
+    {
+      "participantId": "165"
+    },
+    {
+      "participantId": "166"
+    },
+    {
+      "participantId": "167"
+    },
+    {
+      "participantId": "168"
+    },
+    {
+      "participantId": "169"
+    },
+    {
+      "participantId": "170"
+    },
+    {
+      "participantId": "171"
+    },
+    {
+      "participantId": "172"
+    },
+    {
+      "participantId": "173"
+    },
+    {
+      "participantId": "174"
+    },
+    {
+      "participantId": "175"
+    },
+    {
+      "participantId": "176"
+    },
+    {
+      "participantId": "177"
+    },
+    {
+      "participantId": "178"
+    },
+    {
+      "participantId": "179"
+    },
+    {
+      "participantId": "180"
+    },
+    {
+      "participantId": "181"
+    },
+    {
+      "participantId": "182"
+    },
+    {
+      "participantId": "183"
+    },
+    {
+      "participantId": "184"
+    },
+    {
+      "participantId": "185"
+    },
+    {
+      "participantId": "186"
+    },
+    {
+      "participantId": "187"
+    },
+    {
+      "participantId": "188"
+    },
+    {
+      "participantId": "189"
+    },
+    {
+      "participantId": "190"
+    },
+    {
+      "participantId": "191"
+    },
+    {
+      "participantId": "192"
+    },
+    {
+      "participantId": "193"
+    },
+    {
+      "participantId": "194"
+    },
+    {
+      "participantId": "195"
+    },
+    {
+      "participantId": "196"
+    },
+    {
+      "participantId": "197"
+    },
+    {
+      "participantId": "198"
+    },
+    {
+      "participantId": "199"
+    },
+    {
+      "participantId": "200"
+    },
+    {
+      "participantId": "201"
+    },
+    {
+      "participantId": "202"
+    },
+    {
+      "participantId": "203"
+    },
+    {
+      "participantId": "204"
+    },
+    {
+      "participantId": "205"
+    },
+    {
+      "participantId": "206"
+    },
+    {
+      "participantId": "207"
+    },
+    {
+      "participantId": "208"
+    },
+    {
+      "participantId": "209"
+    },
+    {
+      "participantId": "210"
+    },
+    {
+      "participantId": "211"
+    },
+    {
+      "participantId": "212"
+    },
+    {
+      "participantId": "213"
+    },
+    {
+      "participantId": "214"
+    },
+    {
+      "participantId": "215"
+    },
+    {
+      "participantId": "216"
+    },
+    {
+      "participantId": "217"
+    },
+    {
+      "participantId": "218"
+    },
+    {
+      "participantId": "219"
+    },
+    {
+      "participantId": "220"
+    },
+    {
+      "participantId": "221"
+    },
+    {
+      "participantId": "222"
+    },
+    {
+      "participantId": "223"
+    },
+    {
+      "participantId": "224"
+    },
+    {
+      "participantId": "225"
+    },
+    {
+      "participantId": "226"
+    },
+    {
+      "participantId": "227"
+    },
+    {
+      "participantId": "228"
+    },
+    {
+      "participantId": "229"
+    },
+    {
+      "participantId": "230"
+    },
+    {
+      "participantId": "231"
+    },
+    {
+      "participantId": "232"
+    },
+    {
+      "participantId": "233"
+    },
+    {
+      "participantId": "234"
+    },
+    {
+      "participantId": "235"
+    },
+    {
+      "participantId": "236"
+    },
+    {
+      "participantId": "237"
+    },
+    {
+      "participantId": "238"
+    },
+    {
+      "participantId": "239"
+    },
+    {
+      "participantId": "240"
+    },
+    {
+      "participantId": "241"
+    },
+    {
+      "participantId": "242"
+    },
+    {
+      "participantId": "243"
+    },
+    {
+      "participantId": "244"
+    },
+    {
+      "participantId": "245"
+    },
+    {
+      "participantId": "246"
+    },
+    {
+      "participantId": "247"
+    },
+    {
+      "participantId": "248"
+    },
+    {
+      "participantId": "249"
+    },
+    {
+      "participantId": "250"
+    },
+    {
+      "participantId": "251"
+    },
+    {
+      "participantId": "252"
+    },
+    {
+      "participantId": "253"
+    },
+    {
+      "participantId": "254"
+    },
+    {
+      "participantId": "255"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 514,
+  "size": 26537366446,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

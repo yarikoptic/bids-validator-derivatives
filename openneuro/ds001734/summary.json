@@ -1,0 +1,675 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "008",
+    "009",
+    "010",
+    "011",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "024",
+    "025",
+    "026",
+    "027",
+    "029",
+    "030",
+    "032",
+    "033",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "087",
+    "088",
+    "089",
+    "090",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "098",
+    "099",
+    "100",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "123",
+    "124"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 24,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "002",
+      "age": 25,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "003",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "004",
+      "age": 25,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "005",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "006",
+      "age": 30,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "008",
+      "age": 27,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "009",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "010",
+      "age": 21,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "011",
+      "age": 30,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "013",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "014",
+      "age": 30,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "015",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "016",
+      "age": 20,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "017",
+      "age": 24,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "018",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "019",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "020",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "021",
+      "age": 22,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "022",
+      "age": 27,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "024",
+      "age": 21,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "025",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "026",
+      "age": 24,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "027",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "029",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "030",
+      "age": 24,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "032",
+      "age": 23,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "033",
+      "age": 23,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "035",
+      "age": 32,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "036",
+      "age": 24,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "037",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "038",
+      "age": 25,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "039",
+      "age": 28,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "040",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "041",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "043",
+      "age": 28,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "044",
+      "age": 23,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "045",
+      "age": 28,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "046",
+      "age": 25,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "047",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "049",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "050",
+      "age": 34,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "051",
+      "age": 28,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "052",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "053",
+      "age": 30,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "054",
+      "age": 35,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "055",
+      "age": 37,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "056",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "057",
+      "age": 23,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "058",
+      "age": 25,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "059",
+      "age": 24,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "060",
+      "age": 27,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "061",
+      "age": 32,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "062",
+      "age": 23,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "063",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "064",
+      "age": 24,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "066",
+      "age": 27,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "067",
+      "age": 24,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "068",
+      "age": 19,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "069",
+      "age": 23,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "070",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "071",
+      "age": 21,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "072",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "073",
+      "age": 23,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "074",
+      "age": 24,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "075",
+      "age": 23,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "076",
+      "age": 33,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "077",
+      "age": 22,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "079",
+      "age": 28,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "080",
+      "age": 31,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "081",
+      "age": 33,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "082",
+      "age": 31,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "083",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "084",
+      "age": 26,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "085",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "087",
+      "age": 22,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "088",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "089",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "090",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "092",
+      "age": 28,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "093",
+      "age": 30,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "094",
+      "age": 24,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "095",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "096",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "098",
+      "age": 27,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "099",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "100",
+      "age": 30,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "102",
+      "age": 18,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "103",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "104",
+      "age": 25,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "105",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "106",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "107",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "108",
+      "age": 30,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "109",
+      "age": 27,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "110",
+      "age": 21,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "112",
+      "age": 31,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "113",
+      "age": 21,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "114",
+      "age": 33,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "115",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "116",
+      "age": 22,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "117",
+      "age": 24,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "118",
+      "age": 23,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "119",
+      "age": 26,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "120",
+      "age": 20,
+      "group": "equalRange"
+    },
+    {
+      "participantId": "121",
+      "age": 25,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "123",
+      "age": 24,
+      "group": "equalIndifference"
+    },
+    {
+      "participantId": "124",
+      "age": 25,
+      "group": "equalRange"
+    }
+  ],
+  "tasks": [
+    "MGT"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1843,
+  "size": 1238085,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

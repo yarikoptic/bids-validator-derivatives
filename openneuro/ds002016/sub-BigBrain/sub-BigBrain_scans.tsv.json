@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "acq_time",
+        "location": "/sub-BigBrain/sub-BigBrain_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "line": 11,
+        "issueMessage": "'2017-08-18T09:33:5'",
+        "severity": "error"
+      }
+    ]
+  }
+}

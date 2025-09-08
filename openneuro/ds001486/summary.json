@@ -1,0 +1,693 @@
+{
+  "sessions": [
+    "T1",
+    "T2"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "065",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "sex": "1"
+    },
+    {
+      "participantId": "002",
+      "sex": "2"
+    },
+    {
+      "participantId": "003",
+      "sex": "2"
+    },
+    {
+      "participantId": "004",
+      "sex": "2"
+    },
+    {
+      "participantId": "005",
+      "sex": "1"
+    },
+    {
+      "participantId": "006",
+      "sex": "2"
+    },
+    {
+      "participantId": "007",
+      "sex": "2"
+    },
+    {
+      "participantId": "008",
+      "sex": "2"
+    },
+    {
+      "participantId": "009",
+      "sex": "2"
+    },
+    {
+      "participantId": "010",
+      "sex": "1"
+    },
+    {
+      "participantId": "011",
+      "sex": "2"
+    },
+    {
+      "participantId": "012",
+      "sex": "1"
+    },
+    {
+      "participantId": "013",
+      "sex": "2"
+    },
+    {
+      "participantId": "014",
+      "sex": "1"
+    },
+    {
+      "participantId": "015",
+      "sex": "1"
+    },
+    {
+      "participantId": "016",
+      "sex": "2"
+    },
+    {
+      "participantId": "017",
+      "sex": "2"
+    },
+    {
+      "participantId": "018",
+      "sex": "2"
+    },
+    {
+      "participantId": "019",
+      "sex": "1"
+    },
+    {
+      "participantId": "020",
+      "sex": "1"
+    },
+    {
+      "participantId": "021",
+      "sex": "2"
+    },
+    {
+      "participantId": "022",
+      "sex": "1"
+    },
+    {
+      "participantId": "023",
+      "sex": "1"
+    },
+    {
+      "participantId": "024",
+      "sex": "2"
+    },
+    {
+      "participantId": "025",
+      "sex": "1"
+    },
+    {
+      "participantId": "026",
+      "sex": "2"
+    },
+    {
+      "participantId": "027",
+      "sex": "2"
+    },
+    {
+      "participantId": "028",
+      "sex": "2"
+    },
+    {
+      "participantId": "029",
+      "sex": "1"
+    },
+    {
+      "participantId": "030",
+      "sex": "2"
+    },
+    {
+      "participantId": "031",
+      "sex": "2"
+    },
+    {
+      "participantId": "032",
+      "sex": "1"
+    },
+    {
+      "participantId": "033",
+      "sex": "2"
+    },
+    {
+      "participantId": "034",
+      "sex": "2"
+    },
+    {
+      "participantId": "035",
+      "sex": "1"
+    },
+    {
+      "participantId": "036",
+      "sex": "1"
+    },
+    {
+      "participantId": "037",
+      "sex": "1"
+    },
+    {
+      "participantId": "038",
+      "sex": "1"
+    },
+    {
+      "participantId": "039",
+      "sex": "2"
+    },
+    {
+      "participantId": "040",
+      "sex": "1"
+    },
+    {
+      "participantId": "041",
+      "sex": "2"
+    },
+    {
+      "participantId": "042",
+      "sex": "2"
+    },
+    {
+      "participantId": "043",
+      "sex": "1"
+    },
+    {
+      "participantId": "044",
+      "sex": "2"
+    },
+    {
+      "participantId": "045",
+      "sex": "2"
+    },
+    {
+      "participantId": "046",
+      "sex": "1"
+    },
+    {
+      "participantId": "047",
+      "sex": "2"
+    },
+    {
+      "participantId": "048",
+      "sex": "1"
+    },
+    {
+      "participantId": "049",
+      "sex": "2"
+    },
+    {
+      "participantId": "050",
+      "sex": "2"
+    },
+    {
+      "participantId": "051",
+      "sex": "2"
+    },
+    {
+      "participantId": "052",
+      "sex": "2"
+    },
+    {
+      "participantId": "053",
+      "sex": "2"
+    },
+    {
+      "participantId": "054",
+      "sex": "1"
+    },
+    {
+      "participantId": "055",
+      "sex": "1"
+    },
+    {
+      "participantId": "056",
+      "sex": "2"
+    },
+    {
+      "participantId": "057",
+      "sex": "1"
+    },
+    {
+      "participantId": "058",
+      "sex": "1"
+    },
+    {
+      "participantId": "059",
+      "sex": "1"
+    },
+    {
+      "participantId": "060",
+      "sex": "1"
+    },
+    {
+      "participantId": "061",
+      "sex": "1"
+    },
+    {
+      "participantId": "062",
+      "sex": "1"
+    },
+    {
+      "participantId": "063",
+      "sex": "1"
+    },
+    {
+      "participantId": "064",
+      "sex": "2"
+    },
+    {
+      "participantId": "065",
+      "sex": "1"
+    },
+    {
+      "participantId": "066",
+      "sex": "2"
+    },
+    {
+      "participantId": "067",
+      "sex": "2"
+    },
+    {
+      "participantId": "068",
+      "sex": "2"
+    },
+    {
+      "participantId": "069",
+      "sex": "2"
+    },
+    {
+      "participantId": "070",
+      "sex": "2"
+    },
+    {
+      "participantId": "071",
+      "sex": "1"
+    },
+    {
+      "participantId": "072",
+      "sex": "1"
+    },
+    {
+      "participantId": "073",
+      "sex": "2"
+    },
+    {
+      "participantId": "074",
+      "sex": "2"
+    },
+    {
+      "participantId": "075",
+      "sex": "2"
+    },
+    {
+      "participantId": "076",
+      "sex": "1"
+    },
+    {
+      "participantId": "077",
+      "sex": "2"
+    },
+    {
+      "participantId": "078",
+      "sex": "2"
+    },
+    {
+      "participantId": "079",
+      "sex": "1"
+    },
+    {
+      "participantId": "080",
+      "sex": "2"
+    },
+    {
+      "participantId": "081",
+      "sex": "1"
+    },
+    {
+      "participantId": "082",
+      "sex": "1"
+    },
+    {
+      "participantId": "083",
+      "sex": "2"
+    },
+    {
+      "participantId": "084",
+      "sex": "2"
+    },
+    {
+      "participantId": "085",
+      "sex": "2"
+    },
+    {
+      "participantId": "086",
+      "sex": "1"
+    },
+    {
+      "participantId": "087",
+      "sex": "1"
+    },
+    {
+      "participantId": "088",
+      "sex": "2"
+    },
+    {
+      "participantId": "089",
+      "sex": "2"
+    },
+    {
+      "participantId": "090",
+      "sex": "1"
+    },
+    {
+      "participantId": "091",
+      "sex": "2"
+    },
+    {
+      "participantId": "092",
+      "sex": "1"
+    },
+    {
+      "participantId": "093",
+      "sex": "1"
+    },
+    {
+      "participantId": "094",
+      "sex": "1"
+    },
+    {
+      "participantId": "095",
+      "sex": "1"
+    },
+    {
+      "participantId": "096",
+      "sex": "2"
+    },
+    {
+      "participantId": "097",
+      "sex": "1"
+    },
+    {
+      "participantId": "098",
+      "sex": "2"
+    },
+    {
+      "participantId": "099",
+      "sex": "2"
+    },
+    {
+      "participantId": "100",
+      "sex": "2"
+    },
+    {
+      "participantId": "101",
+      "sex": "2"
+    },
+    {
+      "participantId": "102",
+      "sex": "2"
+    },
+    {
+      "participantId": "103",
+      "sex": "2"
+    },
+    {
+      "participantId": "104",
+      "sex": "2"
+    },
+    {
+      "participantId": "105",
+      "sex": "2"
+    },
+    {
+      "participantId": "106",
+      "sex": "1"
+    },
+    {
+      "participantId": "107",
+      "sex": "1"
+    },
+    {
+      "participantId": "108",
+      "sex": "1"
+    },
+    {
+      "participantId": "109",
+      "sex": "1"
+    },
+    {
+      "participantId": "110",
+      "sex": "1"
+    },
+    {
+      "participantId": "111",
+      "sex": "1"
+    },
+    {
+      "participantId": "112",
+      "sex": "1"
+    },
+    {
+      "participantId": "113",
+      "sex": "1"
+    },
+    {
+      "participantId": "114",
+      "sex": "1"
+    },
+    {
+      "participantId": "115",
+      "sex": "1"
+    },
+    {
+      "participantId": "116",
+      "sex": "2"
+    },
+    {
+      "participantId": "117",
+      "sex": "2"
+    },
+    {
+      "participantId": "118",
+      "sex": "1"
+    },
+    {
+      "participantId": "119",
+      "sex": "1"
+    },
+    {
+      "participantId": "120",
+      "sex": "2"
+    },
+    {
+      "participantId": "121",
+      "sex": "1"
+    },
+    {
+      "participantId": "122",
+      "sex": "2"
+    },
+    {
+      "participantId": "123",
+      "sex": "1"
+    },
+    {
+      "participantId": "124",
+      "sex": "2"
+    },
+    {
+      "participantId": "125",
+      "sex": "2"
+    },
+    {
+      "participantId": "126",
+      "sex": "1"
+    },
+    {
+      "participantId": "127",
+      "sex": "2"
+    },
+    {
+      "participantId": "128",
+      "sex": "1"
+    },
+    {
+      "participantId": "129",
+      "sex": "1"
+    },
+    {
+      "participantId": "130",
+      "sex": "2"
+    },
+    {
+      "participantId": "131",
+      "sex": "2"
+    },
+    {
+      "participantId": "132",
+      "sex": "2"
+    }
+  ],
+  "tasks": [
+    "Single-Digit Multiplication",
+    "Numerosity Judgement",
+    "Rhyming Judgement",
+    "Single-Digit Subtraction"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 2954,
+  "size": 5504946,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "phenotype",
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

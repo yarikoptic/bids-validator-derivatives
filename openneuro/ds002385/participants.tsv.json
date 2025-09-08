@@ -1,0 +1,1295 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "sex",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 224,
+        "issueMessage": "'U'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 3, Value: sub-10195",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 4, Value: sub-10195",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 6, Value: sub-10843",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 7, Value: sub-10843",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 9, Value: sub-10880",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 13, Value: sub-10997",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 14, Value: sub-10997",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 16, Value: sub-11048",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 17, Value: sub-11048",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 19, Value: sub-11228",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 20, Value: sub-11228",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 22, Value: sub-11248",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 23, Value: sub-11248",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 27, Value: sub-11275",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 28, Value: sub-11275",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 30, Value: sub-11289",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 31, Value: sub-11289",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 33, Value: sub-11299",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 34, Value: sub-11299",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 37, Value: sub-11338",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 39, Value: sub-11346",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 40, Value: sub-11346",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 43, Value: sub-11389",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 45, Value: sub-11393",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 46, Value: sub-11393",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 48, Value: sub-11394",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 49, Value: sub-11394",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 51, Value: sub-11395",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 53, Value: sub-11403",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 55, Value: sub-11405",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 57, Value: sub-11409",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 58, Value: sub-11409",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 60, Value: sub-11411",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 61, Value: sub-11411",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 63, Value: sub-11414",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 65, Value: sub-11415",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 67, Value: sub-11419",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 68, Value: sub-11419",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 70, Value: sub-11421",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 71, Value: sub-11421",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 73, Value: sub-11425",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 74, Value: sub-11425",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 76, Value: sub-11426",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 77, Value: sub-11426",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 79, Value: sub-11429",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 81, Value: sub-11431",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 82, Value: sub-11431",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 86, Value: sub-11441",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 87, Value: sub-11441",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 89, Value: sub-11443",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 90, Value: sub-11443",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 92, Value: sub-11444",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 93, Value: sub-11444",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 95, Value: sub-11445",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 96, Value: sub-11445",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 97, Value: sub-11445",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 98, Value: sub-11445",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 100, Value: sub-11447",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 101, Value: sub-11447",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 103, Value: sub-11448",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 105, Value: sub-11449",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 106, Value: sub-11449",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 108, Value: sub-11451",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 110, Value: sub-11452",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 111, Value: sub-11452",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 113, Value: sub-11453",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 114, Value: sub-11453",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 115, Value: sub-11453",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 117, Value: sub-11455",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 118, Value: sub-11455",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 119, Value: sub-11455",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 121, Value: sub-11457",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 122, Value: sub-11457",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 124, Value: sub-11458",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 125, Value: sub-11458",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 128, Value: sub-11460",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 129, Value: sub-11460",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 131, Value: sub-11461",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 132, Value: sub-11461",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 133, Value: sub-11461",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 135, Value: sub-11463",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 136, Value: sub-11463",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 138, Value: sub-11465",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 139, Value: sub-11465",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 141, Value: sub-11469",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 145, Value: sub-11472",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 147, Value: sub-11474",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 149, Value: sub-11475",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 150, Value: sub-11475",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 151, Value: sub-11475",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 153, Value: sub-11480",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 154, Value: sub-11480",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 156, Value: sub-11481",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 157, Value: sub-11481",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 159, Value: sub-11482",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 160, Value: sub-11482",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 162, Value: sub-11484",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 163, Value: sub-11484",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 165, Value: sub-11486",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 166, Value: sub-11486",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 168, Value: sub-11487",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 169, Value: sub-11487",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 170, Value: sub-11487",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 172, Value: sub-11488",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 176, Value: sub-11492",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 177, Value: sub-11492",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 179, Value: sub-11495",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 180, Value: sub-11495",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 182, Value: sub-11496",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 183, Value: sub-11496",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 185, Value: sub-11497",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 186, Value: sub-11497",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 188, Value: sub-11498",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 190, Value: sub-11499",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 193, Value: sub-11502",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 194, Value: sub-11502",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 197, Value: sub-11504",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 198, Value: sub-11504",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 200, Value: sub-11506",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 202, Value: sub-11507",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 204, Value: sub-11508",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 205, Value: sub-11508",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 206, Value: sub-11508",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 208, Value: sub-11509",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 211, Value: sub-11512",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 212, Value: sub-11512",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 214, Value: sub-11513",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 215, Value: sub-11513",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 217, Value: sub-11514",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 219, Value: sub-11515",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 220, Value: sub-11515",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 221, Value: sub-11515",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 223, Value: sub-11516",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 226, Value: sub-11518",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 227, Value: sub-11518",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 232, Value: sub-11522",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 233, Value: sub-11522",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 237, Value: sub-11529",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 238, Value: sub-11529",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 240, Value: sub-11531",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 243, Value: sub-11535",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 244, Value: sub-11535",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 246, Value: sub-11536",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 248, Value: sub-11537",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 249, Value: sub-11537",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 252, Value: sub-11541",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 254, Value: sub-11542",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 255, Value: sub-11542",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 257, Value: sub-11543",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 261, Value: sub-11547",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 262, Value: sub-11547",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 265, Value: sub-11550",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 267, Value: sub-11551",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 268, Value: sub-11551",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 270, Value: sub-11554",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 273, Value: sub-11557",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 275, Value: sub-11558",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 276, Value: sub-11558",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 279, Value: sub-11561",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 280, Value: sub-11561",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 284, Value: sub-11565",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 285, Value: sub-11565",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 287, Value: sub-11568",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 288, Value: sub-11568",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 290, Value: sub-11570",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 292, Value: sub-11571",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 294, Value: sub-11573",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 297, Value: sub-11575",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 298, Value: sub-11575",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 300, Value: sub-11576",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 302, Value: sub-11577",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 304, Value: sub-11579",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 306, Value: sub-11581",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 307, Value: sub-11581",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 310, Value: sub-11589",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 311, Value: sub-11589",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 313, Value: sub-11592",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 315, Value: sub-11595",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 317, Value: sub-11599",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 321, Value: sub-11605",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 330, Value: sub-11643",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "subCode": "ses",
+        "severity": "warning"
+      }
+    ]
+  }
+}

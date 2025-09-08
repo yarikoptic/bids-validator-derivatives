@@ -1,0 +1,54 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-01/ses-01/ieeg/sub-01_ses-01_task-jokeit_run-01_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-01/ses-01/ieeg/sub-01_ses-01_task-jokeit_run-01_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-01/ses-01/ieeg/sub-01_ses-01_task-jokeit_run-01_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-01/ses-01/ieeg/sub-01_ses-01_task-jokeit_run-01_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ElectrodeManufacturersModelName",
+        "location": "/sub-01/ses-01/ieeg/sub-01_ses-01_task-jokeit_run-01_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: If different electrode types are used,\nplease use the corresponding table in the `_electrodes.tsv` file.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "iEEGGround",
+        "location": "/sub-01/ses-01/ieeg/sub-01_ses-01_task-jokeit_run-01_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: Description of the location of the ground electrode\n(`\"placed on right mastoid (M2)\"`).\n"
+      }
+    ]
+  }
+}

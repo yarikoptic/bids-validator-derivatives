@@ -1,0 +1,11 @@
+subject_id	error_codes_ext_n	error_codes_n	error_n	warning_codes_ext_n	warning_codes_n	warning_n
+root	0	1	1	1	1	8
+sub-UTS01	0	0	0	1	1	1737
+sub-UTS02	0	0	0	1	1	1666
+sub-UTS03	0	0	0	1	1	1715
+sub-UTS04	0	0	0	1	1	288
+sub-UTS05	0	0	0	1	1	311
+sub-UTS06	0	0	0	1	1	311
+sub-UTS07	0	0	0	1	1	311
+sub-UTS08	0	0	0	1	1	295
+sub-UTS09	0	0	0	1	1	1556

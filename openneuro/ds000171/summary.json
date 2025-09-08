@@ -1,0 +1,300 @@
+{
+  "sessions": [],
+  "subjects": [
+    "control01",
+    "control02",
+    "control03",
+    "control04",
+    "control05",
+    "control06",
+    "control07",
+    "control08",
+    "control09",
+    "control10",
+    "control11",
+    "control12",
+    "control13",
+    "control14",
+    "control15",
+    "control16",
+    "control17",
+    "control18",
+    "control19",
+    "control20",
+    "mdd01",
+    "mdd02",
+    "mdd03",
+    "mdd04",
+    "mdd05",
+    "mdd06",
+    "mdd07",
+    "mdd08",
+    "mdd09",
+    "mdd10",
+    "mdd11",
+    "mdd12",
+    "mdd13",
+    "mdd14",
+    "mdd15",
+    "mdd16",
+    "mdd17",
+    "mdd18",
+    "mdd19"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "control01",
+      "age": 19,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control02",
+      "age": 22,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control03",
+      "age": 18,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control04",
+      "age": 19,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control05",
+      "age": 27,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control06",
+      "age": 31,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control07",
+      "age": 31,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control08",
+      "age": 18,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control09",
+      "age": 24,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control10",
+      "age": 23,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control11",
+      "age": 29,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control12",
+      "age": 27,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control13",
+      "age": 22,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control14",
+      "age": 25,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control15",
+      "age": 25,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control16",
+      "age": 37,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control17",
+      "age": 52,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control18",
+      "age": 59,
+      "sex": "F",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control19",
+      "age": 39,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "control20",
+      "age": 42,
+      "sex": "M",
+      "group": "Never-Depressed Control"
+    },
+    {
+      "participantId": "mdd01",
+      "age": 29,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd02",
+      "age": 19,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd03",
+      "age": 21,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd04",
+      "age": 30,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd05",
+      "age": 19,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd06",
+      "age": 27,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd07",
+      "age": 26,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd08",
+      "age": 24,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd09",
+      "age": 30,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd10",
+      "age": 19,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd11",
+      "age": 18,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd12",
+      "age": 26,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd13",
+      "age": 44,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd14",
+      "age": 52,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd15",
+      "age": 46,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd16",
+      "age": 54,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd17",
+      "age": 42,
+      "sex": "F",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd18",
+      "age": 56,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    },
+    {
+      "participantId": "mdd19",
+      "age": 55,
+      "sex": "M",
+      "group": "Major Depressive Disorder"
+    }
+  ],
+  "tasks": [
+    "Music",
+    "Non-Music"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 436,
+  "size": 107216,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,62 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "LetterFinger",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Number",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TextDisplay1.OnsetTime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TextDisplay2.OnsetTime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-MemorySpan_acq-multiband_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Interval2.OnsetTime",
+        "severity": "warning"
+      }
+    ]
+  }
+}

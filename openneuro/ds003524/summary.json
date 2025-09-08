@@ -1,0 +1,117 @@
+{
+  "sessions": [],
+  "subjects": [
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07",
+    "s08",
+    "s09",
+    "s10",
+    "s11",
+    "s12",
+    "s13"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "s01",
+      "age": 29,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s02",
+      "age": 23,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s03",
+      "age": 22,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s04",
+      "age": 32,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "s05",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "s06",
+      "age": 22,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s07",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "s08",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "s09",
+      "age": 19,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "s10",
+      "age": 27,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s11",
+      "age": 34,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s12",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "s13",
+      "age": 26,
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "movie"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 82,
+  "size": 13331,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

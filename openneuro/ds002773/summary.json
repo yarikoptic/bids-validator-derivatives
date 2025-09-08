@@ -1,0 +1,167 @@
+{
+  "sessions": [
+    "day1",
+    "day2",
+    "day3"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "002",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "003",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "004",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "005",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "006",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "007",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "008",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "009",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "010",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "011",
+      "age": 22,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "012",
+      "age": 19,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "013",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "014",
+      "age": 19,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "015",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "016",
+      "age": 19,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "017",
+      "age": 23,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "018",
+      "age": 17,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "019",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "localizer",
+    "retrieval",
+    "updating"
+  ],
+  "modalities": [
+    "MRI",
+    "beh"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 805,
+  "size": 11503104,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "beh",
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

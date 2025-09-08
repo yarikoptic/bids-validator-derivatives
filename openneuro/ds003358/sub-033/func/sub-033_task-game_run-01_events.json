@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "onset",
+        "location": "/sub-033/func/sub-033_task-game_run-01_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "duration",
+        "location": "/sub-033/func/sub-033_task-game_run-01_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

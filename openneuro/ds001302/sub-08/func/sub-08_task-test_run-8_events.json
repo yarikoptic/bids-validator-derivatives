@@ -1,0 +1,63 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "category",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "object_classes",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "dissimcontr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "simcontr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "scaleddissim",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-08/func/sub-08_task-test_run-8_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "scaledsim",
+        "severity": "warning"
+      }
+    ]
+  }
+}

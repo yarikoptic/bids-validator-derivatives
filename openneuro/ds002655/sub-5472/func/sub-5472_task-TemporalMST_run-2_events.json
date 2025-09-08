@@ -1,0 +1,32 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-5472/func/sub-5472_task-TemporalMST_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "onset",
+        "location": "/sub-5472/func/sub-5472_task-TemporalMST_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'sub-3408'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "duration",
+        "location": "/sub-5472/func/sub-5472_task-TemporalMST_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'sub-3408'",
+        "severity": "error"
+      }
+    ]
+  }
+}

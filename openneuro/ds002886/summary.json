@@ -1,0 +1,310 @@
+{
+  "sessions": [
+    "T1"
+  ],
+  "subjects": [
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "015",
+    "016",
+    "017",
+    "019",
+    "020",
+    "021",
+    "023",
+    "024",
+    "025",
+    "029",
+    "030",
+    "031",
+    "034",
+    "035",
+    "036",
+    "038",
+    "039",
+    "040",
+    "041",
+    "043",
+    "044",
+    "045",
+    "047",
+    "048",
+    "049",
+    "052",
+    "054",
+    "055",
+    "056",
+    "057",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "066",
+    "067",
+    "070",
+    "071",
+    "073",
+    "075",
+    "078",
+    "080"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "002",
+      "sex": "2"
+    },
+    {
+      "participantId": "003",
+      "sex": "2"
+    },
+    {
+      "participantId": "004",
+      "sex": "2"
+    },
+    {
+      "participantId": "005",
+      "sex": "1"
+    },
+    {
+      "participantId": "006",
+      "sex": "2"
+    },
+    {
+      "participantId": "007",
+      "sex": "2"
+    },
+    {
+      "participantId": "008",
+      "sex": "2"
+    },
+    {
+      "participantId": "009",
+      "sex": "2"
+    },
+    {
+      "participantId": "010",
+      "sex": "1"
+    },
+    {
+      "participantId": "011",
+      "sex": "2"
+    },
+    {
+      "participantId": "012",
+      "sex": "1"
+    },
+    {
+      "participantId": "013",
+      "sex": "2"
+    },
+    {
+      "participantId": "015",
+      "sex": "1"
+    },
+    {
+      "participantId": "016",
+      "sex": "2"
+    },
+    {
+      "participantId": "017",
+      "sex": "2"
+    },
+    {
+      "participantId": "019",
+      "sex": "1"
+    },
+    {
+      "participantId": "020",
+      "sex": "1"
+    },
+    {
+      "participantId": "021",
+      "sex": "2"
+    },
+    {
+      "participantId": "023",
+      "sex": "1"
+    },
+    {
+      "participantId": "024",
+      "sex": "2"
+    },
+    {
+      "participantId": "025",
+      "sex": "1"
+    },
+    {
+      "participantId": "029",
+      "sex": "1"
+    },
+    {
+      "participantId": "030",
+      "sex": "2"
+    },
+    {
+      "participantId": "031",
+      "sex": "2"
+    },
+    {
+      "participantId": "034",
+      "sex": "2"
+    },
+    {
+      "participantId": "035",
+      "sex": "1"
+    },
+    {
+      "participantId": "036",
+      "sex": "1"
+    },
+    {
+      "participantId": "038",
+      "sex": "1"
+    },
+    {
+      "participantId": "039",
+      "sex": "2"
+    },
+    {
+      "participantId": "040",
+      "sex": "1"
+    },
+    {
+      "participantId": "041",
+      "sex": "2"
+    },
+    {
+      "participantId": "043",
+      "sex": "1"
+    },
+    {
+      "participantId": "044",
+      "sex": "2"
+    },
+    {
+      "participantId": "045",
+      "sex": "2"
+    },
+    {
+      "participantId": "047",
+      "sex": "2"
+    },
+    {
+      "participantId": "048",
+      "sex": "1"
+    },
+    {
+      "participantId": "049",
+      "sex": "2"
+    },
+    {
+      "participantId": "052",
+      "sex": "2"
+    },
+    {
+      "participantId": "054",
+      "sex": "1"
+    },
+    {
+      "participantId": "055",
+      "sex": "1"
+    },
+    {
+      "participantId": "056",
+      "sex": "2"
+    },
+    {
+      "participantId": "057",
+      "sex": "1"
+    },
+    {
+      "participantId": "059",
+      "sex": "1"
+    },
+    {
+      "participantId": "060",
+      "sex": "1"
+    },
+    {
+      "participantId": "061",
+      "sex": "1"
+    },
+    {
+      "participantId": "062",
+      "sex": "1"
+    },
+    {
+      "participantId": "063",
+      "sex": "1"
+    },
+    {
+      "participantId": "064",
+      "sex": "2"
+    },
+    {
+      "participantId": "066",
+      "sex": "2"
+    },
+    {
+      "participantId": "067",
+      "sex": "2"
+    },
+    {
+      "participantId": "070",
+      "sex": "2"
+    },
+    {
+      "participantId": "071",
+      "sex": "1"
+    },
+    {
+      "participantId": "073",
+      "sex": "2"
+    },
+    {
+      "participantId": "075",
+      "sex": "2"
+    },
+    {
+      "participantId": "078",
+      "sex": "2"
+    },
+    {
+      "participantId": "080",
+      "sex": "2"
+    }
+  ],
+  "tasks": [
+    "Syllogistic Reasoning",
+    "Transitive Reasoning"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 486,
+  "size": 762475,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "phenotype",
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

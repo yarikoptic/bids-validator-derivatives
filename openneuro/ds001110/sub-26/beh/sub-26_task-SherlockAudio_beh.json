@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/sub-26/beh/sub-26_task-SherlockAudio_beh.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

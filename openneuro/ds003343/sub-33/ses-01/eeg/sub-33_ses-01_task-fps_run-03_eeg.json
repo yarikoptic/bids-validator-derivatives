@@ -1,0 +1,54 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/sub-33/ses-01/eeg/sub-33_ses-01_task-fps_run-03_eeg.bdf",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-33/ses-01/eeg/sub-33_ses-01_task-fps_run-03_eeg.bdf",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-33/ses-01/eeg/sub-33_ses-01_task-fps_run-03_eeg.bdf",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-33/ses-01/eeg/sub-33_ses-01_task-fps_run-03_eeg.bdf",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MISCChannelCount",
+        "location": "/sub-33/ses-01/eeg/sub-33_ses-01_task-fps_run-03_eeg.bdf",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Number of miscellaneous channels not covered otherwise.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "HeadCircumference",
+        "location": "/sub-33/ses-01/eeg/sub-33_ses-01_task-fps_run-03_eeg.bdf",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Circumference of the participant's head, expressed in cm (for example, `58`).\n"
+      }
+    ]
+  }
+}

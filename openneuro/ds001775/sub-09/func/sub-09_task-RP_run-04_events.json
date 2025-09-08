@@ -1,0 +1,77 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onsetdelay",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ITIduration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ProperName",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "categ",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "vocalOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rpDuration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-09/func/sub-09_task-RP_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "vocalDuration",
+        "severity": "warning"
+      }
+    ]
+  }
+}

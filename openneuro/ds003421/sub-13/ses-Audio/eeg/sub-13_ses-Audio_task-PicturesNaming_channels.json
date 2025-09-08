@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_MUST_DEFINE",
+        "location": "/sub-13/ses-Audio/eeg/sub-13_ses-Audio_task-PicturesNaming_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "subCode": "software_filters",
+        "severity": "error"
+      }
+    ]
+  }
+}

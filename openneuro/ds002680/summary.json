@@ -1,0 +1,81 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "002"
+    },
+    {
+      "participantId": "003"
+    },
+    {
+      "participantId": "004"
+    },
+    {
+      "participantId": "005"
+    },
+    {
+      "participantId": "006"
+    },
+    {
+      "participantId": "007"
+    },
+    {
+      "participantId": "008"
+    },
+    {
+      "participantId": "009"
+    },
+    {
+      "participantId": "010"
+    },
+    {
+      "participantId": "011"
+    },
+    {
+      "participantId": "012"
+    },
+    {
+      "participantId": "013"
+    },
+    {
+      "participantId": "014"
+    },
+    {
+      "participantId": "015"
+    }
+  ],
+  "tasks": [
+    "gonogo"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 2457,
+  "size": 5258268,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

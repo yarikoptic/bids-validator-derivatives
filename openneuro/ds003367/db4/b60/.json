@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/db4/b60/",
+        "severity": "error"
+      }
+    ]
+  }
+}

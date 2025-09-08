@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-ecog01/ses-postimp/sub-ecog01_ses-postimp_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      }
+    ]
+  }
+}

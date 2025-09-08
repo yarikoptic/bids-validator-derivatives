@@ -1,0 +1,42 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-21/ses-1/func/sub-21_ses-1_task-satellite_run-07_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/ses-1/func/sub-21_ses-1_task-satellite_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "item",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/ses-1/func/sub-21_ses-1_task-satellite_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "repeat",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/ses-1/func/sub-21_ses-1_task-satellite_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/ses-1/func/sub-21_ses-1_task-satellite_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "reaction_time",
+        "severity": "warning"
+      }
+    ]
+  }
+}

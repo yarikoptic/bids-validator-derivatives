@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MRAcquisitionType",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Type of sequence readout.\nCorresponds to [DICOM Tag 0018, 0023](https://dicomlookup.com/dicomtags/(0018,0023)) `MR Acquisition Type`.\n",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "location": "/sub-5883567/func/sub-5883567_task-rest30_bold.json",
+        "affects": [
+          "/sub-5883567/func/sub-5883567_task-rest30_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01"
+    },
+    {
+      "participantId": "02"
+    },
+    {
+      "participantId": "03"
+    },
+    {
+      "participantId": "04"
+    },
+    {
+      "participantId": "05"
+    },
+    {
+      "participantId": "06"
+    },
+    {
+      "participantId": "07"
+    },
+    {
+      "participantId": "08"
+    },
+    {
+      "participantId": "09"
+    },
+    {
+      "participantId": "10"
+    },
+    {
+      "participantId": "11"
+    },
+    {
+      "participantId": "12"
+    },
+    {
+      "participantId": "13"
+    },
+    {
+      "participantId": "14"
+    },
+    {
+      "participantId": "15"
+    },
+    {
+      "participantId": "16"
+    },
+    {
+      "participantId": "17"
+    },
+    {
+      "participantId": "18"
+    },
+    {
+      "participantId": "19"
+    },
+    {
+      "participantId": "20"
+    },
+    {
+      "participantId": "21"
+    },
+    {
+      "participantId": "22"
+    },
+    {
+      "participantId": "23"
+    },
+    {
+      "participantId": "24"
+    },
+    {
+      "participantId": "25"
+    },
+    {
+      "participantId": "26"
+    },
+    {
+      "participantId": "27"
+    },
+    {
+      "participantId": "28"
+    },
+    {
+      "participantId": "29"
+    },
+    {
+      "participantId": "30"
+    },
+    {
+      "participantId": "31"
+    },
+    {
+      "participantId": "32"
+    },
+    {
+      "participantId": "33"
+    },
+    {
+      "participantId": "34"
+    },
+    {
+      "participantId": "35"
+    },
+    {
+      "participantId": "36"
+    },
+    {
+      "participantId": "37"
+    },
+    {
+      "participantId": "38"
+    }
+  ],
+  "tasks": [
+    "Rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 82,
+  "size": 14459,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

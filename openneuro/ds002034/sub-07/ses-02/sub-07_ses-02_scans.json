@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/sub-07/ses-02/sub-07_ses-02_scans.tsv",
+        "issueMessage": "Row: 5, Value: eeg/sub-07_ses-02_task-offlinecatch_run-04_eeg.edf",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "onset",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'#VALUE!'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RECORDING_SESSION_LABEL",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CURRENT_FIX_ADJUSTED",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CURRENT_FIX_INTEREST_AREA_ID",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CURRENT_FIX_START",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SentenceID",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SentenceRT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TRUEOffset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-read_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TRUEOnset",
+        "severity": "warning"
+      }
+    ]
+  }
+}

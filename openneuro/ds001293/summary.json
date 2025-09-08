@@ -1,0 +1,36 @@
+{
+  "sessions": [
+    "r08",
+    "r14",
+    "r20",
+    "r30"
+  ],
+  "subjects": [
+    "04",
+    "06",
+    "16",
+    "17",
+    "18",
+    "20",
+    "21"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "orientation",
+    "coverage"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 1216,
+  "size": 4106738,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

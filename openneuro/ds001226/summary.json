@@ -1,0 +1,174 @@
+{
+  "sessions": [
+    "preop"
+  ],
+  "subjects": [
+    "CON01",
+    "CON02",
+    "CON03",
+    "CON04",
+    "CON05",
+    "CON06",
+    "CON07",
+    "CON08",
+    "CON09",
+    "CON10",
+    "CON11",
+    "PAT01",
+    "PAT02",
+    "PAT03",
+    "PAT05",
+    "PAT06",
+    "PAT07",
+    "PAT08",
+    "PAT10",
+    "PAT11",
+    "PAT13",
+    "PAT14",
+    "PAT15",
+    "PAT16",
+    "PAT17",
+    "PAT19",
+    "PAT20",
+    "PAT22",
+    "PAT23",
+    "PAT24",
+    "PAT25",
+    "PAT26",
+    "PAT27",
+    "PAT28",
+    "PAT29",
+    "PAT31"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "CON01"
+    },
+    {
+      "participantId": "CON02"
+    },
+    {
+      "participantId": "CON03"
+    },
+    {
+      "participantId": "CON04"
+    },
+    {
+      "participantId": "CON05"
+    },
+    {
+      "participantId": "CON06"
+    },
+    {
+      "participantId": "CON07"
+    },
+    {
+      "participantId": "CON08"
+    },
+    {
+      "participantId": "CON09"
+    },
+    {
+      "participantId": "CON10"
+    },
+    {
+      "participantId": "CON11"
+    },
+    {
+      "participantId": "PAT01"
+    },
+    {
+      "participantId": "PAT02"
+    },
+    {
+      "participantId": "PAT03"
+    },
+    {
+      "participantId": "PAT05"
+    },
+    {
+      "participantId": "PAT06"
+    },
+    {
+      "participantId": "PAT07"
+    },
+    {
+      "participantId": "PAT08"
+    },
+    {
+      "participantId": "PAT10"
+    },
+    {
+      "participantId": "PAT11"
+    },
+    {
+      "participantId": "PAT13"
+    },
+    {
+      "participantId": "PAT14"
+    },
+    {
+      "participantId": "PAT15"
+    },
+    {
+      "participantId": "PAT16"
+    },
+    {
+      "participantId": "PAT17"
+    },
+    {
+      "participantId": "PAT19"
+    },
+    {
+      "participantId": "PAT20"
+    },
+    {
+      "participantId": "PAT22"
+    },
+    {
+      "participantId": "PAT23"
+    },
+    {
+      "participantId": "PAT24"
+    },
+    {
+      "participantId": "PAT25"
+    },
+    {
+      "participantId": "PAT26"
+    },
+    {
+      "participantId": "PAT27"
+    },
+    {
+      "participantId": "PAT28"
+    },
+    {
+      "participantId": "PAT29"
+    },
+    {
+      "participantId": "PAT31"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 436,
+  "size": 334754,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

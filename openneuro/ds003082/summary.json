@@ -1,0 +1,42 @@
+{
+  "sessions": [
+    "0001",
+    "20150112"
+  ],
+  "subjects": [
+    "0001",
+    "emptyroom"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "emptyroom",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "0001",
+      "age": 23,
+      "sex": "Female"
+    }
+  ],
+  "tasks": [
+    "mapping",
+    "noise"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 24,
+  "size": 163549,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

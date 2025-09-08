@@ -1,0 +1,111 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 37,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "03",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "04",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "05",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "06",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "10",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "15",
+      "age": 24,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "conditional stop signal",
+    "stop signal"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 192,
+  "size": 484495,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

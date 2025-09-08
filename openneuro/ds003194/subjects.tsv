@@ -1,0 +1,17 @@
+subject_id	error_codes_ext_n	error_codes_n	error_n	warning_codes_ext_n	warning_codes_n	warning_n
+root	1	1	1	0	1	4
+sub-NEPO01	0	0	0	1	1	42
+sub-NEPO03	0	0	0	1	1	42
+sub-NEPO04	0	0	0	1	1	42
+sub-NEPO06	0	0	0	1	1	42
+sub-NEPO07	0	0	0	1	1	42
+sub-NEPO09	0	0	0	1	1	42
+sub-NEPO12	0	0	0	1	1	42
+sub-NEPO15	0	1	1	1	1	42
+sub-NEPO16	0	0	0	1	1	42
+sub-NEPO18	0	0	0	1	1	42
+sub-NEPO20	0	0	0	1	1	42
+sub-NEPO21	0	0	0	1	1	42
+sub-NEPO22	0	0	0	1	1	21
+sub-NEPO25	0	0	0	1	1	42
+sub-NEPO26	0	0	0	1	1	42

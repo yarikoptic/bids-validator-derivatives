@@ -1,0 +1,206 @@
+{
+  "sessions": [],
+  "subjects": [
+    "CTL01",
+    "CTL02",
+    "CTL03",
+    "CTL04",
+    "CTL05",
+    "CTL06",
+    "CTL07",
+    "CTL08",
+    "CTL09",
+    "CTL10",
+    "CTL11",
+    "CTL12",
+    "CTL13",
+    "CTL14",
+    "CTL15",
+    "ODN01",
+    "ODN02",
+    "ODN03",
+    "ODN04",
+    "ODN05",
+    "ODN06",
+    "ODN07",
+    "ODN08",
+    "ODN09",
+    "ODN10",
+    "ODN11",
+    "ODN12",
+    "ODN13",
+    "ODN14",
+    "ODN15",
+    "ODP01",
+    "ODP02",
+    "ODP03",
+    "ODP04",
+    "ODP05",
+    "ODP06",
+    "ODP07",
+    "ODP08",
+    "ODP09",
+    "ODP10",
+    "ODP11",
+    "ODP12",
+    "ODP13",
+    "ODP14",
+    "ODP15"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "ODP01"
+    },
+    {
+      "participantId": "ODP02"
+    },
+    {
+      "participantId": "ODP03"
+    },
+    {
+      "participantId": "ODP04"
+    },
+    {
+      "participantId": "ODP05"
+    },
+    {
+      "participantId": "ODP06"
+    },
+    {
+      "participantId": "ODP07"
+    },
+    {
+      "participantId": "ODP08"
+    },
+    {
+      "participantId": "ODP09"
+    },
+    {
+      "participantId": "ODP10"
+    },
+    {
+      "participantId": "ODP11"
+    },
+    {
+      "participantId": "ODP12"
+    },
+    {
+      "participantId": "ODP13"
+    },
+    {
+      "participantId": "ODP14"
+    },
+    {
+      "participantId": "ODP15"
+    },
+    {
+      "participantId": "ODN01"
+    },
+    {
+      "participantId": "ODN02"
+    },
+    {
+      "participantId": "ODN03"
+    },
+    {
+      "participantId": "ODN04"
+    },
+    {
+      "participantId": "ODN05"
+    },
+    {
+      "participantId": "ODN06"
+    },
+    {
+      "participantId": "ODN07"
+    },
+    {
+      "participantId": "ODN08"
+    },
+    {
+      "participantId": "ODN09"
+    },
+    {
+      "participantId": "ODN10"
+    },
+    {
+      "participantId": "ODN11"
+    },
+    {
+      "participantId": "ODN12"
+    },
+    {
+      "participantId": "ODN13"
+    },
+    {
+      "participantId": "ODN14"
+    },
+    {
+      "participantId": "ODN15"
+    },
+    {
+      "participantId": "CTL01"
+    },
+    {
+      "participantId": "CTL02"
+    },
+    {
+      "participantId": "CTL03"
+    },
+    {
+      "participantId": "CTL04"
+    },
+    {
+      "participantId": "CTL05"
+    },
+    {
+      "participantId": "CTL06"
+    },
+    {
+      "participantId": "CTL07"
+    },
+    {
+      "participantId": "CTL08"
+    },
+    {
+      "participantId": "CTL09"
+    },
+    {
+      "participantId": "CTL10"
+    },
+    {
+      "participantId": "CTL11"
+    },
+    {
+      "participantId": "CTL12"
+    },
+    {
+      "participantId": "CTL13"
+    },
+    {
+      "participantId": "CTL14"
+    },
+    {
+      "participantId": "CTL15"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 96,
+  "size": 17539,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

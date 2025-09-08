@@ -1,0 +1,41 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "mouse"
+  ],
+  "modalities": [
+    "MEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 108,
+  "size": 106542,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

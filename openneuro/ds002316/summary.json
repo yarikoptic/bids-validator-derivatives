@@ -1,0 +1,64 @@
+{
+  "sessions": [],
+  "subjects": [
+    "119",
+    "162",
+    "269",
+    "273",
+    "275",
+    "276",
+    "278",
+    "290",
+    "300",
+    "301",
+    "303",
+    "306",
+    "309",
+    "310",
+    "311",
+    "313",
+    "314",
+    "317",
+    "319",
+    "328",
+    "329",
+    "330",
+    "336",
+    "337",
+    "338",
+    "349",
+    "356",
+    "358",
+    "359",
+    "384",
+    "386",
+    "387",
+    "388",
+    "390",
+    "391",
+    "393"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "Beast",
+    "rest",
+    "reward"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 876,
+  "size": 18716676,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

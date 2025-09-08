@@ -1,0 +1,45 @@
+{
+  "sessions": [
+    "20140502",
+    "20140513",
+    "20140507",
+    "20140512",
+    "20140603",
+    "20140509",
+    "20140508"
+  ],
+  "subjects": [
+    "0001",
+    "0002",
+    "0003",
+    "0004",
+    "0005",
+    "0006",
+    "0007",
+    "0008",
+    "0009",
+    "0010",
+    "emptyroom"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "rivalry",
+    "noise"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 184,
+  "size": 147648,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,42 @@
+{
+  "sessions": [],
+  "subjects": [
+    "cm10006",
+    "dc10004",
+    "dd8455",
+    "ia10010",
+    "jm10021",
+    "kc10014",
+    "kd3603",
+    "kl10012",
+    "nb8419",
+    "nn8813",
+    "qh10013",
+    "qw3602",
+    "sa10005",
+    "tc10003",
+    "tq3600",
+    "tt8602"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "change-point fmri"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 109,
+  "size": 17935,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

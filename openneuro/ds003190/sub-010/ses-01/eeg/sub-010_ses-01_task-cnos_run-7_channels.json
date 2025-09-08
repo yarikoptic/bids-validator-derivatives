@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-010/ses-01/eeg/sub-010_ses-01_task-cnos_run-7_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "line": 2,
+        "issueMessage": "'unknown'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_MUST_DEFINE",
+        "location": "/sub-010/ses-01/eeg/sub-010_ses-01_task-cnos_run-7_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "subCode": "software_filters",
+        "severity": "error"
+      }
+    ]
+  }
+}

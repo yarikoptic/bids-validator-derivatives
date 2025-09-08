@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"seconds\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-066/ses-01/eeg/sub-066_ses-01_task-VisualWorkingMemory_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

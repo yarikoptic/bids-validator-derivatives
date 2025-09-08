@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/Workshopfiles/GRAPPA_reference_scheme/",
+        "severity": "error"
+      }
+    ]
+  }
+}

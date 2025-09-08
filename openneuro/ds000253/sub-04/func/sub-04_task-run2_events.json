@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "issueMessage": "onset, duration, Task\r0, 10, baseline\r10, 5, Instruc Dissoc\r15, 15, baseline\r30, 2.5, Cue _ trial 1\r32.5, 10, Delay\r42.5, 2.5, Go and Move\r45, 15, ITI\r60, 2.5, Cue _ trial 2\r62.5, 10, Delay\r72.5, 2.5, Go and Move\r75, 15, ITI\r90, 2.5, Cue _ trial 3\r92.5, 10, Delay\r102.5, 2.5, Go and Move\r105, 15, ITI\r120, 2.5, Cue _ trial 4\r122.5, 10, Delay\r132.5, 2.5, Go and Move\r135, 15, ITI\r150, 2.5, Cue _ trial 5\r152.5, 10, Delay\r162.5, 2.5, Go and Move\r165, 15, ITI\r180, 2.5, Cue _ trial 6\r182.5, 10, Delay\r192.5, 2.5, Go and Move\r195, 15, ITI\r210, 2.5, Cue _ trial 7\r212.5, 10, Delay\r222.5, 2.5, Go and Move\r225, 15, ITI\r240, 2.5, Cue _ trial 8\r242.5, 10, Delay\r252.5, 2.5, Go and Move\r255, 15, ITI\r270, 2.5, Cue _ trial 9\r272.5, 10, Delay\r282.5, 2.5, Go and Move\r285, 15, ITI\r300, 2.5, Cue _ trial 10\r302.5, 10, Delay\r312.5, 2.5, Go and Move\r315, 15, ITI\r330, 5, Instruc Standard\r335, 15, baseline\r350, 2.5, Cue _ trial 1\r352.5, 10, Delay\r362.5, 2.5, Go and Move\r365, 15, ITI\r380, 2.5, Cue _ trial 2\r382.5, 10, Delay\r392.5, 2.5, Go and Move\r395, 15, ITI\r410, 2.5, Cue _ trial 3\r412.5, 10, Delay\r422.5, 2.5, Go and Move\r425, 15, ITI\r440, 2.5, Cue _ trial 4\r442.5, 10, Delay\r452.5, 2.5, Go and Move\r455, 15, ITI\r470, 2.5, Cue _ trial 5\r472.5, 10, Delay\r482.5, 2.5, Go and Move\r485, 15, ITI\r500, 2.5, Cue _ trial 6\r502.5, 10, Delay\r512.5, 2.5, Go and Move\r515, 15, ITI\r530, 2.5, Cue _ trial 7\r532.5, 10, Delay\r542.5, 2.5, Go and Move\r545, 15, ITI\r560, 2.5, Cue _ trial 8\r562.5, 10, Delay\r572.5, 2.5, Go and Move\r575, 15, ITI\r590, 2.5, Cue _ trial 9\r592.5, 10, Delay\r602.5, 2.5, Go and Move\r605, 15, ITI\r620, 2.5, Cue _ trial 10\r622.5, 10, Delay\r632.5, 2.5, Go and Move\r635, 15, ITI",
+        "severity": "error"
+      },
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-04/func/sub-04_task-run2_events.tsv",
+        "issueMessage": "Column 1 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      }
+    ]
+  }
+}

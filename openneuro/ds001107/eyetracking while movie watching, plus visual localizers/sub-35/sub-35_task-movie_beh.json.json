@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "INVALID_LOCATION",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-35/sub-35_task-movie_beh.json",
+        "issueMessage": "Expected location: /sub-35/",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-35/sub-35_task-movie_beh.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

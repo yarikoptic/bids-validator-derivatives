@@ -1,0 +1,148 @@
+{
+  "sessions": [
+    "meg",
+    "mri",
+    "20090409",
+    "20090506",
+    "20090511",
+    "20090515",
+    "20090518",
+    "20090601",
+    "20091126",
+    "20091208"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "emptyroom"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "03",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "08",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "13",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "14",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "15",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "emptyroom",
+      "age": null,
+      "sex": "n/a"
+    }
+  ],
+  "tasks": [
+    "TODO: full task name for faceprocessing",
+    "facerecognition",
+    "faceprocessing"
+  ],
+  "modalities": [
+    "MRI",
+    "MEG",
+    "beh"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural",
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 1157,
+  "size": 6573020,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "beh",
+    "meg",
+    "anat",
+    "dwi",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,44 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-073/ses-T2/func/sub-073_ses-T2_task-Mult_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/sub-073/ses-T2/func/sub-073_ses-T2_task-Mult_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 33,
+        "issueMessage": "'err'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-073/ses-T2/func/sub-073_ses-T2_task-Mult_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-073/ses-T2/func/sub-073_ses-T2_task-Mult_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "prime_stim",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-073/ses-T2/func/sub-073_ses-T2_task-Mult_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "target_stim",
+        "severity": "warning"
+      }
+    ]
+  }
+}

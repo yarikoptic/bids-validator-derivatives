@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"second\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-28/eeg/sub-28_task-ImaginedEmotion_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"second\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/sub-28/eeg/sub-28_task-ImaginedEmotion_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

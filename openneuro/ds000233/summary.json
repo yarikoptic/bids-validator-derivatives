@@ -1,0 +1,111 @@
+{
+  "sessions": [],
+  "subjects": [
+    "rid000001",
+    "rid000012",
+    "rid000017",
+    "rid000024",
+    "rid000027",
+    "rid000031",
+    "rid000032",
+    "rid000033",
+    "rid000034",
+    "rid000036",
+    "rid000037",
+    "rid000041"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "rid000001",
+      "age": 24,
+      "sex": "m",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000012",
+      "age": 24,
+      "sex": "f",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000017",
+      "age": 24,
+      "sex": "m",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000024",
+      "age": 24,
+      "sex": "f",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000027",
+      "age": 25,
+      "sex": "m",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000031",
+      "age": 28,
+      "sex": "f",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000032",
+      "age": 24,
+      "sex": "f",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000033",
+      "age": 26,
+      "sex": "m",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000034",
+      "age": 28,
+      "sex": "f",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000036",
+      "age": 26,
+      "sex": "f",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000037",
+      "age": 31,
+      "sex": "m",
+      "group": "control"
+    },
+    {
+      "participantId": "rid000041",
+      "age": 21,
+      "sex": "f",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "beh",
+    "tax"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 415,
+  "size": 1186059,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,136 @@
+{
+  "sessions": [],
+  "subjects": [
+    "A0023",
+    "A0078",
+    "A0085",
+    "A0100",
+    "A0106",
+    "A0110",
+    "A0123",
+    "A0125",
+    "A0127",
+    "A0129",
+    "A0134",
+    "A0136",
+    "A0148",
+    "A0150",
+    "A0155",
+    "A0159",
+    "A0161",
+    "A0163",
+    "A0164"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "A0023",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0078",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0085",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0100",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0106",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0110",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0123",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0125",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0127",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0129",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0134",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0136",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0148",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0150",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0155",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0159",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0161",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0163",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "A0164",
+      "age": null,
+      "sex": "n/a"
+    }
+  ],
+  "tasks": [
+    "OcularLDT"
+  ],
+  "modalities": [
+    "MEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 122,
+  "size": 1281187,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,45 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "0011",
+    "0014",
+    "0016",
+    "0022",
+    "0023",
+    "0025",
+    "0027",
+    "0028",
+    "0032",
+    "0033",
+    "0034",
+    "0035",
+    "0037",
+    "0039",
+    "0040"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "task-cont",
+    "task-disp",
+    "task-mot"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 379,
+  "size": 237775,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

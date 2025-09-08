@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "21",
+    "22"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "newbi4fmri_VAR4_Motion"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 45,
+  "size": 112634,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

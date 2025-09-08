@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/dbe/dca/SHA1--305335c5b5a8d73634be94115b6164ec3a69830d.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

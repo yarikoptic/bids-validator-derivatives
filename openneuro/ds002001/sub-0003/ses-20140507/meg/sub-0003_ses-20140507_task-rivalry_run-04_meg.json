@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENTS_TSV_MISSING",
+        "location": "/sub-0003/ses-20140507/meg/sub-0003_ses-20140507_task-rivalry_run-04_meg.ds/",
+        "rule": "rules.checks.events.EventsMissing",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "sessions": [
+    "19111207",
+    "19111208",
+    "19111209",
+    "19111211",
+    "19111212",
+    "19111213",
+    "19111214",
+    "19111215",
+    "19111216",
+    "19111217",
+    "19111218"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "emptyroom"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "02",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "03",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "05",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "06",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "07",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "08",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "09",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "10",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "11",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "12",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "emptyroom",
+      "age": null,
+      "sex": "n/a"
+    }
+  ],
+  "tasks": [
+    "localizer",
+    "noise"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 159,
+  "size": 672491,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

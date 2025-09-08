@@ -1,0 +1,356 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3"
+  ],
+  "subjects": [
+    "season101",
+    "season102",
+    "season103",
+    "season104",
+    "season105",
+    "season106",
+    "season107",
+    "season108",
+    "season109",
+    "season110",
+    "season112",
+    "season114",
+    "season116",
+    "season117",
+    "season119",
+    "season120",
+    "season121",
+    "season122",
+    "season123",
+    "season124",
+    "season125",
+    "season126",
+    "season127",
+    "season128",
+    "season129",
+    "season130",
+    "season131",
+    "season132",
+    "season133",
+    "season134",
+    "season135",
+    "season136",
+    "season137",
+    "season138",
+    "season139",
+    "season202",
+    "season204",
+    "season206",
+    "season207",
+    "season208",
+    "season211",
+    "season212",
+    "season213",
+    "season214",
+    "season215",
+    "season216",
+    "season217"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "season101",
+      "age": 22,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season102",
+      "age": 20,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season103",
+      "age": 20,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season104",
+      "age": 23,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season105",
+      "age": 24,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season106",
+      "age": 20,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season107",
+      "age": 22,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season108",
+      "age": 20,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season109",
+      "age": 23,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season110",
+      "age": 24,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season112",
+      "age": 24,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season114",
+      "age": 25,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season116",
+      "age": 26,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season117",
+      "age": 23,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season119",
+      "age": 27,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season120",
+      "age": 21,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season121",
+      "age": 26,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season122",
+      "age": 23,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season123",
+      "age": 22,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season124",
+      "age": 21,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season125",
+      "age": 23,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season126",
+      "age": 21,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season127",
+      "age": 21,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season128",
+      "age": 24,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season129",
+      "age": 19,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season130",
+      "age": 23,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season131",
+      "age": 25,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season132",
+      "age": 25,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season133",
+      "age": 21,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season134",
+      "age": 23,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season135",
+      "age": 20,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season136",
+      "age": 22,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season137",
+      "age": 23,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season138",
+      "age": 19,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season139",
+      "age": 30,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season202",
+      "age": 21,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season204",
+      "age": 20,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season206",
+      "age": 19,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season207",
+      "age": 22,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season208",
+      "age": 21,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season211",
+      "age": 27,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season212",
+      "age": 33,
+      "sex": "F",
+      "group": "1"
+    },
+    {
+      "participantId": "season213",
+      "age": 27,
+      "sex": "M",
+      "group": "1"
+    },
+    {
+      "participantId": "season214",
+      "age": 22,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season215",
+      "age": 26,
+      "sex": "M",
+      "group": "2"
+    },
+    {
+      "participantId": "season216",
+      "age": 23,
+      "sex": "F",
+      "group": "2"
+    },
+    {
+      "participantId": "season217",
+      "age": 24,
+      "sex": "F",
+      "group": "2"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 268,
+  "size": 268371,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "phenotype",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,264 @@
+{
+  "sessions": [
+    "bhb",
+    "glc"
+  ],
+  "subjects": [
+    "006",
+    "010",
+    "011",
+    "012",
+    "013",
+    "015",
+    "016",
+    "019",
+    "020",
+    "021",
+    "023",
+    "027",
+    "028",
+    "029",
+    "034",
+    "037",
+    "041",
+    "042",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "051",
+    "052",
+    "053",
+    "054",
+    "057",
+    "099",
+    "058",
+    "059",
+    "063",
+    "067",
+    "081",
+    "085",
+    "091",
+    "094",
+    "098"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "006",
+      "age": 35,
+      "sex": "1"
+    },
+    {
+      "participantId": "010",
+      "age": 24,
+      "sex": "1"
+    },
+    {
+      "participantId": "011",
+      "age": 25,
+      "sex": "1"
+    },
+    {
+      "participantId": "012",
+      "age": 34,
+      "sex": "0"
+    },
+    {
+      "participantId": "013",
+      "age": 35,
+      "sex": "1"
+    },
+    {
+      "participantId": "015",
+      "age": 35,
+      "sex": "0"
+    },
+    {
+      "participantId": "016",
+      "age": 28,
+      "sex": "0"
+    },
+    {
+      "participantId": "019",
+      "age": 24,
+      "sex": "1"
+    },
+    {
+      "participantId": "020",
+      "age": 22,
+      "sex": "1"
+    },
+    {
+      "participantId": "021",
+      "age": 23,
+      "sex": "0"
+    },
+    {
+      "participantId": "023",
+      "age": 26,
+      "sex": "0"
+    },
+    {
+      "participantId": "027",
+      "age": 27,
+      "sex": "0"
+    },
+    {
+      "participantId": "028",
+      "age": 25,
+      "sex": "1"
+    },
+    {
+      "participantId": "029",
+      "age": 23,
+      "sex": "1"
+    },
+    {
+      "participantId": "034",
+      "age": 23,
+      "sex": "1"
+    },
+    {
+      "participantId": "037",
+      "age": 21,
+      "sex": "0"
+    },
+    {
+      "participantId": "041",
+      "age": 23,
+      "sex": "1"
+    },
+    {
+      "participantId": "042",
+      "age": 28,
+      "sex": "0"
+    },
+    {
+      "participantId": "044",
+      "age": 26,
+      "sex": "0"
+    },
+    {
+      "participantId": "045",
+      "age": 26,
+      "sex": "0"
+    },
+    {
+      "participantId": "046",
+      "age": 24,
+      "sex": "1"
+    },
+    {
+      "participantId": "047",
+      "age": 37,
+      "sex": "0"
+    },
+    {
+      "participantId": "048",
+      "age": 21,
+      "sex": "1"
+    },
+    {
+      "participantId": "049",
+      "age": 23,
+      "sex": "1"
+    },
+    {
+      "participantId": "051",
+      "age": 41,
+      "sex": "0"
+    },
+    {
+      "participantId": "052",
+      "age": 22,
+      "sex": "1"
+    },
+    {
+      "participantId": "053",
+      "age": 45,
+      "sex": "0"
+    },
+    {
+      "participantId": "054",
+      "age": 48,
+      "sex": "0"
+    },
+    {
+      "participantId": "057",
+      "age": 40,
+      "sex": "1"
+    },
+    {
+      "participantId": "058",
+      "age": 31,
+      "sex": "1"
+    },
+    {
+      "participantId": "059",
+      "age": 25,
+      "sex": "1"
+    },
+    {
+      "participantId": "063",
+      "age": 45,
+      "sex": "0"
+    },
+    {
+      "participantId": "067",
+      "age": 43,
+      "sex": "0"
+    },
+    {
+      "participantId": "081",
+      "age": 47,
+      "sex": "0"
+    },
+    {
+      "participantId": "085",
+      "age": 30,
+      "sex": "1"
+    },
+    {
+      "participantId": "091",
+      "age": 48,
+      "sex": "1"
+    },
+    {
+      "participantId": "094",
+      "age": 29,
+      "sex": "0"
+    },
+    {
+      "participantId": "098",
+      "age": 28,
+      "sex": "1"
+    },
+    {
+      "participantId": "099",
+      "age": 23,
+      "sex": "0"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1082,
+  "size": 337841,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

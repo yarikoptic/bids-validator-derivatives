@@ -1,0 +1,101 @@
+{
+  "sessions": [
+    "Nepopre",
+    "nepo6m"
+  ],
+  "subjects": [
+    "NEPO01",
+    "NEPO03",
+    "NEPO04",
+    "NEPO06",
+    "NEPO07",
+    "NEPO09",
+    "NEPO12",
+    "NEPO15",
+    "NEPO16",
+    "NEPO18",
+    "NEPO20",
+    "NEPO21",
+    "NEPO22",
+    "NEPO25",
+    "NEPO26"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "NEPO26",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO21",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO07",
+      "sex": "0"
+    },
+    {
+      "participantId": "NEPO01",
+      "sex": "0"
+    },
+    {
+      "participantId": "NEPO16",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO03",
+      "sex": "0"
+    },
+    {
+      "participantId": "NEPO18",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO12",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO25",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO06",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO20",
+      "sex": "0"
+    },
+    {
+      "participantId": "NEPO09",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO15",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO04",
+      "sex": "1"
+    },
+    {
+      "participantId": "NEPO22",
+      "sex": "1"
+    }
+  ],
+  "tasks": [
+    "task pre nepo",
+    "task 6m nepo "
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 149,
+  "size": 626155,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

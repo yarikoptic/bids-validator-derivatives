@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MULTIPLE_README_FILES",
+        "location": "/README",
+        "rule": "rules.checks.general.DuplicateReadmes",
+        "severity": "error"
+      }
+    ]
+  }
+}

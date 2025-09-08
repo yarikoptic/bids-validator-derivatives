@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Description",
+        "location": "/sub-718220/ses-01/sub-718220_ses-01_scans.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.derivatives.common_derivatives.CommonDerivativeFields",
+        "issueMessage": "Field description: Free-form natural language description.\n"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "sessions": [],
+  "subjects": [
+    "BigBrain",
+    "ICBM2009asym",
+    "ICBM2009sym",
+    "PD25"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "BigBrain"
+    },
+    {
+      "participantId": "ICBM2009sym"
+    },
+    {
+      "participantId": "ICBM2009asym"
+    },
+    {
+      "participantId": "PD25"
+    }
+  ],
+  "tasks": [],
+  "modalities": [],
+  "secondaryModalities": [],
+  "totalFiles": 8,
+  "size": 7365,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [],
+  "schemaVersion": "1.2.0-dev"
+}

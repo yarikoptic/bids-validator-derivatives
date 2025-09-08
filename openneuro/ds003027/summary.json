@@ -1,0 +1,64 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "10",
+    "11",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "12",
+    "13"
+  ],
+  "subjects": [
+    "Na002",
+    "Na003",
+    "Na010",
+    "Na021",
+    "Na023",
+    "Na026",
+    "Na027",
+    "Na028",
+    "Na029",
+    "Na031",
+    "Na032",
+    "Na033",
+    "Na034",
+    "Na035",
+    "Na036",
+    "Na037",
+    "Na038",
+    "Na039",
+    "Na040",
+    "Na052",
+    "Na053",
+    "Na055",
+    "Na056"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural",
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 1970,
+  "size": 369776,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

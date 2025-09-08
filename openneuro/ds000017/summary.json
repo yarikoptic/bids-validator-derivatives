@@ -1,0 +1,78 @@
+{
+  "sessions": [
+    "timepoint1",
+    "timepoint2"
+  ],
+  "subjects": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "2",
+      "age": 44,
+      "sex": "M"
+    },
+    {
+      "participantId": "3",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "4",
+      "age": 49,
+      "sex": "M"
+    },
+    {
+      "participantId": "5",
+      "age": 49,
+      "sex": "F"
+    },
+    {
+      "participantId": "6",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "7",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "8",
+      "age": 50,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "probabilistic classification",
+    "selective stop-signal task"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 202,
+  "size": 227997,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

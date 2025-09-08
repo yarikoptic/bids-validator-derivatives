@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/10a/c85/MD5E-s22663103--e9d5abf205b69dcbd8643ea30e83133a.nii.gz.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

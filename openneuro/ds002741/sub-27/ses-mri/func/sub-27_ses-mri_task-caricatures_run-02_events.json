@@ -1,0 +1,49 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-27/ses-mri/func/sub-27_ses-mri_task-caricatures_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-27/ses-mri/func/sub-27_ses-mri_task-caricatures_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "identity",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-27/ses-mri/func/sub-27_ses-mri_task-caricatures_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "expression",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-27/ses-mri/func/sub-27_ses-mri_task-caricatures_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "caric_cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-27/ses-mri/func/sub-27_ses-mri_task-caricatures_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "button_pushed",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-27/ses-mri/func/sub-27_ses-mri_task-caricatures_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stim_name",
+        "severity": "warning"
+      }
+    ]
+  }
+}

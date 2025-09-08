@@ -1,0 +1,430 @@
+{
+  "sessions": [
+    "T1"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "sex": "1"
+    },
+    {
+      "participantId": "02",
+      "sex": "1"
+    },
+    {
+      "participantId": "03",
+      "sex": "1"
+    },
+    {
+      "participantId": "04",
+      "sex": "1"
+    },
+    {
+      "participantId": "05",
+      "sex": "1"
+    },
+    {
+      "participantId": "06",
+      "sex": "1"
+    },
+    {
+      "participantId": "07",
+      "sex": "1"
+    },
+    {
+      "participantId": "08",
+      "sex": "1"
+    },
+    {
+      "participantId": "09",
+      "sex": "1"
+    },
+    {
+      "participantId": "10",
+      "sex": "1"
+    },
+    {
+      "participantId": "11",
+      "sex": "1"
+    },
+    {
+      "participantId": "12",
+      "sex": "1"
+    },
+    {
+      "participantId": "13",
+      "sex": "1"
+    },
+    {
+      "participantId": "14",
+      "sex": "1"
+    },
+    {
+      "participantId": "15",
+      "sex": "1"
+    },
+    {
+      "participantId": "16",
+      "sex": "2"
+    },
+    {
+      "participantId": "17",
+      "sex": "1"
+    },
+    {
+      "participantId": "18",
+      "sex": "2"
+    },
+    {
+      "participantId": "19",
+      "sex": "2"
+    },
+    {
+      "participantId": "20",
+      "sex": "1"
+    },
+    {
+      "participantId": "21",
+      "sex": "2"
+    },
+    {
+      "participantId": "22",
+      "sex": "1"
+    },
+    {
+      "participantId": "23",
+      "sex": "2"
+    },
+    {
+      "participantId": "24",
+      "sex": "1"
+    },
+    {
+      "participantId": "25",
+      "sex": "1"
+    },
+    {
+      "participantId": "26",
+      "sex": "2"
+    },
+    {
+      "participantId": "27",
+      "sex": "2"
+    },
+    {
+      "participantId": "28",
+      "sex": "2"
+    },
+    {
+      "participantId": "29",
+      "sex": "1"
+    },
+    {
+      "participantId": "30",
+      "sex": "1"
+    },
+    {
+      "participantId": "31",
+      "sex": "1"
+    },
+    {
+      "participantId": "32",
+      "sex": "1"
+    },
+    {
+      "participantId": "33",
+      "sex": "1"
+    },
+    {
+      "participantId": "34",
+      "sex": "1"
+    },
+    {
+      "participantId": "35",
+      "sex": "1"
+    },
+    {
+      "participantId": "36",
+      "sex": "1"
+    },
+    {
+      "participantId": "37",
+      "sex": "1"
+    },
+    {
+      "participantId": "38",
+      "sex": "1"
+    },
+    {
+      "participantId": "39",
+      "sex": "1"
+    },
+    {
+      "participantId": "40",
+      "sex": "1"
+    },
+    {
+      "participantId": "41",
+      "sex": "2"
+    },
+    {
+      "participantId": "42",
+      "sex": "2"
+    },
+    {
+      "participantId": "43",
+      "sex": "1"
+    },
+    {
+      "participantId": "44",
+      "sex": "1"
+    },
+    {
+      "participantId": "45",
+      "sex": "2"
+    },
+    {
+      "participantId": "46",
+      "sex": "1"
+    },
+    {
+      "participantId": "47",
+      "sex": "2"
+    },
+    {
+      "participantId": "48",
+      "sex": "1"
+    },
+    {
+      "participantId": "49",
+      "sex": "2"
+    },
+    {
+      "participantId": "50",
+      "sex": "1"
+    },
+    {
+      "participantId": "51",
+      "sex": "1"
+    },
+    {
+      "participantId": "52",
+      "sex": "2"
+    },
+    {
+      "participantId": "53",
+      "sex": "1"
+    },
+    {
+      "participantId": "54",
+      "sex": "1"
+    },
+    {
+      "participantId": "55",
+      "sex": "1"
+    },
+    {
+      "participantId": "56",
+      "sex": "1"
+    },
+    {
+      "participantId": "57",
+      "sex": "1"
+    },
+    {
+      "participantId": "58",
+      "sex": "1"
+    },
+    {
+      "participantId": "59",
+      "sex": "1"
+    },
+    {
+      "participantId": "60",
+      "sex": "1"
+    },
+    {
+      "participantId": "61",
+      "sex": "1"
+    },
+    {
+      "participantId": "62",
+      "sex": "1"
+    },
+    {
+      "participantId": "63",
+      "sex": "1"
+    },
+    {
+      "participantId": "64",
+      "sex": "1"
+    },
+    {
+      "participantId": "65",
+      "sex": "1"
+    },
+    {
+      "participantId": "66",
+      "sex": "1"
+    },
+    {
+      "participantId": "67",
+      "sex": "1"
+    },
+    {
+      "participantId": "68",
+      "sex": "1"
+    },
+    {
+      "participantId": "69",
+      "sex": "1"
+    },
+    {
+      "participantId": "70",
+      "sex": "1"
+    },
+    {
+      "participantId": "71",
+      "sex": "1"
+    },
+    {
+      "participantId": "72",
+      "sex": "1"
+    },
+    {
+      "participantId": "73",
+      "sex": "1"
+    },
+    {
+      "participantId": "74",
+      "sex": "1"
+    },
+    {
+      "participantId": "75",
+      "sex": "1"
+    },
+    {
+      "participantId": "76",
+      "sex": "1"
+    },
+    {
+      "participantId": "77",
+      "sex": "1"
+    },
+    {
+      "participantId": "78",
+      "sex": "1"
+    },
+    {
+      "participantId": "79",
+      "sex": "1"
+    }
+  ],
+  "tasks": [
+    "VisuoSpatial Working Memory, Large Reward, Delayed Feedback",
+    "VisuoSpatial Working Memory, Large Reward, Immediate Feedback",
+    "VisuoSpatial Working Memory, Small Reward, Delayed Feedback",
+    "VisuoSpatial Working Memory, Small Reward, Immediate Feedback",
+    "Verbal Working Memory, Large Reward, Delayed Feedback",
+    "Verbal Working Memory, Large Reward, Immediate Feedback",
+    "Verbal Working Memory, Small Reward, Delayed Feedback",
+    "Verbal Working Memory, Small Reward, Immediate Feedback"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1227,
+  "size": 3026415,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

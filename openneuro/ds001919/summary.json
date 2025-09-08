@@ -1,0 +1,1548 @@
+{
+  "sessions": [],
+  "subjects": [
+    "amu01",
+    "amu02",
+    "amu03",
+    "amu04",
+    "amu05",
+    "balgrist01",
+    "balgrist02",
+    "balgrist03",
+    "balgrist04",
+    "balgrist05",
+    "balgrist06",
+    "barcelona01",
+    "barcelona02",
+    "barcelona03",
+    "barcelona04",
+    "barcelona05",
+    "barcelona06",
+    "cardiff01",
+    "cardiff02",
+    "cardiff03",
+    "cardiff04",
+    "cardiff05",
+    "cardiff06",
+    "cmrra01",
+    "cmrra02",
+    "cmrra03",
+    "cmrra04",
+    "cmrra05",
+    "cmrra06",
+    "cmrrb01",
+    "cmrrb02",
+    "cmrrb03",
+    "cmrrb04",
+    "cmrrb05",
+    "cmrrb06",
+    "cmrrb07",
+    "dresden01",
+    "dresden02",
+    "geneva01",
+    "geneva02",
+    "geneva03",
+    "geneva04",
+    "geneva05",
+    "geneva06",
+    "hamburg01",
+    "hamburg02",
+    "hamburg03",
+    "hamburg04",
+    "hamburg05",
+    "hamburg06",
+    "juntendo750w01",
+    "juntendo750w02",
+    "juntendo750w03",
+    "juntendo750w04",
+    "juntendo750w05",
+    "juntendo750w06",
+    "mgh01",
+    "mgh02",
+    "mgh03",
+    "mgh04",
+    "mgh05",
+    "mgh06",
+    "milan01",
+    "milan02",
+    "milan03",
+    "milan04",
+    "milan05",
+    "milan06",
+    "milan07",
+    "mniPilot1",
+    "mniS01",
+    "mniS02",
+    "mniS03",
+    "mniS04",
+    "mniS05",
+    "mniS06",
+    "mniS07",
+    "mniS08",
+    "mniS09",
+    "mpicbs01",
+    "mpicbs02",
+    "mpicbs03",
+    "mpicbs05",
+    "mpicbs06",
+    "mpicbs07",
+    "nottwil01",
+    "nottwil02",
+    "nottwil03",
+    "nottwil04",
+    "nottwil05",
+    "nottwil06",
+    "nwu01",
+    "nwu02",
+    "nwu03",
+    "nwu04",
+    "nwu05",
+    "nwu06",
+    "oxfordFmrib01",
+    "oxfordFmrib02",
+    "oxfordFmrib03",
+    "oxfordFmrib04",
+    "oxfordFmrib05",
+    "oxfordFmrib06",
+    "oxfordFmrib07",
+    "oxfordFmrib08",
+    "oxfordFmrib09",
+    "oxfordFmrib10",
+    "oxfordFmrib11",
+    "oxfordOhba01",
+    "oxfordOhba02",
+    "oxfordOhba03",
+    "oxfordOhba04",
+    "oxfordOhba05",
+    "pavia01",
+    "perform01",
+    "perform02",
+    "perform03",
+    "perform04",
+    "perform05",
+    "perform06",
+    "queensland01",
+    "queensland02",
+    "queensland03",
+    "queensland04",
+    "queensland05",
+    "queensland06",
+    "sapienza01",
+    "sapienza02",
+    "sapienza03",
+    "sapienza04",
+    "sapienza05",
+    "sapienza06",
+    "sherbrooke01",
+    "sherbrooke02",
+    "sherbrooke03",
+    "sherbrooke04",
+    "sherbrooke05",
+    "sherbrooke06",
+    "sherbrooke07",
+    "stanford01",
+    "stanford02",
+    "stanford03",
+    "stanford04",
+    "stanford05",
+    "stanford06",
+    "strasbourg01",
+    "strasbourg02",
+    "strasbourg03",
+    "strasbourg04",
+    "strasbourg05",
+    "strasbourg06",
+    "tehranS01",
+    "tehranS02",
+    "tehranS03",
+    "tehranS04",
+    "tehranS05",
+    "tehranS06",
+    "tokyo750w01",
+    "tokyo750w02",
+    "tokyo750w03",
+    "tokyo750w04",
+    "tokyo750w05",
+    "tokyo750w06",
+    "tokyo750w07",
+    "tokyoIngenia01",
+    "tokyoIngenia02",
+    "tokyoIngenia03",
+    "tokyoIngenia04",
+    "tokyoIngenia05",
+    "tokyoIngenia06",
+    "tokyoIngenia07",
+    "tokyoSkyra01",
+    "tokyoSkyra02",
+    "tokyoSkyra03",
+    "tokyoSkyra04",
+    "tokyoSkyra05",
+    "tokyoSkyra06",
+    "tokyoSkyra07",
+    "ubc01",
+    "ubc02",
+    "ubc03",
+    "ubc04",
+    "ubc05",
+    "ubc06",
+    "ucl01",
+    "ucl02",
+    "ucl03",
+    "ucl04",
+    "ucl05",
+    "ucl06",
+    "unf01",
+    "unf02",
+    "unf03",
+    "unf04",
+    "unf05",
+    "unf06",
+    "unf07",
+    "vallHebron01",
+    "vallHebron02",
+    "vallHebron03",
+    "vallHebron04",
+    "vallHebron05",
+    "vallHebron06",
+    "vallHebron07",
+    "vuiisAchieva01",
+    "vuiisAchieva02",
+    "vuiisAchieva03",
+    "vuiisAchieva04",
+    "vuiisAchieva05",
+    "vuiisAchieva06",
+    "vuiisIngenia01",
+    "vuiisIngenia02",
+    "vuiisIngenia03",
+    "vuiisIngenia04",
+    "vuiisIngenia05",
+    "vuiisIngenia06",
+    "pavia02",
+    "pavia03",
+    "pavia04",
+    "pavia05",
+    "pavia06",
+    "beijingGE01",
+    "beijingGE02",
+    "beijingGE03",
+    "beijingGE04",
+    "beijingPrisma01",
+    "beijingPrisma02",
+    "beijingPrisma03",
+    "beijingPrisma04",
+    "beijingPrisma05",
+    "beijingVerio01",
+    "beijingVerio02",
+    "beijingVerio03",
+    "beijingVerio04",
+    "brnoCeitec01",
+    "brnoCeitec02",
+    "brnoCeitec03",
+    "brnoCeitec04",
+    "brnoCeitec05",
+    "brnoCeitec06",
+    "brnoUhb01",
+    "brnoUhb02",
+    "brnoUhb03",
+    "brnoUhb04",
+    "brnoUhb05",
+    "brnoUhb06",
+    "brnoUhb07",
+    "brnoUhb08",
+    "mountSinai01",
+    "mountSinai02",
+    "mountSinai03",
+    "mountSinai04",
+    "mountSinai05",
+    "mountSinai06"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "amu01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "amu02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "amu03",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "amu04",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "amu05",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "balgrist01",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "balgrist02",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "balgrist03",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "balgrist04",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "balgrist05",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "balgrist06",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "barcelona01",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "barcelona02",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "barcelona03",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "barcelona04",
+      "age": 39,
+      "sex": "F"
+    },
+    {
+      "participantId": "barcelona05",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "barcelona06",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "beijingGE01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingGE02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingGE03",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingGE04",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingPrisma01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingPrisma02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingPrisma03",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingPrisma04",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingPrisma05",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingVerio01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingVerio02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingVerio03",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "beijingVerio04",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoCeitec01",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "brnoCeitec02",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "brnoCeitec03",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "brnoCeitec04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "brnoCeitec05",
+      "age": 42,
+      "sex": "F"
+    },
+    {
+      "participantId": "brnoCeitec06",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "brnoUhb01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb03",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb04",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb05",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb06",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb07",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "brnoUhb08",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "cardiff01",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "cardiff02",
+      "age": 34,
+      "sex": "F"
+    },
+    {
+      "participantId": "cardiff03",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "cardiff04",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "cardiff05",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "cardiff06",
+      "age": 40,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrra01",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrra02",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrra03",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "cmrra04",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "cmrra05",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "cmrra06",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrrb01",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "cmrrb02",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrrb03",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrrb04",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrrb05",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "cmrrb06",
+      "age": 38,
+      "sex": "F"
+    },
+    {
+      "participantId": "cmrrb07",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "dresden01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "dresden02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "geneva01",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "geneva02",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "geneva03",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "geneva04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "geneva05",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "geneva06",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "hamburg01",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "hamburg02",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "hamburg03",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "hamburg04",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "hamburg05",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "hamburg06",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "juntendo750w01",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "juntendo750w02",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "juntendo750w03",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "juntendo750w04",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "juntendo750w05",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "juntendo750w06",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "mgh01",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "mgh02",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "mgh03",
+      "age": 43,
+      "sex": "F"
+    },
+    {
+      "participantId": "mgh04",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "mgh05",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "mgh06",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "milan01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "milan02",
+      "age": 35,
+      "sex": "F"
+    },
+    {
+      "participantId": "milan03",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "milan04",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "milan05",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "milan06",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "milan07",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniPilot1",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "mniS01",
+      "age": 37,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniS02",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniS03",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniS04",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniS05",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniS06",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "mniS07",
+      "age": 40,
+      "sex": "F"
+    },
+    {
+      "participantId": "mniS08",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "mniS09",
+      "age": 42,
+      "sex": "F"
+    },
+    {
+      "participantId": "mountSinai01",
+      "age": 40,
+      "sex": "M"
+    },
+    {
+      "participantId": "mountSinai02",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "mountSinai03",
+      "age": 37,
+      "sex": "M"
+    },
+    {
+      "participantId": "mountSinai04",
+      "age": 37,
+      "sex": "M"
+    },
+    {
+      "participantId": "mountSinai05",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "mountSinai06",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "mpicbs01",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "mpicbs02",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "mpicbs03",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "mpicbs05",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "mpicbs06",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "mpicbs07",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "nottwil01",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "nottwil02",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "nottwil03",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "nottwil04",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "nottwil05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "nottwil06",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "nwu01",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "nwu02",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "nwu03",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "nwu04",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "nwu05",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "nwu06",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "oxfordFmrib01",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib02",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib03",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib04",
+      "age": 42,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib05",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib06",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "oxfordFmrib07",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib08",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "oxfordFmrib09",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordFmrib10",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "oxfordFmrib11",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "oxfordOhba01",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "oxfordOhba02",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordOhba03",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordOhba04",
+      "age": 42,
+      "sex": "M"
+    },
+    {
+      "participantId": "oxfordOhba05",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "pavia01",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "pavia02",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "pavia03",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "pavia04",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "pavia05",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "pavia06",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "perform01",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "perform02",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "perform03",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "perform04",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "perform05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "perform06",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "queensland01",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "queensland02",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "queensland03",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "queensland04",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "queensland05",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "queensland06",
+      "age": 44,
+      "sex": "M"
+    },
+    {
+      "participantId": "sapienza01",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "sapienza02",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "sapienza03",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "sapienza04",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "sapienza05",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "sapienza06",
+      "age": null,
+      "sex": "-"
+    },
+    {
+      "participantId": "sherbrooke01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "sherbrooke02",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "sherbrooke03",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "sherbrooke04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "sherbrooke05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "sherbrooke06",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "sherbrooke07",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "stanford01",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "stanford02",
+      "age": 39,
+      "sex": "F"
+    },
+    {
+      "participantId": "stanford03",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "stanford04",
+      "age": 34,
+      "sex": "F"
+    },
+    {
+      "participantId": "stanford05",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "stanford06",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "strasbourg01",
+      "age": 40,
+      "sex": "M"
+    },
+    {
+      "participantId": "strasbourg02",
+      "age": 52,
+      "sex": "M"
+    },
+    {
+      "participantId": "strasbourg03",
+      "age": 41,
+      "sex": "F"
+    },
+    {
+      "participantId": "strasbourg04",
+      "age": 50,
+      "sex": "F"
+    },
+    {
+      "participantId": "strasbourg05",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "strasbourg06",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "tehranS01",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "tehranS02",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "tehranS03",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "tehranS04",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "tehranS05",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "tehranS06",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyo750w01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyo750w02",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyo750w03",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyo750w04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyo750w05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyo750w06",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyo750w07",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoIngenia01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoIngenia02",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyoIngenia03",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoIngenia04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyoIngenia05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyoIngenia06",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoIngenia07",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoSkyra01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoSkyra02",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyoSkyra03",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoSkyra04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyoSkyra05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "tokyoSkyra06",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "tokyoSkyra07",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "ubc01",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "ubc02",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "ubc03",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "ubc04",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "ubc05",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "ubc06",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "ucl01",
+      "age": 34,
+      "sex": "F"
+    },
+    {
+      "participantId": "ucl02",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "ucl03",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "ucl04",
+      "age": 37,
+      "sex": "F"
+    },
+    {
+      "participantId": "ucl05",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "ucl06",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "unf01",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "unf02",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "unf03",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "unf04",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "unf05",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "unf06",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "unf07",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "vallHebron01",
+      "age": null,
+      "sex": "M"
+    },
+    {
+      "participantId": "vallHebron02",
+      "age": null,
+      "sex": "F"
+    },
+    {
+      "participantId": "vallHebron03",
+      "age": null,
+      "sex": "F"
+    },
+    {
+      "participantId": "vallHebron04",
+      "age": null,
+      "sex": "M"
+    },
+    {
+      "participantId": "vallHebron05",
+      "age": null,
+      "sex": "F"
+    },
+    {
+      "participantId": "vallHebron06",
+      "age": null,
+      "sex": "M"
+    },
+    {
+      "participantId": "vallHebron07",
+      "age": null,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisAchieva01",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisAchieva02",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisAchieva03",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisAchieva04",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "vuiisAchieva05",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisAchieva06",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisIngenia01",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "vuiisIngenia02",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "vuiisIngenia03",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "vuiisIngenia04",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "vuiisIngenia05",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "vuiisIngenia06",
+      "age": 31,
+      "sex": "M"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 2561,
+  "size": 2178961,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

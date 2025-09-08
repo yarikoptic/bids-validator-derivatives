@@ -1,0 +1,39 @@
+{
+  "sessions": [
+    "anatomy",
+    "testCategory01",
+    "testNoCategory01",
+    "training01",
+    "training02",
+    "training03"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "testCategory",
+    "testNoCategory",
+    "training"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 393,
+  "size": 477848,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

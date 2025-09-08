@@ -1,0 +1,77 @@
+{
+  "sessions": [
+    "1",
+    "2"
+  ],
+  "subjects": [
+    "RC4101",
+    "RC4103",
+    "RC4106",
+    "RC4107",
+    "RC4109",
+    "RC4110",
+    "RC4111",
+    "RC4112",
+    "RC4113",
+    "RC4114",
+    "RC4115",
+    "RC4116",
+    "RC4117",
+    "RC4118",
+    "RC4119",
+    "RC4120",
+    "RC4121",
+    "RC4122",
+    "RC4123",
+    "RC4125",
+    "RC4126",
+    "RC4128",
+    "RC4129",
+    "RC4130",
+    "RC4131",
+    "RC4201",
+    "RC4204",
+    "RC4205",
+    "RC4206",
+    "RC4207",
+    "RC4208",
+    "RC4210",
+    "RC4211",
+    "RC4212",
+    "RC4213",
+    "RC4214",
+    "RC4215",
+    "RC4217",
+    "RC4218",
+    "RC4219",
+    "RC4220",
+    "RC4221",
+    "RC4224",
+    "RC4225",
+    "RC4226",
+    "RC4227"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "ANT",
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 905,
+  "size": 2223002,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

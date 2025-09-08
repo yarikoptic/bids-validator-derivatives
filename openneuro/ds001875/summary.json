@@ -1,0 +1,36 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 130,
+  "size": 110619,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

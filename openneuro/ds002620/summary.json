@@ -1,0 +1,296 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "ER003",
+    "ER004",
+    "ER006",
+    "ER007",
+    "ER008",
+    "ER009",
+    "ER010",
+    "ER011",
+    "ER012",
+    "ER014",
+    "ER015",
+    "ER016",
+    "ER017",
+    "ER018",
+    "ER019",
+    "ER021",
+    "ER022",
+    "ER023",
+    "ER024",
+    "ER025",
+    "ER026",
+    "ER028",
+    "ER029",
+    "ER030",
+    "ER031",
+    "ER032",
+    "ER033",
+    "ER034",
+    "ER037",
+    "ER038",
+    "ER039",
+    "ER040",
+    "ER041",
+    "ER042",
+    "ER043",
+    "ER044",
+    "ER045",
+    "ER046",
+    "ER047",
+    "ER048",
+    "ER049",
+    "ER050",
+    "ER051",
+    "ER054",
+    "ER055",
+    "ER056",
+    "ER057",
+    "ER058",
+    "ER059",
+    "ER060",
+    "ER061",
+    "ER062",
+    "ER064",
+    "ER065",
+    "ER067",
+    "ER068",
+    "ER069",
+    "ER073",
+    "ER074",
+    "ER076",
+    "ER077",
+    "ER078",
+    "ER502",
+    "ER503",
+    "ER504",
+    "ER505",
+    "ER506",
+    "ER507",
+    "ER508",
+    "ER509",
+    "ER510",
+    "ER511",
+    "ER512",
+    "ER513",
+    "ER514",
+    "ER515",
+    "ER516",
+    "ER517",
+    "ER518",
+    "ER519",
+    "ER520",
+    "ER521"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "ER006",
+      "age": 81.05,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER007",
+      "age": 73.02,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER008",
+      "age": 74.95,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER009",
+      "age": 82.02,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER010",
+      "age": 76.98,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER011",
+      "age": 73.98,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER012",
+      "age": 78.02,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER015",
+      "age": 78.97,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER016",
+      "age": 75.05,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER017",
+      "age": 74.99,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER018",
+      "age": 73.04,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER019",
+      "age": 83.05,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER021",
+      "age": 76.99,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER024",
+      "age": 78.06,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER026",
+      "age": 73,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER028",
+      "age": 72.99,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER029",
+      "age": 71.06,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER032",
+      "age": 75.05,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER033",
+      "age": 61.07,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER037",
+      "age": 69.02,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER038",
+      "age": 59.04,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER039",
+      "age": 56.03,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER040",
+      "age": 78.05,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER041",
+      "age": 79.07,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER042",
+      "age": 83.09,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER043",
+      "age": 63.02,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER046",
+      "age": 71.99,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER047",
+      "age": 65,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER048",
+      "age": 67.01,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER050",
+      "age": 66.1,
+      "sex": "Male"
+    },
+    {
+      "participantId": "ER051",
+      "age": 66.92,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER058",
+      "age": 69.98,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER067",
+      "age": 69,
+      "sex": "Female"
+    },
+    {
+      "participantId": "ER069",
+      "age": 79.99,
+      "sex": "Female"
+    },
+    {
+      "participantId": "",
+      "age": null,
+      "sex": ""
+    },
+    {
+      "participantId": "",
+      "age": null,
+      "sex": ""
+    }
+  ],
+  "tasks": [
+    "Emoreg Run1",
+    "Emoreg Run2",
+    "Emoreg Run3",
+    "Emoreg Run4"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1781,
+  "size": 663906,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "fmap",
+    "func",
+    "anat",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

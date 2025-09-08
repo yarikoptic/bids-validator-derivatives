@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/task-objects_events.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

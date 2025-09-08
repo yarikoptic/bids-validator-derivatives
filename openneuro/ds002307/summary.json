@@ -1,0 +1,113 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "subjects": [
+    "Ey112",
+    "Ey113",
+    "Ey114",
+    "Ey117",
+    "Ey119",
+    "Ey142",
+    "Ey143",
+    "Ey144",
+    "Ey145",
+    "Ey146",
+    "Ey153",
+    "Ey154",
+    "Ey155",
+    "Ey156",
+    "Ey157",
+    "Ey158",
+    "Ey159",
+    "Ey160",
+    "Ey161"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "Ey112"
+    },
+    {
+      "participantId": "Ey113"
+    },
+    {
+      "participantId": "Ey114"
+    },
+    {
+      "participantId": "Ey117"
+    },
+    {
+      "participantId": "Ey119"
+    },
+    {
+      "participantId": "Ey142"
+    },
+    {
+      "participantId": "Ey143"
+    },
+    {
+      "participantId": "Ey144"
+    },
+    {
+      "participantId": "Ey145"
+    },
+    {
+      "participantId": "Ey146"
+    },
+    {
+      "participantId": "Ey153"
+    },
+    {
+      "participantId": "Ey154"
+    },
+    {
+      "participantId": "Ey155"
+    },
+    {
+      "participantId": "Ey156"
+    },
+    {
+      "participantId": "Ey157"
+    },
+    {
+      "participantId": "Ey158"
+    },
+    {
+      "participantId": "Ey159"
+    },
+    {
+      "participantId": "Ey160"
+    },
+    {
+      "participantId": "Ey161"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural",
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 1299,
+  "size": 237427,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func",
+    "anat",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

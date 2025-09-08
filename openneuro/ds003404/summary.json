@@ -1,0 +1,108 @@
+{
+  "sessions": [],
+  "subjects": [
+    "C05",
+    "C13",
+    "C14",
+    "C15",
+    "C22",
+    "C23",
+    "C25",
+    "C26",
+    "C27",
+    "C29",
+    "C32",
+    "C34",
+    "C36",
+    "C39",
+    "C40",
+    "C41",
+    "C45",
+    "C50",
+    "C33",
+    "C43"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "C05"
+    },
+    {
+      "participantId": "C13"
+    },
+    {
+      "participantId": "C14"
+    },
+    {
+      "participantId": "C15"
+    },
+    {
+      "participantId": "C22"
+    },
+    {
+      "participantId": "C23"
+    },
+    {
+      "participantId": "C25"
+    },
+    {
+      "participantId": "C26"
+    },
+    {
+      "participantId": "C27"
+    },
+    {
+      "participantId": "C29"
+    },
+    {
+      "participantId": "C32"
+    },
+    {
+      "participantId": "C33"
+    },
+    {
+      "participantId": "C34"
+    },
+    {
+      "participantId": "C36"
+    },
+    {
+      "participantId": "C39"
+    },
+    {
+      "participantId": "C40"
+    },
+    {
+      "participantId": "C41"
+    },
+    {
+      "participantId": "C43"
+    },
+    {
+      "participantId": "C45"
+    },
+    {
+      "participantId": "C50"
+    }
+  ],
+  "tasks": [
+    "rest",
+    "viscomp"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 737,
+  "size": 544478,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

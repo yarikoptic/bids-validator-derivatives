@@ -1,0 +1,112 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "offset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "block",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "task",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "lexicality",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "congruency",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_spaced",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "correct",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "word_freq",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "nb_letters",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "nb_phonemes",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ratio",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-graphemes_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "nb_syllables",
+        "severity": "warning"
+      }
+    ]
+  }
+}

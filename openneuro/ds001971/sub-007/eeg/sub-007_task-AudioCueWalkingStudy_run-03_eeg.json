@@ -1,0 +1,76 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISC_CHANNEL_COUNT_MISMATCH",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "rule": "rules.checks.eeg.MiscChannelCountReq",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MISCChannelCount",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Number of miscellaneous channels not covered otherwise.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TriggerChannelCount",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Number of channels for digital (binary TTL) triggers or analog equivalents (TTL in volt).\nCorresponds to the `TRIG` channel type.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "HeadCircumference",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Circumference of the participant's head, expressed in cm (for example, `58`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "HardwareFilters",
+        "location": "/sub-007/eeg/sub-007_task-AudioCueWalkingStudy_run-03_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Object of temporal hardware filters applied, or `\"n/a\"` if the data is not\navailable. Each key-value pair in the JSON object is a name of the filter and\nan object in which its parameters are defined as key-value pairs.\nFor example, `{\"Highpass RC filter\": {\"Half amplitude cutoff (Hz)\":\n0.0159, \"Roll-off\": \"6dB/Octave\"}}`.\n"
+      }
+    ]
+  }
+}

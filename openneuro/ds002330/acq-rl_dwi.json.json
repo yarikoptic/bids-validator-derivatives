@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_INVALID",
+        "location": "/acq-rl_dwi.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

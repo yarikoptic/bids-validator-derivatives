@@ -1,0 +1,76 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "INVALID_LOCATION",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Expected location: /sub-10/ses-movie/",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_KEY_REQUIRED",
+        "subCode": "SamplingFrequency",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "error",
+        "rule": "rules.sidecars.continuous.Continuous",
+        "issueMessage": "Field description: Sampling frequency (in Hz) of all the data in the recording,\nregardless of their type (for example, `2400`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_REQUIRED",
+        "subCode": "StartTime",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "error",
+        "rule": "rules.sidecars.continuous.Continuous",
+        "issueMessage": "Field description: Start time in seconds in relation to the start of acquisition of the first\ndata sample in the corresponding (neural) dataset (negative values are allowed).\nThis data MAY be specified with sub-second precision using the syntax `s[.000000]`,\nwhere `s` reflects whole seconds, and `.000000` reflects OPTIONAL fractional seconds.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_REQUIRED",
+        "subCode": "Columns",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "error",
+        "rule": "rules.sidecars.continuous.Continuous",
+        "issueMessage": "Field description: Names of columns in file.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Manufacturer",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: Manufacturer of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ManufacturersModelName",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: Manufacturer's model name of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskName",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.entity_rules.EntitiesTaskMetadata",
+        "issueMessage": "Field description: Name of the task.\nNo two tasks should have the same name.\nThe task label included in the filename MAY be derived from this `\"TaskName\"` field\nby removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),\nand potentially replacing spaces with `+` to ease readability.\nFor example `\"TaskName\"` `\"faces n-back\"` or `\"head nodding\"` could correspond to task labels\n`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.\n"
+      }
+    ]
+  }
+}

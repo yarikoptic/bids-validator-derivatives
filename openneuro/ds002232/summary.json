@@ -1,0 +1,71 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "Cc0046",
+    "Cc0053",
+    "Cc0061",
+    "Cc0063",
+    "Cc0087",
+    "Cc0124"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "Cc0046",
+      "age": 28,
+      "sex": "F",
+      "group": "CNT1"
+    },
+    {
+      "participantId": "Cc0053",
+      "age": 34,
+      "sex": "F",
+      "group": "CNT3"
+    },
+    {
+      "participantId": "Cc0061",
+      "age": 21,
+      "sex": "M",
+      "group": "CNT4"
+    },
+    {
+      "participantId": "Cc0063",
+      "age": 26,
+      "sex": "M",
+      "group": "CNT5"
+    },
+    {
+      "participantId": "Cc0087",
+      "age": 25,
+      "sex": "F",
+      "group": "CNT6"
+    },
+    {
+      "participantId": "Cc0124",
+      "age": 27,
+      "sex": "F",
+      "group": "CNT2"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 76,
+  "size": 76962,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

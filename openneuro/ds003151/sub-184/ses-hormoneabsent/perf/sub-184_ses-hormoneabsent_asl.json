@@ -1,0 +1,92 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TOTAL_ACQUIRED_VOLUMES_NOT_CONSISTENT",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "rule": "rules.checks.asl.ASLTotalAcquiredPairsASLContextLength",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "VascularCrushing",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.asl.MRIASLCommonMetadataFields",
+        "issueMessage": "Field description: Boolean indicating if Vascular Crushing is used.\nCorresponds to [DICOM Tag 0018, 9259](https://dicomlookup.com/dicomtags/(0018,9259)) `ASL Crusher Flag`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "LabelingDistance",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.asl.MRIASLCommonMetadataFields",
+        "issueMessage": "Field description: Distance from the center of the imaging slab to the center of the labeling\nplane (`(P)CASL`) or the leading edge of the labeling slab (`PASL`),\nin millimeters.\nIf the labeling is performed inferior to the isocenter,\nthis number should be negative.\nBased on DICOM macro C.8.13.5.14.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "LabelingLocationDescription",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.asl.MRIASLCommonMetadataFields",
+        "issueMessage": "Field description: Description of the location of the labeling plane (`\"CASL\"` or `\"PCASL\"`) or\nthe labeling slab (`\"PASL\"`) that cannot be captured by fields\n`LabelingOrientation` or `LabelingDistance`.\nMay include a link to a deidentified screenshot of the planning of the\nlabeling slab/plane with respect to the imaging slab or slices\n`*_asllabeling.*`.\nBased on DICOM macro C.8.13.5.14.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "BackgroundSuppressionNumberPulses",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.asl.MRIASLCommonMetadataFieldsBackgroundSuppressionReq",
+        "issueMessage": "Field description: The number of background suppression pulses used.\nNote that this excludes any effect of background suppression pulses applied\nbefore the labeling.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "BackgroundSuppressionPulseTime",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.asl.MRIASLCommonMetadataFieldsBackgroundSuppressionReq",
+        "issueMessage": "Field description: Array of numbers containing timing, in seconds,\nof the background suppression pulses with respect to the start of the\nlabeling.\nIn case of multi-PLD with different background suppression pulse times,\nonly the pulse time of the first PLD should be defined.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "LabelingSlabThickness",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.asl.MRIASLPaslSpecific",
+        "issueMessage": "Field description: Thickness of the labeling slab in millimeters.\nFor non-selective FAIR a zero is entered.\nCorresponds to [DICOM Tag 0018, 9254](https://dicomlookup.com/dicomtags/(0018,9254)) `ASL Slab Thickness`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MatrixCoilMode",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: (If used)\nA method for reducing the number of independent channels by combining in\nanalog the signals from multiple coil elements.\nThere are typically different default modes when using un-accelerated or\naccelerated (for example, `\"GRAPPA\"`, `\"SENSE\"`) imaging.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CoilCombinationMethod",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares\n(rSOS) combination, but other methods exist.\nThe image reconstruction is changed by the coil combination method\n(as for the matrix coil mode above),\nso anything non-standard should be reported.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "NonlinearGradientCorrection",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Boolean stating if the image saved has been corrected for gradient\nnonlinearities by the scanner sequence.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PartialFourierDirection",
+        "location": "/sub-184/ses-hormoneabsent/perf/sub-184_ses-hormoneabsent_asl.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIPartialFourier",
+        "issueMessage": "Field description: The direction where only partial Fourier information was collected.\nCorresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.\n"
+      }
+    ]
+  }
+}

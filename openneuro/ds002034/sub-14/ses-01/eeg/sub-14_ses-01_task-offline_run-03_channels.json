@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/sub-14/ses-01/eeg/sub-14_ses-01_task-offline_run-03_channels.tsv",
+        "issueMessage": "Row: 65, Value: REF",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "severity": "error"
+      }
+    ]
+  }
+}

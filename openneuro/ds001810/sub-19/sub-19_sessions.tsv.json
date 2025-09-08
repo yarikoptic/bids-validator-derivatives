@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "session_id",
+        "location": "/sub-19/sub-19_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "line": 2,
+        "issueMessage": "'cathodalpost'",
+        "severity": "error"
+      }
+    ]
+  }
+}

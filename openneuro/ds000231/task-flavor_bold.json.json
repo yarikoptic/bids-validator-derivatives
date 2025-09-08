@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MultibandAccelerationFactor",
+        "issueMessage": "must be number\n\nField description: The multiband factor, for multiband acquisitions.\n",
+        "rule": "rules.sidecars.mri.MRISliceAcceleration",
+        "location": "/task-flavor_bold.json",
+        "affects": [
+          "/sub-01/func/sub-01_task-flavor_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

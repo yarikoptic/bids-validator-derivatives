@@ -1,0 +1,106 @@
+{
+  "sessions": [
+    "action",
+    "localiser"
+  ],
+  "subjects": [
+    "CR09",
+    "DT12",
+    "JM15",
+    "JR24",
+    "KH02",
+    "KL04",
+    "LB28",
+    "LP12",
+    "MC17",
+    "MK14",
+    "QP18",
+    "QR30",
+    "RE29",
+    "RL17",
+    "RS06",
+    "SC13",
+    "ST28",
+    "TS12",
+    "VB04"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "CR09"
+    },
+    {
+      "participantId": "DT12"
+    },
+    {
+      "participantId": "JM15"
+    },
+    {
+      "participantId": "JR24"
+    },
+    {
+      "participantId": "KH02"
+    },
+    {
+      "participantId": "KL04"
+    },
+    {
+      "participantId": "LB28"
+    },
+    {
+      "participantId": "LP12"
+    },
+    {
+      "participantId": "MC17"
+    },
+    {
+      "participantId": "MK14"
+    },
+    {
+      "participantId": "QP18"
+    },
+    {
+      "participantId": "QR30"
+    },
+    {
+      "participantId": "RE29"
+    },
+    {
+      "participantId": "RL17"
+    },
+    {
+      "participantId": "RS06"
+    },
+    {
+      "participantId": "SC13"
+    },
+    {
+      "participantId": "ST28"
+    },
+    {
+      "participantId": "TS12"
+    },
+    {
+      "participantId": "VB04"
+    }
+  ],
+  "tasks": [
+    "grasp",
+    "localiser"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 677,
+  "size": 748974,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

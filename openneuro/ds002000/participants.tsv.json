@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "age",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 2,
+        "issueMessage": "'NaN', did you mean 'n/a'?",
+        "severity": "error"
+      }
+    ]
+  }
+}

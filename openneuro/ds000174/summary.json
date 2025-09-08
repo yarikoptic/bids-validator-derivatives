@@ -1,0 +1,235 @@
+{
+  "sessions": [
+    "BL",
+    "FU"
+  ],
+  "subjects": [
+    "101",
+    "103",
+    "104",
+    "108",
+    "109",
+    "112",
+    "116",
+    "117",
+    "119",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "130",
+    "132",
+    "133",
+    "202",
+    "206",
+    "207",
+    "209",
+    "211",
+    "213",
+    "218",
+    "222",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "308",
+    "309",
+    "311",
+    "313",
+    "314",
+    "316",
+    "318",
+    "319",
+    "320"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "202",
+      "group": "HC"
+    },
+    {
+      "participantId": "206",
+      "group": "HC"
+    },
+    {
+      "participantId": "207",
+      "group": "HC"
+    },
+    {
+      "participantId": "209",
+      "group": "HC"
+    },
+    {
+      "participantId": "211",
+      "group": "HC"
+    },
+    {
+      "participantId": "213",
+      "group": "HC"
+    },
+    {
+      "participantId": "218",
+      "group": "HC"
+    },
+    {
+      "participantId": "222",
+      "group": "HC"
+    },
+    {
+      "participantId": "302",
+      "group": "HC"
+    },
+    {
+      "participantId": "303",
+      "group": "HC"
+    },
+    {
+      "participantId": "304",
+      "group": "HC"
+    },
+    {
+      "participantId": "305",
+      "group": "HC"
+    },
+    {
+      "participantId": "306",
+      "group": "HC"
+    },
+    {
+      "participantId": "308",
+      "group": "HC"
+    },
+    {
+      "participantId": "309",
+      "group": "HC"
+    },
+    {
+      "participantId": "311",
+      "group": "HC"
+    },
+    {
+      "participantId": "313",
+      "group": "HC"
+    },
+    {
+      "participantId": "314",
+      "group": "HC"
+    },
+    {
+      "participantId": "316",
+      "group": "HC"
+    },
+    {
+      "participantId": "318",
+      "group": "HC"
+    },
+    {
+      "participantId": "319",
+      "group": "HC"
+    },
+    {
+      "participantId": "320",
+      "group": "HC"
+    },
+    {
+      "participantId": "101",
+      "group": "CB"
+    },
+    {
+      "participantId": "103",
+      "group": "CB"
+    },
+    {
+      "participantId": "104",
+      "group": "CB"
+    },
+    {
+      "participantId": "108",
+      "group": "CB"
+    },
+    {
+      "participantId": "109",
+      "group": "CB"
+    },
+    {
+      "participantId": "112",
+      "group": "CB"
+    },
+    {
+      "participantId": "116",
+      "group": "CB"
+    },
+    {
+      "participantId": "117",
+      "group": "CB"
+    },
+    {
+      "participantId": "119",
+      "group": "CB"
+    },
+    {
+      "participantId": "121",
+      "group": "CB"
+    },
+    {
+      "participantId": "122",
+      "group": "CB"
+    },
+    {
+      "participantId": "123",
+      "group": "CB"
+    },
+    {
+      "participantId": "124",
+      "group": "CB"
+    },
+    {
+      "participantId": "125",
+      "group": "CB"
+    },
+    {
+      "participantId": "126",
+      "group": "CB"
+    },
+    {
+      "participantId": "127",
+      "group": "CB"
+    },
+    {
+      "participantId": "128",
+      "group": "CB"
+    },
+    {
+      "participantId": "130",
+      "group": "CB"
+    },
+    {
+      "participantId": "132",
+      "group": "CB"
+    },
+    {
+      "participantId": "133",
+      "group": "CB"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 89,
+  "size": 15781,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

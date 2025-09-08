@@ -1,0 +1,146 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_2",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_3",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_4",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_5",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_6",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_7",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_8",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_9",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_10",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_11",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_12",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_13",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_14",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_15",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_16",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_17",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_18",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_19",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/TAS.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "TAS_20",
+        "severity": "warning"
+      }
+    ]
+  }
+}

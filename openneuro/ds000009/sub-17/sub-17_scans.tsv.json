@@ -1,0 +1,34 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-17/sub-17_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "filename",
+        "location": "/sub-17/sub-17_scans.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "filename",
+        "location": "/sub-17/sub-17_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-17/sub-17_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "file_name",
+        "severity": "warning"
+      }
+    ]
+  }
+}

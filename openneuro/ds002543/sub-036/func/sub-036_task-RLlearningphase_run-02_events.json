@@ -1,0 +1,112 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Pair",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Choice",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Feedback_Onset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Feedback_duration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Balance",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RPE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Q_chosen",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Q_notchosen",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "npair",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Beta_Q",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "alpha_gain",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-036/func/sub-036_task-RLlearningphase_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "alpha_loss",
+        "severity": "warning"
+      }
+    ]
+  }
+}

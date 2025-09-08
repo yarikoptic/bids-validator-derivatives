@@ -1,0 +1,426 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_2",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_3",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_4",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_5",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_6",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_7",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_8",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_9",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_10",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_11",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_12",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_13",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_14",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_15",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_16",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_17",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_18",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_19",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_20",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_21",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_22",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_23",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_24",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_25",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_26",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_27",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_28",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_29",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_30",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_31",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_32",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_33",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_34",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_35",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_36",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_37",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_38",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_39",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_40",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_41",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_42",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_43",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_44",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_45",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_46",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_47",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_48",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_49",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_50",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_51",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_52",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_53",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_54",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_55",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_56",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_57",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_58",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_59",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/EQ.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "EQ_60",
+        "severity": "warning"
+      }
+    ]
+  }
+}

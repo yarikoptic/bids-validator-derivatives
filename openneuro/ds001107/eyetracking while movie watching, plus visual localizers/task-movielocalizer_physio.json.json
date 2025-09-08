@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "ALL_FILENAME_RULES_HAVE_ISSUES",
+        "location": "/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "issueMessage": "Rules that matched with issues: rules.files.raw.task.timeseries, rules.files.raw.task.timeseries__anat, rules.files.raw.task.timeseries__func, rules.files.raw.task.timeseries__meg, rules.files.raw.task.timeseries__motion, rules.files.raw.task.timeseries__pet",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

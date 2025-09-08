@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"second\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-011/ses-02/eeg/sub-011_ses-02_task-gonogo_run-2_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"millisecond\" must be \"s\"",
+        "subCode": "response_time",
+        "location": "/sub-011/ses-02/eeg/sub-011_ses-02_task-gonogo_run-2_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

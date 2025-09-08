@@ -1,0 +1,54 @@
+{
+  "sessions": [],
+  "subjects": [
+    "KKY921",
+    "KKY922",
+    "SNT099",
+    "SNT101",
+    "SNT102",
+    "SNT103",
+    "SNT104"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "SNT099"
+    },
+    {
+      "participantId": "SNT101"
+    },
+    {
+      "participantId": "SNT102"
+    },
+    {
+      "participantId": "SNT103"
+    },
+    {
+      "participantId": "SNT104"
+    },
+    {
+      "participantId": "KKY921"
+    },
+    {
+      "participantId": "KKY922"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 45,
+  "size": 8298,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

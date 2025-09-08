@@ -1,0 +1,462 @@
+{
+  "sessions": [],
+  "subjects": [
+    "adult01",
+    "adult02",
+    "adult03",
+    "adult04",
+    "adult05",
+    "adult06",
+    "adult07",
+    "adult08",
+    "adult09",
+    "adult10",
+    "adult11",
+    "adult12",
+    "adult13",
+    "adult14",
+    "adult15",
+    "adult16",
+    "adult17",
+    "adult18",
+    "adult19",
+    "adult20",
+    "adult21",
+    "child01",
+    "child02",
+    "child03",
+    "child04",
+    "child05",
+    "child06",
+    "child07",
+    "child08",
+    "child09",
+    "child10",
+    "child11",
+    "child12",
+    "child13",
+    "child14",
+    "child15",
+    "child16",
+    "child17",
+    "child18",
+    "child19",
+    "child20",
+    "child21",
+    "teen01",
+    "teen02",
+    "teen03",
+    "teen04",
+    "teen05",
+    "teen06",
+    "teen07",
+    "teen08",
+    "teen09",
+    "teen10",
+    "teen11",
+    "teen12",
+    "teen13",
+    "teen14",
+    "teen15",
+    "teen16",
+    "teen17",
+    "teen18",
+    "teen19",
+    "teen20"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "child01",
+      "age": 10,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child02",
+      "age": 10,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child03",
+      "age": 10,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child04",
+      "age": 10,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child05",
+      "age": 10,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child06",
+      "age": 10,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child07",
+      "age": 10,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child08",
+      "age": 10,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child09",
+      "age": 11,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child10",
+      "age": 11,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child11",
+      "age": 11,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child12",
+      "age": 11,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child13",
+      "age": 11,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child14",
+      "age": 11,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child15",
+      "age": 11,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child16",
+      "age": 12,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child17",
+      "age": 12,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child18",
+      "age": 12,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child19",
+      "age": 12,
+      "sex": "F",
+      "group": "children"
+    },
+    {
+      "participantId": "child20",
+      "age": 12,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "child21",
+      "age": 12,
+      "sex": "M",
+      "group": "children"
+    },
+    {
+      "participantId": "teen01",
+      "age": 14,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen02",
+      "age": 14,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen03",
+      "age": 14,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen04",
+      "age": 14,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen05",
+      "age": 15,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen06",
+      "age": 15,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen07",
+      "age": 15,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen08",
+      "age": 15,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen09",
+      "age": 15,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen10",
+      "age": 15,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen11",
+      "age": 15,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen12",
+      "age": 16,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen13",
+      "age": 16,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen14",
+      "age": 16,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen15",
+      "age": 16,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen16",
+      "age": 16,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen17",
+      "age": 16,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen18",
+      "age": 16,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen19",
+      "age": 16,
+      "sex": "F",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "teen20",
+      "age": 16,
+      "sex": "M",
+      "group": "adolescents"
+    },
+    {
+      "participantId": "adult01",
+      "age": 30,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult02",
+      "age": 26,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult03",
+      "age": 22,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult04",
+      "age": 32,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult05",
+      "age": 28,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult06",
+      "age": 28,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult07",
+      "age": 27,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult08",
+      "age": 27,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult09",
+      "age": 24,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult10",
+      "age": 28,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult11",
+      "age": 30,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult12",
+      "age": 22,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult13",
+      "age": 23,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult14",
+      "age": 32,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult15",
+      "age": 21,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult16",
+      "age": 21,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult17",
+      "age": 31,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult18",
+      "age": 24,
+      "sex": "M",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult19",
+      "age": 28,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult20",
+      "age": 34,
+      "sex": "F",
+      "group": "adults"
+    },
+    {
+      "participantId": "adult21",
+      "age": 24,
+      "sex": "F",
+      "group": "adults"
+    }
+  ],
+  "tasks": [
+    "autobio",
+    "episodic",
+    "semantic"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 686,
+  "size": 658617,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

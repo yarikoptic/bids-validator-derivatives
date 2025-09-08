@@ -1,0 +1,113 @@
+{
+  "sessions": [
+    "retest",
+    "test"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "02",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "05",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "age": 35,
+      "sex": "F"
+    },
+    {
+      "participantId": "08",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "09",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "10",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "13",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "age": 24,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "living-nonliving decision with plain or mirror-reversed text"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 388,
+  "size": 211677,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

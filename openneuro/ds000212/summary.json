@@ -1,0 +1,264 @@
+{
+  "sessions": [],
+  "subjects": [
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "22",
+    "23",
+    "24",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "44",
+    "45",
+    "46",
+    "47"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "03",
+      "age": 22,
+      "group": "NT"
+    },
+    {
+      "participantId": "04",
+      "age": 19,
+      "group": "NT"
+    },
+    {
+      "participantId": "05",
+      "age": 20,
+      "group": "NT"
+    },
+    {
+      "participantId": "06",
+      "age": 20,
+      "group": "NT"
+    },
+    {
+      "participantId": "07",
+      "age": 19,
+      "group": "NT"
+    },
+    {
+      "participantId": "08",
+      "age": 26,
+      "group": "NT"
+    },
+    {
+      "participantId": "09",
+      "age": 22,
+      "group": "NT"
+    },
+    {
+      "participantId": "10",
+      "age": 25,
+      "group": "NT"
+    },
+    {
+      "participantId": "11",
+      "age": 24,
+      "group": "NT"
+    },
+    {
+      "participantId": "12",
+      "age": 23,
+      "group": "NT"
+    },
+    {
+      "participantId": "13",
+      "age": 22,
+      "group": "NT"
+    },
+    {
+      "participantId": "14",
+      "age": 23,
+      "group": "NT"
+    },
+    {
+      "participantId": "15",
+      "age": 30,
+      "group": "ASD"
+    },
+    {
+      "participantId": "16",
+      "age": 27,
+      "group": "ASD"
+    },
+    {
+      "participantId": "17",
+      "age": 38,
+      "group": "ASD"
+    },
+    {
+      "participantId": "18",
+      "age": 29,
+      "group": "ASD"
+    },
+    {
+      "participantId": "19",
+      "age": 36,
+      "group": "ASD"
+    },
+    {
+      "participantId": "20",
+      "age": 46,
+      "group": "ASD"
+    },
+    {
+      "participantId": "22",
+      "age": 24,
+      "group": "ASD"
+    },
+    {
+      "participantId": "23",
+      "age": 21,
+      "group": "ASD"
+    },
+    {
+      "participantId": "24",
+      "age": 27,
+      "group": "ASD"
+    },
+    {
+      "participantId": "27",
+      "age": 39,
+      "group": "NT"
+    },
+    {
+      "participantId": "28",
+      "age": 32,
+      "group": "NT"
+    },
+    {
+      "participantId": "29",
+      "age": 41,
+      "group": "ASD"
+    },
+    {
+      "participantId": "30",
+      "age": 29,
+      "group": "ASD"
+    },
+    {
+      "participantId": "31",
+      "age": 36,
+      "group": "ASD"
+    },
+    {
+      "participantId": "32",
+      "age": 50,
+      "group": "NT"
+    },
+    {
+      "participantId": "33",
+      "age": 40,
+      "group": "NT"
+    },
+    {
+      "participantId": "34",
+      "age": 33,
+      "group": "NT"
+    },
+    {
+      "participantId": "35",
+      "age": 45,
+      "group": "NT"
+    },
+    {
+      "participantId": "38",
+      "age": 43,
+      "group": "NT"
+    },
+    {
+      "participantId": "39",
+      "age": 46,
+      "group": "ASD"
+    },
+    {
+      "participantId": "40",
+      "age": 44,
+      "group": "NT"
+    },
+    {
+      "participantId": "41",
+      "age": 20,
+      "group": "NT"
+    },
+    {
+      "participantId": "42",
+      "age": 28,
+      "group": "NT"
+    },
+    {
+      "participantId": "44",
+      "age": 37,
+      "group": "ASD"
+    },
+    {
+      "participantId": "45",
+      "age": 21,
+      "group": "NT"
+    },
+    {
+      "participantId": "46",
+      "age": 36,
+      "group": "NT"
+    },
+    {
+      "participantId": "47",
+      "age": 20,
+      "group": "NT"
+    }
+  ],
+  "tasks": [
+    "MPRAGE",
+    "dis",
+    "fb",
+    "tom",
+    "tomloc"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1198,
+  "size": 8873086340,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

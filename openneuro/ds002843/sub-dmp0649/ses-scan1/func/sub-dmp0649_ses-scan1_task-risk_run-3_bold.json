@@ -1,0 +1,166 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskDescription",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "issueMessage": "Field description: Longer description of the task.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StationName",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Institution defined name of the machine that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ReceiveCoilName",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Information describing the receiver coil.\nCorresponds to [DICOM Tag 0018, 1250](https://dicomlookup.com/dicomtags/(0018,1250)) `Receive Coil Name`,\nalthough not all vendors populate that DICOM Tag,\nin which case this field can be derived from an appropriate\nprivate DICOM field.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ReceiveCoilActiveElements",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Information describing the active/selected elements of the receiver coil.\nThis does not correspond to a tag in the DICOM ontology.\nThe vendor-defined terminology for active coil elements can go in this field.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MatrixCoilMode",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: (If used)\nA method for reducing the number of independent channels by combining in\nanalog the signals from multiple coil elements.\nThere are typically different default modes when using un-accelerated or\naccelerated (for example, `\"GRAPPA\"`, `\"SENSE\"`) imaging.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CoilCombinationMethod",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares\n(rSOS) combination, but other methods exist.\nThe image reconstruction is changed by the coil combination method\n(as for the matrix coil mode above),\nso anything non-standard should be reported.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PulseSequenceType",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: A general description of the pulse sequence used for the scan.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SequenceName",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Manufacturer's designation of the sequence name.\nCorresponds to [DICOM Tag 0018, 0024](https://dicomlookup.com/dicomtags/(0018,0024)) `Sequence Name`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PulseSequenceDetails",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Information beyond pulse sequence type that identifies the specific pulse\nsequence used (for example,\n`\"Standard Siemens Sequence distributed with the VB17 software\"`,\n`\"Siemens WIP ### version #.##,\"` or\n`\"Sequence written by X using a version compiled on MM/DD/YYYY\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "NonlinearGradientCorrection",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Boolean stating if the image saved has been corrected for gradient\nnonlinearities by the scanner sequence.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MRAcquisitionType",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Type of sequence readout.\nCorresponds to [DICOM Tag 0018, 0023](https://dicomlookup.com/dicomtags/(0018,0023)) `MR Acquisition Type`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DwellTime",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "issueMessage": "Field description: Actual dwell time (in seconds) of the receiver per point in the readout\ndirection, including any oversampling.\nFor Siemens, this corresponds to DICOM field 0019, 1018 (in ns).\nThis value is necessary for the optional readout distortion correction of\nanatomicals in the HCP Pipelines.\nIt also usefully provides a handle on the readout bandwidth,\nwhich isn't captured in the other metadata tags.\nNot to be confused with `\"EffectiveEchoSpacing\"`, and the frequent mislabeling\nof echo spacing (which is spacing in the phase encoding direction) as\n\"dwell time\" (which is spacing in the readout direction).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionName",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIInstitutionInformation",
+        "issueMessage": "Field description: The name of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-dmp0649/ses-scan1/func/sub-dmp0649_ses-scan1_task-risk_run-3_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      }
+    ]
+  }
+}

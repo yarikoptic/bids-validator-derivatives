@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/fbf/ccd/SHA1--e8cd81507ee603e2c3f69befcab512ca825dcf18.log.rmet",
+        "severity": "error"
+      }
+    ]
+  }
+}

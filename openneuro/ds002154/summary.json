@@ -1,0 +1,195 @@
+{
+  "sessions": [
+    "1",
+    "2"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1"
+    },
+    {
+      "participantId": "1"
+    },
+    {
+      "participantId": "2"
+    },
+    {
+      "participantId": "2"
+    },
+    {
+      "participantId": "3"
+    },
+    {
+      "participantId": "3"
+    },
+    {
+      "participantId": "4"
+    },
+    {
+      "participantId": "4"
+    },
+    {
+      "participantId": "6"
+    },
+    {
+      "participantId": "6"
+    },
+    {
+      "participantId": "7"
+    },
+    {
+      "participantId": "7"
+    },
+    {
+      "participantId": "8"
+    },
+    {
+      "participantId": "8"
+    },
+    {
+      "participantId": "9"
+    },
+    {
+      "participantId": "9"
+    },
+    {
+      "participantId": "10"
+    },
+    {
+      "participantId": "10"
+    },
+    {
+      "participantId": "11"
+    },
+    {
+      "participantId": "11"
+    },
+    {
+      "participantId": "12"
+    },
+    {
+      "participantId": "12"
+    },
+    {
+      "participantId": "13"
+    },
+    {
+      "participantId": "13"
+    },
+    {
+      "participantId": "14"
+    },
+    {
+      "participantId": "14"
+    },
+    {
+      "participantId": "15"
+    },
+    {
+      "participantId": "15"
+    },
+    {
+      "participantId": "16"
+    },
+    {
+      "participantId": "16"
+    },
+    {
+      "participantId": "17"
+    },
+    {
+      "participantId": "17"
+    },
+    {
+      "participantId": "18"
+    },
+    {
+      "participantId": "18"
+    },
+    {
+      "participantId": "19"
+    },
+    {
+      "participantId": "19"
+    },
+    {
+      "participantId": "20"
+    },
+    {
+      "participantId": "20"
+    },
+    {
+      "participantId": "21"
+    },
+    {
+      "participantId": "21"
+    },
+    {
+      "participantId": "22"
+    },
+    {
+      "participantId": "22"
+    },
+    {
+      "participantId": "23"
+    },
+    {
+      "participantId": "23"
+    },
+    {
+      "participantId": "24"
+    },
+    {
+      "participantId": "24"
+    },
+    {
+      "participantId": "25"
+    },
+    {
+      "participantId": "25"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 292,
+  "size": 54083,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

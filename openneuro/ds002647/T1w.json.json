@@ -1,0 +1,643 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-101/anat/sub-101_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-102/anat/sub-102_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-103/anat/sub-103_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-104/anat/sub-104_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-105/anat/sub-105_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-106/anat/sub-106_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-107/anat/sub-107_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-108/anat/sub-108_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-109/anat/sub-109_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-110/anat/sub-110_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-111/anat/sub-111_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-112/anat/sub-112_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-113/anat/sub-113_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-114/anat/sub-114_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-115/anat/sub-115_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-116/anat/sub-116_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-117/anat/sub-117_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-118/anat/sub-118_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-119/anat/sub-119_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-120/anat/sub-120_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-121/anat/sub-121_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-122/anat/sub-122_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-123/anat/sub-123_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-124/anat/sub-124_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-125/anat/sub-125_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-126/anat/sub-126_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-127/anat/sub-127_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-128/anat/sub-128_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-129/anat/sub-129_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-130/anat/sub-130_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-131/anat/sub-131_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-201/anat/sub-201_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-202/anat/sub-202_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-203/anat/sub-203_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-204/anat/sub-204_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-205/anat/sub-205_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-206/anat/sub-206_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-207/anat/sub-207_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-208/anat/sub-208_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-209/anat/sub-209_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-210/anat/sub-210_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-211/anat/sub-211_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-212/anat/sub-212_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-213/anat/sub-213_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-214/anat/sub-214_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-215/anat/sub-215_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-216/anat/sub-216_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-217/anat/sub-217_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-218/anat/sub-218_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-219/anat/sub-219_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-220/anat/sub-220_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-221/anat/sub-221_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-222/anat/sub-222_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-223/anat/sub-223_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-224/anat/sub-224_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-225/anat/sub-225_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-226/anat/sub-226_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-227/anat/sub-227_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-228/anat/sub-228_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-229/anat/sub-229_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-230/anat/sub-230_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-301/anat/sub-301_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-302/anat/sub-302_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-303/anat/sub-303_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-304/anat/sub-304_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-305/anat/sub-305_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-306/anat/sub-306_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-307/anat/sub-307_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-308/anat/sub-308_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-309/anat/sub-309_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-310/anat/sub-310_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-311/anat/sub-311_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-312/anat/sub-312_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-313/anat/sub-313_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-314/anat/sub-314_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-315/anat/sub-315_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-316/anat/sub-316_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-317/anat/sub-317_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-318/anat/sub-318_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-319/anat/sub-319_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-320/anat/sub-320_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-321/anat/sub-321_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-322/anat/sub-322_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-323/anat/sub-323_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-324/anat/sub-324_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-325/anat/sub-325_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-326/anat/sub-326_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-327/anat/sub-327_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-328/anat/sub-328_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-329/anat/sub-329_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/T1w.json",
+        "affects": "/sub-330/anat/sub-330_acq-FSE_T1w.nii.gz",
+        "issueMessage": "Candidate files: /T1w.json,/acq-FSE_T1w.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

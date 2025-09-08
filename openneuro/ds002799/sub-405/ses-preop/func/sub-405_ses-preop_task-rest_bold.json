@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/sub-405/ses-preop/func/sub-405_ses-preop_task-rest_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

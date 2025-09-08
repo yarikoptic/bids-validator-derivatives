@@ -1,0 +1,160 @@
+{
+  "sessions": [],
+  "subjects": [
+    "tb2994",
+    "tb3132",
+    "tb3240",
+    "tb3279",
+    "tb3512",
+    "tb3592",
+    "tb3602",
+    "tb3626",
+    "tb3646",
+    "tb3744",
+    "tb3757",
+    "tb3784",
+    "tb3810",
+    "tb3846",
+    "tb3858",
+    "tb3920",
+    "tb3929",
+    "tb3964",
+    "tb3977",
+    "tb4450",
+    "tb4547",
+    "tb4572"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "tb2994",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3132",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3240",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3279",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3512",
+      "age": 34,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3592",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3602",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3626",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3646",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3744",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3757",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3784",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3810",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3846",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3858",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3920",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3929",
+      "age": 34,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb3964",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb3977",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb4450",
+      "age": 35,
+      "sex": "F"
+    },
+    {
+      "participantId": "tb4547",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "tb4572",
+      "age": 29,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "story1",
+    "story2",
+    "story3"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 100,
+  "size": 15756,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

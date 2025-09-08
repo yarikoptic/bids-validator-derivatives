@@ -1,0 +1,83 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "run",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "iti",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "alt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cong",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "reward",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "task",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "choiceRT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-M80324791/func/sub-M80324791_task-vtsreward_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "targetRT",
+        "severity": "warning"
+      }
+    ]
+  }
+}

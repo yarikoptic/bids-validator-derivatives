@@ -1,0 +1,137 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "sex": "M"
+    },
+    {
+      "participantId": "03",
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "sex": "M"
+    },
+    {
+      "participantId": "05",
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "sex": "F"
+    },
+    {
+      "participantId": "10",
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "sex": "F"
+    },
+    {
+      "participantId": "15",
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "sex": "M"
+    },
+    {
+      "participantId": "17",
+      "sex": "F"
+    },
+    {
+      "participantId": "18",
+      "sex": "F"
+    },
+    {
+      "participantId": "19",
+      "sex": "F"
+    },
+    {
+      "participantId": "20",
+      "sex": "F"
+    },
+    {
+      "participantId": "21",
+      "sex": "F"
+    },
+    {
+      "participantId": "22",
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "Overlap (Monetary Encoding Incentive) Task",
+    "PPA/LOC functional Localizer"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 362,
+  "size": 1073236,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

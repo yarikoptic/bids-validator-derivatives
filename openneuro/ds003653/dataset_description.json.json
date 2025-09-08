@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "DatasetType",
+        "location": "/dataset_description.json",
+        "severity": "warning",
+        "rule": "rules.dataset_metadata.dataset_description",
+        "issueMessage": "Field description: The interpretation of the dataset.\nFor backwards compatibility, the default value is `\"raw\"`.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "SourceDatasets",
+        "location": "/dataset_description.json",
+        "severity": "warning",
+        "rule": "rules.dataset_metadata.dataset_description",
+        "issueMessage": "Field description: Used to specify the locations and relevant attributes of all source datasets.\nValid keys in each object include `\"URL\"`, `\"DOI\"` (see\n[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and\n`\"Version\"` with\n[string](https://www.w3schools.com/js/js_json_datatypes.asp)\nvalues.\n"
+      }
+    ]
+  }
+}

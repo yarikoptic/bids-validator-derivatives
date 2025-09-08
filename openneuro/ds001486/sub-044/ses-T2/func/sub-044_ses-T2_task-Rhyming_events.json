@@ -1,0 +1,35 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-044/ses-T2/func/sub-044_ses-T2_task-Rhyming_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-044/ses-T2/func/sub-044_ses-T2_task-Rhyming_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-044/ses-T2/func/sub-044_ses-T2_task-Rhyming_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "prime_stim",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-044/ses-T2/func/sub-044_ses-T2_task-Rhyming_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "target_stim",
+        "severity": "warning"
+      }
+    ]
+  }
+}

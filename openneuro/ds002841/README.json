@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "README_FILE_SMALL",
+        "location": "/README",
+        "rule": "rules.checks.general.ReadmeFileSmall",
+        "severity": "warning"
+      }
+    ]
+  }
+}

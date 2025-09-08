@@ -1,0 +1,91 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stage",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SearchEvidence",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SearchValue",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SearchCosts",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "OfferValue",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Choice_isForage",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ExcludeBlock",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ExpValueLeft",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ExpValueRight",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-07/func/sub-07_task-forage_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Choice_isLeft",
+        "severity": "warning"
+      }
+    ]
+  }
+}

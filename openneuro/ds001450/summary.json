@@ -1,0 +1,36 @@
+{
+  "sessions": [],
+  "subjects": [
+    "401",
+    "402"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "401",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "402",
+      "age": 26,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 6,
+  "size": 2934,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

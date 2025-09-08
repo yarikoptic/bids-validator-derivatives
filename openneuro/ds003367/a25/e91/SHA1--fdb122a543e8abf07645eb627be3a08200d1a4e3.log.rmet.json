@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/a25/e91/SHA1--fdb122a543e8abf07645eb627be3a08200d1a4e3.log.rmet",
+        "severity": "error"
+      }
+    ]
+  }
+}

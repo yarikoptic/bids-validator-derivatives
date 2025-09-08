@@ -1,0 +1,119 @@
+{
+  "sessions": [],
+  "subjects": [
+    "1700",
+    "1701",
+    "1702",
+    "1707",
+    "1708",
+    "1709",
+    "1710",
+    "1712",
+    "1713",
+    "1714",
+    "1715",
+    "1716",
+    "1717",
+    "1718",
+    "1719"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1700",
+      "age": 27,
+      "sex": "male"
+    },
+    {
+      "participantId": "1701",
+      "age": 21,
+      "sex": "male"
+    },
+    {
+      "participantId": "1702",
+      "age": 20,
+      "sex": "male"
+    },
+    {
+      "participantId": "1707",
+      "age": 31,
+      "sex": "male"
+    },
+    {
+      "participantId": "1708",
+      "age": 23,
+      "sex": "female"
+    },
+    {
+      "participantId": "1709",
+      "age": 22,
+      "sex": "male"
+    },
+    {
+      "participantId": "1710",
+      "age": 35,
+      "sex": "male"
+    },
+    {
+      "participantId": "1712",
+      "age": 27,
+      "sex": "male"
+    },
+    {
+      "participantId": "1713",
+      "age": 24,
+      "sex": "male"
+    },
+    {
+      "participantId": "1714",
+      "age": 19,
+      "sex": "male"
+    },
+    {
+      "participantId": "1715",
+      "age": 23,
+      "sex": "male"
+    },
+    {
+      "participantId": "1716",
+      "age": 26,
+      "sex": "female"
+    },
+    {
+      "participantId": "1717",
+      "age": 29,
+      "sex": "male"
+    },
+    {
+      "participantId": "1718",
+      "age": 31,
+      "sex": "male"
+    },
+    {
+      "participantId": "1719",
+      "age": 23,
+      "sex": "female"
+    }
+  ],
+  "tasks": [
+    "Trained Hand, Trained Sequence",
+    "Trained Hand, Untrained Sequence",
+    "Untrained Hand, Trained Sequence",
+    "Untrained Hand, Untrained Sequence"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 386,
+  "size": 53566,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-08/dixon/",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "attended_stimulus_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "attended_category_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "attended_image_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "unattended_stimulus_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "unattended_category_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "unattended_image_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-04/ses-attention01/func/sub-04_ses-attention01_task-attentionNaturalTestImage_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "unique_image_index",
+        "severity": "warning"
+      }
+    ]
+  }
+}

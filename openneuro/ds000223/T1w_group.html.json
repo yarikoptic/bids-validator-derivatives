@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/T1w_group.html",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "group": "overweight"
+    },
+    {
+      "participantId": "02",
+      "group": "overweight"
+    },
+    {
+      "participantId": "03",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "04",
+      "group": "overweight"
+    },
+    {
+      "participantId": "05",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "06",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "07",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "08",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "09",
+      "group": "overweight"
+    },
+    {
+      "participantId": "10",
+      "group": "overweight"
+    },
+    {
+      "participantId": "11",
+      "group": "overweight"
+    },
+    {
+      "participantId": "12",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "13",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "14",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "15",
+      "group": "overweight"
+    },
+    {
+      "participantId": "16",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "19",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "20",
+      "group": "overweight"
+    },
+    {
+      "participantId": "21",
+      "group": "overweight"
+    },
+    {
+      "participantId": "22",
+      "group": "overweight"
+    },
+    {
+      "participantId": "23",
+      "group": "overweight"
+    },
+    {
+      "participantId": "24",
+      "group": "overweight"
+    },
+    {
+      "participantId": "25",
+      "group": "overweight"
+    },
+    {
+      "participantId": "26",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "27",
+      "group": "normalweight"
+    },
+    {
+      "participantId": "28",
+      "group": "normalweight"
+    }
+  ],
+  "tasks": [
+    "social comparison"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 59,
+  "size": 21945,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

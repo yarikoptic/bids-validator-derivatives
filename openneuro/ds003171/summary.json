@@ -1,0 +1,104 @@
+{
+  "sessions": [],
+  "subjects": [
+    "02CB",
+    "04HD",
+    "04SG",
+    "08BC",
+    "08VR",
+    "10JR",
+    "13CA",
+    "16RA",
+    "17EK",
+    "17NA",
+    "19AK",
+    "19SA",
+    "22CY",
+    "22TK",
+    "27HF",
+    "30AQ",
+    "2525JK"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "02CB"
+    },
+    {
+      "participantId": "04HD"
+    },
+    {
+      "participantId": "04SG"
+    },
+    {
+      "participantId": "08BC"
+    },
+    {
+      "participantId": "08VR"
+    },
+    {
+      "participantId": "10JR"
+    },
+    {
+      "participantId": "13CA"
+    },
+    {
+      "participantId": "16RA"
+    },
+    {
+      "participantId": "17EK"
+    },
+    {
+      "participantId": "17NA"
+    },
+    {
+      "participantId": "19AK"
+    },
+    {
+      "participantId": "19SA"
+    },
+    {
+      "participantId": "22CY"
+    },
+    {
+      "participantId": "22TK"
+    },
+    {
+      "participantId": "2525JK"
+    },
+    {
+      "participantId": "27HF"
+    },
+    {
+      "participantId": "30AQ"
+    }
+  ],
+  "tasks": [
+    "audioawake",
+    "audiodeep",
+    "audiolight",
+    "audiorecovery",
+    "rest",
+    "restdeep",
+    "restlight",
+    "restrecovery",
+    "audio"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 531,
+  "size": 4235442,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

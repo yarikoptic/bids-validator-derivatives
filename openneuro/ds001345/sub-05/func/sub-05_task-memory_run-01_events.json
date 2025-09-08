@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "condition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "target",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "acc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-memory_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimuli",
+        "severity": "warning"
+      }
+    ]
+  }
+}

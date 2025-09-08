@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "size",
+        "location": "/sub-RESP0749/ses-1/ieeg/sub-RESP0749_ses-1_electrodes.json",
+        "rule": "rules.tabular_data.ieeg.iEEGElectrodes",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "09",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "age": 41,
+      "sex": "F"
+    },
+    {
+      "participantId": "13",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "15",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "17",
+      "age": 30,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "visual attention task"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 124,
+  "size": 489286,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

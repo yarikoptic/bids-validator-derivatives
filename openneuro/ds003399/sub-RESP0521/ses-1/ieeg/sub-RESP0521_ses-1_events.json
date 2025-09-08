@@ -1,0 +1,61 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "issueMessage": "task missing from rule rules.files.raw.events.events",
+        "rule": "rules.files.raw.events.events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "onset",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "duration",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "onset",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "duration",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "onset",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "duration",
+        "location": "/sub-RESP0521/ses-1/ieeg/sub-RESP0521_ses-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MatrixCoilMode",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: (If used)\nA method for reducing the number of independent channels by combining in\nanalog the signals from multiple coil elements.\nThere are typically different default modes when using un-accelerated or\naccelerated (for example, `\"GRAPPA\"`, `\"SENSE\"`) imaging.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CoilCombinationMethod",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares\n(rSOS) combination, but other methods exist.\nThe image reconstruction is changed by the coil combination method\n(as for the matrix coil mode above),\nso anything non-standard should be reported.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PulseSequenceType",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: A general description of the pulse sequence used for the scan.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "NonlinearGradientCorrection",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Boolean stating if the image saved has been corrected for gradient\nnonlinearities by the scanner sequence.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PartialFourierDirection",
+        "location": "/sub-5435/ses-7/func/sub-5435_ses-7_task-Sem_acq-D1S7_run-02_bold.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIPartialFourier",
+        "issueMessage": "Field description: The direction where only partial Fourier information was collected.\nCorresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.\n"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/BOLD for task-induced functional MRI/T1w.json",
+        "issueMessage": "sub missing from rule rules.files.raw.anat.nonparametric",
+        "rule": "rules.files.raw.anat.nonparametric",
+        "severity": "error"
+      }
+    ]
+  }
+}

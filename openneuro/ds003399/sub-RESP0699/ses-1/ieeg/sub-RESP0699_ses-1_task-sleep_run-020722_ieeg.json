@@ -1,0 +1,30 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-RESP0699/ses-1/ieeg/sub-RESP0699_ses-1_task-sleep_run-020722_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-RESP0699/ses-1/ieeg/sub-RESP0699_ses-1_task-sleep_run-020722_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-RESP0699/ses-1/ieeg/sub-RESP0699_ses-1_task-sleep_run-020722_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      }
+    ]
+  }
+}

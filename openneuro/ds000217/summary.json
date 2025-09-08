@@ -1,0 +1,277 @@
+{
+  "sessions": [],
+  "subjects": [
+    "Exp1s01",
+    "Exp1s02",
+    "Exp1s03",
+    "Exp1s04",
+    "Exp1s05",
+    "Exp1s06",
+    "Exp1s07",
+    "Exp1s08",
+    "Exp1s09",
+    "Exp1s10",
+    "Exp1s11",
+    "Exp1s12",
+    "Exp1s13",
+    "Exp1s14",
+    "Exp1s15",
+    "Exp1s16",
+    "Exp1s17",
+    "Exp1s18",
+    "Exp1s19",
+    "Exp1s20",
+    "Exp2s01",
+    "Exp2s02",
+    "Exp2s03",
+    "Exp2s04",
+    "Exp2s05",
+    "Exp2s06",
+    "Exp2s07",
+    "Exp2s08",
+    "Exp2s09",
+    "Exp2s10",
+    "Exp2s11",
+    "Exp2s12",
+    "Exp2s13",
+    "Exp2s14",
+    "Exp2s15",
+    "Exp2s16",
+    "Exp2s17",
+    "Exp2s18",
+    "Exp2s19",
+    "Exp2s20",
+    "Exp2s21"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "Exp1s01",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp1s02",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s03",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s04",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s05",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s06",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp1s07",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s08",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s09",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp1s10",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp1s11",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s12",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s13",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s14",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s15",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp1s16",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp1s17",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s18",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s19",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp1s20",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s02",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s03",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s04",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s05",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s06",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s07",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s08",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s09",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s10",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s11",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s12",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s13",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s14",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s15",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s16",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s17",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s18",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "Exp2s19",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s20",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "Exp2s21",
+      "age": 25,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "localizer",
+    "picture test",
+    "route learning"
+  ],
+  "modalities": [
+    "MRI",
+    "beh"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1527,
+  "size": 825768,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "beh",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

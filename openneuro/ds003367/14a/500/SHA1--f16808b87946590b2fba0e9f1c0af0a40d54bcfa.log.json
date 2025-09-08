@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/14a/500/SHA1--f16808b87946590b2fba0e9f1c0af0a40d54bcfa.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

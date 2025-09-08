@@ -1,0 +1,23 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-001/ses-025/func/sub-001_ses-025_task-localizerSR_run-001_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "stim_file",
+        "location": "/sub-001/ses-025/func/sub-001_ses-025_task-localizerSR_run-001_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 7,
+        "issueMessage": "'animals/horse/horse copy.jpg'",
+        "severity": "error"
+      }
+    ]
+  }
+}

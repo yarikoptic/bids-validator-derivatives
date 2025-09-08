@@ -1,0 +1,175 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "16",
+    "17",
+    "18",
+    "20",
+    "21",
+    "23",
+    "24",
+    "25",
+    "26",
+    "28",
+    "29"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "02",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "05",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "17",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "18",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "20",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "21",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "23",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "24",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "25",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "26",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "28",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "29",
+      "age": 22,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "balloon analog risk task",
+    "discounting",
+    "emotional regulation",
+    "stop signal"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 659,
+  "size": 1921691,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

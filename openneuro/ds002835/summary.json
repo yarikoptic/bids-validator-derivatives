@@ -1,0 +1,157 @@
+{
+  "sessions": [],
+  "subjects": [
+    "0217",
+    "0484",
+    "0914",
+    "1052",
+    "1054",
+    "1059",
+    "1060",
+    "1061",
+    "1064",
+    "1065",
+    "1066",
+    "1067",
+    "1068",
+    "1069",
+    "1093",
+    "1433",
+    "2026",
+    "2031",
+    "2044",
+    "2123",
+    "2124",
+    "2503",
+    "2515",
+    "3006",
+    "3557",
+    "3593"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "0217",
+      "sex": "F"
+    },
+    {
+      "participantId": "0484",
+      "sex": "F"
+    },
+    {
+      "participantId": "0914",
+      "sex": "F"
+    },
+    {
+      "participantId": "1052",
+      "sex": "M"
+    },
+    {
+      "participantId": "1054",
+      "sex": "M"
+    },
+    {
+      "participantId": "1059",
+      "sex": "F"
+    },
+    {
+      "participantId": "1060",
+      "sex": "F"
+    },
+    {
+      "participantId": "1061",
+      "sex": "F"
+    },
+    {
+      "participantId": "1064",
+      "sex": "F"
+    },
+    {
+      "participantId": "1065",
+      "sex": "F"
+    },
+    {
+      "participantId": "1066",
+      "sex": "M"
+    },
+    {
+      "participantId": "1067",
+      "sex": "F"
+    },
+    {
+      "participantId": "1068",
+      "sex": "M"
+    },
+    {
+      "participantId": "1069",
+      "sex": "M"
+    },
+    {
+      "participantId": "1093",
+      "sex": "F"
+    },
+    {
+      "participantId": "1433",
+      "sex": "F"
+    },
+    {
+      "participantId": "2026",
+      "sex": "F"
+    },
+    {
+      "participantId": "2031",
+      "sex": "M"
+    },
+    {
+      "participantId": "2044",
+      "sex": "M"
+    },
+    {
+      "participantId": "2123",
+      "sex": "M"
+    },
+    {
+      "participantId": "2124",
+      "sex": "M"
+    },
+    {
+      "participantId": "2503",
+      "sex": "M"
+    },
+    {
+      "participantId": "2515",
+      "sex": "M"
+    },
+    {
+      "participantId": "3006",
+      "sex": "F"
+    },
+    {
+      "participantId": "3557",
+      "sex": "M"
+    },
+    {
+      "participantId": "3593",
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Prospection"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 345,
+  "size": 279574,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

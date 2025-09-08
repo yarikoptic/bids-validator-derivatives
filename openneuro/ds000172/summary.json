@@ -1,0 +1,79 @@
+{
+  "sessions": [],
+  "subjects": [
+    "control01",
+    "control02",
+    "control03",
+    "control04",
+    "control05",
+    "control06",
+    "control08",
+    "control09",
+    "control10",
+    "control11",
+    "control13",
+    "control14",
+    "phantom02"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "control01"
+    },
+    {
+      "participantId": "control02"
+    },
+    {
+      "participantId": "control03"
+    },
+    {
+      "participantId": "control04"
+    },
+    {
+      "participantId": "control05"
+    },
+    {
+      "participantId": "control06"
+    },
+    {
+      "participantId": "control08"
+    },
+    {
+      "participantId": "control09"
+    },
+    {
+      "participantId": "control10"
+    },
+    {
+      "participantId": "control11"
+    },
+    {
+      "participantId": "control13"
+    },
+    {
+      "participantId": "control14"
+    },
+    {
+      "participantId": "phantom02"
+    }
+  ],
+  "tasks": [
+    "Resting State"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 201,
+  "size": 2980074974,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

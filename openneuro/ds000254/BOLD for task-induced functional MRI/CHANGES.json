@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/BOLD for task-induced functional MRI/CHANGES",
+        "severity": "error"
+      }
+    ]
+  }
+}

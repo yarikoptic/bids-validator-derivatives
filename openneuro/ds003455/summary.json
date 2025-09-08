@@ -1,0 +1,32 @@
+{
+  "sessions": [
+    "std",
+    "stdbhb"
+  ],
+  "subjects": [
+    "001"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "ab",
+    "rest",
+    "uni"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 40,
+  "size": 18074,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "fmap",
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

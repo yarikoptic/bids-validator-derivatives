@@ -1,0 +1,35 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-RTC01/ses-func07/func/sub-RTC01_ses-func07_task-gradCPT_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func07/func/sub-RTC01_ses-func07_task-gradCPT_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_number",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func07/func/sub-RTC01_ses-func07_task-gradCPT_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "frame_number",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func07/func/sub-RTC01_ses-func07_task-gradCPT_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "time_of_response",
+        "severity": "warning"
+      }
+    ]
+  }
+}

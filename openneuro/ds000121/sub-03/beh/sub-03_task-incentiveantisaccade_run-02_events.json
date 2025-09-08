@@ -1,0 +1,120 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "issueMessage": "onset, duration, duration, trial_num, XDAT, score, latency, eprime_frame_name, stim_dot_position, eprime_pres_number",
+        "severity": "error"
+      },
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskName",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: Name of the task.\nNo two tasks should have the same name.\nThe task label included in the filename MAY be derived from this `\"TaskName\"` field\nby removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),\nand potentially replacing spaces with `+` to ease readability.\nFor example `\"TaskName\"` `\"faces n-back\"` or `\"head nodding\"` could correspond to task labels\n`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskDescription",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: Longer description of the task.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionName",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHInstitutionInformation",
+        "issueMessage": "Field description: The name of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/sub-03/beh/sub-03_task-incentiveantisaccade_run-02_events.tsv",
+        "issueMessage": "Column 1 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      }
+    ]
+  }
+}

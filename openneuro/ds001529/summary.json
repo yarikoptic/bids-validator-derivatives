@@ -1,0 +1,216 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "iso2238",
+    "iso2239",
+    "iso2250",
+    "iso2270",
+    "iso2273",
+    "iso2274",
+    "iso3294",
+    "iso3296",
+    "isoCBV2269",
+    "isoCBV2274",
+    "isoCBV2799",
+    "med2241",
+    "med2247",
+    "med2251",
+    "med2256",
+    "med2257",
+    "med2259",
+    "medCBV2239",
+    "medCBV2240",
+    "medCBV2800",
+    "medCBV2803",
+    "medCBV2874",
+    "medCBV2933",
+    "medHRCBF3293",
+    "medHRCBFHalfDose",
+    "medHRCBFHalfDose2",
+    "medHalfDose",
+    "medHalfDose1",
+    "medHalfDose2",
+    "medHalfDose3",
+    "mi272871",
+    "mi273299",
+    "mi273300",
+    "mi273457",
+    "mi273458",
+    "mi273459",
+    "mi273460",
+    "mi273461"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "iso2273",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso2274",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso2238",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso2239",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso2250",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso2270",
+      "group": "iso1"
+    },
+    {
+      "participantId": "isoCBV2269",
+      "group": "iso1"
+    },
+    {
+      "participantId": "isoCBV2274",
+      "group": "iso1"
+    },
+    {
+      "participantId": "isoCBV2799",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso3294",
+      "group": "iso1"
+    },
+    {
+      "participantId": "iso3296",
+      "group": "iso1"
+    },
+    {
+      "participantId": "med2241",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "med2247",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "med2251",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "med2256",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "med2257",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "med2259",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medCBV2239",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medCBV2240",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medCBV2800",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medCBV2803",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medCBV2874",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medCBV2933",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medHRCBF3293",
+      "group": "med0.1"
+    },
+    {
+      "participantId": "medHalfDose",
+      "group": "med0.05"
+    },
+    {
+      "participantId": "medHalfDose1",
+      "group": "med0.05"
+    },
+    {
+      "participantId": "medHalfDose2",
+      "group": "med0.05"
+    },
+    {
+      "participantId": "medHalfDose3",
+      "group": "med0.05"
+    },
+    {
+      "participantId": "medHRCBFHalfDose",
+      "group": "med0.05"
+    },
+    {
+      "participantId": "medHRCBFHalfDose2",
+      "group": "med0.05"
+    },
+    {
+      "participantId": "mi272871",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273299",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273457",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273458",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273459",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273460",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273461",
+      "group": "mediso"
+    },
+    {
+      "participantId": "mi273300",
+      "group": "mediso"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 80,
+  "size": 18782,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

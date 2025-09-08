@@ -1,0 +1,49 @@
+{
+  "sessions": [
+    "DS2"
+  ],
+  "subjects": [
+    "A00008326"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "A00008326",
+      "age": 59,
+      "sex": "FEMALE"
+    }
+  ],
+  "tasks": [
+    "MPRAGE_SIEMENS",
+    "BREATH_HOLD_1400",
+    "CHECKERBOARD_1400",
+    "CHECKERBOARD_645",
+    "DMN_TRACKING_TEST",
+    "DMN_TRACKING_TRAIN",
+    "MASK",
+    "MORAL_DILEMMA",
+    "MSIT",
+    "PEER1",
+    "PEER2",
+    "REST_1400",
+    "REST_645",
+    "REST_CAP"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 34,
+  "size": 31556,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

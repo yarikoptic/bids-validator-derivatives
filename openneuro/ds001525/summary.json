@@ -1,0 +1,129 @@
+{
+  "sessions": [],
+  "subjects": [
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "301",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "302",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "303",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "304",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "305",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "306",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "307",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "309",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "310",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "311",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "312",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "313",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "314",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "315",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "316",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "317",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "318",
+      "age": 23,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Localizer",
+    "Repetition"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 263,
+  "size": 79148,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

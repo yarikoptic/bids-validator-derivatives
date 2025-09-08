@@ -1,0 +1,152 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EEG_CHANNEL_COUNT_MISMATCH",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "rule": "rules.checks.eeg.EEGChannelCountReq",
+        "severity": "warning"
+      },
+      {
+        "code": "EOG_CHANNEL_COUNT_MISMATCH",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "rule": "rules.checks.eeg.EOGChannelCountReq",
+        "severity": "warning"
+      },
+      {
+        "code": "EVENTS_TSV_MISSING",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "rule": "rules.checks.events.EventsMissing",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Manufacturer",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGHardware",
+        "issueMessage": "Field description: Manufacturer of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ManufacturersModelName",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGHardware",
+        "issueMessage": "Field description: Manufacturer's model name of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskDescription",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: Longer description of the task.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CapManufacturer",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Name of the cap manufacturer (for example, `\"EasyCap\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CapManufacturersModelName",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Manufacturer's designation of the cap model\n(for example, `\"actiCAP 64 Ch Standard-2\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MISCChannelCount",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Number of miscellaneous channels not covered otherwise.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "RecordingDuration",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Length of the recording in seconds (for example, `3600`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "HeadCircumference",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Circumference of the participant's head, expressed in cm (for example, `58`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SubjectArtefactDescription",
+        "location": "/sub-08/ses-eeg/eeg/sub-08_ses-eeg_task-categorySelectivity_run-4_eeg.set",
+        "severity": "warning",
+        "rule": "rules.sidecars.eeg.EEGRecommended",
+        "issueMessage": "Field description: Freeform description of the observed subject artifact and its possible cause\n(for example, `\"Vagus Nerve Stimulator\"`, `\"non-removable implant\"`).\nIf this field is set to `\"n/a\"`, it will be interpreted as absence of major\nsource of artifacts except cardiac and blinks.\n"
+      }
+    ]
+  }
+}

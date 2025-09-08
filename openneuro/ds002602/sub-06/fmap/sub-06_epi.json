@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-06/fmap/sub-06_epi.json",
+        "issueMessage": "dir missing from rule rules.files.raw.fmap.pepolar",
+        "rule": "rules.files.raw.fmap.pepolar",
+        "severity": "error"
+      }
+    ]
+  }
+}

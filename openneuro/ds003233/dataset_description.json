@@ -1,0 +1,12 @@
+{
+  "Name": "BIDS Validator Issues",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "bids-validator-relayout",
+      "Version": "1.0.0",
+      "Description": "Reorganized BIDS validator output for easier navigation and analysis"
+    }
+  ]
+}

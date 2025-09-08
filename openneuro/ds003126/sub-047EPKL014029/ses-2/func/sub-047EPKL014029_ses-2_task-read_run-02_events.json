@@ -1,0 +1,20 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-047EPKL014029/ses-2/func/sub-047EPKL014029_ses-2_task-read_run-02_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-047EPKL014029/ses-2/func/sub-047EPKL014029_ses-2_task-read_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      }
+    ]
+  }
+}

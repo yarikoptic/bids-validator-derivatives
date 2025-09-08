@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/db4/b60/SHA1--f6ed9552bc717de83cfd08c2dbaabae54f256d25.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

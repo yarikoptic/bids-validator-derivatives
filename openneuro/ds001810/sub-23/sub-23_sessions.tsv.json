@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "session_id",
+        "location": "/sub-23/sub-23_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "line": 2,
+        "issueMessage": "'anodalpost'",
+        "severity": "error"
+      }
+    ]
+  }
+}

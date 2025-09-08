@@ -1,0 +1,98 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "offset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "condition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "regularity",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "frequency",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "word",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "correct",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "word_freq",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "nb_letters",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "nb_phonemes",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "nb_syllables",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-regularity_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "imageability",
+        "severity": "warning"
+      }
+    ]
+  }
+}

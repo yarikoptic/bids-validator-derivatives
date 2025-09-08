@@ -1,0 +1,49 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	PARTICIPANT_ID_MISMATCH	Subject directories found in this dataset did not match the values in the participant_id column found in the participants.tsv file. 		1	0
+error	REQUIRED_COORDSYSTEM	If an electrodes.tsv file is provided, an associated coordsystem.json must also be present. 		44	44
+error	SIDECAR_KEY_REQUIRED	A data file's JSON sidecar is missing a key listed as required.	EEGReference	3	1
+error	SIDECAR_KEY_REQUIRED	A data file's JSON sidecar is missing a key listed as required.	PowerLineFrequency	3	1
+error	SIDECAR_KEY_REQUIRED	A data file's JSON sidecar is missing a key listed as required.	SamplingFrequency	3	1
+error	SIDECAR_KEY_REQUIRED	A data file's JSON sidecar is missing a key listed as required.	SoftwareFilters	3	1
+error	SIDECAR_KEY_REQUIRED	A data file's JSON sidecar is missing a key listed as required.	TaskName	3	1
+error	TSV_ADDITIONAL_COLUMNS_MUST_DEFINE	Additional TSV columns must be defined in the associated JSON sidecar for this file type	sampling_reference	43	43
+error	TSV_VALUE_INCORRECT_TYPE	A value in a column did not match the acceptable type for that column headers specified format.	impedance	3	3
+warning	EEG_CHANNEL_COUNT_MISMATCH	The EEGChannelCount metadata does not match the number of channels with type EEG in the associated channels.tsv file. 		139	43
+warning	EXCESSIVE_ELECTRODE_SPECIFICITY	Task, acquisition or run entities detected in electrodes.tsv. Electrode definitions should generally not vary within a session. Consider removing the excess entity/entities or create a new session each time electrodes are reconfigured. 		44	44
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	MISC_CHANNEL_COUNT_MISMATCH	The MiscChannelCount metadata does not match the number of channels with type MISC in the associated channels.tsv file. 		139	43
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturer	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturersModelName	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ECGChannelCount	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGChannelCount	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGGround	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGPlacementScheme	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EMGChannelCount	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EOGChannelCount	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HardwareFilters	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HeadCircumference	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionAddress	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionName	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MISCChannelCount	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	RecordingDuration	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	RecordingType	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	44	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SubjectArtefactDescription	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	142	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskName	47	44
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TriggerChannelCount	142	44
+warning	SUSPICIOUS_POSITIVE_EVENT_ONSET	Event onsets were found more than a month after the start of recording. If this is not a mistake, remove or consider an alternative method of representing these events. 		1	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	caffeine_consumption	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	glasses_contacts_reading	1	0
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	participant_id	1	0
+warning	UNKNOWN_BIDS_VERSION	The BIDSVersion field of 'dataset_description.json' does not match a known release. The BIDS Schema used for validation may be out of date. 		1	0

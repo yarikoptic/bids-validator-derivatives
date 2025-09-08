@@ -1,0 +1,38 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-RESP0465/ses-SITUATION3F/ieeg/sub-RESP0465_ses-SITUATION3F_task-acute_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-RESP0465/ses-SITUATION3F/ieeg/sub-RESP0465_ses-SITUATION3F_task-acute_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-RESP0465/ses-SITUATION3F/ieeg/sub-RESP0465_ses-SITUATION3F_task-acute_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SEEGChannelCount",
+        "location": "/sub-RESP0465/ses-SITUATION3F/ieeg/sub-RESP0465_ses-SITUATION3F_task-acute_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: Number of SEEG channels.\n"
+      }
+    ]
+  }
+}

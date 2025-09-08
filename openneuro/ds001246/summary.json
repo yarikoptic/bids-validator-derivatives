@@ -1,0 +1,49 @@
+{
+  "sessions": [
+    "anatomy",
+    "imageryTest01",
+    "imageryTest02",
+    "imageryTest03",
+    "perceptionTest01",
+    "perceptionTest02",
+    "perceptionTest03",
+    "perceptionTest04",
+    "perceptionTraining01",
+    "perceptionTraining02",
+    "perceptionTraining03",
+    "perceptionTest05",
+    "imageryTest04",
+    "imageryTest05",
+    "perceptionTest06",
+    "perceptionTraining04",
+    "perceptionTraining05"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "imagery",
+    "perception"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 859,
+  "size": 1633580,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

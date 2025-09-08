@@ -1,0 +1,109 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "009",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "009"
+    },
+    {
+      "participantId": "012"
+    },
+    {
+      "participantId": "013"
+    },
+    {
+      "participantId": "014"
+    },
+    {
+      "participantId": "015"
+    },
+    {
+      "participantId": "016"
+    },
+    {
+      "participantId": "017"
+    },
+    {
+      "participantId": "018"
+    },
+    {
+      "participantId": "019"
+    },
+    {
+      "participantId": "020"
+    },
+    {
+      "participantId": "021"
+    },
+    {
+      "participantId": "022"
+    },
+    {
+      "participantId": "023"
+    },
+    {
+      "participantId": "024"
+    },
+    {
+      "participantId": "025"
+    },
+    {
+      "participantId": "026"
+    },
+    {
+      "participantId": "027"
+    },
+    {
+      "participantId": "028"
+    },
+    {
+      "participantId": "030"
+    },
+    {
+      "participantId": "031"
+    },
+    {
+      "participantId": "029"
+    }
+  ],
+  "tasks": [
+    "deduction",
+    "induction"
+  ],
+  "modalities": [
+    "MEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 209,
+  "size": 927560,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

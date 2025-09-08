@@ -1,0 +1,47 @@
+{
+  "sessions": [],
+  "subjects": [
+    "AAA02",
+    "AAA03",
+    "AAX01",
+    "AAX02"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "AAA02",
+      "age": 27
+    },
+    {
+      "participantId": "AAA03",
+      "age": 24
+    },
+    {
+      "participantId": "AAX01",
+      "age": 28
+    },
+    {
+      "participantId": "AAX02",
+      "age": 25
+    }
+  ],
+  "tasks": [
+    "CircCon",
+    "CircRun"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 89,
+  "size": 1739580622,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

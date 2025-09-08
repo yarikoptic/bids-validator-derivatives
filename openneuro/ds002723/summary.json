@@ -1,0 +1,70 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "08",
+    "11",
+    "12",
+    "13",
+    "15",
+    "17",
+    "19"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "08",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "15",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "17",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "19",
+      "age": 30,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "Run"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 204,
+  "size": 100829,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

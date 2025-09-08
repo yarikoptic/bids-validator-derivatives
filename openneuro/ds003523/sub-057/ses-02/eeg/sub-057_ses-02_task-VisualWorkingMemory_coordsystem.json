@@ -1,0 +1,76 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EXCESSIVE_COORDSYSTEM_SPECIFICITY",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "rule": "rules.checks.channels.CoordsystemSpecificity",
+        "severity": "warning"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "FiducialsCoordinates",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemFiducials",
+        "issueMessage": "Field description: Key-value pairs of the labels and 3-D digitized position of anatomical\nlandmarks, interpreted following the `\"FiducialsCoordinateSystem\"`\n(for example, `{\"NAS\": [12.7,21.3,13.9], \"LPA\": [5.2,11.3,9.6],\n\"RPA\": [20.2,11.3,9.1]}`).\nEach array MUST contain three numeric values corresponding to x, y, and z\naxis of the coordinate system in that exact order.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "FiducialsCoordinateSystem",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemFiducials",
+        "issueMessage": "Field description: Defines the coordinate system for the fiducials.\nPreferably the same as the `\"EEGCoordinateSystem\"`.\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`\"FiducialsCoordinateSystemDescription\"`.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "FiducialsCoordinateUnits",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemFiducials",
+        "issueMessage": "Field description: Units in which the coordinates that are  listed in the field\n`\"FiducialsCoordinateSystem\"` are represented.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "FiducialsCoordinateSystemDescription",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemFiducials",
+        "issueMessage": "Field description: Free-form text description of the coordinate system.\nMay also include a link to a documentation page or paper describing the\nsystem in greater detail.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "AnatomicalLandmarkCoordinates",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemLandmark",
+        "issueMessage": "Field description: Key-value pairs of the labels and 3-D digitized locations of anatomical landmarks,\ninterpreted following the `\"AnatomicalLandmarkCoordinateSystem\"`\n(for example, `{\"NAS\": [12.7,21.3,13.9], \"LPA\": [5.2,11.3,9.6],\n\"RPA\": [20.2,11.3,9.1]}`.\nEach array MUST contain three numeric values corresponding to x, y, and z\naxis of the coordinate system in that exact order.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "AnatomicalLandmarkCoordinateSystem",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemLandmark",
+        "issueMessage": "Field description: Defines the coordinate system for the anatomical landmarks.\nSee the [Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`\"AnatomicalLandmarkCoordinateSystemDescription\"`.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "AnatomicalLandmarkCoordinateUnits",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemLandmark",
+        "issueMessage": "Field description: Units of the coordinates of `\"AnatomicalLandmarkCoordinateSystem\"`.\n"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "AnatomicalLandmarkCoordinateSystemDescription",
+        "location": "/sub-057/ses-02/eeg/sub-057_ses-02_task-VisualWorkingMemory_coordsystem.json",
+        "severity": "warning",
+        "rule": "rules.json.eeg.EEGCoordsystemLandmarkDescriptionRec",
+        "issueMessage": "Field description: Free-form text description of the coordinate system.\nMay also include a link to a documentation page or paper describing the\nsystem in greater detail.\n"
+      }
+    ]
+  }
+}

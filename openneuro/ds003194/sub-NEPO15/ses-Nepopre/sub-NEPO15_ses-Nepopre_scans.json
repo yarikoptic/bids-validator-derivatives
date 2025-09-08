@@ -1,0 +1,20 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/sub-NEPO15/ses-Nepopre/sub-NEPO15_ses-Nepopre_scans.tsv",
+        "issueMessage": "Row: 3, Value: eeg/sub-NEPO15_ses-Nepopre_task-taskprenepo_eeg.edf",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-NEPO15/ses-Nepopre/sub-NEPO15_ses-Nepopre_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "age_acq_time",
+        "severity": "warning"
+      }
+    ]
+  }
+}

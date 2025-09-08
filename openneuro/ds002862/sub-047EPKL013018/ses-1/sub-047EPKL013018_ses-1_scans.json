@@ -1,0 +1,26 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-047EPKL013018/ses-1/sub-047EPKL013018_ses-1_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-047EPKL013018/ses-1/sub-047EPKL013018_ses-1_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "operator",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-047EPKL013018/ses-1/sub-047EPKL013018_ses-1_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "randstr",
+        "severity": "warning"
+      }
+    ]
+  }
+}

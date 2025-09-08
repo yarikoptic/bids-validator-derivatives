@@ -1,0 +1,365 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 20,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "002",
+      "age": null,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "003",
+      "age": 23,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "004",
+      "age": 22,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "005",
+      "age": 37,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "006",
+      "age": 28,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "007",
+      "age": 20,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "008",
+      "age": 30,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "009",
+      "age": 24,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "010",
+      "age": 27,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "011",
+      "age": 22,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "012",
+      "age": 22,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "013",
+      "age": 34,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "014",
+      "age": 22,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "015",
+      "age": 21,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "016",
+      "age": 23,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "017",
+      "age": 22,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "018",
+      "age": 40,
+      "sex": "F",
+      "group": "younger"
+    },
+    {
+      "participantId": "019",
+      "age": 25,
+      "sex": "M",
+      "group": "younger"
+    },
+    {
+      "participantId": "020",
+      "age": 59,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "021",
+      "age": 63,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "022",
+      "age": 64,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "023",
+      "age": 59,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "024",
+      "age": null,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "025",
+      "age": 64,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "026",
+      "age": 53,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "027",
+      "age": 59,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "028",
+      "age": 56,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "029",
+      "age": 50,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "030",
+      "age": 65,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "031",
+      "age": 71,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "032",
+      "age": 74,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "033",
+      "age": 71,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "034",
+      "age": 77,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "035",
+      "age": 71,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "036",
+      "age": 78,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "037",
+      "age": 72,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "038",
+      "age": 73,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "039",
+      "age": 70,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "040",
+      "age": 69,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "041",
+      "age": 67,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "042",
+      "age": 69,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "043",
+      "age": 75,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "044",
+      "age": 66,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "045",
+      "age": 73,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "046",
+      "age": null,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "047",
+      "age": 65,
+      "sex": "F",
+      "group": "older"
+    },
+    {
+      "participantId": "048",
+      "age": null,
+      "sex": "M",
+      "group": "older"
+    },
+    {
+      "participantId": "049",
+      "age": 49,
+      "sex": "F",
+      "group": "older"
+    }
+  ],
+  "tasks": [
+    "AuditoryVisualShift"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 370,
+  "size": 27430395,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

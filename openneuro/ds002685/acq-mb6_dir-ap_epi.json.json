@@ -1,0 +1,179 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-01/ses-14/fmap/sub-01_ses-14_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-01/ses-15/fmap/sub-01_ses-15_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-04/ses-11/fmap/sub-04_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-04/ses-12/fmap/sub-04_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-05/ses-11/fmap/sub-05_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-05/ses-12/fmap/sub-05_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-06/ses-11/fmap/sub-06_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-06/ses-12/fmap/sub-06_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-07/ses-11/fmap/sub-07_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-07/ses-12/fmap/sub-07_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-08/ses-11/fmap/sub-08_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-08/ses-12/fmap/sub-08_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-09/ses-12/fmap/sub-09_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-09/ses-13/fmap/sub-09_ses-13_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-11/ses-11/fmap/sub-11_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-11/ses-12/fmap/sub-11_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-12/ses-11/fmap/sub-12_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-12/ses-12/fmap/sub-12_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-13/ses-11/fmap/sub-13_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-13/ses-12/fmap/sub-13_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-14/ses-11/fmap/sub-14_ses-11_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-14/ses-12/fmap/sub-14_ses-12_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-15/ses-14/fmap/sub-15_ses-14_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "affects": "/sub-15/ses-15/fmap/sub-15_ses-15_acq-mb6_dir-ap_epi.nii.gz",
+        "issueMessage": "Candidate files: /acq-mb6_dir-ap_epi.json,/dir-ap_epi.json",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/acq-mb6_dir-ap_epi.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

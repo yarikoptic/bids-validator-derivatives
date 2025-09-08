@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-RTC01/ses-func22/sub-RTC01_ses-func22_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      }
+    ]
+  }
+}

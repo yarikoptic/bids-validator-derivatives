@@ -1,0 +1,29 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06"
+  ],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [
+    "iEEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 159,
+  "size": 22117,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "ieeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

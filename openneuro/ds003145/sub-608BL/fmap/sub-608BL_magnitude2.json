@@ -1,0 +1,62 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "B0_FIELD_IDENTIFIER_RECOMMENDED",
+        "subCode": "B0FieldIdentifier",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.fmap.MRIFieldmapB0FieldIdentifier",
+        "issueMessage": "Field description: The presence of this key states that this particular 3D or 4D image MAY be\nused for fieldmap estimation purposes.\nEach `\"B0FieldIdentifier\"` MUST be a unique string within one participant's tree,\nshared only by the images meant to be used as inputs for the estimation of a\nparticular instance of the *B<sub>0</sub> field* estimation.\nIt is RECOMMENDED to derive this identifier from DICOM Tags, for example,\nDICOM tag 0018, 1030 `Protocol Name`, or DICOM tag 0018, 0024 `Sequence Name`\nwhen the former is not defined (for example, in GE devices.)\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MatrixCoilMode",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: (If used)\nA method for reducing the number of independent channels by combining in\nanalog the signals from multiple coil elements.\nThere are typically different default modes when using un-accelerated or\naccelerated (for example, `\"GRAPPA\"`, `\"SENSE\"`) imaging.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CoilCombinationMethod",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares\n(rSOS) combination, but other methods exist.\nThe image reconstruction is changed by the coil combination method\n(as for the matrix coil mode above),\nso anything non-standard should be reported.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PulseSequenceType",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: A general description of the pulse sequence used for the scan.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "NonlinearGradientCorrection",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Boolean stating if the image saved has been corrected for gradient\nnonlinearities by the scanner sequence.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PartialFourierDirection",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIPartialFourier",
+        "issueMessage": "Field description: The direction where only partial Fourier information was collected.\nCorresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SliceTiming",
+        "location": "/sub-608BL/fmap/sub-608BL_magnitude2.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.SliceTimingMRI",
+        "issueMessage": "Field description: The time at which each slice was acquired within each volume (frame) of the\nacquisition.\nSlice timing is not slice order -- rather, it is a list of times containing\nthe time (in seconds) of each slice acquisition in relation to the beginning\nof volume acquisition.\nThe list goes through the slices along the slice axis in the slice encoding\ndimension (see below).\nNote that to ensure the proper interpretation of the `\"SliceTiming\"` field,\nit is important to check if the OPTIONAL `SliceEncodingDirection` exists.\nIn particular, if `\"SliceEncodingDirection\"` is negative,\nthe entries in `\"SliceTiming\"` are defined in reverse order with respect to the\nslice axis, such that the final entry in the `\"SliceTiming\"` list is the time\nof acquisition of slice 0. Without this parameter slice time correction will\nnot be possible.\n"
+      }
+    ]
+  }
+}

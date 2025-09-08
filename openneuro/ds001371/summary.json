@@ -1,0 +1,356 @@
+{
+  "sessions": [],
+  "subjects": [
+    "M80301092",
+    "M80303045",
+    "M80303730",
+    "M80304750",
+    "M80305418",
+    "M80306555",
+    "M80318505",
+    "M80319012",
+    "M80319521",
+    "M80322566",
+    "M80323465",
+    "M80325206",
+    "M80328669",
+    "M80333697",
+    "M80334186",
+    "M80334891",
+    "M80335622",
+    "M80336555",
+    "M80340633",
+    "M80344830",
+    "M80345728",
+    "M80352984",
+    "M80353242",
+    "M80353518",
+    "M80354361",
+    "M80361478",
+    "M80362559",
+    "M80363038",
+    "M80363504",
+    "M80365393",
+    "M80369239",
+    "M80374933",
+    "M80375100",
+    "M80375491",
+    "M80380529",
+    "M80384859",
+    "M80390041",
+    "M80391297",
+    "M80392026",
+    "M80392216",
+    "M80397236",
+    "M80397245",
+    "M80397330",
+    "M80397425",
+    "M80398133",
+    "M80398281",
+    "M80398983"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "M80301092",
+      "age": 20,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80303045",
+      "age": 14,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80303730",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80304750",
+      "age": 21,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80305418",
+      "age": 22,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80306555",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80318505",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80319012",
+      "age": 20,
+      "sex": "F",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80319521",
+      "age": 22,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80322566",
+      "age": 17,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80323465",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80325206",
+      "age": 20,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80328669",
+      "age": 21,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80333697",
+      "age": 21,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80334186",
+      "age": 20,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80334891",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80335622",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80336555",
+      "age": 21,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80340633",
+      "age": 14,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80344830",
+      "age": 20,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80345728",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80352984",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80353242",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80353518",
+      "age": 21,
+      "sex": "F",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80354361",
+      "age": 25,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80361478",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80362559",
+      "age": 19,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80363038",
+      "age": 19,
+      "sex": "F",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80363504",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80365393",
+      "age": 14,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80369239",
+      "age": 18,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80374933",
+      "age": 20,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80375100",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80375491",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80380529",
+      "age": 14,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80384859",
+      "age": 19,
+      "sex": "F",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80390041",
+      "age": 22,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80391297",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80392026",
+      "age": 22,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80392216",
+      "age": 21,
+      "sex": "M",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80397236",
+      "age": 21,
+      "sex": "F",
+      "group": "patient"
+    },
+    {
+      "participantId": "M80397245",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80397330",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80397425",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80398133",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "M80398281",
+      "age": 20,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "M80398983",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "ritl"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1685,
+  "size": 2235923,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

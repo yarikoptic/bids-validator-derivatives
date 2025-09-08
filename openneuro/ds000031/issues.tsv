@@ -1,0 +1,82 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	MULTIPLE_INHERITABLE_FILES	Multiple files in a directory were found to be valid candidates for inheritance.		40	0
+error	SIDECAR_WITHOUT_DATAFILE	A json sidecar file was found without a corresponding data file		5	0
+error	TSV_COLUMN_MISSING	A required column is missing	session_id	2	1
+warning	B0_FIELD_IDENTIFIER_RECOMMENDED	File is missing B0FieldIdentifier metadata and IntendedFor metadata, so it will not be possible to use to perform susceptibility distortion correction. B0FieldIdentifier metadata permits the flexible selection of images for estimating B0 inhomogeneity fields, and B0FieldSource permits EPI images to indicate the identifier of the estimated field to use. 	B0FieldIdentifier	220	1
+warning	EVENTS_TSV_MISSING	Task scans should have a corresponding 'events.tsv' file. If this is a resting state scan you can ignore this warning or rename the task to include the word "rest". 		10	1
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	AcquisitionMatrixPE	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	BandwidthPerPixelPhaseEncode	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	BaseResolution	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	BodyPartExamined	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	DerivedVendorReportedEchoSpacing	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	DeviceSerialNumber	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	DwellTime	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	EchoTime	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	EffectiveEchoSpacing	14	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ImageOrientationPatientDICOM	5	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ImageType	60	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	InstitutionAddress	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	InstitutionalDepartmentName	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ManufacturersModelName	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	PhaseEncodingDirection	4	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	PixelBandwidth	14	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ProtocolName	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	PulseSequenceDetails	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ReceiveCoilName	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ReconMatrixPE	14	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	SequenceName	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	ShimSetting	5	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	SliceThickness	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	SpacingBetweenSlices	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	StationName	10	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	TaskName	14	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	TotalReadoutTime	14	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	dcmmeta_affine	5	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	dcmmeta_reorient_transform	156	1
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	dcmmeta_shape	45	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	22	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	192	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CoilCombinationMethod	665	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DwellTime	25	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EchoTime	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	FlipAngle	5	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionAddress	25	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionName	5	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	InstitutionalDepartmentName	25	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	192	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MRAcquisitionType	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MagneticFieldStrength	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MatrixCoilMode	665	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	NonlinearGradientCorrection	665	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PartialFourierDirection	640	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PhaseEncodingDirection	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceDetails	25	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	PulseSequenceType	665	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilActiveElements	66	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ReceiveCoilName	25	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ScanningSequence	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceName	25	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SequenceVariant	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SliceTiming	7	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	5	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StationName	3	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	55	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	192	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskName	1	1
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TotalReadoutTime	1	1
+warning	TOO_FEW_AUTHORS	The 'Authors' field of 'dataset_description.json' should contain an array of values - with one author per value. This was triggered based on the presence of only one author field. Please ignore if all contributors are already properly listed. 		1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	SSD	8	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	accuracy	28	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	condition	4	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	is_target	8	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	motion_coherence	8	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	nback	15	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	stimtype	15	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	stimulus_type	5	1
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	stop_success	8	1

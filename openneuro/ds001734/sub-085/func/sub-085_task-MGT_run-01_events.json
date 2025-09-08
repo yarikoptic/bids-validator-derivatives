@@ -1,0 +1,42 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-085/func/sub-085_task-MGT_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-085/func/sub-085_task-MGT_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "gain",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-085/func/sub-085_task-MGT_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "loss",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-085/func/sub-085_task-MGT_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-085/func/sub-085_task-MGT_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "participant_response",
+        "severity": "warning"
+      }
+    ]
+  }
+}

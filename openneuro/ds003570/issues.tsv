@@ -1,0 +1,39 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	JSON_NOT_AN_OBJECT	Parsed JSON file does not contain an object.		40	40
+warning	EEG_CHANNEL_COUNT_MISMATCH	The EEGChannelCount metadata does not match the number of channels with type EEG in the associated channels.tsv file. 		80	40
+warning	EXCESSIVE_COORDSYSTEM_SPECIFICITY	Task, acquisition or run entities detected in coordsystem.tsv. Coordinate systems should generally not vary within a session. Consider removing the excess entity/entities or create new sessions when multiple coordinate systems are appropriate. 		40	40
+warning	EXCESSIVE_ELECTRODE_SPECIFICITY	Task, acquisition or run entities detected in electrodes.tsv. Electrode definitions should generally not vary within a session. Consider removing the excess entity/entities or create a new session each time electrodes are reconfigured. 		40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystem	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystemDescription	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateUnits	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinates	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystem	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystemDescription	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateUnits	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinates	40	40
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	MISC_CHANNEL_COUNT_MISMATCH	The MiscChannelCount metadata does not match the number of channels with type MISC in the associated channels.tsv file. 		80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturer	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturersModelName	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGGround	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGPlacementScheme	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HardwareFilters	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HeadCircumference	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Instructions	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MISCChannelCount	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	Manufacturer	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	40	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SubjectArtefactDescription	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskDescription	80	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskName	40	40
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TriggerChannelCount	80	40
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	gender	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	group	1	0
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	sample	40	40
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	value	40	40

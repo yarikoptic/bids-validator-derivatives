@@ -1,0 +1,133 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "15",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "17",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "18",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "2",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "3",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "4",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "5",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "6",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "7",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "8",
+      "age": 17,
+      "sex": "M"
+    },
+    {
+      "participantId": "9",
+      "age": 17,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "ColorSpirals"
+  ],
+  "modalities": [
+    "MEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 629,
+  "size": 8571211,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

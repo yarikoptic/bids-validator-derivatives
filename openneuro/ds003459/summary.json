@@ -1,0 +1,200 @@
+{
+  "sessions": [],
+  "subjects": [
+    "202",
+    "203",
+    "204",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "221",
+    "243",
+    "244",
+    "245",
+    "247",
+    "248",
+    "249",
+    "252",
+    "255",
+    "256",
+    "257",
+    "261",
+    "263",
+    "264",
+    "265",
+    "267",
+    "269",
+    "270",
+    "271",
+    "272"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "202",
+      "sex": "2"
+    },
+    {
+      "participantId": "203",
+      "sex": "2"
+    },
+    {
+      "participantId": "204",
+      "sex": "2"
+    },
+    {
+      "participantId": "208",
+      "sex": "2"
+    },
+    {
+      "participantId": "209",
+      "sex": "1"
+    },
+    {
+      "participantId": "210",
+      "sex": "1"
+    },
+    {
+      "participantId": "211",
+      "sex": "2"
+    },
+    {
+      "participantId": "212",
+      "sex": "2"
+    },
+    {
+      "participantId": "213",
+      "sex": "2"
+    },
+    {
+      "participantId": "214",
+      "sex": "2"
+    },
+    {
+      "participantId": "215",
+      "sex": "2"
+    },
+    {
+      "participantId": "216",
+      "sex": "2"
+    },
+    {
+      "participantId": "217",
+      "sex": "1"
+    },
+    {
+      "participantId": "218",
+      "sex": "1"
+    },
+    {
+      "participantId": "221",
+      "sex": "2"
+    },
+    {
+      "participantId": "243",
+      "sex": "1"
+    },
+    {
+      "participantId": "244",
+      "sex": "1"
+    },
+    {
+      "participantId": "245",
+      "sex": "1"
+    },
+    {
+      "participantId": "247",
+      "sex": "1"
+    },
+    {
+      "participantId": "248",
+      "sex": "1"
+    },
+    {
+      "participantId": "249",
+      "sex": "1"
+    },
+    {
+      "participantId": "252",
+      "sex": "1"
+    },
+    {
+      "participantId": "255",
+      "sex": "2"
+    },
+    {
+      "participantId": "256",
+      "sex": "1"
+    },
+    {
+      "participantId": "257",
+      "sex": "2"
+    },
+    {
+      "participantId": "261",
+      "sex": "2"
+    },
+    {
+      "participantId": "263",
+      "sex": "2"
+    },
+    {
+      "participantId": "264",
+      "sex": "2"
+    },
+    {
+      "participantId": "265",
+      "sex": "2"
+    },
+    {
+      "participantId": "267",
+      "sex": "2"
+    },
+    {
+      "participantId": "269",
+      "sex": "2"
+    },
+    {
+      "participantId": "270",
+      "sex": "1"
+    },
+    {
+      "participantId": "271",
+      "sex": "1"
+    },
+    {
+      "participantId": "272",
+      "sex": "1"
+    }
+  ],
+  "tasks": [
+    "Auditory Orthography Judgement",
+    "Auditory Phonology Judgement",
+    "Auditory Semantic Judgement",
+    "Auditory Syntax Judgement"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 527,
+  "size": 1064021,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "phenotype",
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

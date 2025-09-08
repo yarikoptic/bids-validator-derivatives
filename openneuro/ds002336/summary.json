@@ -1,0 +1,93 @@
+{
+  "sessions": [],
+  "subjects": [
+    "xp101",
+    "xp102",
+    "xp103",
+    "xp104",
+    "xp105",
+    "xp106",
+    "xp107",
+    "xp108",
+    "xp109",
+    "xp110"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "xp101",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp102",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp103",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp104",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp105",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp106",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp107",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp108",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "xp109",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "xp110",
+      "age": 26,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "MIpost",
+    "MIpre",
+    "eegNF",
+    "eegfmriNF",
+    "fmriNF",
+    "motorloc"
+  ],
+  "modalities": [
+    "EEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 322,
+  "size": 244035,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "eeg",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

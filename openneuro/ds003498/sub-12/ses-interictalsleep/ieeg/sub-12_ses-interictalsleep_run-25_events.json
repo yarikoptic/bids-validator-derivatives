@@ -1,0 +1,35 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-12/ses-interictalsleep/ieeg/sub-12_ses-interictalsleep_run-25_events.tsv",
+        "issueMessage": "task missing from rule rules.files.raw.events.events",
+        "rule": "rules.files.raw.events.events",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-12/ses-interictalsleep/ieeg/sub-12_ses-interictalsleep_run-25_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/ses-interictalsleep/ieeg/sub-12_ses-interictalsleep_run-25_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "value",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/ses-interictalsleep/ieeg/sub-12_ses-interictalsleep_run-25_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "sample",
+        "severity": "warning"
+      }
+    ]
+  }
+}

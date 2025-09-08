@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "25"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "newbi4fmri_VAR7_Prosopagnosia"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 31,
+  "size": 94519,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

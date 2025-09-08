@@ -1,0 +1,152 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "SCA201",
+    "SCA202",
+    "SCA203",
+    "SCA204",
+    "SCA205",
+    "SCA206",
+    "SCA207",
+    "SCA208",
+    "SCA209",
+    "control01",
+    "control02",
+    "control03",
+    "control04",
+    "control05",
+    "control06",
+    "control07",
+    "control08",
+    "control09",
+    "control10",
+    "control11",
+    "control12",
+    "control13",
+    "control14",
+    "control15",
+    "control16"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "control01",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control02",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control03",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control04",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control05",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control06",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control07",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control08",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control09",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control10",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control11",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control12",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control13",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control14",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control15",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "control16",
+      "group": "CONTROL"
+    },
+    {
+      "participantId": "SCA201",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA202",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA203",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA204",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA205",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA206",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA207",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA208",
+      "group": "SCA2"
+    },
+    {
+      "participantId": "SCA209",
+      "group": "SCA2"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 254,
+  "size": 67860,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

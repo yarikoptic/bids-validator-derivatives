@@ -1,0 +1,104 @@
+{
+  "sessions": [],
+  "subjects": [
+    "283",
+    "711",
+    "718",
+    "728",
+    "734",
+    "735",
+    "739",
+    "743",
+    "749",
+    "759",
+    "761",
+    "764",
+    "766",
+    "767",
+    "768",
+    "774",
+    "779",
+    "780",
+    "783",
+    "786"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "283"
+    },
+    {
+      "participantId": "711"
+    },
+    {
+      "participantId": "718"
+    },
+    {
+      "participantId": "728"
+    },
+    {
+      "participantId": "734"
+    },
+    {
+      "participantId": "735"
+    },
+    {
+      "participantId": "739"
+    },
+    {
+      "participantId": "743"
+    },
+    {
+      "participantId": "749"
+    },
+    {
+      "participantId": "759"
+    },
+    {
+      "participantId": "761"
+    },
+    {
+      "participantId": "764"
+    },
+    {
+      "participantId": "766"
+    },
+    {
+      "participantId": "767"
+    },
+    {
+      "participantId": "768"
+    },
+    {
+      "participantId": "774"
+    },
+    {
+      "participantId": "779"
+    },
+    {
+      "participantId": "780"
+    },
+    {
+      "participantId": "783"
+    },
+    {
+      "participantId": "786"
+    }
+  ],
+  "tasks": [
+    "rest",
+    "tmseeg1",
+    "tmseeg2"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 282,
+  "size": 524962,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

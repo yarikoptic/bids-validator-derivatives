@@ -1,0 +1,57 @@
+{
+  "sessions": [
+    "anatomy",
+    "imagery01",
+    "imagery02",
+    "imagery03",
+    "imagery04",
+    "perceptionLetterImage01",
+    "perceptionNaturalImageTest01",
+    "perceptionNaturalImageTest02",
+    "perceptionNaturalImageTest03",
+    "perceptionNaturalImageTraining01",
+    "perceptionNaturalImageTraining02",
+    "perceptionNaturalImageTraining03",
+    "perceptionNaturalImageTraining04",
+    "perceptionNaturalImageTraining05",
+    "perceptionNaturalImageTraining06",
+    "perceptionNaturalImageTraining07",
+    "perceptionNaturalImageTraining08",
+    "perceptionNaturalImageTraining09",
+    "perceptionNaturalImageTraining10",
+    "perceptionNaturalImageTraining11",
+    "perceptionNaturalImageTraining12",
+    "perceptionNaturalImageTraining13",
+    "perceptionNaturalImageTraining14",
+    "perceptionNaturalImageTraining15",
+    "perceptionArtificialImage01",
+    "perceptionArtificialImage02",
+    "perceptionArtificialImage03"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "imagery",
+    "perception"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1844,
+  "size": 2745645,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

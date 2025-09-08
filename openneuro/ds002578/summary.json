@@ -1,0 +1,36 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 30
+    },
+    {
+      "participantId": "002",
+      "age": 30
+    }
+  ],
+  "tasks": [
+    "attention"
+  ],
+  "modalities": [
+    "EEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 22,
+  "size": 569891,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,70 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "subject",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "gender",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "effort",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "task",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "target",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "jitter",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-26/func/sub-26_task-effort_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "acc",
+        "severity": "warning"
+      }
+    ]
+  }
+}

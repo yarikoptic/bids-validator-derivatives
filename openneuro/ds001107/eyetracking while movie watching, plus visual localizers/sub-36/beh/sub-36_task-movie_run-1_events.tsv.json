@@ -1,0 +1,105 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "INVALID_LOCATION",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "issueMessage": "Expected location: /sub-36/",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskName",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: Name of the task.\nNo two tasks should have the same name.\nThe task label included in the filename MAY be derived from this `\"TaskName\"` field\nby removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),\nand potentially replacing spaces with `+` to ease readability.\nFor example `\"TaskName\"` `\"faces n-back\"` or `\"head nodding\"` could correspond to task labels\n`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskDescription",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: Longer description of the task.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionName",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHInstitutionInformation",
+        "issueMessage": "Field description: The name of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.beh.BEHInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "frameidx",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "videotime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-36/beh/sub-36_task-movie_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "audiotime",
+        "severity": "warning"
+      }
+    ]
+  }
+}

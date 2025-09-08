@@ -1,0 +1,77 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cue",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "sbjResp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "sbjRT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "mcAcc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "mcResp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cResp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "mcRT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-postmemory_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "lures",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"number\" must be string",
+        "subCode": "participant_id",
+        "location": "/participants.json",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "warning"
+      }
+    ]
+  }
+}

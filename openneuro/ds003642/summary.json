@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    "003",
+    "002",
+    "001"
+  ],
+  "subjects": [
+    "025",
+    "045",
+    "075"
+  ],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 9,
+  "size": 7915,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

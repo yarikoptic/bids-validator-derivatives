@@ -1,0 +1,260 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "subjects": [
+    "562",
+    "572",
+    "573",
+    "584",
+    "589",
+    "597",
+    "598",
+    "600",
+    "603",
+    "620",
+    "647",
+    "652",
+    "662",
+    "663",
+    "666",
+    "667"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "562",
+      "group": "exp"
+    },
+    {
+      "participantId": "572",
+      "group": "exp"
+    },
+    {
+      "participantId": "572",
+      "group": "exp"
+    },
+    {
+      "participantId": "572",
+      "group": "exp"
+    },
+    {
+      "participantId": "572",
+      "group": "exp"
+    },
+    {
+      "participantId": "572",
+      "group": "exp"
+    },
+    {
+      "participantId": "573",
+      "group": "con"
+    },
+    {
+      "participantId": "573",
+      "group": "con"
+    },
+    {
+      "participantId": "573",
+      "group": "con"
+    },
+    {
+      "participantId": "584",
+      "group": "con"
+    },
+    {
+      "participantId": "589",
+      "group": "con"
+    },
+    {
+      "participantId": "597",
+      "group": "exp"
+    },
+    {
+      "participantId": "597",
+      "group": "exp"
+    },
+    {
+      "participantId": "597",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "598",
+      "group": "exp"
+    },
+    {
+      "participantId": "600",
+      "group": "con"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "603",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "620",
+      "group": "exp"
+    },
+    {
+      "participantId": "647",
+      "group": "exp"
+    },
+    {
+      "participantId": "652",
+      "group": "exp"
+    },
+    {
+      "participantId": "652",
+      "group": "exp"
+    },
+    {
+      "participantId": "662",
+      "group": "exp"
+    },
+    {
+      "participantId": "662",
+      "group": "exp"
+    },
+    {
+      "participantId": "662",
+      "group": "exp"
+    },
+    {
+      "participantId": "663",
+      "group": "exp"
+    },
+    {
+      "participantId": "666",
+      "group": "con"
+    },
+    {
+      "participantId": "667",
+      "group": "exp"
+    },
+    {
+      "participantId": "667",
+      "group": "exp"
+    }
+  ],
+  "tasks": [
+    "opto"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 323,
+  "size": 54555,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

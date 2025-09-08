@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "participant_id",
+        "location": "/phenotype/PAMD_Post-ScanRatings.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "line": 2,
+        "issueMessage": "'3080'",
+        "severity": "error"
+      }
+    ]
+  }
+}

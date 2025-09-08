@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_ORDER_INCORRECT",
+        "subCode": "filename",
+        "location": "/sub-09/sub-09_scans.tsv",
+        "issueMessage": "Column 0 (starting from 0) found at index 4.",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "severity": "error"
+      }
+    ]
+  }
+}

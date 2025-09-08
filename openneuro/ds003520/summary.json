@@ -1,0 +1,45 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "subjects": [
+    "CTL3692",
+    "CTL3693",
+    "CTL4351",
+    "CTL4352",
+    "CTL4589",
+    "CTL4590",
+    "CTL4680",
+    "CTL4681",
+    "STZ3694",
+    "STZ3695",
+    "STZ4354",
+    "STZ4397",
+    "STZ4398",
+    "STZ4587",
+    "STZ4588",
+    "STZ4682",
+    "STZ4683"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 217,
+  "size": 65258,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

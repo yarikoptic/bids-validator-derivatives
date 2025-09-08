@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/c4b/a05/MD5E-s23676161--52ba5b302907c1932ac8ae64facad4f8.nii.gz.log.rmet",
+        "severity": "error"
+      }
+    ]
+  }
+}

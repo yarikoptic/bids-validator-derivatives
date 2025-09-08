@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_PSEUDO_AGE_DEPRECATED",
+        "location": "/participants.tsv",
+        "line": 15,
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/participants.tsv",
+        "issueMessage": "participant_id, group, age, gender, height, weight, BMI, bodyfat, ethnicity, education, insulin_change, ses-1_lcs_total, ses-1_lcs_days, ses-1_ssb_total, ses-1_ssb_days, ses-2_lcs_total, ses-2_lcs_days, ses-2_ssb_total, ses-2_ssb_days, ses-1_SPT, ses-2_SPT, ses-1_glucose_t-0, ses-1_glucose_t-15, ses-1_glucose_t-30, ses-1_glucose_t-60, ses-1_glucose_t-90, ses-1_glucose_t-120, ses-2_glucose_t-0, ses-2_glucose_t-15, ses-2_glucose_t-30, ses-2_glucose_t-60, ses-2_glucose_t-90, ses-2_glucose_t-120, ses-1_insulin_t-0, ses-1_insulin_t-15, ses-1_insulin_t-30, ses-1_insulin_t-60, ses-1_insulin_t-90, ses-1_insulin_t-120, ses-2_insulin_t-0, ses-2_insulin_t-15, ses-2_insulin_t-30, ses-2_insulin_t-30, ses-2_insulin_t-90, ses-2_insulin_t-120",
+        "severity": "error"
+      },
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "sessions": [
+    "01",
+    "02",
+    "03"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 32,
+      "group": "expert"
+    },
+    {
+      "participantId": "002",
+      "age": 35,
+      "group": "expert"
+    },
+    {
+      "participantId": "003",
+      "age": 41,
+      "group": "expert"
+    },
+    {
+      "participantId": "004",
+      "age": 29,
+      "group": "expert"
+    },
+    {
+      "participantId": "005",
+      "age": 34,
+      "group": "expert"
+    },
+    {
+      "participantId": "006",
+      "age": 32,
+      "group": "expert"
+    },
+    {
+      "participantId": "007",
+      "age": 32,
+      "group": "expert"
+    },
+    {
+      "participantId": "008",
+      "age": 32,
+      "group": "expert"
+    },
+    {
+      "participantId": "009",
+      "age": 43,
+      "group": "expert"
+    },
+    {
+      "participantId": "010",
+      "age": 33,
+      "group": "expert"
+    },
+    {
+      "participantId": "011",
+      "age": 62,
+      "group": "expert"
+    },
+    {
+      "participantId": "012",
+      "age": 65,
+      "group": "expert"
+    },
+    {
+      "participantId": "013",
+      "age": 47,
+      "group": "novice"
+    },
+    {
+      "participantId": "014",
+      "age": 52,
+      "group": "novice"
+    },
+    {
+      "participantId": "015",
+      "age": 78,
+      "group": "novice"
+    },
+    {
+      "participantId": "016",
+      "age": 77,
+      "group": "novice"
+    },
+    {
+      "participantId": "017",
+      "age": 32,
+      "group": "novice"
+    },
+    {
+      "participantId": "018",
+      "age": null,
+      "group": "novice"
+    },
+    {
+      "participantId": "019",
+      "age": 42,
+      "group": "novice"
+    },
+    {
+      "participantId": "020",
+      "age": 41,
+      "group": "novice"
+    },
+    {
+      "participantId": "021",
+      "age": 41,
+      "group": "novice"
+    },
+    {
+      "participantId": "022",
+      "age": 31,
+      "group": "novice"
+    },
+    {
+      "participantId": "023",
+      "age": 50,
+      "group": "novice"
+    },
+    {
+      "participantId": "024",
+      "age": 38,
+      "group": "novice"
+    }
+  ],
+  "tasks": [
+    "meditation"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 128,
+  "size": 206633,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

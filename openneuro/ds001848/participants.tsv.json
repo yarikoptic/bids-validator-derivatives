@@ -1,0 +1,69 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 2,
+        "issueMessage": "'1'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "age",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 54,
+        "issueMessage": "''",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "sex",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 54,
+        "issueMessage": "''",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "handedness",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "line": 54,
+        "issueMessage": "''",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 55, Value: ",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 56, Value: ",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/participants.tsv",
+        "issueMessage": "Row: 57, Value: ",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      }
+    ]
+  }
+}

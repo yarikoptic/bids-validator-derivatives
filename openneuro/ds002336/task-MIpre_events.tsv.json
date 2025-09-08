@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_EMPTY_LINE",
+        "line": 12,
+        "location": "/task-MIpre_events.tsv",
+        "severity": "error"
+      },
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/task-MIpre_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/task-MIpre_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/task-MIpre_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/task-MIpre_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "onset",
+        "location": "/task-MIpre_events.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "duration",
+        "location": "/task-MIpre_events.tsv",
+        "issueMessage": "Column 1 (starting from 0) not found.",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "error"
+      }
+    ]
+  }
+}

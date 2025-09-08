@@ -1,0 +1,50 @@
+{
+  "sessions": [
+    "01",
+    "02",
+    "04",
+    "05",
+    "06",
+    "03",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "our_subject",
+      "age": 29,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "test",
+    "movie",
+    "tapping"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 218,
+  "size": 2495022,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

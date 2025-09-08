@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "iEEGCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the iEEG sensors.\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`iEEGCoordinateSystemDescription`.\nIf positions correspond to pixel indices in a 2D image\n(of either a volume-rendering, surface-rendering, operative photo, or\noperative drawing), this MUST be `\"Pixels\"`.\nFor more information, see the section on\n[2D coordinate systems](SPEC_ROOT/modality-specific-files/intracranial\\\n-electroencephalography.md#allowed-2d-coordinate-systems).\n",
+        "rule": "rules.json.ieeg.iEEGCoordsystemPositions",
+        "location": "/sub-ecog01/ses-postimp/ieeg/sub-ecog01_ses-postimp_space-other_coordsystem.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

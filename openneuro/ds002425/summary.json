@@ -1,0 +1,40 @@
+{
+  "sessions": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "anatomy"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "CowenKeltnerEmotionMovie"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 963,
+  "size": 746255,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

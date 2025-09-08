@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "acq_time",
+        "location": "/sub-19/sub-19_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "line": 4,
+        "issueMessage": "'2015-07-14T14:56:78'",
+        "severity": "error"
+      }
+    ]
+  }
+}

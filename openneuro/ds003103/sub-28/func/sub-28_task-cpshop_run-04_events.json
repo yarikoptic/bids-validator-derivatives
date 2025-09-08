@@ -1,0 +1,91 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "pic_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "pic_price(NTD)",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "display_ttag",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "self_rating",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rating_ttage",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "other_rating",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "present_rating_ttag",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "self_buy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "other_buy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "sellf_buy_ttag",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-28/func/sub-28_task-cpshop_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "display_purchase_ttag",
+        "severity": "warning"
+      }
+    ]
+  }
+}

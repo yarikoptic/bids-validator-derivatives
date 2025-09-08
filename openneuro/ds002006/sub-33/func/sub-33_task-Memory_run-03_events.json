@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TRIALTYPE",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "LIKING_RATING",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RESPONSE_TIME",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "OLD_ON_LEFT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ITEM_ISOLD",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-33/func/sub-33_task-Memory_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CHOSE_RIGHT",
+        "severity": "warning"
+      }
+    ]
+  }
+}

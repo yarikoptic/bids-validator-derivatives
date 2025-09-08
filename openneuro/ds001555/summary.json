@@ -1,0 +1,65 @@
+{
+  "sessions": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 23,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "003",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "002",
+      "age": 28,
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "Full Field-of-View Visual Stimulation + Attention Control Task",
+    "Full Field-of-View Visual Stimulation Only",
+    "Hemifield Visual Stimulation",
+    "HalfFovNoTask",
+    "FullFovNoAttentionTask",
+    "FullFovAttentionTask"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 753,
+  "size": 7843573,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

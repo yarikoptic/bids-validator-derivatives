@@ -1,0 +1,15 @@
+subject_id	error_codes_ext_n	error_codes_n	error_n	warning_codes_ext_n	warning_codes_n	warning_n
+root	1	1	2	1	1	5
+sub-control01	1	1	4	1	1	182
+sub-control02	1	1	4	1	1	182
+sub-control03	1	1	4	1	1	182
+sub-control04	1	1	4	1	1	182
+sub-control05	1	1	4	1	1	182
+sub-control06	1	1	4	1	1	182
+sub-control08	1	1	4	1	1	182
+sub-control09	1	1	4	1	1	182
+sub-control10	1	1	4	1	1	182
+sub-control11	1	1	4	1	1	182
+sub-control13	1	1	4	1	1	182
+sub-control14	1	1	4	1	1	182
+sub-phantom02	1	1	4	1	1	164

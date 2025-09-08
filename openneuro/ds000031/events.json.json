@@ -1,0 +1,286 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-014/func/sub-01_ses-014_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-017/func/sub-01_ses-017_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-020/func/sub-01_ses-020_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-023/func/sub-01_ses-023_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-029/func/sub-01_ses-029_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-032/func/sub-01_ses-032_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-035/func/sub-01_ses-035_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-038/func/sub-01_ses-038_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-040/func/sub-01_ses-040_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-043/func/sub-01_ses-043_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-048/func/sub-01_ses-048_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-051/func/sub-01_ses-051_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-057/func/sub-01_ses-057_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-059/func/sub-01_ses-059_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-061/func/sub-01_ses-061_task-nback_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-nback_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-083/func/sub-01_ses-083_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-084/func/sub-01_ses-084_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-085/func/sub-01_ses-085_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-086/func/sub-01_ses-086_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-088/func/sub-01_ses-088_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-089/func/sub-01_ses-089_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-091/func/sub-01_ses-091_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-092/func/sub-01_ses-092_task-dots_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-dots_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-095/func/sub-01_ses-095_task-objects_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-095/func/sub-01_ses-095_task-objects_run-2_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-096/func/sub-01_ses-096_task-objects_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-096/func/sub-01_ses-096_task-objects_run-2_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-097/func/sub-01_ses-097_task-objects_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-097/func/sub-01_ses-097_task-objects_run-2_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-098/func/sub-01_ses-098_task-objects_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-098/func/sub-01_ses-098_task-objects_run-2_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-objects_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-099/func/sub-01_ses-099_task-language_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-language_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-100/func/sub-01_ses-100_task-language_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-language_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-100/func/sub-01_ses-100_task-spatialwm_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-spatialwm_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-101/func/sub-01_ses-101_task-language_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-language_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-101/func/sub-01_ses-101_task-spatialwm_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-spatialwm_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-102/func/sub-01_ses-102_task-language_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-language_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-102/func/sub-01_ses-102_task-spatialwm_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-spatialwm_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-104/func/sub-01_ses-104_task-language_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-language_events.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/events.json",
+        "affects": "/sub-01/ses-104/func/sub-01_ses-104_task-spatialwm_run-1_events.tsv",
+        "issueMessage": "Candidate files: /events.json,/task-spatialwm_events.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

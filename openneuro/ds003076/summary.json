@@ -1,0 +1,112 @@
+{
+  "sessions": [],
+  "subjects": [
+    "1001",
+    "1004",
+    "1008",
+    "1010",
+    "1014",
+    "1016",
+    "1017",
+    "1019",
+    "1021",
+    "1022",
+    "1026",
+    "1027",
+    "1030",
+    "1031",
+    "1032",
+    "1034",
+    "1035"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1001",
+      "age": 19
+    },
+    {
+      "participantId": "1004",
+      "age": 22
+    },
+    {
+      "participantId": "1008",
+      "age": 27
+    },
+    {
+      "participantId": "1010",
+      "age": 27
+    },
+    {
+      "participantId": "1014",
+      "age": 28
+    },
+    {
+      "participantId": "1016",
+      "age": 28
+    },
+    {
+      "participantId": "1017",
+      "age": 29
+    },
+    {
+      "participantId": "1019",
+      "age": 30
+    },
+    {
+      "participantId": "1021",
+      "age": 23
+    },
+    {
+      "participantId": "1022",
+      "age": 23
+    },
+    {
+      "participantId": "1026",
+      "age": 22
+    },
+    {
+      "participantId": "1027",
+      "age": 23
+    },
+    {
+      "participantId": "1030",
+      "age": 24
+    },
+    {
+      "participantId": "1031",
+      "age": 26
+    },
+    {
+      "participantId": "1032",
+      "age": 26
+    },
+    {
+      "participantId": "1034",
+      "age": 28
+    },
+    {
+      "participantId": "1035",
+      "age": 29
+    }
+  ],
+  "tasks": [
+    "Syllogistic Reasoning",
+    "Transitive Reasoning"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 161,
+  "size": 262274,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

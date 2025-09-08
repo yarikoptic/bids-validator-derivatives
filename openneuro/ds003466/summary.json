@@ -1,0 +1,178 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "022",
+      "age": 29,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "005",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "019",
+      "age": 25,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "006",
+      "age": 27,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "021",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "017",
+      "age": 28,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "024",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "015",
+      "age": 22,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "018",
+      "age": 22,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "012",
+      "age": 27,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "009",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "008",
+      "age": 26,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "020",
+      "age": 21,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "010",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "013",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "004",
+      "age": 21,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "016",
+      "age": 23,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "011",
+      "age": 20,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "007",
+      "age": 28,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "014",
+      "age": 22,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "023",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    " haptic three-dimensional curved surface exploration task and finger somatotopic mapping task, ",
+    "Rest Localizer EPI",
+    "motor",
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 413,
+  "size": 75814401,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,30 @@
+severity	code	code_message	sub_code	n	n_subjects
+warning	EXCESSIVE_COORDSYSTEM_SPECIFICITY	Task, acquisition or run entities detected in coordsystem.tsv. Coordinate systems should generally not vary within a session. Consider removing the excess entity/entities or create new sessions when multiple coordinate systems are appropriate. 		34	34
+warning	EXCESSIVE_ELECTRODE_SPECIFICITY	Task, acquisition or run entities detected in electrodes.tsv. Electrode definitions should generally not vary within a session. Consider removing the excess entity/entities or create a new session each time electrodes are reconfigured. 		34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystem	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystemDescription	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateUnits	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinates	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystem	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystemDescription	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateUnits	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinates	34	34
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGGround	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HardwareFilters	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HeadCircumference	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MISCChannelCount	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	ManufacturersModelName	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	68	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	34	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskName	34	34
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TriggerChannelCount	68	34
+warning	TSV_ADDITIONAL_COLUMNS_UNDEFINED	A TSV file has extra columns which are not defined in its associated JSON sidecar	sample	34	34
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	duration	34	34
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	onset	34	34
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	participant_id	1	0

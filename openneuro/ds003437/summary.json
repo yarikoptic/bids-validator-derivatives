@@ -1,0 +1,44 @@
+{
+  "sessions": [
+    "fast",
+    "ket",
+    "std"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "005",
+    "019",
+    "022",
+    "027",
+    "028",
+    "031",
+    "032",
+    "034",
+    "036",
+    "038"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "motor",
+    "rest",
+    "spanav"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 471,
+  "size": 253474,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

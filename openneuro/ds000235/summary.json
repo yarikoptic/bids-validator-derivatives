@@ -1,0 +1,46 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 56,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "age": 65,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 21,
+      "sex": "F"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 8,
+  "size": 4046,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

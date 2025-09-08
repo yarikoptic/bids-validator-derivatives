@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_NOT_AN_OBJECT",
+        "issueMessage": "[\n  {\n    ...",
+        "location": "/participants.json",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/participants.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

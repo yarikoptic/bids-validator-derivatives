@@ -1,0 +1,161 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Subject",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "event",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "firstRESP",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "firstRT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "firstACC",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialType",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "BlocksInRun",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "MainBlocksInRun",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SubTrial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "firstON",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RandomDelay",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "PatternDelay",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ScaningOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Run",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Condition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialDuration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "BlockOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "BlockDuration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RestOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-asrt_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RestDuration",
+        "severity": "warning"
+      }
+    ]
+  }
+}

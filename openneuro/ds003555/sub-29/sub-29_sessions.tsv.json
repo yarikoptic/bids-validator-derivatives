@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "acq_time",
+        "location": "/sub-29/sub-29_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "line": 2,
+        "issueMessage": "'1900\u00ad01\u00ad01T12:00:00'",
+        "severity": "error"
+      }
+    ]
+  }
+}

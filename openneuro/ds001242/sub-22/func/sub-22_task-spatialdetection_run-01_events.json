@@ -1,0 +1,42 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-22/func/sub-22_task-spatialdetection_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/func/sub-22_task-spatialdetection_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "salient_image",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/func/sub-22_task-spatialdetection_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "salient_location",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/func/sub-22_task-spatialdetection_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response_location",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/func/sub-22_task-spatialdetection_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "correct",
+        "severity": "warning"
+      }
+    ]
+  }
+}

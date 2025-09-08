@@ -1,0 +1,56 @@
+{
+  "sessions": [
+    "anatomy",
+    "attention01",
+    "attention02",
+    "perceptionNaturalImageTraining01",
+    "perceptionNaturalImageTraining02",
+    "perceptionNaturalImageTraining03",
+    "perceptionNaturalImageTraining04",
+    "perceptionNaturalImageTraining05",
+    "perceptionNaturalImageTraining06",
+    "perceptionNaturalImageTraining07",
+    "perceptionNaturalImageTraining08",
+    "perceptionNaturalImageTraining09",
+    "perceptionNaturalImageTraining10",
+    "perceptionNaturalImageTraining11",
+    "perceptionNaturalImageTraining12",
+    "perceptionNaturalImageTraining13",
+    "perceptionNaturalImageTraining14",
+    "perceptionNaturalImageTraining15",
+    "perceptionNaturalImageTraining16"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "attentionNaturalTestImage",
+    "perceptionNaturalImageTraining",
+    "GODTrain",
+    "deeprecon",
+    "GODtrain"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1861,
+  "size": 2865579,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

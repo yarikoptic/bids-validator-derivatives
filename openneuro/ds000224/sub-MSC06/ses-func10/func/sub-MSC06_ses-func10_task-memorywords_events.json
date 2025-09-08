@@ -1,0 +1,21 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-MSC06/ses-func10/func/sub-MSC06_ses-func10_task-memorywords_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-MSC06/ses-func10/func/sub-MSC06_ses-func10_task-memorywords_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "correct",
+        "severity": "warning"
+      }
+    ]
+  }
+}

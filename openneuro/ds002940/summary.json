@@ -1,0 +1,149 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "s01",
+    "s03",
+    "s05",
+    "s06",
+    "s08",
+    "s09",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s21",
+    "s22",
+    "s23",
+    "s24",
+    "s25",
+    "s26",
+    "s27",
+    "s28",
+    "s29"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "group": "1"
+    },
+    {
+      "participantId": "03",
+      "group": "1"
+    },
+    {
+      "participantId": "05",
+      "group": "1"
+    },
+    {
+      "participantId": "06",
+      "group": "1"
+    },
+    {
+      "participantId": "08",
+      "group": "1"
+    },
+    {
+      "participantId": "09",
+      "group": "1"
+    },
+    {
+      "participantId": "11",
+      "group": "1"
+    },
+    {
+      "participantId": "12",
+      "group": "1"
+    },
+    {
+      "participantId": "13",
+      "group": "1"
+    },
+    {
+      "participantId": "14",
+      "group": "1"
+    },
+    {
+      "participantId": "15",
+      "group": "2"
+    },
+    {
+      "participantId": "16",
+      "group": "1"
+    },
+    {
+      "participantId": "17",
+      "group": "2"
+    },
+    {
+      "participantId": "18",
+      "group": "2"
+    },
+    {
+      "participantId": "19",
+      "group": "2"
+    },
+    {
+      "participantId": "21",
+      "group": "1"
+    },
+    {
+      "participantId": "22",
+      "group": "1"
+    },
+    {
+      "participantId": "23",
+      "group": "3"
+    },
+    {
+      "participantId": "24",
+      "group": "3"
+    },
+    {
+      "participantId": "25",
+      "group": "3"
+    },
+    {
+      "participantId": "26",
+      "group": "3"
+    },
+    {
+      "participantId": "27",
+      "group": "3"
+    },
+    {
+      "participantId": "28",
+      "group": "3"
+    },
+    {
+      "participantId": "29",
+      "group": "3"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 197,
+  "size": 170428,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

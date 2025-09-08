@@ -1,0 +1,23 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-5211/ses-7/func/sub-5211_ses-7_task-Plaus_acq-D2S4_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "trial_type",
+        "location": "/sub-5211/ses-7/func/sub-5211_ses-7_task-Plaus_acq-D2S4_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 8,
+        "issueMessage": "'SP_S'",
+        "severity": "error"
+      }
+    ]
+  }
+}

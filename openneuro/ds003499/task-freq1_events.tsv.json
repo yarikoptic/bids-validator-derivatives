@@ -1,0 +1,29 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/task-freq1_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/task-freq1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/task-freq1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 213,
+        "issueMessage": "'NA', did you mean 'n/a'?",
+        "severity": "error"
+      }
+    ]
+  }
+}

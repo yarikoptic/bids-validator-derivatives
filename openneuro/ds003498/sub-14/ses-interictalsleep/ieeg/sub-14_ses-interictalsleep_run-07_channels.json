@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-14/ses-interictalsleep/ieeg/sub-14_ses-interictalsleep_run-07_channels.tsv",
+        "issueMessage": "task missing from rule rules.files.raw.channels.channels",
+        "rule": "rules.files.raw.channels.channels",
+        "severity": "error"
+      }
+    ]
+  }
+}

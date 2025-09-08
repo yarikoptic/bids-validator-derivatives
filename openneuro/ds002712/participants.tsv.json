@@ -1,0 +1,33 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/participants.tsv",
+        "issueMessage": "participant_id, age, sex, group\r2399, 27, m, control\r3117, 29, m, control\r636, 24, m, control\r2138, 24, f, control\r1616, 27, f, control\r2946, 22, f, control\r551, 24, m, control\r3332, 21, f, control\r2406, 25, m, control\r3096, 27, m, control\r1232, 22, m, control\r4058, 25, m, control\r1427, 29, m, control\r3689, 25, m, control\r3595, 24, f, control\r3090, 24, f, control\r3620, 29, f, control\r4648, 20, f, control\r3869, 25, m, control\r1536, 24, m, control\r4346, 24, m, control\r1894, 23, f, control\r4672, 21, f, control\r4536, 22, f, control\r3647, 23, f, control\r4829, 21, m, control\r4154, 21, f, control\r4649, 21, f, control",
+        "severity": "error"
+      },
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      }
+    ]
+  }
+}

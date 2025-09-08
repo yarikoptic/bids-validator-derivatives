@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "newbi4fmri_VAR3_Caffeine"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 16,
+  "size": 36447,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

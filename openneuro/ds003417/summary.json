@@ -1,0 +1,42 @@
+{
+  "sessions": [
+    "7T",
+    "9T"
+  ],
+  "subjects": [
+    "00x01",
+    "00x02",
+    "00x03",
+    "00x04",
+    "00x05",
+    "00x06",
+    "00x07",
+    "00x08",
+    "00x09",
+    "00x10",
+    "00x11",
+    "00x12",
+    "00x13",
+    "00x14",
+    "00x15",
+    "00x16",
+    "00x17",
+    "00x18"
+  ],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 75,
+  "size": 13249,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

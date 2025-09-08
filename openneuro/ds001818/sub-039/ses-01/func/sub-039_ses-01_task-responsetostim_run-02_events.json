@@ -1,0 +1,41 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-039/ses-01/func/sub-039_ses-01_task-responsetostim_run-02_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-039/ses-01/func/sub-039_ses-01_task-responsetostim_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-039/ses-01/func/sub-039_ses-01_task-responsetostim_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "parametric_modulation",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-039/ses-01/func/sub-039_ses-01_task-responsetostim_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "regressor",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-039/ses-01/func/sub-039_ses-01_task-responsetostim_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "description",
+        "severity": "warning"
+      }
+    ]
+  }
+}

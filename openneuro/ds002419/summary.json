@@ -1,0 +1,319 @@
+{
+  "sessions": [
+    "scan1",
+    "scan2"
+  ],
+  "subjects": [
+    "1358",
+    "1473",
+    "1480",
+    "1482",
+    "1493",
+    "1502",
+    "1506",
+    "1511",
+    "1514",
+    "1519",
+    "1571",
+    "1596",
+    "1598",
+    "1610",
+    "1611",
+    "1615",
+    "1638",
+    "1643",
+    "1645",
+    "1665",
+    "1671",
+    "1678",
+    "1697",
+    "1700",
+    "1705",
+    "1710",
+    "1734",
+    "1752",
+    "1754",
+    "1756",
+    "1757",
+    "1766",
+    "1770",
+    "1780",
+    "1781",
+    "1797",
+    "1798",
+    "1803",
+    "1810",
+    "1813",
+    "1814",
+    "1815",
+    "1822",
+    "1824",
+    "1842",
+    "1843",
+    "1855",
+    "1856"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1358",
+      "age": 24,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1473",
+      "age": 36,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1480",
+      "age": 23,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1482",
+      "age": 29,
+      "group": "combo"
+    },
+    {
+      "participantId": "1493",
+      "age": 25,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1502",
+      "age": 38,
+      "group": "combo"
+    },
+    {
+      "participantId": "1506",
+      "age": 30,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1511",
+      "age": 23,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1514",
+      "age": 25,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1519",
+      "age": 26,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1571",
+      "age": 39,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1596",
+      "age": 25,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1598",
+      "age": 24,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1610",
+      "age": 26,
+      "group": "combo"
+    },
+    {
+      "participantId": "1611",
+      "age": 30,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1615",
+      "age": 25,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1638",
+      "age": 31,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1643",
+      "age": 31,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1645",
+      "age": 26,
+      "group": "combo"
+    },
+    {
+      "participantId": "1665",
+      "age": 36,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1671",
+      "age": 28,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1678",
+      "age": 29,
+      "group": "lcs"
+    },
+    {
+      "participantId": "1697",
+      "age": 27,
+      "group": "combo"
+    },
+    {
+      "participantId": "1700",
+      "age": 27,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1705",
+      "age": 24,
+      "group": "combo"
+    },
+    {
+      "participantId": "1710",
+      "age": 28,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1734",
+      "age": 27,
+      "group": "combo"
+    },
+    {
+      "participantId": "1752",
+      "age": 27,
+      "group": "combo"
+    },
+    {
+      "participantId": "1754",
+      "age": 26,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1756",
+      "age": 24,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1757",
+      "age": 24,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1766",
+      "age": 25,
+      "group": "combo"
+    },
+    {
+      "participantId": "1770",
+      "age": 29,
+      "group": "combo"
+    },
+    {
+      "participantId": "1780",
+      "age": 27,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1781",
+      "age": 28,
+      "group": "combo"
+    },
+    {
+      "participantId": "1797",
+      "age": 33,
+      "group": "combo"
+    },
+    {
+      "participantId": "1798",
+      "age": 27,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1803",
+      "age": 23,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1810",
+      "age": 30,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1813",
+      "age": 28,
+      "group": "combo"
+    },
+    {
+      "participantId": "1814",
+      "age": 31,
+      "group": "combo"
+    },
+    {
+      "participantId": "1815",
+      "age": 23,
+      "group": "combo"
+    },
+    {
+      "participantId": "1822",
+      "age": 33,
+      "group": "combo"
+    },
+    {
+      "participantId": "1824",
+      "age": 27,
+      "group": "combo"
+    },
+    {
+      "participantId": "1842",
+      "age": 29,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1843",
+      "age": 23,
+      "group": "combo"
+    },
+    {
+      "participantId": "1855",
+      "age": 27,
+      "group": "sugar"
+    },
+    {
+      "participantId": "1856",
+      "age": 24,
+      "group": "lcs"
+    }
+  ],
+  "tasks": [
+    "task-taste1",
+    "task-taste2"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 830,
+  "size": 380639,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

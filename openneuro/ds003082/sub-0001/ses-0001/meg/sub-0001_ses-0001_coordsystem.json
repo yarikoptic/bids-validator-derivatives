@@ -1,0 +1,46 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MEGCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the MEG sensors.\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`\"MEGCoordinateSystemDescription\"`.\n",
+        "rule": "rules.json.meg.MEGCoordsystemWithEEG",
+        "location": "/sub-0001/ses-0001/meg/sub-0001_ses-0001_coordsystem.json",
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EEGCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the EEG sensors.\n\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`EEGCoordinateSystemDescription`.\n",
+        "rule": "rules.json.meg.MEGCoordsystemWithEEG",
+        "location": "/sub-0001/ses-0001/meg/sub-0001_ses-0001_coordsystem.json",
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "HeadCoilCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the head coils.\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`HeadCoilCoordinateSystemDescription`.\n",
+        "rule": "rules.json.meg.MEGCoordsystemHeadLocalizationCoils",
+        "location": "/sub-0001/ses-0001/meg/sub-0001_ses-0001_coordsystem.json",
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "DigitizedHeadPointsCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the digitized head points.\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`\"DigitizedHeadPointsCoordinateSystemDescription\"`.\n",
+        "rule": "rules.json.meg.MEGCoordsystemDigitizedHeadPoints",
+        "location": "/sub-0001/ses-0001/meg/sub-0001_ses-0001_coordsystem.json",
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "AnatomicalLandmarkCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the anatomical landmarks.\nSee the [Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`\"AnatomicalLandmarkCoordinateSystemDescription\"`.\n",
+        "rule": "rules.json.meg.MEGCoordsystemAnatomicalLandmarks",
+        "location": "/sub-0001/ses-0001/meg/sub-0001_ses-0001_coordsystem.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

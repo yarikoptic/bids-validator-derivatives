@@ -1,0 +1,54 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskName",
+        "location": "/sub-0425/func/sub-0425_task-fribBids_run-04_sbref.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.entity_rules.EntitiesTaskMetadata",
+        "issueMessage": "Field description: Name of the task.\nNo two tasks should have the same name.\nThe task label included in the filename MAY be derived from this `\"TaskName\"` field\nby removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),\nand potentially replacing spaces with `+` to ease readability.\nFor example `\"TaskName\"` `\"faces n-back\"` or `\"head nodding\"` could correspond to task labels\n`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MatrixCoilMode",
+        "location": "/sub-0425/func/sub-0425_task-fribBids_run-04_sbref.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: (If used)\nA method for reducing the number of independent channels by combining in\nanalog the signals from multiple coil elements.\nThere are typically different default modes when using un-accelerated or\naccelerated (for example, `\"GRAPPA\"`, `\"SENSE\"`) imaging.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CoilCombinationMethod",
+        "location": "/sub-0425/func/sub-0425_task-fribBids_run-04_sbref.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares\n(rSOS) combination, but other methods exist.\nThe image reconstruction is changed by the coil combination method\n(as for the matrix coil mode above),\nso anything non-standard should be reported.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PulseSequenceType",
+        "location": "/sub-0425/func/sub-0425_task-fribBids_run-04_sbref.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: A general description of the pulse sequence used for the scan.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "NonlinearGradientCorrection",
+        "location": "/sub-0425/func/sub-0425_task-fribBids_run-04_sbref.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: Boolean stating if the image saved has been corrected for gradient\nnonlinearities by the scanner sequence.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PartialFourierDirection",
+        "location": "/sub-0425/func/sub-0425_task-fribBids_run-04_sbref.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIPartialFourier",
+        "issueMessage": "Field description: The direction where only partial Fourier information was collected.\nCorresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.\n"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-311/func/sub-311_task-reward_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/sub-311/func/sub-311_task-reward_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 13,
+        "issueMessage": "'0..jpg2259'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-311/func/sub-311_task-reward_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimvalue",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "sessions": [],
+  "subjects": [
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "331",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "Memory"
+  ],
+  "modalities": [
+    "MEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 1001,
+  "size": 2027884,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

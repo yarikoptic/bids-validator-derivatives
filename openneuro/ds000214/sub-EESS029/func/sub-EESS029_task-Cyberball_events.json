@@ -1,0 +1,29 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-EESS029/func/sub-EESS029_task-Cyberball_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-EESS029/func/sub-EESS029_task-Cyberball_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "trial_type",
+        "location": "/sub-EESS029/func/sub-EESS029_task-Cyberball_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 8,
+        "issueMessage": "'Fixation'",
+        "severity": "error"
+      }
+    ]
+  }
+}

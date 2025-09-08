@@ -1,0 +1,130 @@
+{
+  "sessions": [
+    "post",
+    "pre"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "group": "movement"
+    },
+    {
+      "participantId": "02",
+      "group": "movement"
+    },
+    {
+      "participantId": "03",
+      "group": "movement"
+    },
+    {
+      "participantId": "04",
+      "group": "movement"
+    },
+    {
+      "participantId": "05",
+      "group": "movement"
+    },
+    {
+      "participantId": "06",
+      "group": "movement"
+    },
+    {
+      "participantId": "07",
+      "group": "movement"
+    },
+    {
+      "participantId": "08",
+      "group": "movement"
+    },
+    {
+      "participantId": "09",
+      "group": "movement"
+    },
+    {
+      "participantId": "10",
+      "group": "movement"
+    },
+    {
+      "participantId": "11",
+      "group": "cue"
+    },
+    {
+      "participantId": "12",
+      "group": "cue"
+    },
+    {
+      "participantId": "13",
+      "group": "cue"
+    },
+    {
+      "participantId": "14",
+      "group": "cue"
+    },
+    {
+      "participantId": "15",
+      "group": "cue"
+    },
+    {
+      "participantId": "16",
+      "group": "cue"
+    },
+    {
+      "participantId": "17",
+      "group": "cue"
+    },
+    {
+      "participantId": "18",
+      "group": "cue"
+    },
+    {
+      "participantId": "19",
+      "group": "cue"
+    },
+    {
+      "participantId": "20",
+      "group": "cue"
+    }
+  ],
+  "tasks": [
+    "cuedMFM"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 966,
+  "size": 325760,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "fmap",
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

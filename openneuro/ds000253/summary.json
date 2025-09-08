@@ -1,0 +1,150 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "02",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "03",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "04",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "05",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "06",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "07",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "08",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "09",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "10",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "11",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "12",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "13",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "14",
+      "sex": "F",
+      "group": "Non-gamer"
+    },
+    {
+      "participantId": "15",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "16",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "17",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "18",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "19",
+      "sex": "F",
+      "group": "Gamer"
+    },
+    {
+      "participantId": "20",
+      "sex": "F",
+      "group": "Gamer"
+    }
+  ],
+  "tasks": [
+    "Localizer",
+    "Experimental Run 1",
+    "Experimental Run 2",
+    "Experimental Run 3",
+    "Experimental Run 4"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 329,
+  "size": 247322,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

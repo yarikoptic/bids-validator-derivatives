@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/task-DMNTRACKINGTRAIN_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

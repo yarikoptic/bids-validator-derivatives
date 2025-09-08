@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-02/meg/sub-02_task-DSMW_channels.tsv",
+        "rule": "rules.tabular_data.meg.MEGChannels",
+        "line": 2,
+        "issueMessage": "'clock'",
+        "severity": "error"
+      }
+    ]
+  }
+}

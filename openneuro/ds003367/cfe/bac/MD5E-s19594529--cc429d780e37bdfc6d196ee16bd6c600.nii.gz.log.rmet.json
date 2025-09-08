@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/cfe/bac/MD5E-s19594529--cc429d780e37bdfc6d196ee16bd6c600.nii.gz.log.rmet",
+        "severity": "error"
+      }
+    ]
+  }
+}

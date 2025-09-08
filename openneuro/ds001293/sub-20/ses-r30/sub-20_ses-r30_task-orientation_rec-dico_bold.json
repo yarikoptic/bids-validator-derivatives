@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/sub-20/ses-r30/sub-20_ses-r30_task-orientation_rec-dico_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

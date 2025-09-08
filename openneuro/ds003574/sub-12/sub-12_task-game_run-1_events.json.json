@@ -1,0 +1,36 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "onset",
+        "location": "/sub-12/sub-12_task-game_run-1_events.json",
+        "issueMessage": "Sidecar key defined in /task-game_run-1_events.json overrides previous value ([object Object]) from /sub-12/sub-12_task-game_run-1_events.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "duration",
+        "location": "/sub-12/sub-12_task-game_run-1_events.json",
+        "issueMessage": "Sidecar key defined in /task-game_run-1_events.json overrides previous value ([object Object]) from /sub-12/sub-12_task-game_run-1_events.json",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"Secs\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-12/sub-12_task-game_run-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"Secs\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/sub-12/sub-12_task-game_run-1_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

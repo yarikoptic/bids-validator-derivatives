@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/sub-RESP0699/ses-1/ieeg/sub-RESP0699_ses-1_task-SPESclin_run-031717_channels.tsv",
+        "issueMessage": "Row: 98, Value: .....",
+        "rule": "rules.tabular_data.ieeg.iEEGChannels",
+        "severity": "error"
+      }
+    ]
+  }
+}

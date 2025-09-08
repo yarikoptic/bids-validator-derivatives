@@ -1,0 +1,21 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "session_id",
+        "location": "/sub-01/sub-01_sessions.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "session_id",
+        "location": "/sub-01/sub-01_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "severity": "error"
+      }
+    ]
+  }
+}

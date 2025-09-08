@@ -1,0 +1,77 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "phase",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "probe",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "line_pct",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RTHold",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "catch",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "missed",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02016/ses-01/func/sub-02016_ses-01_task-numbers_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "problem_trial",
+        "severity": "warning"
+      }
+    ]
+  }
+}

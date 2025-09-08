@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/eyetracking while movie watching, plus visual localizers/task-retmapcon_bold.json",
+        "issueMessage": "sub missing from rule rules.files.raw.func.func",
+        "rule": "rules.files.raw.func.func",
+        "severity": "error"
+      }
+    ]
+  }
+}

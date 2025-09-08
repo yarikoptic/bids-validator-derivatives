@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/phenotype/ses-5/ctopp-2.tsv",
+        "severity": "error"
+      }
+    ]
+  }
+}

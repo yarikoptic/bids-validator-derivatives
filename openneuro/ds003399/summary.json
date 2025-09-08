@@ -1,0 +1,69 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "RESP0521",
+    "RESP0699",
+    "RESP0724",
+    "RESP0749",
+    "RESP0779",
+    "RESP0800"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "RESP0521",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0724",
+      "age": 15,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0699",
+      "age": 14,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0749",
+      "age": 45,
+      "sex": "F"
+    },
+    {
+      "participantId": "RESP0779",
+      "age": 46,
+      "sex": "M"
+    },
+    {
+      "participantId": "RESP0800",
+      "age": 14,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "task-SPESclin",
+    "task-Sleep",
+    "task-sleep",
+    "task-slawtrans",
+    "task-CHOCS1",
+    "task-Rest"
+  ],
+  "modalities": [
+    "iEEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 183,
+  "size": 1475937,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "ieeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

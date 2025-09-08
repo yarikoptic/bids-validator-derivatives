@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_INDEX_VALUE_NOT_UNIQUE",
+        "location": "/sub-10/sub-10_scans.tsv",
+        "issueMessage": "Row: 12, Value: func/sub-10_task-fullchecker_run-001_bold.nii.gz",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "severity": "error"
+      }
+    ]
+  }
+}

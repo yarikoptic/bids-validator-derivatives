@@ -1,0 +1,112 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "PresentedStimulusArrowDirection",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ReactionTime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SubjectResponseButton",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SubjectResponseButtonCode",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SubjectResponseCorrectness",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialOutcome",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "StopSignalDelay",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "LadderNumber",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "LadderTime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "LadderMovement",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TimeCourse",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onset_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "duration_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-stopsignal_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_type_orig",
+        "severity": "warning"
+      }
+    ]
+  }
+}

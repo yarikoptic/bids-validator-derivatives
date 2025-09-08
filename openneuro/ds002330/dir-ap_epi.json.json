@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_INVALID",
+        "location": "/dir-ap_epi.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

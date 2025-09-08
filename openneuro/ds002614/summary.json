@@ -1,0 +1,26 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "task-rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 7,
+  "size": 3760,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

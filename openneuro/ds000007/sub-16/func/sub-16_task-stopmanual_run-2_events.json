@@ -1,0 +1,77 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialType",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "model",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Stimulus",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SSD",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ReactionTime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CorrectGo",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-16/func/sub-16_task-stopmanual_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SuccStop",
+        "severity": "warning"
+      }
+    ]
+  }
+}

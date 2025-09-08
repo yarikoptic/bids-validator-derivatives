@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/task-ContRing_acq-ap_sbref.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

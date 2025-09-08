@@ -1,0 +1,156 @@
+{
+  "sessions": [
+    "00",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "11",
+    "14",
+    "15",
+    "16",
+    "17",
+    "19",
+    "20",
+    "24",
+    "22",
+    "23",
+    "01",
+    "02",
+    "12",
+    "13",
+    "21",
+    "18",
+    "25",
+    "26",
+    "10",
+    "27"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 32,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "05",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "06",
+      "age": 33,
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "09",
+      "age": 38,
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "age": 40,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "14",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "15",
+      "age": 30,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "archi emotional",
+    "archi social",
+    "archi spatial",
+    "archi standard",
+    "auditory scene perception ",
+    "RSVP language",
+    "clips watching",
+    "retinotopy",
+    "HCP emotion",
+    "HCP gambling",
+    "HCP langage",
+    "HCP motor",
+    "HCP relational",
+    "HCP social",
+    "HCP WM",
+    "Fictitious event ordering",
+    "Movie Watching task",
+    "movie watching task",
+    "rest eyes open",
+    "film viewing",
+    "self"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 5427,
+  "size": 5993102,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,13 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-NEPO18/ses-Nepopre/sub-NEPO18_ses-Nepopre_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "subCode": "age_acq_time",
+        "severity": "warning"
+      }
+    ]
+  }
+}

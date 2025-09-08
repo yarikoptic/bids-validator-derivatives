@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "jgrKCLmouse1",
+    "jgrKCLmouse2"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 15,
+  "size": 3616,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

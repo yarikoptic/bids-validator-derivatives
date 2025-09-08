@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/fe1/3bb/SHA1--7070a6d21205be7e56b5a2bbd006893ed4f35c2a.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

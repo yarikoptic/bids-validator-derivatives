@@ -1,0 +1,201 @@
+{
+  "sessions": [],
+  "subjects": [
+    "CTS200",
+    "CTS201",
+    "CTS202",
+    "CTS203",
+    "CTS204",
+    "CTS207",
+    "CTS208",
+    "CTS209",
+    "CTS210",
+    "CTS211",
+    "CTS213",
+    "CTS215",
+    "CTS218",
+    "CTS219",
+    "CTS223",
+    "CTS225",
+    "CTS226",
+    "CTS230",
+    "CTS231",
+    "CTS235",
+    "CTS237",
+    "CTS238",
+    "CTS239",
+    "CTS241"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "CTS200",
+      "age": 13.23,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS201",
+      "age": 8.68,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS202",
+      "age": 11.18,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS203",
+      "age": 7.51,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS204",
+      "age": 12.51,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS207",
+      "age": 11.48,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS208",
+      "age": 6.79,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS209",
+      "age": 5.89,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS210",
+      "age": 7.63,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS211",
+      "age": 9.93,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS213",
+      "age": 15.87,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS215",
+      "age": 15.11,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS218",
+      "age": 11.47,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS219",
+      "age": 14.38,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS223",
+      "age": 15.11,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS225",
+      "age": 13.6,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS226",
+      "age": 8.52,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS230",
+      "age": 10.23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS231",
+      "age": 7.99,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS235",
+      "age": 7.43,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS237",
+      "age": 15.04,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS238",
+      "age": 10.64,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS239",
+      "age": 14.35,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "CTS241",
+      "age": 12.53,
+      "sex": "M",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "restbaseline",
+    "restfixationadaptive",
+    "restfixationfixed",
+    "restfixationnofeedback",
+    "restmovieadaptive",
+    "restmoviefixed",
+    "restmovienofeedback"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 763,
+  "size": 5969671,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

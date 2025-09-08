@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/01d/a6b/SHA1--201b46e5ed007d8089eff79a3c27da3256082deb.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

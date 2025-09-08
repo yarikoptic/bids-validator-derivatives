@@ -1,0 +1,204 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "ContrastBolusIngredient",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Active ingredient of agent.\nCorresponds to [DICOM Tag 0018, 1048](https://dicomlookup.com/dicomtags/(0018,1048)) `Contrast/Bolus Ingredient`.\n",
+        "rule": "rules.sidecars.anat.MRIAnatomyCommonMetadataFields",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MagneticFieldStrength",
+        "issueMessage": "must be number\n\nField description: Nominal field strength of MR magnet in Tesla.\nCorresponds to [DICOM Tag 0018, 0087](https://dicomlookup.com/dicomtags/(0018,0087)) `Magnetic Field Strength`.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "NonlinearGradientCorrection",
+        "issueMessage": "must be boolean\n\nField description: Boolean stating if the image saved has been corrected for gradient\nnonlinearities by the scanner sequence.\n",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "NumberShots",
+        "issueMessage": "must be number\n\nField description: The number of RF excitations needed to reconstruct a slice or volume\n(may be referred to as partition).\nPlease mind that this is not the same as Echo Train Length which denotes the\nnumber of k-space lines collected after excitation in a multi-echo readout.\nThe data type array is applicable for specifying this parameter before and\nafter the k-space center is sampled.\nPlease see\n[`\"NumberShots\"` metadata field]\\\n(SPEC_ROOT/appendices/qmri.md#numbershots-metadata-field)\nin the qMRI appendix for corresponding calculations.\n",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "NumberShots",
+        "issueMessage": "must be array\n\nField description: The number of RF excitations needed to reconstruct a slice or volume\n(may be referred to as partition).\nPlease mind that this is not the same as Echo Train Length which denotes the\nnumber of k-space lines collected after excitation in a multi-echo readout.\nThe data type array is applicable for specifying this parameter before and\nafter the k-space center is sampled.\nPlease see\n[`\"NumberShots\"` metadata field]\\\n(SPEC_ROOT/appendices/qmri.md#numbershots-metadata-field)\nin the qMRI appendix for corresponding calculations.\n",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "NumberShots",
+        "issueMessage": "must match a schema in anyOf\n\nField description: The number of RF excitations needed to reconstruct a slice or volume\n(may be referred to as partition).\nPlease mind that this is not the same as Echo Train Length which denotes the\nnumber of k-space lines collected after excitation in a multi-echo readout.\nThe data type array is applicable for specifying this parameter before and\nafter the k-space center is sampled.\nPlease see\n[`\"NumberShots\"` metadata field]\\\n(SPEC_ROOT/appendices/qmri.md#numbershots-metadata-field)\nin the qMRI appendix for corresponding calculations.\n",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "ParallelReductionFactorInPlane",
+        "issueMessage": "must be number\n\nField description: The parallel imaging (for instance, GRAPPA) factor in plane.\nUse the denominator of the fraction of k-space encoded for each slice.\nFor example, 2 means half of k-space is encoded.\nCorresponds to [DICOM Tag 0018, 9069](https://dicomlookup.com/dicomtags/(0018,9069))\n`Parallel Reduction Factor In-plane`.\n",
+        "rule": "rules.sidecars.mri.MRISpatialEncoding",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "PartialFourier",
+        "issueMessage": "must be number\n\nField description: The fraction of partial Fourier information collected.\n",
+        "rule": "rules.sidecars.mri.MRISpatialEncoding",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EffectiveEchoSpacing",
+        "issueMessage": "must be number\n\nField description: The \"effective\" sampling interval, specified in seconds,\nbetween lines in the phase-encoding direction,\ndefined based on the size of the reconstructed image in the phase direction.\nIt is frequently, but incorrectly, referred to as \"dwell time\"\n(see the `\"DwellTime\"` parameter for actual dwell time).\nIt is required for unwarping distortions using field maps.\nNote that beyond just in-plane acceleration,\na variety of other manipulations to the phase encoding need to be accounted\nfor properly, including partial fourier, phase oversampling,\nphase resolution, phase field-of-view and interpolation.\n",
+        "rule": "rules.sidecars.mri.MRISpatialEncoding",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must be number\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must be array\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must match a schema in anyOf\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "InversionTime",
+        "issueMessage": "must be number\n\nField description: The inversion time (TI) for the acquisition, specified in seconds.\nInversion time is the time after the middle of inverting RF pulse to middle\nof excitation pulse to detect the amount of longitudinal magnetization.\nCorresponds to [DICOM Tag 0018, 0082](https://dicomlookup.com/dicomtags/(0018,0082)) `Inversion Time`\n(please note that the DICOM term is in milliseconds not seconds).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "DwellTime",
+        "issueMessage": "must be number\n\nField description: Actual dwell time (in seconds) of the receiver per point in the readout\ndirection, including any oversampling.\nFor Siemens, this corresponds to DICOM field 0019, 1018 (in ns).\nThis value is necessary for the optional readout distortion correction of\nanatomicals in the HCP Pipelines.\nIt also usefully provides a handle on the readout bandwidth,\nwhich isn't captured in the other metadata tags.\nNot to be confused with `\"EffectiveEchoSpacing\"`, and the frequent mislabeling\nof echo spacing (which is spacing in the phase encoding direction) as\n\"dwell time\" (which is spacing in the readout direction).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be number\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be array\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must match a schema in anyOf\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MultibandAccelerationFactor",
+        "issueMessage": "must be number\n\nField description: The multiband factor, for multiband acquisitions.\n",
+        "rule": "rules.sidecars.mri.MRISliceAcceleration",
+        "location": "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.json",
+        "affects": [
+          "/sub-01/ses-01/anat/sub-01_ses-01_acq-FullExample_run-01_T1w.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

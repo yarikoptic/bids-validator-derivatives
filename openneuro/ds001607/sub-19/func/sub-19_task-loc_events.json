@@ -1,0 +1,34 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SUSPICIOUS_POSITIVE_EVENT_ONSET",
+        "location": "/sub-19/func/sub-19_task-loc_events.tsv",
+        "rule": "rules.checks.events.SuspiciousPositiveEventOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-19/func/sub-19_task-loc_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-loc_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/func/sub-19_task-loc_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "repeat",
+        "severity": "warning"
+      }
+    ]
+  }
+}

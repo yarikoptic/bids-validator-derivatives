@@ -1,0 +1,49 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-02/ses-perceptionNaturalImageTraining10/func/sub-02_ses-perceptionNaturalImageTraining10_task-perception_run-05_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/ses-perceptionNaturalImageTraining10/func/sub-02_ses-perceptionNaturalImageTraining10_task-perception_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "event_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/ses-perceptionNaturalImageTraining10/func/sub-02_ses-perceptionNaturalImageTraining10_task-perception_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/ses-perceptionNaturalImageTraining10/func/sub-02_ses-perceptionNaturalImageTraining10_task-perception_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_name",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/ses-perceptionNaturalImageTraining10/func/sub-02_ses-perceptionNaturalImageTraining10_task-perception_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "category_index",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/ses-perceptionNaturalImageTraining10/func/sub-02_ses-perceptionNaturalImageTraining10_task-perception_run-05_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "image_index",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "sub missing from rule rules.files.raw.func.func",
+        "rule": "rules.files.raw.func.func",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_FIELD_OVERRIDE",
+        "subCode": "SliceTiming",
+        "location": "/BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "issueMessage": "Sidecar key defined in /task-bilateralfingertapping_echo-1_bold.json overrides previous value (0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659,0,0.5591,0.0932,0.6523,0.1864,0.7455,0.2796,0.8386,0.3727,0.9318,0.4659) from /BOLD for task-induced functional MRI/task-bilateralfingertapping_echo-1_bold.json",
+        "severity": "warning"
+      }
+    ]
+  }
+}

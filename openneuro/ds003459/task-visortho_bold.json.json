@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_INVALID",
+        "location": "/task-visortho_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

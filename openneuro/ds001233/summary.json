@@ -1,0 +1,138 @@
+{
+  "sessions": [
+    "post",
+    "pre"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "sex": "M",
+      "group": "trained"
+    },
+    {
+      "participantId": "02",
+      "sex": "F",
+      "group": "trained"
+    },
+    {
+      "participantId": "03",
+      "sex": "F",
+      "group": "trained"
+    },
+    {
+      "participantId": "04",
+      "sex": "M",
+      "group": "trained"
+    },
+    {
+      "participantId": "05",
+      "sex": "M",
+      "group": "trained"
+    },
+    {
+      "participantId": "06",
+      "sex": "M",
+      "group": "trained"
+    },
+    {
+      "participantId": "07",
+      "sex": "M",
+      "group": "trained"
+    },
+    {
+      "participantId": "08",
+      "sex": "F",
+      "group": "trained"
+    },
+    {
+      "participantId": "09",
+      "sex": "M",
+      "group": "trained"
+    },
+    {
+      "participantId": "10",
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "11",
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "12",
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "13",
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "14",
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "15",
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "16",
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "17",
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "18",
+      "sex": "F",
+      "group": "control"
+    }
+  ],
+  "tasks": [
+    "cuedSFM"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 619,
+  "size": 339908,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "fmap",
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

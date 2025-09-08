@@ -1,0 +1,28 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "DeviceSerialNumber",
+        "issueMessage": "must be string\n\nField description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/task-tastemap_bold.json",
+        "affects": [
+          "/sub-007/ses-01/func/sub-007_ses-01_task-tastemap_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "PartialFourier",
+        "issueMessage": "must be number\n\nField description: The fraction of partial Fourier information collected.\n",
+        "rule": "rules.sidecars.mri.MRISpatialEncoding",
+        "location": "/task-tastemap_bold.json",
+        "affects": [
+          "/sub-007/ses-01/func/sub-007_ses-01_task-tastemap_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-CTS209/func/sub-CTS209_task-restmovieadaptive_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-CTS209/func/sub-CTS209_task-restmovieadaptive_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TODO -- fill in rows and add more tab-separated columns if desired",
+        "severity": "warning"
+      }
+    ]
+  }
+}

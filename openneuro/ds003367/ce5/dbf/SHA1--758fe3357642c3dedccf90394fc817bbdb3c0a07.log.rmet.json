@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/ce5/dbf/SHA1--758fe3357642c3dedccf90394fc817bbdb3c0a07.log.rmet",
+        "severity": "error"
+      }
+    ]
+  }
+}

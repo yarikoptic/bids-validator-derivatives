@@ -1,0 +1,203 @@
+{
+  "sessions": [
+    "post",
+    "pre"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 44,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "02",
+      "age": 28,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "03",
+      "age": 44,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "04",
+      "age": 25,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "05",
+      "age": 39,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "06",
+      "age": 42,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "07",
+      "age": 33,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "08",
+      "age": 29,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "09",
+      "age": 32,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "10",
+      "age": 21,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "11",
+      "age": 50,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "12",
+      "age": 52,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "13",
+      "age": 31,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "14",
+      "age": 28,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "15",
+      "age": 30,
+      "group": "depr_no_treatment"
+    },
+    {
+      "participantId": "16",
+      "age": 21,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "17",
+      "age": 33,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "18",
+      "age": 24,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "19",
+      "age": 33,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "20",
+      "age": 21,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "21",
+      "age": 42,
+      "group": "depr_nfb"
+    },
+    {
+      "participantId": "22",
+      "age": 22,
+      "group": "depr_nfb"
+    },
+    {
+      "participantId": "23",
+      "age": 32,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "24",
+      "age": 45,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "25",
+      "age": 28,
+      "group": "depr_cbt"
+    },
+    {
+      "participantId": "26",
+      "age": 23,
+      "group": "depr_nfb"
+    },
+    {
+      "participantId": "27",
+      "age": 27,
+      "group": "depr_nfb"
+    },
+    {
+      "participantId": "28",
+      "age": 27,
+      "group": "depr_nfb"
+    },
+    {
+      "participantId": "29",
+      "age": 46,
+      "group": "depr_nfb"
+    }
+  ],
+  "tasks": [
+    "resting state with closed eyes"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 107,
+  "size": 24209,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

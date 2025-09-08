@@ -1,0 +1,48 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "INVALID_LOCATION",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_events.tsv",
+        "issueMessage": "Expected location: /sub-18/ses-movie/",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "frameidx",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "videotime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "audiotime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "lasttrigger",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "sessions": [
+    "1",
+    "4",
+    "2",
+    "3"
+  ],
+  "subjects": [
+    "jgroptoAD100",
+    "jgroptoAD101",
+    "jgroptoAD102",
+    "jgroptoAD103",
+    "jgroptoAD105",
+    "jgroptoAD106",
+    "jgroptoAD107",
+    "jgroptoAD108",
+    "jgroptoAD109",
+    "jgroptoAD650",
+    "jgroptoAD653",
+    "jgroptoAD654",
+    "jgroptoAD655",
+    "jgroptoAD656",
+    "jgroptoAD657",
+    "jgroptoAD658",
+    "jgroptoAD659",
+    "jgroptoAD660",
+    "jgroptoAD661",
+    "jgroptoAD681",
+    "jgroptoAD682",
+    "jgroptoAD683",
+    "jgroptoAD684",
+    "jgroptoAD685",
+    "jgroptoAD686",
+    "jgroptoAD687",
+    "jgroptoAD688",
+    "jgroptoAD689",
+    "jgroptoAD690",
+    "jgroptoAD692",
+    "jgroptoAD693"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "jgroptoAD100",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD101",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD102",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD103",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD105",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD106",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD107",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD108",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD109",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD650",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD653",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD654",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD655",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD656",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD657",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD658",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD659",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD660",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD661",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD681",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD682",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD683",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD684",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD685",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD686",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD687",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD688",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD689",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD690",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD692",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD693",
+      "age": 3,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD650",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD653",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD654",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD655",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD657",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD659",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD660",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD661",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD681",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD682",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD683",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD685",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD686",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD687",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD689",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD690",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD692",
+      "age": 6,
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoAD693",
+      "age": 6,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "opto10",
+    "opto20",
+    "opto5",
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 624,
+  "size": 114309,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,39 @@
+{
+  "sessions": [],
+  "subjects": [
+    "0001",
+    "emptyroom"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "emptyroom",
+      "age": null,
+      "sex": "n/a"
+    },
+    {
+      "participantId": "0001",
+      "age": 25,
+      "sex": "Male"
+    }
+  ],
+  "tasks": [
+    "AEF",
+    "noise"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 22,
+  "size": 136323,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

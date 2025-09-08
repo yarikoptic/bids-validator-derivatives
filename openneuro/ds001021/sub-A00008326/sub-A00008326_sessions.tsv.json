@@ -1,0 +1,20 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-A00008326/sub-A00008326_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "subCode": "age",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-A00008326/sub-A00008326_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "subCode": "days_since_enrollment",
+        "severity": "warning"
+      }
+    ]
+  }
+}

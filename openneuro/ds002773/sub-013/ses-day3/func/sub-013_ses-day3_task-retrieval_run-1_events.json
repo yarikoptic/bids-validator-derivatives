@@ -1,0 +1,119 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "task_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "update_cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cate_c",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cate_b",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cate_o",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "run_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "word_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "img_id",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stim_c",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stim_b",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "design_onset",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-013/ses-day3/func/sub-013_ses-day3_task-retrieval_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "grate_orientation",
+        "severity": "warning"
+      }
+    ]
+  }
+}

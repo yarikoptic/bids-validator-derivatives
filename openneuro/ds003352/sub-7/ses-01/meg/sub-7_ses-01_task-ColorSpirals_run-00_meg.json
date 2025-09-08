@@ -1,0 +1,150 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ManufacturersModelName",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGHardware",
+        "issueMessage": "Field description: Manufacturer's model name of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskDescription",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGTaskInformation",
+        "issueMessage": "Field description: Longer description of the task.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionName",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGInstitutionInformation",
+        "issueMessage": "Field description: The name of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ECOGChannelCount",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: Number of ECoG channels.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SEEGChannelCount",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: Number of SEEG channels.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ContinuousHeadLocalization",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: `true` or `false` value indicating whether continuous head localization\nwas performed.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "HeadCoilFrequency",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: List of frequencies (in Hz) used by the head localization coils\n('HLC' in CTF systems, 'HPI' in Neuromag/Elekta/MEGIN, 'COH' in BTi/4D)\nthat track the subject's head position in the MEG helmet\n(for example, `[293, 307, 314, 321]`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MaxMovement",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: Maximum head movement (in mm) detected during the recording,\nas measured by the head localization coils (for example, `4.8`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SubjectArtefactDescription",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: Freeform description of the observed subject artifact and its possible cause\n(for example, `\"Vagus Nerve Stimulator\"`, `\"non-removable implant\"`).\nIf this field is set to `\"n/a\"`, it will be interpreted as absence of major\nsource of artifacts except cardiac and blinks.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "AssociatedEmptyRoom",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: One or more [BIDS URIs](SPEC_ROOT/common-principles.md#bids-uri)\npointing to empty-room file(s) associated with the subject's MEG recording.\nUsing forward-slash separated paths relative to the dataset root is\n[DEPRECATED](SPEC_ROOT/common-principles.md#definitions).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "HardwareFilters",
+        "location": "/sub-7/ses-01/meg/sub-7_ses-01_task-ColorSpirals_run-00_meg.fif",
+        "severity": "warning",
+        "rule": "rules.sidecars.meg.MEGRecommended",
+        "issueMessage": "Field description: Object of temporal hardware filters applied, or `\"n/a\"` if the data is not\navailable. Each key-value pair in the JSON object is a name of the filter and\nan object in which its parameters are defined as key-value pairs.\nFor example, `{\"Highpass RC filter\": {\"Half amplitude cutoff (Hz)\":\n0.0159, \"Roll-off\": \"6dB/Octave\"}}`.\n"
+      }
+    ]
+  }
+}

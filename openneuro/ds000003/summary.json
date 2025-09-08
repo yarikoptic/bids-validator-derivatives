@@ -1,0 +1,104 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "03",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "04",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "06",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 29,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "rhyme judgment"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 57,
+  "size": 25137,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

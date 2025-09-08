@@ -1,0 +1,43 @@
+{
+  "sessions": [],
+  "subjects": [
+    "03",
+    "04",
+    "05",
+    "07"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "03"
+    },
+    {
+      "participantId": "04"
+    },
+    {
+      "participantId": "05"
+    },
+    {
+      "participantId": "07"
+    }
+  ],
+  "tasks": [
+    "8Hz Contrast Reversing Checkerboard"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 118,
+  "size": 130866,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

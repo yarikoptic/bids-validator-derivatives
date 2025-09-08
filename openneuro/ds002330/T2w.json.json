@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_INVALID",
+        "location": "/T2w.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "NC232",
+    "NC233",
+    "NC234",
+    "NC235",
+    "NC236",
+    "NC237",
+    "NC239",
+    "NC240",
+    "NC242",
+    "NC243",
+    "NC244",
+    "NC245",
+    "NC246",
+    "NC247",
+    "NC248",
+    "NC249",
+    "NC250",
+    "NC251",
+    "NC252",
+    "NC254",
+    "NC255"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "NC232",
+      "age": 26,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC233",
+      "age": 24,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC234",
+      "age": 25,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC235",
+      "age": 50,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC236",
+      "age": 22,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC237",
+      "age": 24,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC239",
+      "age": 36,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC240",
+      "age": 25,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC242",
+      "age": 66,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC243",
+      "age": 29,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC244",
+      "age": 50,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC245",
+      "age": 60,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC246",
+      "age": 32,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC247",
+      "age": 24,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC248",
+      "age": 25,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC249",
+      "age": 26,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC250",
+      "age": 25,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC251",
+      "age": 25,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC252",
+      "age": 21,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC254",
+      "age": 28,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC255",
+      "age": 30,
+      "sex": "Male"
+    }
+  ],
+  "tasks": [
+    "TASK"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 206,
+  "size": 5198710,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,26 @@
+{
+  "sessions": [
+    "movie"
+  ],
+  "subjects": [
+    "phantom"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "movie"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional"
+  ],
+  "totalFiles": 5,
+  "size": 6494,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

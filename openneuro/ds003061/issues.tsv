@@ -1,0 +1,43 @@
+severity	code	code_message	sub_code	n	n_subjects
+error	ENTITY_NOT_IN_RULE	Entity not listed as required or optional for files with this suffix		39	13
+error	HED_ERROR	The validation on this HED string returned an error.	VALUE_INVALID	4	0
+error	TSV_VALUE_INCORRECT_TYPE	A value in a column did not match the acceptable type for that column headers specified format.	trial_type	39	13
+warning	EXCESSIVE_COORDSYSTEM_SPECIFICITY	Task, acquisition or run entities detected in coordsystem.tsv. Coordinate systems should generally not vary within a session. Consider removing the excess entity/entities or create new sessions when multiple coordinate systems are appropriate. 		39	13
+warning	EXCESSIVE_ELECTRODE_SPECIFICITY	Task, acquisition or run entities detected in electrodes.tsv. Electrode definitions should generally not vary within a session. Consider removing the excess entity/entities or create a new session each time electrodes are reconfigured. 		39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystem	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateSystemDescription	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinateUnits	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	AnatomicalLandmarkCoordinates	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	DatasetType	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystem	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateSystemDescription	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinateUnits	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	FiducialsCoordinates	39	13
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	GeneratedBy	1	0
+warning	JSON_KEY_RECOMMENDED	A JSON file is missing a key listed as recommended.	SourceDatasets	1	0
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	duration	39	13
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	onset	39	13
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	response_time	39	13
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	sample	39	13
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	stim_file	39	13
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	trial_type	39	13
+warning	SIDECAR_FIELD_OVERRIDE	Sidecar files should not override values assigned at a higher level.	value	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturer	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CapManufacturersModelName	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogAtlasID	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	CogPOID	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	DeviceSerialNumber	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGGround	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	EEGPlacementScheme	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HardwareFilters	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	HeadCircumference	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	MISCChannelCount	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	SoftwareVersions	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	StimulusPresentation	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TaskName	39	13
+warning	SIDECAR_KEY_RECOMMENDED	A data file's JSON sidecar is missing a key listed as recommended.	TriggerChannelCount	39	13
+warning	TOO_FEW_AUTHORS	The 'Authors' field of 'dataset_description.json' should contain an array of values - with one author per value. This was triggered based on the presence of only one author field. Please ignore if all contributors are already properly listed. 		1	0
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	duration	39	13
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	onset	39	13
+warning	TSV_COLUMN_TYPE_REDEFINED	A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.	response_time	39	13
+warning	UNKNOWN_BIDS_VERSION	The BIDSVersion field of 'dataset_description.json' does not match a known release. The BIDS Schema used for validation may be out of date. 		1	0

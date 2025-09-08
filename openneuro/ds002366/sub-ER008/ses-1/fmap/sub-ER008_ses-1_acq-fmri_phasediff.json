@@ -1,0 +1,28 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime1",
+        "issueMessage": "must be number\n\nField description: The time (in seconds) when the first (shorter) echo occurs.\n",
+        "rule": "rules.sidecars.fmap.MRIFieldmapPhaseDifferencePhasediff",
+        "location": "/sub-ER008/ses-1/fmap/sub-ER008_ses-1_acq-fmri_phasediff.json",
+        "affects": [
+          "/sub-ER008/ses-1/fmap/sub-ER008_ses-1_acq-fmri_phasediff.nii"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime2",
+        "issueMessage": "must be number\n\nField description: The time (in seconds) when the second (longer) echo occurs.\n",
+        "rule": "rules.sidecars.fmap.MRIFieldmapPhaseDifferencePhasediff",
+        "location": "/sub-ER008/ses-1/fmap/sub-ER008_ses-1_acq-fmri_phasediff.json",
+        "affects": [
+          "/sub-ER008/ses-1/fmap/sub-ER008_ses-1_acq-fmri_phasediff.nii"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

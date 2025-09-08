@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "client",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "gains",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "losses",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "outcome",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "missing_trials",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-053/func/sub-053_task-posttest_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "normalized_rt",
+        "severity": "warning"
+      }
+    ]
+  }
+}

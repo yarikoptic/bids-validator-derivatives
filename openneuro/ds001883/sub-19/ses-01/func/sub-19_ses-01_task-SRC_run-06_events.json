@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "choice",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "agent",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "money_left",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "probability_left",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "money_right",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-19/ses-01/func/sub-19_ses-01_task-SRC_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "probability_right",
+        "severity": "warning"
+      }
+    ]
+  }
+}

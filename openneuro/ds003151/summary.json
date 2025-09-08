@@ -1,0 +1,50 @@
+{
+  "sessions": [
+    "hormoneabsent",
+    "hormonepresent"
+  ],
+  "subjects": [
+    "170",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "190",
+    "191",
+    "192"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "n-back"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Perfusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 403,
+  "size": 734882,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func",
+    "perf"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

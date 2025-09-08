@@ -1,0 +1,274 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "094BPAF1211001",
+    "094BPAF1211002",
+    "094BPAF1211003",
+    "094BPAF1211004",
+    "094BPAF1211005",
+    "094BPAF1211006",
+    "094BPAF1211007",
+    "094BPAF1211008",
+    "094BPAF1211010",
+    "094BPAF1211011",
+    "094BPAF1211012",
+    "094BPAF1211013",
+    "094BPAF1211014",
+    "094BPAF1211015",
+    "094BPAF1211016",
+    "094BPAF1211017",
+    "094BPAF1211018",
+    "094BPAF1211022",
+    "094BPAF1211023",
+    "094BPAF1211024",
+    "094BPAF1211025",
+    "094BPAF1211028",
+    "094BPAF1221009",
+    "094BPAF1221019",
+    "094BPAF1221020",
+    "094BPAF1221021",
+    "094BPAF1221026",
+    "094BPAF1221027",
+    "094BPAF1221029",
+    "094BPAF1221030",
+    "094BPAF1221031",
+    "094BPAF1221032",
+    "094BPAF1221033",
+    "094BPAF1221034",
+    "094BPAF1221035"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "094BPAF1211003",
+      "age": 34,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211004",
+      "age": 34,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211005",
+      "age": 25,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211006",
+      "age": 32,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211007",
+      "age": 29,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211008",
+      "age": 27,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221009",
+      "age": 18,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211010",
+      "age": 23,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211011",
+      "age": 29,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211012",
+      "age": 34,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211013",
+      "age": 23,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211015",
+      "age": 32,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211016",
+      "age": 22,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211017",
+      "age": 23,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211018",
+      "age": 24,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211014",
+      "age": 24,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221019",
+      "age": 20,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221020",
+      "age": 23,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221021",
+      "age": 28,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211022",
+      "age": 36,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211023",
+      "age": 22,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211024",
+      "age": 27,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211025",
+      "age": 21,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221026",
+      "age": 18,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211001",
+      "age": 25,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211002",
+      "age": 30,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221027",
+      "age": 23,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1211028",
+      "age": 32,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221029",
+      "age": 21,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221030",
+      "age": 26,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221031",
+      "age": 29,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221032",
+      "age": 25,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221033",
+      "age": 20,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221034",
+      "age": 20,
+      "sex": "M",
+      "group": "soccer"
+    },
+    {
+      "participantId": "094BPAF1221035",
+      "age": 31,
+      "sex": "M",
+      "group": "soccer"
+    }
+  ],
+  "tasks": [
+    "soccer"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 251,
+  "size": 474635,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

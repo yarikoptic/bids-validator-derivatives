@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-1691/eeg/sub-1691_task-Baseline_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "line": 2,
+        "issueMessage": "'eeg'",
+        "severity": "error"
+      }
+    ]
+  }
+}

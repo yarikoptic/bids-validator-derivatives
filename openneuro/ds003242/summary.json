@@ -1,0 +1,736 @@
+{
+  "sessions": [],
+  "subjects": [
+    "SAXSISO01b",
+    "SAXSISO01f",
+    "SAXSISO01s",
+    "SAXSISO02b",
+    "SAXSISO02f",
+    "SAXSISO02s",
+    "SAXSISO03b",
+    "SAXSISO03f",
+    "SAXSISO03s",
+    "SAXSISO04b",
+    "SAXSISO04f",
+    "SAXSISO04s",
+    "SAXSISO08b",
+    "SAXSISO08f",
+    "SAXSISO08s",
+    "SAXSISO09b",
+    "SAXSISO09f",
+    "SAXSISO09s",
+    "SAXSISO10b",
+    "SAXSISO10f",
+    "SAXSISO10s",
+    "SAXSISO11b",
+    "SAXSISO11f",
+    "SAXSISO11s",
+    "SAXSISO12b",
+    "SAXSISO12f",
+    "SAXSISO12s",
+    "SAXSISO13b",
+    "SAXSISO13f",
+    "SAXSISO13s",
+    "SAXSISO14b",
+    "SAXSISO14f",
+    "SAXSISO14s",
+    "SAXSISO15b",
+    "SAXSISO15f",
+    "SAXSISO15s",
+    "SAXSISO17b",
+    "SAXSISO17f",
+    "SAXSISO17s",
+    "SAXSISO18b",
+    "SAXSISO18f",
+    "SAXSISO18s",
+    "SAXSISO19b",
+    "SAXSISO19f",
+    "SAXSISO19s",
+    "SAXSISO21b",
+    "SAXSISO21f",
+    "SAXSISO21s",
+    "SAXSISO22b",
+    "SAXSISO22f",
+    "SAXSISO22s",
+    "SAXSISO24b",
+    "SAXSISO24f",
+    "SAXSISO24s",
+    "SAXSISO26b",
+    "SAXSISO26f",
+    "SAXSISO26s",
+    "SAXSISO27b",
+    "SAXSISO27f",
+    "SAXSISO27s",
+    "SAXSISO28b",
+    "SAXSISO28f",
+    "SAXSISO28s",
+    "SAXSISO30b",
+    "SAXSISO30f",
+    "SAXSISO30s",
+    "SAXSISO32b",
+    "SAXSISO32f",
+    "SAXSISO32s",
+    "SAXSISO33b",
+    "SAXSISO33f",
+    "SAXSISO33s",
+    "SAXSISO34b",
+    "SAXSISO34f",
+    "SAXSISO34s",
+    "SAXSISO35b",
+    "SAXSISO35f",
+    "SAXSISO35s",
+    "SAXSISO36b",
+    "SAXSISO36f",
+    "SAXSISO36s",
+    "SAXSISO38b",
+    "SAXSISO38f",
+    "SAXSISO38s",
+    "SAXSISO39b",
+    "SAXSISO39f",
+    "SAXSISO39s",
+    "SAXSISO40b",
+    "SAXSISO40f",
+    "SAXSISO40s",
+    "SAXSISO41b",
+    "SAXSISO41f",
+    "SAXSISO41s",
+    "SAXSISO42b",
+    "SAXSISO42f",
+    "SAXSISO42s"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "SAXSISO01b",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO01f",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO01s",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO02b",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO02f",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO02s",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO03b",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO03f",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO03s",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO04b",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO04f",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO04s",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO05b",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO05f",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO05s",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO06b",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO06f",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO06s",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO07b",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO07f",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO07s",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO08b",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO08f",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO08s",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO09b",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO09f",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO09s",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO10b",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO10f",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO10s",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO11b",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO11f",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO11s",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO12b",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO12f",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO12s",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO13b",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO13f",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO13s",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO14b",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO14f",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO14s",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO15b",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO15f",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO15s",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO17b",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO17f",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO17s",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO18b",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO18f",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO18s",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO19b",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO19f",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO19s",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO20b",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO20f",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO20s",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO21b",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO21f",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO21s",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO22b",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO22f",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO22s",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO23b",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO23f",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO23s",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO24b",
+      "age": 40,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO24f",
+      "age": 40,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO24s",
+      "age": 40,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO25b",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO25f",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO25s",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO26b",
+      "age": 38,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO26f",
+      "age": 38,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO26s",
+      "age": 38,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO27b",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO27f",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO27s",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO28b",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO28f",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO28s",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO29b",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO29f",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO29s",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO30b",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO30f",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO30s",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO31b",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO31f",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO32b",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO32f",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO32s",
+      "age": 36,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO33b",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO33f",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO33s",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO34b",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO34f",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO34s",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO35b",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO35f",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO35s",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO36b",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO36f",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO36s",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO37b",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO37f",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO37s",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO38b",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO38f",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO38s",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO39b",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO39f",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO39s",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO40b",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO40f",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO40s",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO41b",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO41f",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO41s",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "SAXSISO42b",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO42f",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "SAXSISO42s",
+      "age": 28,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "TODO: full task name for CIC",
+    "TODO: full task name for midloc",
+    "CIC",
+    "midloc"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 3088,
+  "size": 3450215,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,85 @@
+{
+  "sessions": [
+    "anatomicals",
+    "floc7T",
+    "ring3T",
+    "ring7T",
+    "ringSE"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "sex": "m"
+    },
+    {
+      "participantId": "02",
+      "sex": "m"
+    },
+    {
+      "participantId": "03",
+      "sex": "f"
+    },
+    {
+      "participantId": "04",
+      "sex": "m"
+    },
+    {
+      "participantId": "05",
+      "sex": "f"
+    },
+    {
+      "participantId": "06",
+      "sex": "f"
+    },
+    {
+      "participantId": "08",
+      "sex": "m"
+    },
+    {
+      "participantId": "09",
+      "sex": "f"
+    },
+    {
+      "participantId": "10",
+      "sex": "f"
+    },
+    {
+      "participantId": "11",
+      "sex": "f"
+    }
+  ],
+  "tasks": [
+    "floc",
+    "Ring"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1395,
+  "size": 1605708,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,49 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-36/func/sub-36_task-visualguidedsaccade_run-04_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-36/func/sub-36_task-visualguidedsaccade_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "run_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-36/func/sub-36_task-visualguidedsaccade_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "cue_position",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-36/func/sub-36_task-visualguidedsaccade_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "score",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-36/func/sub-36_task-visualguidedsaccade_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "score_txt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-36/func/sub-36_task-visualguidedsaccade_run-04_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "latency",
+        "severity": "warning"
+      }
+    ]
+  }
+}

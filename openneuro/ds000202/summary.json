@@ -1,0 +1,402 @@
+{
+  "sessions": [],
+  "subjects": [
+    "1001",
+    "1002",
+    "1003",
+    "1004",
+    "1005",
+    "1006",
+    "1007",
+    "1008",
+    "1009",
+    "1010",
+    "1011",
+    "1012",
+    "1013",
+    "1014",
+    "1015",
+    "1016",
+    "1017",
+    "1018",
+    "1019",
+    "1020",
+    "1021",
+    "1022",
+    "1023",
+    "1024",
+    "1025",
+    "1026",
+    "1027",
+    "1028",
+    "1029",
+    "1030",
+    "1031",
+    "1032",
+    "1033",
+    "1034",
+    "1035",
+    "1036",
+    "1037",
+    "1038",
+    "1039",
+    "1040",
+    "1041",
+    "1042",
+    "1043",
+    "1044",
+    "1045",
+    "1046",
+    "1047",
+    "1048",
+    "1049",
+    "1050",
+    "1051",
+    "1052",
+    "1053",
+    "1054",
+    "1055",
+    "1056",
+    "1057",
+    "1058",
+    "1059",
+    "1060",
+    "1061",
+    "1062",
+    "1063",
+    "1064",
+    "1065",
+    "1066",
+    "1067",
+    "1068",
+    "1069",
+    "1070",
+    "1071",
+    "1072",
+    "1073",
+    "1074",
+    "1075",
+    "1076",
+    "1077",
+    "1078",
+    "1079",
+    "1080",
+    "1081",
+    "1082",
+    "1083",
+    "1084",
+    "1085",
+    "1086",
+    "1087",
+    "1088",
+    "1089",
+    "1090",
+    "1091",
+    "1092",
+    "1093",
+    "1094",
+    "1095"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1001"
+    },
+    {
+      "participantId": "1002"
+    },
+    {
+      "participantId": "1003"
+    },
+    {
+      "participantId": "1004"
+    },
+    {
+      "participantId": "1005"
+    },
+    {
+      "participantId": "1006"
+    },
+    {
+      "participantId": "1007"
+    },
+    {
+      "participantId": "1008"
+    },
+    {
+      "participantId": "1009"
+    },
+    {
+      "participantId": "1010"
+    },
+    {
+      "participantId": "1011"
+    },
+    {
+      "participantId": "1012"
+    },
+    {
+      "participantId": "1013"
+    },
+    {
+      "participantId": "1014"
+    },
+    {
+      "participantId": "1015"
+    },
+    {
+      "participantId": "1016"
+    },
+    {
+      "participantId": "1017"
+    },
+    {
+      "participantId": "1018"
+    },
+    {
+      "participantId": "1019"
+    },
+    {
+      "participantId": "1020"
+    },
+    {
+      "participantId": "1021"
+    },
+    {
+      "participantId": "1022"
+    },
+    {
+      "participantId": "1023"
+    },
+    {
+      "participantId": "1024"
+    },
+    {
+      "participantId": "1025"
+    },
+    {
+      "participantId": "1026"
+    },
+    {
+      "participantId": "1027"
+    },
+    {
+      "participantId": "1028"
+    },
+    {
+      "participantId": "1029"
+    },
+    {
+      "participantId": "1030"
+    },
+    {
+      "participantId": "1031"
+    },
+    {
+      "participantId": "1032"
+    },
+    {
+      "participantId": "1033"
+    },
+    {
+      "participantId": "1034"
+    },
+    {
+      "participantId": "1035"
+    },
+    {
+      "participantId": "1036"
+    },
+    {
+      "participantId": "1037"
+    },
+    {
+      "participantId": "1038"
+    },
+    {
+      "participantId": "1039"
+    },
+    {
+      "participantId": "1040"
+    },
+    {
+      "participantId": "1041"
+    },
+    {
+      "participantId": "1042"
+    },
+    {
+      "participantId": "1043"
+    },
+    {
+      "participantId": "1044"
+    },
+    {
+      "participantId": "1045"
+    },
+    {
+      "participantId": "1046"
+    },
+    {
+      "participantId": "1047"
+    },
+    {
+      "participantId": "1048"
+    },
+    {
+      "participantId": "1049"
+    },
+    {
+      "participantId": "1050"
+    },
+    {
+      "participantId": "1051"
+    },
+    {
+      "participantId": "1052"
+    },
+    {
+      "participantId": "1053"
+    },
+    {
+      "participantId": "1054"
+    },
+    {
+      "participantId": "1055"
+    },
+    {
+      "participantId": "1056"
+    },
+    {
+      "participantId": "1057"
+    },
+    {
+      "participantId": "1058"
+    },
+    {
+      "participantId": "1059"
+    },
+    {
+      "participantId": "1060"
+    },
+    {
+      "participantId": "1061"
+    },
+    {
+      "participantId": "1062"
+    },
+    {
+      "participantId": "1063"
+    },
+    {
+      "participantId": "1064"
+    },
+    {
+      "participantId": "1065"
+    },
+    {
+      "participantId": "1066"
+    },
+    {
+      "participantId": "1067"
+    },
+    {
+      "participantId": "1068"
+    },
+    {
+      "participantId": "1069"
+    },
+    {
+      "participantId": "1070"
+    },
+    {
+      "participantId": "1071"
+    },
+    {
+      "participantId": "1072"
+    },
+    {
+      "participantId": "1073"
+    },
+    {
+      "participantId": "1074"
+    },
+    {
+      "participantId": "1075"
+    },
+    {
+      "participantId": "1076"
+    },
+    {
+      "participantId": "1077"
+    },
+    {
+      "participantId": "1078"
+    },
+    {
+      "participantId": "1079"
+    },
+    {
+      "participantId": "1080"
+    },
+    {
+      "participantId": "1081"
+    },
+    {
+      "participantId": "1082"
+    },
+    {
+      "participantId": "1083"
+    },
+    {
+      "participantId": "1084"
+    },
+    {
+      "participantId": "1085"
+    },
+    {
+      "participantId": "1086"
+    },
+    {
+      "participantId": "1087"
+    },
+    {
+      "participantId": "1088"
+    },
+    {
+      "participantId": "1089"
+    },
+    {
+      "participantId": "1090"
+    },
+    {
+      "participantId": "1091"
+    },
+    {
+      "participantId": "1092"
+    },
+    {
+      "participantId": "1093"
+    },
+    {
+      "participantId": "1094"
+    },
+    {
+      "participantId": "1095"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 194,
+  "size": 39896,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

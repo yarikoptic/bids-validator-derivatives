@@ -1,0 +1,42 @@
+{
+  "sessions": [
+    "odc",
+    "prf",
+    "anat",
+    "odc1",
+    "odc2",
+    "odc3"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "Detect changes in checkerboard rotation direction",
+    "Detect Fixation changes",
+    "PRF stimulus"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 325,
+  "size": 47530,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "fmap",
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

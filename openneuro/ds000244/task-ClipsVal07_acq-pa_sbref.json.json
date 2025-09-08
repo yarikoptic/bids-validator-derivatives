@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/task-ClipsVal07_acq-pa_sbref.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

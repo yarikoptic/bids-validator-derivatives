@@ -1,0 +1,1683 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "ALL_FILENAME_RULES_HAVE_ISSUES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "issueMessage": "Rules that matched with issues: rules.files.raw.task.timeseries, rules.files.raw.task.timeseries__mri_no_task, rules.files.raw.task.timeseries__anat, rules.files.raw.task.timeseries__func, rules.files.raw.task.timeseries__meg, rules.files.raw.task.timeseries__motion, rules.files.raw.task.timeseries__pet",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-01/ses-localizer/func/sub-01_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-02/ses-movie/func/sub-02_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-localizer/func/sub-03_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-03/ses-movie/func/sub-03_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-localizer/func/sub-04_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-04/ses-movie/func/sub-04_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-localizer/func/sub-05_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-05/ses-movie/func/sub-05_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-localizer/func/sub-06_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-06/ses-movie/func/sub-06_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-localizer/func/sub-09_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-09/ses-movie/func/sub-09_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-localizer/func/sub-10_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-10/ses-movie/func/sub-10_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-localizer/func/sub-14_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-14/ses-movie/func/sub-14_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-movie/func/sub-15_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-localizer/func/sub-16_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-16/ses-movie/func/sub-16_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-localizer/func/sub-17_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-17/ses-movie/func/sub-17_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-localizer/func/sub-18_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-18/ses-movie/func/sub-18_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-localizer/func/sub-19_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-19/ses-movie/func/sub-19_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-movielocalizer_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movielocalizer_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-objectcategories_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-objectcategories_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-objectcategories_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-objectcategories_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-objectcategories_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-retmapccw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapccw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-retmapclw_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapclw_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-retmapcon_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapcon_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-localizer/func/sub-20_ses-localizer_task-retmapexp_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-retmapexp_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-1_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-2_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-3_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-4_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-5_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-6_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-7_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "affects": "/eyetracking while movie watching, plus visual localizers/sub-20/ses-movie/func/sub-20_ses-movie_task-movie_run-8_recording-cardresp_physio.tsv.gz",
+        "issueMessage": "Candidate files: /eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json,/eyetracking while movie watching, plus visual localizers/task-movie_physio.json",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/eyetracking while movie watching, plus visual localizers/recording-cardresp_physio.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

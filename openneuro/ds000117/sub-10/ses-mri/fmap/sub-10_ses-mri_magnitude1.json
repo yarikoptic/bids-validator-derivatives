@@ -1,0 +1,38 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ReceiveCoilActiveElements",
+        "location": "/sub-10/ses-mri/fmap/sub-10_ses-mri_magnitude1.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "issueMessage": "Field description: Information describing the active/selected elements of the receiver coil.\nThis does not correspond to a tag in the DICOM ontology.\nThe vendor-defined terminology for active coil elements can go in this field.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PulseSequenceType",
+        "location": "/sub-10/ses-mri/fmap/sub-10_ses-mri_magnitude1.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRISequenceSpecifics",
+        "issueMessage": "Field description: A general description of the pulse sequence used for the scan.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PartialFourierDirection",
+        "location": "/sub-10/ses-mri/fmap/sub-10_ses-mri_magnitude1.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIPartialFourier",
+        "issueMessage": "Field description: The direction where only partial Fourier information was collected.\nCorresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-10/ses-mri/fmap/sub-10_ses-mri_magnitude1.nii",
+        "severity": "warning",
+        "rule": "rules.sidecars.mri.MRIInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      }
+    ]
+  }
+}

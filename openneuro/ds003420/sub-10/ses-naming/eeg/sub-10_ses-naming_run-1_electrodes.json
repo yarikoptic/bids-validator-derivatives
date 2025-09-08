@@ -1,0 +1,18 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EXCESSIVE_ELECTRODE_SPECIFICITY",
+        "location": "/sub-10/ses-naming/eeg/sub-10_ses-naming_run-1_electrodes.tsv",
+        "rule": "rules.checks.channels.ElectrodeSpecificity",
+        "severity": "warning"
+      },
+      {
+        "code": "REQUIRED_COORDSYSTEM",
+        "location": "/sub-10/ses-naming/eeg/sub-10_ses-naming_run-1_electrodes.tsv",
+        "rule": "rules.checks.channels.RequiredCoordsystem",
+        "severity": "error"
+      }
+    ]
+  }
+}

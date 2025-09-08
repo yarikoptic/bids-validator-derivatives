@@ -1,0 +1,23 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-205/func/sub-205_task-imtest_run-3_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/sub-205/func/sub-205_task-imtest_run-3_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 13,
+        "issueMessage": "'NaN', did you mean 'n/a'?",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENTS_TSV_MISSING",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "rule": "rules.checks.events.EventsMissing",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "BodyPart",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETHardware",
+        "issueMessage": "Field description: Body part of the organ / body region scanned.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerRadLex",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: ID of the tracer compound from the RadLex Ontology.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerSNOMED",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: ID of the tracer compound from the SNOMED Ontology\n(subclass of Radioactive isotope).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerMolecularWeight",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Accurate molecular weight of the tracer used.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TracerMolecularWeightUnits",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit of the molecular weights measurement (for example, `\"g/mol\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectedMassPerWeight",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Injected mass per kilogram bodyweight.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectedMassPerWeightUnits",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit format of the injected mass per kilogram bodyweight\n(for example, `\"ug/kg\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SpecificRadioactivityMeasTime",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Time to which specific radioactivity measurement above applies in the default\nunit `\"hh:mm:ss\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MolarActivity",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Molar activity of compound injected.\nCorresponds to [DICOM Tag 0018, 1077](https://dicomlookup.com/dicomtags/(0018,1077))\n`Radiopharmaceutical Specific Activity`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MolarActivityUnits",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit of the specified molar radioactivity (for example, `\"GBq/umol\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "MolarActivityMeasTime",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Time to which molar radioactivity measurement above applies in the default\nunit `\"hh:mm:ss\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionRadioactivity",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Amount of radioactivity infused into the patient.\nThis value must be less than or equal to the total injected radioactivity\n(`\"InjectedRadioactivity\"`).\nUnits should be the same as `\"InjectedRadioactivityUnits\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionStart",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Time of start of infusion with respect to `\"TimeZero\"` in the default unit\nseconds.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionSpeed",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: If given, infusion speed.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InfusionSpeedUnits",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Unit of infusion speed (for example, `\"mL/s\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectedVolume",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Injected volume of the radiotracer in the unit `\"mL\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Purity",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETRadioChemistry",
+        "issueMessage": "Field description: Purity of the radiolabeled compound (between 0 and 100%).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalName",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Name of pharmaceutical coadministered with tracer.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalDoseAmount",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Dose amount of pharmaceutical coadministered with tracer.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalDoseUnits",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Unit format relating to pharmaceutical dose\n(for example, `\"mg\"` or `\"mg/kg\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalDoseRegimen",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Details of the pharmaceutical dose regimen.\nEither adequate description or short-code relating to regimen documented\nelsewhere (for example, `\"single oral bolus\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PharmaceuticalDoseTime",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETPharmaceuticals",
+        "issueMessage": "Field description: Time of administration of pharmaceutical dose, relative to time zero.\nFor an infusion, this should be a vector with two elements specifying the\nstart and end of the infusion period. For more complex dose regimens,\nthe regimen description should be complete enough to enable unambiguous\ninterpretation of `\"PharmaceuticalDoseTime\"`.\nUnit format of the specified pharmaceutical dose time MUST be seconds.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InjectionEnd",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETTime",
+        "issueMessage": "Field description: Time of end of injection with respect to `\"TimeZero\"` in the default unit\nseconds.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ReconMethodImplementationVersion",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Identification for the software used, such as name and version.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "AttenuationCorrectionMethodReference",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Reference paper for the attenuation correction method used.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ScaleFactor",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Scale factor for each frame. This field MUST be defined if the imaging data (`.nii[.gz]`) are scaled.\nIf this field is not defined, then it is assumed that the scaling factor is 1. Defining this field\nwhen the scaling factor is 1 is RECOMMENDED, for the sake of clarity.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ScatterFraction",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Scatter fraction for each frame (Units: 0-100%).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DecayCorrectionFactor",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Decay correction factor for each frame.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "PromptRate",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Prompt rate for each frame (same units as `Units`, for example, `\"Bq/mL\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SinglesRate",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Singles rate for each frame (same units as `Units`, for example, `\"Bq/mL\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "RandomRate",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETReconstruction",
+        "issueMessage": "Field description: Random rate for each frame (same units as `\"Units\"`, for example, `\"Bq/mL\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETTask",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskDescription",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETTask",
+        "issueMessage": "Field description: Longer description of the task.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETTask",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-13/pet/sub-13_task-checkerboard_trc-18FFDG_rec-acstat_run-001_pet.nii.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.pet.PETTask",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      }
+    ]
+  }
+}

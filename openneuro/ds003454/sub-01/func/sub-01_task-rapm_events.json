@@ -1,0 +1,26 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-01/func/sub-01_task-rapm_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SUSPICIOUS_NEGATIVE_EVENT_ONSET",
+        "location": "/sub-01/func/sub-01_task-rapm_events.tsv",
+        "rule": "rules.checks.events.SuspiciousNegativeEventOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-01/func/sub-01_task-rapm_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      }
+    ]
+  }
+}

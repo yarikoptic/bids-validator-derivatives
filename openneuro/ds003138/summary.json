@@ -1,0 +1,400 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3"
+  ],
+  "subjects": [
+    "82KK02101",
+    "82KK02102",
+    "82KK02103",
+    "82KK02104",
+    "82KK02105",
+    "82KK02106",
+    "82KK02107",
+    "82KK02108",
+    "82KK02109",
+    "82KK02112",
+    "82KK02213",
+    "82KK02214",
+    "82KK02215",
+    "82KK02217",
+    "82KK02218",
+    "82KK02220",
+    "82KK02221",
+    "82KK02222",
+    "82KK02223",
+    "82KK02224",
+    "82KK02325",
+    "82KK02326",
+    "82KK02327",
+    "82KK02329",
+    "82KK02331",
+    "82KK02332",
+    "82KK02333",
+    "82KK02334",
+    "82KK02335",
+    "82KK02336",
+    "82KK02337",
+    "82KK02338",
+    "82KK02339",
+    "82KK02340",
+    "82KK02341",
+    "82KK02342",
+    "82KK02343",
+    "82KK02344",
+    "82KK02445",
+    "82KK02446",
+    "82KK02447",
+    "82KK02448",
+    "82KK02449",
+    "82KK02450",
+    "82KK02451",
+    "82KK02452",
+    "82KK02453",
+    "82KK02454",
+    "82KK02455",
+    "82KK02456",
+    "82KK02457",
+    "82KK02459",
+    "82KK02460"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "82KK02101",
+      "age": 23,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02102",
+      "age": 26,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02103",
+      "age": 20,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02104",
+      "age": 25,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02105",
+      "age": 25,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02106",
+      "age": 26,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02107",
+      "age": 23,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02108",
+      "age": 27,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02109",
+      "age": 24,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02112",
+      "age": 28,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02214",
+      "age": 19,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02215",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02217",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02218",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02220",
+      "age": 29,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02221",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02222",
+      "age": 24,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02223",
+      "age": 26,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02224",
+      "age": 21,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02213",
+      "age": 36,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02325",
+      "age": 20,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02326",
+      "age": 21,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02327",
+      "age": 19,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02329",
+      "age": 19,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02331",
+      "age": 19,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02332",
+      "age": 22,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02333",
+      "age": 28,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02334",
+      "age": 23,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02335",
+      "age": 23,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02336",
+      "age": 23,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02337",
+      "age": 26,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02338",
+      "age": 20,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02339",
+      "age": 21,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02341",
+      "age": 21,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02342",
+      "age": 20,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02343",
+      "age": 21,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02344",
+      "age": 19,
+      "sex": "F",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02340",
+      "age": 21,
+      "sex": "M",
+      "group": "slackline"
+    },
+    {
+      "participantId": "82KK02445",
+      "age": 18,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02446",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02447",
+      "age": 25,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02448",
+      "age": 28,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02449",
+      "age": 23,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02450",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02451",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02452",
+      "age": 31,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02453",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02454",
+      "age": 29,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02455",
+      "age": 25,
+      "sex": "F",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02456",
+      "age": 23,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02457",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02459",
+      "age": 24,
+      "sex": "M",
+      "group": "control"
+    },
+    {
+      "participantId": "82KK02460",
+      "age": 29,
+      "sex": "M",
+      "group": "control"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Structural"
+  ],
+  "totalFiles": 3185,
+  "size": 30577514,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "fmap"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

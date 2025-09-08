@@ -1,0 +1,48 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SUSPICIOUS_POSITIVE_EVENT_ONSET",
+        "location": "/sub-12/func/sub-12_task-learn_events.tsv",
+        "rule": "rules.checks.events.SuspiciousPositiveEventOnset",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-12/func/sub-12_task-learn_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-learn_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-learn_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "choice",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-learn_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "rwdval",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-learn_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "sessions": [],
+  "subjects": [
+    "3176",
+    "3201",
+    "3256",
+    "3257",
+    "3272",
+    "3302",
+    "3306",
+    "3335",
+    "3363",
+    "3368",
+    "3372",
+    "3376",
+    "3382",
+    "3404",
+    "3413",
+    "3441",
+    "3459",
+    "3548",
+    "3550",
+    "3584",
+    "3592",
+    "3630",
+    "3656",
+    "3701",
+    "3715",
+    "3724",
+    "3733",
+    "3761",
+    "3798",
+    "3913",
+    "5001",
+    "5002",
+    "5003",
+    "5004",
+    "5005",
+    "5008",
+    "5009",
+    "5011",
+    "5012",
+    "5013",
+    "5014",
+    "5015",
+    "5017",
+    "5019",
+    "5022",
+    "5023",
+    "5024",
+    "5025",
+    "5026",
+    "5027",
+    "5028",
+    "5029",
+    "5030",
+    "5031",
+    "5034",
+    "5036",
+    "5037",
+    "5039",
+    "5040"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "3176",
+      "age": 25,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3201",
+      "age": 22,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3256",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3257",
+      "age": 22,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3272",
+      "age": 22,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3302",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3306",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3335",
+      "age": 20,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3363",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3368",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3372",
+      "age": 21,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3376",
+      "age": 20,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3382",
+      "age": 22,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3404",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3413",
+      "age": 20,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3441",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3459",
+      "age": 24,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3548",
+      "age": 22,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3550",
+      "age": 20,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3584",
+      "age": 21,
+      "sex": "F",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3592",
+      "age": 22,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3630",
+      "age": 23,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3656",
+      "age": 20,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3701",
+      "age": 21,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3715",
+      "age": 22,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3724",
+      "age": 22,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3733",
+      "age": 20,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3761",
+      "age": 20,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3798",
+      "age": 21,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "3913",
+      "age": 21,
+      "sex": "M",
+      "group": "audio-visual"
+    },
+    {
+      "participantId": "5001",
+      "age": 22,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5002",
+      "age": 18,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5003",
+      "age": 18,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5004",
+      "age": 21,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5005",
+      "age": 19,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5008",
+      "age": 22,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5009",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5010",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5011",
+      "age": 22,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5012",
+      "age": 20,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5013",
+      "age": 23,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5014",
+      "age": 22,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5015",
+      "age": 18,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5016",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5017",
+      "age": 21,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5018",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5019",
+      "age": 19,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5020",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5021",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5022",
+      "age": 21,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5023",
+      "age": 22,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5024",
+      "age": 20,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5025",
+      "age": 21,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5026",
+      "age": 23,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5027",
+      "age": 22,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5028",
+      "age": 22,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5029",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5030",
+      "age": 23,
+      "sex": "F",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5031",
+      "age": 22,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5032",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5033",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5034",
+      "age": 20,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5035",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5036",
+      "age": 20,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5037",
+      "age": 23,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5039",
+      "age": 20,
+      "sex": "M",
+      "group": "visual-visual"
+    },
+    {
+      "participantId": "5040",
+      "age": 24,
+      "sex": "M",
+      "group": "visual-visual"
+    }
+  ],
+  "tasks": [
+    "encoding",
+    "retrieval"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 949,
+  "size": 767981,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

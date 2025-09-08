@@ -1,0 +1,39 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must be number\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-ucl02/anat/sub-ucl02_T2star.json",
+        "affects": [
+          "/sub-ucl02/anat/sub-ucl02_T2star.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must be array\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-ucl02/anat/sub-ucl02_T2star.json",
+        "affects": [
+          "/sub-ucl02/anat/sub-ucl02_T2star.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "EchoTime",
+        "issueMessage": "must match a schema in anyOf\n\nField description: The echo time (TE) for the acquisition, specified in seconds.\nCorresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`\n(please note that the DICOM term is in milliseconds not seconds).\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/sub-ucl02/anat/sub-ucl02_T2star.json",
+        "affects": [
+          "/sub-ucl02/anat/sub-ucl02_T2star.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

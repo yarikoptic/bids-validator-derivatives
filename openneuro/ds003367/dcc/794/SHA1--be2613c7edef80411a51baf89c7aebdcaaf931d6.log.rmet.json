@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/dcc/794/SHA1--be2613c7edef80411a51baf89c7aebdcaaf931d6.log.rmet",
+        "severity": "error"
+      }
+    ]
+  }
+}

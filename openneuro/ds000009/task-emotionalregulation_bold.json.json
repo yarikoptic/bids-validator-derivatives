@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "InversionTime",
+        "issueMessage": "must be > 0\n\nField description: The inversion time (TI) for the acquisition, specified in seconds.\nInversion time is the time after the middle of inverting RF pulse to middle\nof excitation pulse to detect the amount of longitudinal magnetization.\nCorresponds to [DICOM Tag 0018, 0082](https://dicomlookup.com/dicomtags/(0018,0082)) `Inversion Time`\n(please note that the DICOM term is in milliseconds not seconds).\n",
+        "rule": "rules.sidecars.mri.MRITimingParameters",
+        "location": "/task-emotionalregulation_bold.json",
+        "affects": [
+          "/sub-01/func/sub-01_task-emotionalregulation_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

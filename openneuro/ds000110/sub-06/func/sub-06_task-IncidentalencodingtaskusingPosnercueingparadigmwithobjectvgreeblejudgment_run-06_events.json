@@ -1,0 +1,70 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Object_Cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Validity_Cond",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Obj_Accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Obj_Acc_RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Subseq_Recog",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Subseq_Recog_RT",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Subseq_Source_Mem_Acc",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-06/func/sub-06_task-IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment_run-06_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Subseq_Source_Mem_Acc_RT",
+        "severity": "warning"
+      }
+    ]
+  }
+}

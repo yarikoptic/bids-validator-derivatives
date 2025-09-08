@@ -1,0 +1,106 @@
+{
+  "sessions": [],
+  "subjects": [
+    "sid000001",
+    "sid000002",
+    "sid000003",
+    "sid000004",
+    "sid000005",
+    "sid000006",
+    "sid000007",
+    "sid000008",
+    "sid000009",
+    "sid000010",
+    "sid000011",
+    "sid000012",
+    "sid000013"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "sid000001",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000002",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000003",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000004",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000005",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "sid000006",
+      "age": 38,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000007",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "sid000008",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "sid000009",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000010",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000011",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "sid000012",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "sid000013",
+      "age": 21,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "CMIYC",
+    "scrambled"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 279,
+  "size": 180899,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

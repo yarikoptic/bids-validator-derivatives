@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"second\" must be \"s\"",
+        "subCode": "onset",
+        "location": "/sub-011/eeg/sub-011_task-AttendedSpeakerParadigmOwnName_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Unit \"sample\" must be \"s\"",
+        "subCode": "duration",
+        "location": "/sub-011/eeg/sub-011_task-AttendedSpeakerParadigmOwnName_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "sessions": [
+    "1",
+    "2"
+  ],
+  "subjects": [
+    "047EPKL011005",
+    "047EPKL011011",
+    "047EPKL011012",
+    "047EPKL011041",
+    "047EPKL011047",
+    "047EPKL011049",
+    "047EPKL011051",
+    "047EPKL011056",
+    "047EPKL011058",
+    "047EPKL011059",
+    "047EPKL011060",
+    "047EPKL011063",
+    "047EPKL011068",
+    "047EPKL012014",
+    "047EPKL012015",
+    "047EPKL012017",
+    "047EPKL012069",
+    "047EPKL012071",
+    "047EPKL012073",
+    "047EPKL012074",
+    "047EPKL013003",
+    "047EPKL013013",
+    "047EPKL013016",
+    "047EPKL013019",
+    "047EPKL013023",
+    "047EPKL013025",
+    "047EPKL013028",
+    "047EPKL013033",
+    "047EPKL013034",
+    "047EPKL013035",
+    "047EPKL013046",
+    "047EPKL013053",
+    "047EPKL013057",
+    "047EPKL013061",
+    "047EPKL013064",
+    "047EPKL013065",
+    "047EPKL014007",
+    "047EPKL014008",
+    "047EPKL014010",
+    "047EPKL014020",
+    "047EPKL014024",
+    "047EPKL014026",
+    "047EPKL014029",
+    "047EPKL014031",
+    "047EPKL014036",
+    "047EPKL014037",
+    "047EPKL014038",
+    "047EPKL014039",
+    "047EPKL014040",
+    "047EPKL014043",
+    "047EPKL014045",
+    "047EPKL014048",
+    "047EPKL014050",
+    "047EPKL014052",
+    "047EPKL014054",
+    "047EPKL014062",
+    "047EPKL014066",
+    "047EPKL014067"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "047EPKL011005",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011011",
+      "age": 8,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011012",
+      "age": 9,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011041",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011047",
+      "age": 9,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011049",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011056",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011051",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011058",
+      "age": 9,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011060",
+      "age": 8,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011059",
+      "age": 8,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011063",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL011068",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012014",
+      "age": 9,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012015",
+      "age": 9,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012017",
+      "age": 9,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012069",
+      "age": 10,
+      "sex": "F",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012071",
+      "age": 10,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012073",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL012074",
+      "age": 9,
+      "sex": "M",
+      "group": "DL"
+    },
+    {
+      "participantId": "047EPKL013003",
+      "age": 9,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013013",
+      "age": 9,
+      "sex": "F",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013016",
+      "age": 9,
+      "sex": "F",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013019",
+      "age": 10,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013023",
+      "age": 10,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013025",
+      "age": 9,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013028",
+      "age": 9,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013033",
+      "age": 9,
+      "sex": "F",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013035",
+      "age": 9,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013034",
+      "age": 10,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013046",
+      "age": 9,
+      "sex": "F",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013064",
+      "age": 8,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013065",
+      "age": 9,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013053",
+      "age": 9,
+      "sex": "F",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013057",
+      "age": 9,
+      "sex": "M",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL013061",
+      "age": 8,
+      "sex": "F",
+      "group": "SpD"
+    },
+    {
+      "participantId": "047EPKL014010",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014007",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014008",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014020",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014024",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014026",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014031",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014029",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014036",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014037",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014038",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014039",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014040",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014043",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014045",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014048",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014050",
+      "age": 13,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014052",
+      "age": 8,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014054",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014062",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014066",
+      "age": 9,
+      "sex": "F",
+      "group": "TD"
+    },
+    {
+      "participantId": "047EPKL014067",
+      "age": 9,
+      "sex": "M",
+      "group": "TD"
+    }
+  ],
+  "tasks": [
+    "read"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 644,
+  "size": 5596550,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

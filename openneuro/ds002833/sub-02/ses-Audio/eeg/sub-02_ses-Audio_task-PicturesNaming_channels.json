@@ -1,0 +1,22 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-02/ses-Audio/eeg/sub-02_ses-Audio_task-PicturesNaming_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "line": 2,
+        "issueMessage": "'eeg'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_MUST_DEFINE",
+        "location": "/sub-02/ses-Audio/eeg/sub-02_ses-Audio_task-PicturesNaming_channels.tsv",
+        "rule": "rules.tabular_data.eeg.EEGChannels",
+        "subCode": "software_filters",
+        "severity": "error"
+      }
+    ]
+  }
+}

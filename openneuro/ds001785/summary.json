@@ -1,0 +1,132 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "02",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "03",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "04",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 18,
+      "sex": "M"
+    },
+    {
+      "participantId": "13",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "14",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "15",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "age": 34,
+      "sex": "M"
+    },
+    {
+      "participantId": "17",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "18",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "19",
+      "age": 22,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "tactile detection"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 242,
+  "size": 2703334,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

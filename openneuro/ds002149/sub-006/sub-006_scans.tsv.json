@@ -1,0 +1,21 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-006/sub-006_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "filename",
+        "location": "/sub-006/sub-006_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "line": 2,
+        "issueMessage": "'/anat/sub-006_run-01_T1w.nii.gz'",
+        "severity": "error"
+      }
+    ]
+  }
+}

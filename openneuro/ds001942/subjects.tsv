@@ -1,0 +1,12 @@
+subject_id	error_codes_ext_n	error_codes_n	error_n	warning_codes_ext_n	warning_codes_n	warning_n
+root	0	0	0	1	1	4
+sub-S01	0	1	2	1	1	844
+sub-S02	0	1	2	1	1	871
+sub-S03	0	0	0	1	1	584
+sub-S05	0	1	2	1	1	843
+sub-S06	0	0	0	1	1	583
+sub-S07	0	0	0	1	1	591
+sub-S08	0	0	0	1	1	640
+sub-S09	0	1	2	1	1	913
+sub-S10	0	1	2	1	1	927
+sub-S11	0	1	2	1	1	927

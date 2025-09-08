@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/505/",
+        "severity": "error"
+      }
+    ]
+  }
+}

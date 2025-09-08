@@ -1,0 +1,133 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "taskName",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trialType",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trialDur",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "blockNum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "setSize",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "possCorr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "boldRun",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "condition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "numCorr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "numErr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "numTrial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "respMade",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "runNum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "startTRreal",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "startTime",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "startTimeReal",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-22/ses-b1/func/sub-22_ses-b1_task-b_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "timeOfTR",
+        "severity": "warning"
+      }
+    ]
+  }
+}

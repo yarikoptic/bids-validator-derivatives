@@ -1,0 +1,99 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 50
+    },
+    {
+      "participantId": "02",
+      "age": 60
+    },
+    {
+      "participantId": "03",
+      "age": 60
+    },
+    {
+      "participantId": "04",
+      "age": 50
+    },
+    {
+      "participantId": "05",
+      "age": 60
+    },
+    {
+      "participantId": "06",
+      "age": 70
+    },
+    {
+      "participantId": "07",
+      "age": 50
+    },
+    {
+      "participantId": "08",
+      "age": 30
+    },
+    {
+      "participantId": "09",
+      "age": 50
+    },
+    {
+      "participantId": "10",
+      "age": 60
+    },
+    {
+      "participantId": "11",
+      "age": 30
+    },
+    {
+      "participantId": "12",
+      "age": 40
+    },
+    {
+      "participantId": "13",
+      "age": 50
+    },
+    {
+      "participantId": "14",
+      "age": 30
+    }
+  ],
+  "tasks": [
+    "afmsit",
+    "rest"
+  ],
+  "modalities": [
+    "EEG",
+    "MRI",
+    "beh"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 76,
+  "size": 467057,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "beh",
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

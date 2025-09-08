@@ -1,0 +1,33 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/participants.tsv",
+        "issueMessage": "participant_id, group, hb, bsl, age, gender, handedness, education_years, highest_level_education_completed, english_as_first_language, visual_impairments, visual_impairment_specify, hearing_impairment, hearing_specify, personal_history_mental_illness, mental_illness_history_specify, personal_history_mental_illness_ever_diagnosed, personal_history_mental_illness_receive_treatment, family_history_mental_illness, family_health_mental_illness_specify, personal_history_mental_illness_ever_diagnosed, family_history_dementia, family_history_dementia_specify, family_history_dementia_ever_diagnosed, cardiovascular, diabetes, current_tobacco, current_tobacco_average_per_day, ever_smoked, ever_smoked_average, ever_consumed_alcohol, how_often, standard_drinks_per_occasion, recreational_drugs_last_6_months, drugs_specify, drugs_how_often",
+        "severity": "error"
+      },
+      {
+        "code": "PARTICIPANT_ID_MISMATCH",
+        "location": "/participants.tsv",
+        "rule": "rules.checks.dataset.ParticipantIDMismatch",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "issueMessage": "Column 0 (starting from 0) not found.",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_MISSING",
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "severity": "error"
+      }
+    ]
+  }
+}

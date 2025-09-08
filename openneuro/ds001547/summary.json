@@ -1,0 +1,56 @@
+{
+  "sessions": [],
+  "subjects": [
+    "180817ANDV1LGN",
+    "180921DANV1LGN",
+    "180921JOSV1LGN",
+    "180928CHEV1LGN",
+    "181004LEEV1LGN"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "180817ANDV1LGN ",
+      "age": 32,
+      "sex": "W "
+    },
+    {
+      "participantId": "180921DANV1LGN ",
+      "age": 23,
+      "sex": "M "
+    },
+    {
+      "participantId": "180921JOSV1LGN ",
+      "age": 25,
+      "sex": "M "
+    },
+    {
+      "participantId": "180928CHEV1LGN ",
+      "age": 21,
+      "sex": "W "
+    },
+    {
+      "participantId": "181004LEEV1LGN ",
+      "age": 33,
+      "sex": "W "
+    }
+  ],
+  "tasks": [
+    "imagery"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 80,
+  "size": 38346,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,15 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "type",
+        "location": "/sub-05/meg/sub-05_task-numbersletters_run-1_channels.tsv",
+        "rule": "rules.tabular_data.meg.MEGChannels",
+        "line": 2,
+        "issueMessage": "'megplanar'",
+        "severity": "error"
+      }
+    ]
+  }
+}

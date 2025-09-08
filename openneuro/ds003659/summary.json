@@ -1,0 +1,63 @@
+{
+  "sessions": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "pilot",
+    "026"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "fractalWM",
+    "learningcriterion",
+    "localizer",
+    "rest",
+    "learningblock",
+    "fractalWMSR",
+    "learningblockSR",
+    "localizerSR"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 2687,
+  "size": 6635933,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

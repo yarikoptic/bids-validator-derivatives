@@ -1,0 +1,121 @@
+{
+  "sessions": [
+    "scan1",
+    "scan2"
+  ],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "008",
+    "009",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "017",
+    "018",
+    "019"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "002",
+      "age": 41,
+      "sex": "M"
+    },
+    {
+      "participantId": "003",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "004",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "005",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "008",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "009",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "011",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "012",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "013",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "014",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "015",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "017",
+      "age": 34,
+      "sex": "M"
+    },
+    {
+      "participantId": "018",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "019",
+      "age": 22,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Eye Movement Variant",
+    "Working Memory Variant",
+    "Eye Movemement Variant"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 246,
+  "size": 152379,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

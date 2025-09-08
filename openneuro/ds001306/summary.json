@@ -1,0 +1,111 @@
+{
+  "sessions": [],
+  "subjects": [
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "02",
+      "age": 30.0849315068
+    },
+    {
+      "participantId": "03",
+      "age": 27.3835616438
+    },
+    {
+      "participantId": "04",
+      "age": 33.2575342466
+    },
+    {
+      "participantId": "05",
+      "age": 25.7780821918
+    },
+    {
+      "participantId": "06",
+      "age": 20.895890411
+    },
+    {
+      "participantId": "07",
+      "age": 31.9890410959
+    },
+    {
+      "participantId": "08",
+      "age": 29.6438356164
+    },
+    {
+      "participantId": "09",
+      "age": 24.8684931507
+    },
+    {
+      "participantId": "10",
+      "age": 24.9808219178
+    },
+    {
+      "participantId": "11",
+      "age": 26.6493150685
+    },
+    {
+      "participantId": "12",
+      "age": 26.6904109589
+    },
+    {
+      "participantId": "13",
+      "age": 21.4520547945
+    },
+    {
+      "participantId": "14",
+      "age": 32.8767123288
+    },
+    {
+      "participantId": "15",
+      "age": 26.1753424658
+    },
+    {
+      "participantId": "16",
+      "age": 29.1123287671
+    },
+    {
+      "participantId": "17",
+      "age": 21.5287671233
+    },
+    {
+      "participantId": "18",
+      "age": 24.3698630137
+    }
+  ],
+  "tasks": [
+    "vissearch"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 224,
+  "size": 295347,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

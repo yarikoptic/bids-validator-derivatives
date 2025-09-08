@@ -1,0 +1,19 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "ENTITY_NOT_IN_RULE",
+        "location": "/sub-313/meg/sub-313_task-mem_run-01_coordsystem.json",
+        "issueMessage": "run not in rule rules.files.raw.channels.coordsystem",
+        "rule": "rules.files.raw.channels.coordsystem",
+        "severity": "error"
+      },
+      {
+        "code": "EXCESSIVE_COORDSYSTEM_SPECIFICITY",
+        "location": "/sub-313/meg/sub-313_task-mem_run-01_coordsystem.json",
+        "rule": "rules.checks.channels.CoordsystemSpecificity",
+        "severity": "warning"
+      }
+    ]
+  }
+}

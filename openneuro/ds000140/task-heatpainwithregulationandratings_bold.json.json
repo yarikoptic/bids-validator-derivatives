@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "Instructions",
+        "issueMessage": "must be string\n\nField description: Text of the instructions given to participants before the recording.\n",
+        "rule": "rules.sidecars.func.MRIFuncTaskInformation",
+        "location": "/task-heatpainwithregulationandratings_bold.json",
+        "affects": [
+          "/sub-01/func/sub-01_task-heatpainwithregulationandratings_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

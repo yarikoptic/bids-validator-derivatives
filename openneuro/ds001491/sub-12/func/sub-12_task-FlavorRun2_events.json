@@ -1,0 +1,62 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "condition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_action",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "pleasantness_response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "intensity_response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-12/func/sub-12_task-FlavorRun2_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stimulus_type",
+        "severity": "warning"
+      }
+    ]
+  }
+}

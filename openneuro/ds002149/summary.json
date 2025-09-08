@@ -1,0 +1,106 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "012",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "026",
+    "027"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001"
+    },
+    {
+      "participantId": "002"
+    },
+    {
+      "participantId": "004"
+    },
+    {
+      "participantId": "005"
+    },
+    {
+      "participantId": "006"
+    },
+    {
+      "participantId": "007"
+    },
+    {
+      "participantId": "008"
+    },
+    {
+      "participantId": "009"
+    },
+    {
+      "participantId": "010"
+    },
+    {
+      "participantId": "012"
+    },
+    {
+      "participantId": "017"
+    },
+    {
+      "participantId": "018"
+    },
+    {
+      "participantId": "019"
+    },
+    {
+      "participantId": "020"
+    },
+    {
+      "participantId": "021"
+    },
+    {
+      "participantId": "022"
+    },
+    {
+      "participantId": "023"
+    },
+    {
+      "participantId": "024"
+    },
+    {
+      "participantId": "026"
+    },
+    {
+      "participantId": "027"
+    }
+  ],
+  "tasks": [
+    "conditional visual associative learning task"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 545,
+  "size": 1344592,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

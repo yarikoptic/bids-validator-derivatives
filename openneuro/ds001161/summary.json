@@ -1,0 +1,36 @@
+{
+  "sessions": [],
+  "subjects": [
+    "22",
+    "23"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "22"
+    },
+    {
+      "participantId": "23"
+    }
+  ],
+  "tasks": [
+    "probeeffortmixedgambles",
+    "efforttraining",
+    "probabilitymixedgambles"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 30,
+  "size": 4191,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

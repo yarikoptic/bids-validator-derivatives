@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/bff/170/SHA1--2638a5e2bf3bd6fba8fae1bd7b5a819819b9e4ba.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

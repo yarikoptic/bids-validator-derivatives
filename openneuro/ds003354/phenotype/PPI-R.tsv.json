@@ -1,0 +1,1084 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_2",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_3",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_4",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_5",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_6",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_7",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_8",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_9",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_10",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_11",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_12",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_13",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_14",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_15",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_16",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_17",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_18",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_19",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_20",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_21",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_22",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_23",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_24",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_25",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_26",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_27",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_28",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_29",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_30",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_31",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_32",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_33",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_34",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_35",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_36",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_37",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_38",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_39",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_40",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_41",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_42",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_43",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_44",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_45",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_46",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_47",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_48",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_49",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_50",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_51",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_52",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_53",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_54",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_55",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_56",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_57",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_58",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_59",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_60",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_61",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_62",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_63",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_64",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_65",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_66",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_67",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_68",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_69",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_70",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_71",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_72",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_73",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_74",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_75",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_76",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_77",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_78",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_79",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_80",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_81",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_82",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_83",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_84",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_85",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_86",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_87",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_88",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_89",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_90",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_91",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_92",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_93",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_94",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_95",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_96",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_97",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_98",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_99",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_100",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_101",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_102",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_103",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_104",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_105",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_106",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_107",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_108",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_109",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_110",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_111",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_112",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_113",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_114",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_115",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_116",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_117",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_118",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_119",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_120",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_121",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_122",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_123",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_124",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_125",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_126",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_127",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_128",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_129",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_130",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_131",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_132",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_133",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_134",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_135",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_136",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_137",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_138",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_139",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_140",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_141",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_142",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_143",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_144",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_145",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_146",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_147",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_148",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_149",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_150",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_151",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_152",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_153",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/phenotype/PPI-R.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Phenotype",
+        "subCode": "PPI-R_154",
+        "severity": "warning"
+      }
+    ]
+  }
+}

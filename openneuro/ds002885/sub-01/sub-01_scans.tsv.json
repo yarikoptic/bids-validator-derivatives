@@ -1,0 +1,21 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "location": "/sub-01/sub-01_scans.tsv",
+        "rule": "rules.checks.dataset.ScansTSVScans",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "filename",
+        "location": "/sub-01/sub-01_scans.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Scans",
+        "line": 2,
+        "issueMessage": "'meg\\sub-01_task-DSMW_meg.fif'",
+        "severity": "error"
+      }
+    ]
+  }
+}

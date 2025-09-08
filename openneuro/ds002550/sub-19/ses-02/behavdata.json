@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-19/ses-02/behavdata/",
+        "severity": "error"
+      }
+    ]
+  }
+}

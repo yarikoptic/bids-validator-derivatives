@@ -1,0 +1,143 @@
+{
+  "sessions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "subjects": [
+    "AL011",
+    "AL012",
+    "AL013",
+    "AL014",
+    "AL015",
+    "AL020",
+    "AL021",
+    "AL022",
+    "AL023",
+    "AL024",
+    "AL025",
+    "AL026",
+    "AL027",
+    "AL028",
+    "AL029",
+    "AL030",
+    "AL031",
+    "AL032",
+    "AL033",
+    "AL034",
+    "AL035",
+    "AL036",
+    "AL037",
+    "AL038",
+    "AL039",
+    "AL040"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": ""
+    },
+    {
+      "participantId": "AL011"
+    },
+    {
+      "participantId": "AL020"
+    },
+    {
+      "participantId": "AL022"
+    },
+    {
+      "participantId": "AL024"
+    },
+    {
+      "participantId": "AL026"
+    },
+    {
+      "participantId": "AL027"
+    },
+    {
+      "participantId": "AL030"
+    },
+    {
+      "participantId": "AL032"
+    },
+    {
+      "participantId": "AL033"
+    },
+    {
+      "participantId": "AL034"
+    },
+    {
+      "participantId": "AL035"
+    },
+    {
+      "participantId": "AL038"
+    },
+    {
+      "participantId": "AL039"
+    },
+    {
+      "participantId": "AL012"
+    },
+    {
+      "participantId": "AL013"
+    },
+    {
+      "participantId": "AL014"
+    },
+    {
+      "participantId": "AL015"
+    },
+    {
+      "participantId": "AL021"
+    },
+    {
+      "participantId": "AL023"
+    },
+    {
+      "participantId": "AL025"
+    },
+    {
+      "participantId": "AL028"
+    },
+    {
+      "participantId": "AL029"
+    },
+    {
+      "participantId": "AL031"
+    },
+    {
+      "participantId": "AL036"
+    },
+    {
+      "participantId": "AL037"
+    },
+    {
+      "participantId": "AL040"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 1762,
+  "size": 271523,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

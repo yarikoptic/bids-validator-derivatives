@@ -1,0 +1,235 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-01/func/sub-01_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-02/func/sub-02_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-03/func/sub-03_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-04/func/sub-04_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-05/func/sub-05_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-06/func/sub-06_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-07/func/sub-07_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-08/func/sub-08_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-09/func/sub-09_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-10/func/sub-10_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-11/func/sub-11_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-12/func/sub-12_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-13/func/sub-13_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-14/func/sub-14_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-15/func/sub-15_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-16/func/sub-16_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-17/func/sub-17_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-18/func/sub-18_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-19/func/sub-19_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-20/func/sub-20_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-21/func/sub-21_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-22/func/sub-22_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-23/func/sub-23_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-24/func/sub-24_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-25/func/sub-25_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-26/func/sub-26_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-27/func/sub-27_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-28/func/sub-28_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-29/func/sub-29_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-30/func/sub-30_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-31/func/sub-31_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "MULTIPLE_INHERITABLE_FILES",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "affects": "/sub-32/func/sub-32_task-rest_acq-SB3pt3mm_bold.nii.gz",
+        "issueMessage": "Candidate files: /task-rest_acq-SB3pt3mm_bold.json,/task-rest_bold.json",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/task-rest_acq-SB3pt3mm_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-21/func/sub-21_task-learn_run-5_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/func/sub-21_task-learn_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "category",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/func/sub-21_task-learn_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/func/sub-21_task-learn_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onset_feedback",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/func/sub-21_task-learn_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "feedback_duration",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-21/func/sub-21_task-learn_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "object_classes",
+        "severity": "warning"
+      }
+    ]
+  }
+}

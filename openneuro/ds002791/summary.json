@@ -1,0 +1,164 @@
+{
+  "sessions": [
+    "naming",
+    "spelling"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 23,
+      "sex": "f"
+    },
+    {
+      "participantId": "02",
+      "age": 31,
+      "sex": "f"
+    },
+    {
+      "participantId": "03",
+      "age": 19,
+      "sex": "f"
+    },
+    {
+      "participantId": "04",
+      "age": 23,
+      "sex": "f"
+    },
+    {
+      "participantId": "05",
+      "age": 24,
+      "sex": "m"
+    },
+    {
+      "participantId": "06",
+      "age": 30,
+      "sex": "m"
+    },
+    {
+      "participantId": "07",
+      "age": 19,
+      "sex": "m"
+    },
+    {
+      "participantId": "08",
+      "age": 22,
+      "sex": "m"
+    },
+    {
+      "participantId": "09",
+      "age": 34,
+      "sex": "f"
+    },
+    {
+      "participantId": "10",
+      "age": 19,
+      "sex": "m"
+    },
+    {
+      "participantId": "11",
+      "age": 26,
+      "sex": "m"
+    },
+    {
+      "participantId": "12",
+      "age": 21,
+      "sex": "m"
+    },
+    {
+      "participantId": "13",
+      "age": 20,
+      "sex": "f"
+    },
+    {
+      "participantId": "14",
+      "age": 33,
+      "sex": "f"
+    },
+    {
+      "participantId": "15",
+      "age": 20,
+      "sex": "f"
+    },
+    {
+      "participantId": "16",
+      "age": 30,
+      "sex": "m"
+    },
+    {
+      "participantId": "17",
+      "age": 40,
+      "sex": "f"
+    },
+    {
+      "participantId": "18",
+      "age": 27,
+      "sex": "m"
+    },
+    {
+      "participantId": "19",
+      "age": 24,
+      "sex": "f"
+    },
+    {
+      "participantId": "20",
+      "age": 39,
+      "sex": "f"
+    },
+    {
+      "participantId": "21",
+      "age": 33,
+      "sex": "m"
+    },
+    {
+      "participantId": "22",
+      "age": 25,
+      "sex": "f"
+    },
+    {
+      "participantId": "23",
+      "age": 23,
+      "sex": "m"
+    }
+  ],
+  "tasks": [
+    "Naming",
+    "Spelling"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 647,
+  "size": 1760224,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,130 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "008",
+    "022",
+    "031",
+    "032",
+    "033",
+    "037",
+    "038",
+    "039",
+    "041",
+    "043",
+    "044",
+    "045",
+    "046",
+    "048",
+    "049",
+    "050",
+    "052",
+    "053",
+    "054",
+    "055"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "008",
+      "age": 23
+    },
+    {
+      "participantId": "022",
+      "age": 24
+    },
+    {
+      "participantId": "031",
+      "age": 22
+    },
+    {
+      "participantId": "032",
+      "age": 41
+    },
+    {
+      "participantId": "033",
+      "age": 25
+    },
+    {
+      "participantId": "037",
+      "age": 22
+    },
+    {
+      "participantId": "038",
+      "age": 24
+    },
+    {
+      "participantId": "039",
+      "age": 21
+    },
+    {
+      "participantId": "041",
+      "age": 24
+    },
+    {
+      "participantId": "043",
+      "age": 37
+    },
+    {
+      "participantId": "044",
+      "age": 21
+    },
+    {
+      "participantId": "045",
+      "age": 21
+    },
+    {
+      "participantId": "046",
+      "age": 24
+    },
+    {
+      "participantId": "048",
+      "age": 25
+    },
+    {
+      "participantId": "049",
+      "age": 21
+    },
+    {
+      "participantId": "050",
+      "age": 26
+    },
+    {
+      "participantId": "052",
+      "age": 22
+    },
+    {
+      "participantId": "053",
+      "age": 29
+    },
+    {
+      "participantId": "054",
+      "age": 26
+    },
+    {
+      "participantId": "055",
+      "age": 45
+    }
+  ],
+  "tasks": [
+    "Food Pictures",
+    "Taste Mapping"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 342,
+  "size": 82831,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

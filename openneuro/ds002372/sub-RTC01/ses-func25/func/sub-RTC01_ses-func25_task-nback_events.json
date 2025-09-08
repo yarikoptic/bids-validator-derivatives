@@ -1,0 +1,44 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-RTC01/ses-func25/func/sub-RTC01_ses-func25_task-nback_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/sub-RTC01/ses-func25/func/sub-RTC01_ses-func25_task-nback_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 3,
+        "issueMessage": "'na', did you mean 'n/a'?",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func25/func/sub-RTC01_ses-func25_task-nback_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_number",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func25/func/sub-RTC01_ses-func25_task-nback_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stim_type",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RTC01/ses-func25/func/sub-RTC01_ses-func25_task-nback_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "issueMessage": "task missing from rule rules.files.raw.ieeg.ieeg",
+        "rule": "rules.files.raw.ieeg.ieeg",
+        "severity": "error"
+      },
+      {
+        "code": "IEEG_ELECTRODES_REQUIRED",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "rule": "rules.checks.ieeg.iEEGElectrodesRequired",
+        "severity": "error"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ManufacturersModelName",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGHardware",
+        "issueMessage": "Field description: Manufacturer's model name of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Instructions",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: Text of the instructions given to participants before the recording.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogAtlasID",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)\nTask term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "CogPOID",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGTaskInformation",
+        "issueMessage": "Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)\nof the corresponding [CogPO](http://www.cogpo.org/) term.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionAddress",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGInstitutionInformation",
+        "issueMessage": "Field description: The address of the institution in charge of the equipment that produced the\nmeasurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "InstitutionalDepartmentName",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGInstitutionInformation",
+        "issueMessage": "Field description: The department in the institution in charge of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ElectrodeManufacturersModelName",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: If different electrode types are used,\nplease use the corresponding table in the `_electrodes.tsv` file.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "iEEGGround",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: Description of the location of the ground electrode\n(`\"placed on right mastoid (M2)\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "iEEGPlacementScheme",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: Freeform description of the placement of the iEEG electrodes.\nLeft/right/bilateral/depth/surface\n(for example, `\"left frontal grid and bilateral hippocampal depth\"` or\n`\"surface strip and STN depth\"` or\n`\"clinical indication bitemporal, bilateral temporal strips and left grid\"`).\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "iEEGElectrodeGroups",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: Field to describe the way electrodes are grouped into strips, grids or depth\nprobes.\nFor example, `\"grid1: 10x8 grid on left temporal pole, strip2: 1x8 electrode\nstrip on xxx\"`.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SubjectArtefactDescription",
+        "location": "/sub-01/ses-interictalsleep/ieeg/sub-01_ses-interictalsleep_run-23_ieeg.vmrk",
+        "severity": "warning",
+        "rule": "rules.sidecars.ieeg.iEEGRecommended",
+        "issueMessage": "Field description: Freeform description of the observed subject artifact and its possible cause\n(for example, `\"Vagus Nerve Stimulator\"`, `\"non-removable implant\"`).\nIf this field is set to `\"n/a\"`, it will be interpreted as absence of major\nsource of artifacts except cardiac and blinks.\n"
+      }
+    ]
+  }
+}

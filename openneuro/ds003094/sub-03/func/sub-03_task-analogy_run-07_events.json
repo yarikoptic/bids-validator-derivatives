@@ -1,0 +1,126 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialTag",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ABTag",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CDTag",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Match",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ABMainRel",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CDMainRel",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ABSubRel",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CDSubRel",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ProbeResp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ProbeCorr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "ProbeArr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "AB",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "CD",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Probe",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "intensity",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-analogy_run-07_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialType",
+        "severity": "warning"
+      }
+    ]
+  }
+}

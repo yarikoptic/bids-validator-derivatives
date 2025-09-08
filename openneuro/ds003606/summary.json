@@ -1,0 +1,200 @@
+{
+  "sessions": [],
+  "subjects": [
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "101",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "102",
+      "age": null,
+      "sex": "25"
+    },
+    {
+      "participantId": "201",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "104",
+      "age": null,
+      "sex": "23"
+    },
+    {
+      "participantId": "202",
+      "age": null,
+      "sex": "21"
+    },
+    {
+      "participantId": "203",
+      "age": null,
+      "sex": "23"
+    },
+    {
+      "participantId": "105",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "204",
+      "age": null,
+      "sex": "21"
+    },
+    {
+      "participantId": "205",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "103",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "106",
+      "age": null,
+      "sex": "18"
+    },
+    {
+      "participantId": "107",
+      "age": null,
+      "sex": "23"
+    },
+    {
+      "participantId": "108",
+      "age": null,
+      "sex": "25"
+    },
+    {
+      "participantId": "109",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "110",
+      "age": null,
+      "sex": "19"
+    },
+    {
+      "participantId": "206",
+      "age": null,
+      "sex": "21"
+    },
+    {
+      "participantId": "207",
+      "age": null,
+      "sex": "25"
+    },
+    {
+      "participantId": "111",
+      "age": null,
+      "sex": "24"
+    },
+    {
+      "participantId": "112",
+      "age": null,
+      "sex": "23"
+    },
+    {
+      "participantId": "113",
+      "age": null,
+      "sex": "19"
+    },
+    {
+      "participantId": "114",
+      "age": null,
+      "sex": "19"
+    },
+    {
+      "participantId": "208",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "209",
+      "age": null,
+      "sex": "25"
+    },
+    {
+      "participantId": "210",
+      "age": null,
+      "sex": "23"
+    },
+    {
+      "participantId": "115",
+      "age": null,
+      "sex": "19"
+    },
+    {
+      "participantId": "116",
+      "age": null,
+      "sex": "22"
+    },
+    {
+      "participantId": "211",
+      "age": null,
+      "sex": "23"
+    },
+    {
+      "participantId": "212",
+      "age": null,
+      "sex": "25"
+    },
+    {
+      "participantId": "213",
+      "age": null,
+      "sex": "24"
+    }
+  ],
+  "tasks": [
+    "PheromoneOlfaction"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 322,
+  "size": 397837,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

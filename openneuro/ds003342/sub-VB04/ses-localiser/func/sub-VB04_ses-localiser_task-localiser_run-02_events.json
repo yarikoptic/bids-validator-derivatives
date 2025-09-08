@@ -1,0 +1,21 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-VB04/ses-localiser/func/sub-VB04_ses-localiser_task-localiser_run-02_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-VB04/ses-localiser/func/sub-VB04_ses-localiser_task-localiser_run-02_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "",
+        "severity": "warning"
+      }
+    ]
+  }
+}

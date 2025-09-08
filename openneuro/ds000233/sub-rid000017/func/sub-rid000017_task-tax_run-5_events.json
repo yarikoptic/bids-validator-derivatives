@@ -1,0 +1,58 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'none'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "taxonomy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "behavior",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "task",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "repetition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-rid000017/func/sub-rid000017_task-tax_run-5_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "mirror",
+        "severity": "warning"
+      }
+    ]
+  }
+}

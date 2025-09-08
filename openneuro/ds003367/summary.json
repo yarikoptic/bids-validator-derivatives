@@ -1,0 +1,14 @@
+{
+  "sessions": [],
+  "subjects": [],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [],
+  "secondaryModalities": [],
+  "totalFiles": 323,
+  "size": 57858,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [],
+  "schemaVersion": "1.2.0-dev"
+}

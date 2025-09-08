@@ -1,0 +1,222 @@
+{
+  "sessions": [
+    "20190319",
+    "20180825",
+    "20180508",
+    "20180802",
+    "20180830",
+    "20190416",
+    "20190430",
+    "20190512",
+    "20190519",
+    "20190606",
+    "20190618",
+    "20190625",
+    "20190702",
+    "20190708",
+    "20190711",
+    "20190715",
+    "20190716",
+    "20190808",
+    "20190811",
+    "20190813",
+    "20190814",
+    "20190815",
+    "20190818",
+    "20190825",
+    "20190826"
+  ],
+  "subjects": [
+    "NC150",
+    "NC183",
+    "NC188",
+    "NC189",
+    "NC216",
+    "NC225",
+    "NC227",
+    "NC231",
+    "NC232",
+    "NC233",
+    "NC234",
+    "NC235",
+    "NC236",
+    "NC237",
+    "NC239",
+    "NC240",
+    "NC242",
+    "NC243",
+    "NC244",
+    "NC245",
+    "NC246",
+    "NC247",
+    "NC248",
+    "NC249",
+    "NC250",
+    "NC251",
+    "NC252",
+    "NC254",
+    "NC255"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "NC150",
+      "age": 42,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC183",
+      "age": 28,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC188",
+      "age": 52,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC189",
+      "age": 56,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC216",
+      "age": 27,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC225",
+      "age": 23,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC227",
+      "age": 37,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC231",
+      "age": 31,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC232",
+      "age": 26,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC233",
+      "age": 24,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC234",
+      "age": 25,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC235",
+      "age": 50,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC236",
+      "age": 22,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC237",
+      "age": 24,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC239",
+      "age": 36,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC240",
+      "age": 25,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC242",
+      "age": 66,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC243",
+      "age": 29,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC244",
+      "age": 50,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC245",
+      "age": 60,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC246",
+      "age": 32,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC247",
+      "age": 24,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC248",
+      "age": 25,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC249",
+      "age": 26,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC250",
+      "age": 25,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC251",
+      "age": 25,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC252",
+      "age": 21,
+      "sex": "Male"
+    },
+    {
+      "participantId": "NC254",
+      "age": 28,
+      "sex": "Female"
+    },
+    {
+      "participantId": "NC255",
+      "age": 30,
+      "sex": "Male"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 121,
+  "size": 2370696,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

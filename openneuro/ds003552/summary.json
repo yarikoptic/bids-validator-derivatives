@@ -1,0 +1,117 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "1",
+      "age": 24
+    },
+    {
+      "participantId": "2",
+      "age": 25
+    },
+    {
+      "participantId": "3",
+      "age": 28
+    },
+    {
+      "participantId": "4",
+      "age": 18
+    },
+    {
+      "participantId": "5",
+      "age": 32
+    },
+    {
+      "participantId": "6",
+      "age": 28
+    },
+    {
+      "participantId": "7",
+      "age": 31
+    },
+    {
+      "participantId": "8",
+      "age": 24
+    },
+    {
+      "participantId": "9",
+      "age": 34
+    },
+    {
+      "participantId": "10",
+      "age": 27
+    },
+    {
+      "participantId": "11",
+      "age": 28
+    },
+    {
+      "participantId": "12",
+      "age": 27
+    },
+    {
+      "participantId": "13",
+      "age": 24
+    },
+    {
+      "participantId": "14",
+      "age": 31
+    },
+    {
+      "participantId": "15",
+      "age": 26
+    },
+    {
+      "participantId": "16",
+      "age": 25
+    },
+    {
+      "participantId": "17",
+      "age": 25
+    },
+    {
+      "participantId": "18",
+      "age": 25
+    },
+    {
+      "participantId": "19",
+      "age": 26
+    }
+  ],
+  "tasks": [
+    "ReachToTouchPredictionError"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 157,
+  "size": 7789749,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

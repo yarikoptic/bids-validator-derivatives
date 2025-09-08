@@ -1,0 +1,76 @@
+{
+  "sessions": [
+    "placebo6m",
+    "placebopre"
+  ],
+  "subjects": [
+    "PLAC02",
+    "PLAC05",
+    "PLAC08",
+    "PLAC10",
+    "PLAC13",
+    "PLAC14",
+    "PLAC17",
+    "PLAC19",
+    "PLAC23",
+    "PLAC24"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "PLAC10",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC13",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC23",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC02",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC05",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC24",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC19",
+      "sex": "0"
+    },
+    {
+      "participantId": "PLAC17",
+      "sex": "6"
+    },
+    {
+      "participantId": "PLAC08",
+      "sex": "1"
+    },
+    {
+      "participantId": "PLAC14",
+      "sex": "0"
+    }
+  ],
+  "tasks": [
+    "task placebo 6m ",
+    "task placebo pre"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 104,
+  "size": 271781,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,63 @@
+{
+  "sessions": [
+    "func01",
+    "func02",
+    "func03",
+    "func04",
+    "func05",
+    "func06",
+    "func07",
+    "func08",
+    "func09",
+    "func10",
+    "func11",
+    "func12",
+    "func13",
+    "func14",
+    "func15",
+    "func16",
+    "func17",
+    "func18",
+    "func19",
+    "func20",
+    "func21",
+    "func22",
+    "func23",
+    "func24",
+    "func25",
+    "func26",
+    "func27",
+    "func28",
+    "func29",
+    "func30"
+  ],
+  "subjects": [
+    "RTC01"
+  ],
+  "subjectMetadata": [],
+  "tasks": [
+    "Card Guessing Task",
+    "Reading the Mind in the eyes task",
+    "Gradual-onset continuous performance task",
+    "Movies task",
+    "N-back task",
+    "Rest task",
+    "Stop-signal task"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 490,
+  "size": 13927152,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

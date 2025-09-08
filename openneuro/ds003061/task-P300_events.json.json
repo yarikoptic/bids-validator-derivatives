@@ -1,0 +1,90 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "file": {
+          "name": "task-P300_events.json",
+          "path": "/task-P300_events.json",
+          "viewed": true
+        },
+        "hedIssue": {
+          "internalCode": "invalidValue",
+          "hedCode": "VALUE_INVALID",
+          "level": "error",
+          "message": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/500Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+          "parameters": {
+            "tag": "Pitch/500Hz"
+          }
+        },
+        "code": "HED_ERROR",
+        "subCode": "VALUE_INVALID",
+        "severity": "error",
+        "issueMessage": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/500Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+        "location": "/task-P300_events.json"
+      },
+      {
+        "file": {
+          "name": "task-P300_events.json",
+          "path": "/task-P300_events.json",
+          "viewed": true
+        },
+        "hedIssue": {
+          "internalCode": "invalidValue",
+          "hedCode": "VALUE_INVALID",
+          "level": "error",
+          "message": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/1000Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+          "parameters": {
+            "tag": "Pitch/1000Hz"
+          }
+        },
+        "code": "HED_ERROR",
+        "subCode": "VALUE_INVALID",
+        "severity": "error",
+        "issueMessage": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/1000Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+        "location": "/task-P300_events.json"
+      },
+      {
+        "file": {
+          "name": "task-P300_events.json",
+          "path": "/task-P300_events.json",
+          "viewed": true
+        },
+        "hedIssue": {
+          "internalCode": "invalidValue",
+          "hedCode": "VALUE_INVALID",
+          "level": "error",
+          "message": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/500Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+          "parameters": {
+            "tag": "Pitch/500Hz"
+          }
+        },
+        "code": "HED_ERROR",
+        "subCode": "VALUE_INVALID",
+        "severity": "error",
+        "issueMessage": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/500Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+        "location": "/task-P300_events.json"
+      },
+      {
+        "file": {
+          "name": "task-P300_events.json",
+          "path": "/task-P300_events.json",
+          "viewed": true
+        },
+        "hedIssue": {
+          "internalCode": "invalidValue",
+          "hedCode": "VALUE_INVALID",
+          "level": "error",
+          "message": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/1000Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+          "parameters": {
+            "tag": "Pitch/1000Hz"
+          }
+        },
+        "code": "HED_ERROR",
+        "subCode": "VALUE_INVALID",
+        "severity": "error",
+        "issueMessage": "ERROR: [VALUE_INVALID] Invalid placeholder value for tag \"Pitch/1000Hz\".  (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)",
+        "location": "/task-P300_events.json"
+      }
+    ]
+  }
+}

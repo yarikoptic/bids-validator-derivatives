@@ -1,0 +1,42 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-01/ses-084/func/sub-01_ses-084_task-dots_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/ses-084/func/sub-01_ses-084_task-dots_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/ses-084/func/sub-01_ses-084_task-dots_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "motion_coherence",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/ses-084/func/sub-01_ses-084_task-dots_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "SSD",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/ses-084/func/sub-01_ses-084_task-dots_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "stop_success",
+        "severity": "warning"
+      }
+    ]
+  }
+}

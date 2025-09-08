@@ -1,0 +1,198 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "onset",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 2,
+        "issueMessage": "'1,634'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Experiment - Satz_B1",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Serial_no",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Code",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Stimulus",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Condition",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Onset_time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Bildh",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Arousal",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "EmoVal",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Gebr",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Metaph",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Buchstaben",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "W\u0326rter",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Similarity",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Nebens\ufffd_tze",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Relative",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Passiv",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Komposita",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Personen",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Angaben",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Konjunktive",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "analytF",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-02/func/sub-02_task-silentreading_run-1_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Satzstellung",
+        "severity": "warning"
+      }
+    ]
+  }
+}

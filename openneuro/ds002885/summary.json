@@ -1,0 +1,33 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01"
+    },
+    {
+      "participantId": "02"
+    }
+  ],
+  "tasks": [
+    "DSMW",
+    "EmptyRoom",
+    "Reference",
+    "DMW"
+  ],
+  "modalities": [
+    "MEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 29,
+  "size": 135317,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

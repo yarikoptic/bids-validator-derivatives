@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "INVALID_LOCATION",
+        "location": "/eyetracking while movie watching, plus visual localizers/sub-15/ses-localizer/func/sub-15_ses-localizer_task-retmapexp_run-1_bold.json",
+        "issueMessage": "Expected location: /sub-15/ses-localizer/",
+        "severity": "error"
+      }
+    ]
+  }
+}

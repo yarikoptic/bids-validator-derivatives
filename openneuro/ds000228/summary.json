@@ -1,0 +1,646 @@
+{
+  "sessions": [],
+  "subjects": [
+    "pixar001",
+    "pixar002",
+    "pixar003",
+    "pixar004",
+    "pixar005",
+    "pixar006",
+    "pixar007",
+    "pixar008",
+    "pixar009",
+    "pixar010",
+    "pixar011",
+    "pixar012",
+    "pixar013",
+    "pixar014",
+    "pixar015",
+    "pixar016",
+    "pixar017",
+    "pixar018",
+    "pixar019",
+    "pixar020",
+    "pixar021",
+    "pixar022",
+    "pixar023",
+    "pixar024",
+    "pixar025",
+    "pixar026",
+    "pixar027",
+    "pixar028",
+    "pixar029",
+    "pixar030",
+    "pixar031",
+    "pixar032",
+    "pixar033",
+    "pixar034",
+    "pixar035",
+    "pixar036",
+    "pixar037",
+    "pixar038",
+    "pixar039",
+    "pixar040",
+    "pixar041",
+    "pixar042",
+    "pixar043",
+    "pixar044",
+    "pixar045",
+    "pixar046",
+    "pixar047",
+    "pixar048",
+    "pixar049",
+    "pixar050",
+    "pixar051",
+    "pixar052",
+    "pixar053",
+    "pixar054",
+    "pixar055",
+    "pixar056",
+    "pixar057",
+    "pixar058",
+    "pixar059",
+    "pixar060",
+    "pixar061",
+    "pixar062",
+    "pixar063",
+    "pixar064",
+    "pixar065",
+    "pixar066",
+    "pixar067",
+    "pixar068",
+    "pixar069",
+    "pixar070",
+    "pixar071",
+    "pixar072",
+    "pixar073",
+    "pixar074",
+    "pixar075",
+    "pixar076",
+    "pixar077",
+    "pixar078",
+    "pixar079",
+    "pixar080",
+    "pixar081",
+    "pixar082",
+    "pixar083",
+    "pixar084",
+    "pixar085",
+    "pixar086",
+    "pixar087",
+    "pixar088",
+    "pixar089",
+    "pixar090",
+    "pixar091",
+    "pixar092",
+    "pixar093",
+    "pixar094",
+    "pixar095",
+    "pixar096",
+    "pixar097",
+    "pixar098",
+    "pixar099",
+    "pixar100",
+    "pixar101",
+    "pixar102",
+    "pixar103",
+    "pixar104",
+    "pixar105",
+    "pixar106",
+    "pixar107",
+    "pixar108",
+    "pixar109",
+    "pixar110",
+    "pixar111",
+    "pixar112",
+    "pixar113",
+    "pixar114",
+    "pixar115",
+    "pixar116",
+    "pixar117",
+    "pixar118",
+    "pixar119",
+    "pixar120",
+    "pixar121",
+    "pixar122",
+    "pixar123",
+    "pixar124",
+    "pixar125",
+    "pixar126",
+    "pixar127",
+    "pixar128",
+    "pixar129",
+    "pixar130",
+    "pixar131",
+    "pixar132",
+    "pixar133",
+    "pixar134",
+    "pixar135",
+    "pixar136",
+    "pixar137",
+    "pixar138",
+    "pixar139",
+    "pixar140",
+    "pixar141",
+    "pixar142",
+    "pixar143",
+    "pixar144",
+    "pixar145",
+    "pixar146",
+    "pixar147",
+    "pixar148",
+    "pixar149",
+    "pixar150",
+    "pixar151",
+    "pixar152",
+    "pixar153",
+    "pixar154",
+    "pixar155"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "pixar001"
+    },
+    {
+      "participantId": "pixar002"
+    },
+    {
+      "participantId": "pixar003"
+    },
+    {
+      "participantId": "pixar004"
+    },
+    {
+      "participantId": "pixar005"
+    },
+    {
+      "participantId": "pixar006"
+    },
+    {
+      "participantId": "pixar007"
+    },
+    {
+      "participantId": "pixar008"
+    },
+    {
+      "participantId": "pixar009"
+    },
+    {
+      "participantId": "pixar010"
+    },
+    {
+      "participantId": "pixar011"
+    },
+    {
+      "participantId": "pixar012"
+    },
+    {
+      "participantId": "pixar013"
+    },
+    {
+      "participantId": "pixar014"
+    },
+    {
+      "participantId": "pixar015"
+    },
+    {
+      "participantId": "pixar016"
+    },
+    {
+      "participantId": "pixar017"
+    },
+    {
+      "participantId": "pixar018"
+    },
+    {
+      "participantId": "pixar019"
+    },
+    {
+      "participantId": "pixar020"
+    },
+    {
+      "participantId": "pixar021"
+    },
+    {
+      "participantId": "pixar022"
+    },
+    {
+      "participantId": "pixar023"
+    },
+    {
+      "participantId": "pixar024"
+    },
+    {
+      "participantId": "pixar025"
+    },
+    {
+      "participantId": "pixar026"
+    },
+    {
+      "participantId": "pixar027"
+    },
+    {
+      "participantId": "pixar028"
+    },
+    {
+      "participantId": "pixar029"
+    },
+    {
+      "participantId": "pixar030"
+    },
+    {
+      "participantId": "pixar031"
+    },
+    {
+      "participantId": "pixar032"
+    },
+    {
+      "participantId": "pixar033"
+    },
+    {
+      "participantId": "pixar034"
+    },
+    {
+      "participantId": "pixar035"
+    },
+    {
+      "participantId": "pixar036"
+    },
+    {
+      "participantId": "pixar037"
+    },
+    {
+      "participantId": "pixar038"
+    },
+    {
+      "participantId": "pixar039"
+    },
+    {
+      "participantId": "pixar040"
+    },
+    {
+      "participantId": "pixar041"
+    },
+    {
+      "participantId": "pixar042"
+    },
+    {
+      "participantId": "pixar043"
+    },
+    {
+      "participantId": "pixar044"
+    },
+    {
+      "participantId": "pixar045"
+    },
+    {
+      "participantId": "pixar046"
+    },
+    {
+      "participantId": "pixar047"
+    },
+    {
+      "participantId": "pixar048"
+    },
+    {
+      "participantId": "pixar049"
+    },
+    {
+      "participantId": "pixar050"
+    },
+    {
+      "participantId": "pixar051"
+    },
+    {
+      "participantId": "pixar052"
+    },
+    {
+      "participantId": "pixar053"
+    },
+    {
+      "participantId": "pixar054"
+    },
+    {
+      "participantId": "pixar055"
+    },
+    {
+      "participantId": "pixar056"
+    },
+    {
+      "participantId": "pixar057"
+    },
+    {
+      "participantId": "pixar058"
+    },
+    {
+      "participantId": "pixar059"
+    },
+    {
+      "participantId": "pixar060"
+    },
+    {
+      "participantId": "pixar061"
+    },
+    {
+      "participantId": "pixar062"
+    },
+    {
+      "participantId": "pixar063"
+    },
+    {
+      "participantId": "pixar064"
+    },
+    {
+      "participantId": "pixar065"
+    },
+    {
+      "participantId": "pixar066"
+    },
+    {
+      "participantId": "pixar067"
+    },
+    {
+      "participantId": "pixar068"
+    },
+    {
+      "participantId": "pixar069"
+    },
+    {
+      "participantId": "pixar070"
+    },
+    {
+      "participantId": "pixar071"
+    },
+    {
+      "participantId": "pixar072"
+    },
+    {
+      "participantId": "pixar073"
+    },
+    {
+      "participantId": "pixar074"
+    },
+    {
+      "participantId": "pixar075"
+    },
+    {
+      "participantId": "pixar076"
+    },
+    {
+      "participantId": "pixar077"
+    },
+    {
+      "participantId": "pixar078"
+    },
+    {
+      "participantId": "pixar079"
+    },
+    {
+      "participantId": "pixar080"
+    },
+    {
+      "participantId": "pixar081"
+    },
+    {
+      "participantId": "pixar082"
+    },
+    {
+      "participantId": "pixar083"
+    },
+    {
+      "participantId": "pixar084"
+    },
+    {
+      "participantId": "pixar085"
+    },
+    {
+      "participantId": "pixar086"
+    },
+    {
+      "participantId": "pixar087"
+    },
+    {
+      "participantId": "pixar088"
+    },
+    {
+      "participantId": "pixar089"
+    },
+    {
+      "participantId": "pixar090"
+    },
+    {
+      "participantId": "pixar091"
+    },
+    {
+      "participantId": "pixar092"
+    },
+    {
+      "participantId": "pixar093"
+    },
+    {
+      "participantId": "pixar094"
+    },
+    {
+      "participantId": "pixar095"
+    },
+    {
+      "participantId": "pixar096"
+    },
+    {
+      "participantId": "pixar097"
+    },
+    {
+      "participantId": "pixar098"
+    },
+    {
+      "participantId": "pixar099"
+    },
+    {
+      "participantId": "pixar100"
+    },
+    {
+      "participantId": "pixar101"
+    },
+    {
+      "participantId": "pixar102"
+    },
+    {
+      "participantId": "pixar103"
+    },
+    {
+      "participantId": "pixar104"
+    },
+    {
+      "participantId": "pixar105"
+    },
+    {
+      "participantId": "pixar106"
+    },
+    {
+      "participantId": "pixar107"
+    },
+    {
+      "participantId": "pixar108"
+    },
+    {
+      "participantId": "pixar109"
+    },
+    {
+      "participantId": "pixar110"
+    },
+    {
+      "participantId": "pixar111"
+    },
+    {
+      "participantId": "pixar112"
+    },
+    {
+      "participantId": "pixar113"
+    },
+    {
+      "participantId": "pixar114"
+    },
+    {
+      "participantId": "pixar115"
+    },
+    {
+      "participantId": "pixar116"
+    },
+    {
+      "participantId": "pixar117"
+    },
+    {
+      "participantId": "pixar118"
+    },
+    {
+      "participantId": "pixar119"
+    },
+    {
+      "participantId": "pixar120"
+    },
+    {
+      "participantId": "pixar121"
+    },
+    {
+      "participantId": "pixar122"
+    },
+    {
+      "participantId": "pixar123"
+    },
+    {
+      "participantId": "pixar124"
+    },
+    {
+      "participantId": "pixar125"
+    },
+    {
+      "participantId": "pixar126"
+    },
+    {
+      "participantId": "pixar127"
+    },
+    {
+      "participantId": "pixar128"
+    },
+    {
+      "participantId": "pixar129"
+    },
+    {
+      "participantId": "pixar130"
+    },
+    {
+      "participantId": "pixar131"
+    },
+    {
+      "participantId": "pixar132"
+    },
+    {
+      "participantId": "pixar133"
+    },
+    {
+      "participantId": "pixar134"
+    },
+    {
+      "participantId": "pixar135"
+    },
+    {
+      "participantId": "pixar136"
+    },
+    {
+      "participantId": "pixar137"
+    },
+    {
+      "participantId": "pixar138"
+    },
+    {
+      "participantId": "pixar139"
+    },
+    {
+      "participantId": "pixar140"
+    },
+    {
+      "participantId": "pixar141"
+    },
+    {
+      "participantId": "pixar142"
+    },
+    {
+      "participantId": "pixar143"
+    },
+    {
+      "participantId": "pixar144"
+    },
+    {
+      "participantId": "pixar145"
+    },
+    {
+      "participantId": "pixar146"
+    },
+    {
+      "participantId": "pixar147"
+    },
+    {
+      "participantId": "pixar148"
+    },
+    {
+      "participantId": "pixar149"
+    },
+    {
+      "participantId": "pixar150"
+    },
+    {
+      "participantId": "pixar151"
+    },
+    {
+      "participantId": "pixar152"
+    },
+    {
+      "participantId": "pixar153"
+    },
+    {
+      "participantId": "pixar154"
+    },
+    {
+      "participantId": "pixar155"
+    }
+  ],
+  "tasks": [
+    "pixar"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 626,
+  "size": 74634954,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,30 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01"
+    }
+  ],
+  "tasks": [
+    "language production task, semantic fluency"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 10,
+  "size": 4940,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

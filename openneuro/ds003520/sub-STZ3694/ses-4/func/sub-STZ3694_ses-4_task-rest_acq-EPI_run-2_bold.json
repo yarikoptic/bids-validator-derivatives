@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MagneticFieldStrength",
+        "issueMessage": "must be number\n\nField description: Nominal field strength of MR magnet in Tesla.\nCorresponds to [DICOM Tag 0018, 0087](https://dicomlookup.com/dicomtags/(0018,0087)) `Magnetic Field Strength`.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/sub-STZ3694/ses-4/func/sub-STZ3694_ses-4_task-rest_acq-EPI_run-2_bold.json",
+        "affects": [
+          "/sub-STZ3694/ses-4/func/sub-STZ3694_ses-4_task-rest_acq-EPI_run-2_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

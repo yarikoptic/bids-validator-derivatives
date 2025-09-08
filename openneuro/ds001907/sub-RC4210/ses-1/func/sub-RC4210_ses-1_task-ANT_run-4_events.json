@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_type_err",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "accuracy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "target_dir",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "target_pos",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "correct_resp",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-RC4210/ses-1/func/sub-RC4210_ses-1_task-ANT_run-4_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "resp",
+        "severity": "warning"
+      }
+    ]
+  }
+}

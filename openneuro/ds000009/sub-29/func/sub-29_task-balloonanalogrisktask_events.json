@@ -1,0 +1,91 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "reaction_time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_number",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "button_pressed",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "action",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "explode_trial",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_value",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_cumulative_value",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "payoff_level",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "onset_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "duration_orig",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-29/func/sub-29_task-balloonanalogrisktask_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "trial_type_orig",
+        "severity": "warning"
+      }
+    ]
+  }
+}

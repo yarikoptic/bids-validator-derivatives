@@ -1,0 +1,32 @@
+{
+  "sessions": [
+    "baseline",
+    "rescan"
+  ],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 21.5086
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "PET",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 13,
+  "size": 19995,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "pet"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,204 @@
+{
+  "sessions": [
+    "postop"
+  ],
+  "subjects": [
+    "CON02",
+    "CON03",
+    "CON04",
+    "CON05",
+    "CON06",
+    "CON07",
+    "CON08",
+    "CON09",
+    "CON10",
+    "CON11",
+    "PAT01",
+    "PAT02",
+    "PAT03",
+    "PAT05",
+    "PAT06",
+    "PAT07",
+    "PAT08",
+    "PAT10",
+    "PAT11",
+    "PAT13",
+    "PAT15",
+    "PAT16",
+    "PAT17",
+    "PAT20",
+    "PAT23",
+    "PAT24",
+    "PAT25",
+    "PAT26",
+    "PAT28"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "CON02",
+      "age": 64,
+      "sex": "M"
+    },
+    {
+      "participantId": "CON03",
+      "age": 53,
+      "sex": "F"
+    },
+    {
+      "participantId": "CON04",
+      "age": 53,
+      "sex": "F"
+    },
+    {
+      "participantId": "CON05",
+      "age": 49,
+      "sex": "M"
+    },
+    {
+      "participantId": "CON06",
+      "age": 72,
+      "sex": "M"
+    },
+    {
+      "participantId": "CON07",
+      "age": 48,
+      "sex": "F"
+    },
+    {
+      "participantId": "CON08",
+      "age": 75,
+      "sex": "M"
+    },
+    {
+      "participantId": "CON09",
+      "age": 58,
+      "sex": "M"
+    },
+    {
+      "participantId": "CON10",
+      "age": 52,
+      "sex": "M"
+    },
+    {
+      "participantId": "CON11",
+      "age": 72,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT01",
+      "age": 67,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT02",
+      "age": 49,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT03",
+      "age": 60,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT05",
+      "age": 40,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT06",
+      "age": 67,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT07",
+      "age": 55,
+      "sex": "M"
+    },
+    {
+      "participantId": "PAT08",
+      "age": 51,
+      "sex": "M"
+    },
+    {
+      "participantId": "PAT10",
+      "age": 77,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT11",
+      "age": 74,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT13",
+      "age": 40,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT15",
+      "age": 57,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT16",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "PAT17",
+      "age": 49,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT20",
+      "age": 70,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT23",
+      "age": 74,
+      "sex": "M"
+    },
+    {
+      "participantId": "PAT24",
+      "age": 62,
+      "sex": "M"
+    },
+    {
+      "participantId": "PAT25",
+      "age": 46,
+      "sex": "F"
+    },
+    {
+      "participantId": "PAT26",
+      "age": 61,
+      "sex": "M"
+    },
+    {
+      "participantId": "PAT28",
+      "age": 44,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion",
+    "MRI_Structural",
+    "MRI_Functional"
+  ],
+  "totalFiles": 352,
+  "size": 272801,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "dwi",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

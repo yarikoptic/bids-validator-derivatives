@@ -1,0 +1,14 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "HeadCoilCoordinateSystem",
+        "issueMessage": "must be equal to one of the allowed values\n\nField description: Defines the coordinate system for the head coils.\nSee the\n[Coordinate Systems Appendix](SPEC_ROOT/appendices/coordinate-systems.md)\nfor a list of restricted keywords for coordinate systems.\nIf `\"Other\"`, provide definition of the coordinate system in\n`HeadCoilCoordinateSystemDescription`.\n",
+        "rule": "rules.json.meg.MEGCoordsystemHeadLocalizationCoils",
+        "location": "/sub-18/ses-01/meg/sub-18_ses-01_coordsystem.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

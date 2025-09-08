@@ -1,0 +1,56 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "self_rating",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "other_rating",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "self_rating_rt",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "self_buy",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "decision_time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-01/func/sub-01_task-cpshop_run-01_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "",
+        "severity": "warning"
+      }
+    ]
+  }
+}

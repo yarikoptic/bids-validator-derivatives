@@ -1,0 +1,108 @@
+{
+  "sessions": [
+    "movie",
+    "20190429",
+    "20190604",
+    "20190606",
+    "20190610",
+    "20190611",
+    "20190612",
+    "20190613"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "emptyroom"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "02",
+      "age": 19,
+      "sex": "M"
+    },
+    {
+      "participantId": "03",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "04",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "09",
+      "age": 20,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "emptyroom",
+      "age": null,
+      "sex": "n/a"
+    }
+  ],
+  "tasks": [
+    "movie",
+    "noise"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 433,
+  "size": 86197942,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "meg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

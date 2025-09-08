@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "TSV_COLUMN_HEADER_DUPLICATE",
+        "location": "/phenotype/ses-T1/ctopp.tsv",
+        "issueMessage": "participant_id, CTOPP_EL_raw, CTOPP_EL_StS, CTOPP_BW_raw, CTOPP_BW_StS, CTOPP_MD_raw, CTOPP_MD_StS, CTOPP_NR_raw, CTOPP_NR_StS, CTOPP_RD_raw, CTOPP_RD_StS, CTOPP_RL_raw, CTOPP_RL_ScS, CTOPP_PhonAwareness _Comp, CTOPP_PhonemicMemory_Comp, CTOPP_RapidNaming _Comp, , , , ",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/phenotype/ses-T1/ctopp.tsv",
+        "severity": "error"
+      }
+    ]
+  }
+}

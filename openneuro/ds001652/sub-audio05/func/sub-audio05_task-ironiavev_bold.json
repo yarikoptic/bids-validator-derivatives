@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/sub-audio05/func/sub-audio05_task-ironiavev_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

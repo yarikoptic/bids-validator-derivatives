@@ -1,0 +1,32 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "Sub-01",
+      "age": 21,
+      "sex": "f"
+    }
+  ],
+  "tasks": [
+    "Resting state fMRI"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 6,
+  "size": 511,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

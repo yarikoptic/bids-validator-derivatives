@@ -1,0 +1,612 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "040",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "060",
+    "061",
+    "062",
+    "063",
+    "064",
+    "065",
+    "066",
+    "067",
+    "068",
+    "069",
+    "070",
+    "071",
+    "072",
+    "073",
+    "074",
+    "075",
+    "076",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 36.504109589
+    },
+    {
+      "participantId": "002",
+      "age": 36.504109589
+    },
+    {
+      "participantId": "003",
+      "age": 35.4657534247
+    },
+    {
+      "participantId": "004",
+      "age": 35.4657534247
+    },
+    {
+      "participantId": "005",
+      "age": 35.3863013699
+    },
+    {
+      "participantId": "006",
+      "age": 35.3863013699
+    },
+    {
+      "participantId": "007",
+      "age": 38.1479452055
+    },
+    {
+      "participantId": "008",
+      "age": 38.2931506849
+    },
+    {
+      "participantId": "009",
+      "age": 36.3506849315
+    },
+    {
+      "participantId": "010",
+      "age": 36.3506849315
+    },
+    {
+      "participantId": "011",
+      "age": 35.2575342466
+    },
+    {
+      "participantId": "012",
+      "age": 35.2575342466
+    },
+    {
+      "participantId": "013",
+      "age": 32.8273972603
+    },
+    {
+      "participantId": "014",
+      "age": 32.8273972603
+    },
+    {
+      "participantId": "015",
+      "age": 33.3534246575
+    },
+    {
+      "participantId": "016",
+      "age": 33.3534246575
+    },
+    {
+      "participantId": "017",
+      "age": 37.2493150685
+    },
+    {
+      "participantId": "018",
+      "age": 37.2493150685
+    },
+    {
+      "participantId": "019",
+      "age": 42.9315068493
+    },
+    {
+      "participantId": "020",
+      "age": 42.9315068493
+    },
+    {
+      "participantId": "021",
+      "age": 35.2054794521
+    },
+    {
+      "participantId": "022",
+      "age": 35.2493150685
+    },
+    {
+      "participantId": "023",
+      "age": 37.9095890411
+    },
+    {
+      "participantId": "024",
+      "age": 37.9095890411
+    },
+    {
+      "participantId": "025",
+      "age": 34.8273972603
+    },
+    {
+      "participantId": "026",
+      "age": 34.8273972603
+    },
+    {
+      "participantId": "027",
+      "age": 35.7205479452
+    },
+    {
+      "participantId": "028",
+      "age": 35.3342465753
+    },
+    {
+      "participantId": "029",
+      "age": 42.4904109589
+    },
+    {
+      "participantId": "030",
+      "age": 42.5506849315
+    },
+    {
+      "participantId": "031",
+      "age": 36.2712328767
+    },
+    {
+      "participantId": "032",
+      "age": 34.2712328767
+    },
+    {
+      "participantId": "033",
+      "age": 34.2712328767
+    },
+    {
+      "participantId": "034",
+      "age": 38.1424657534
+    },
+    {
+      "participantId": "035",
+      "age": 38.1424657534
+    },
+    {
+      "participantId": "036",
+      "age": 39.6794520548
+    },
+    {
+      "participantId": "037",
+      "age": 39.6794520548
+    },
+    {
+      "participantId": "038",
+      "age": 39.3369863014
+    },
+    {
+      "participantId": "039",
+      "age": 39.3369863014
+    },
+    {
+      "participantId": "040",
+      "age": 38.2109589041
+    },
+    {
+      "participantId": "041",
+      "age": 38.2109589041
+    },
+    {
+      "participantId": "042",
+      "age": 39.5561643836
+    },
+    {
+      "participantId": "043",
+      "age": 39.5561643836
+    },
+    {
+      "participantId": "044",
+      "age": 40.2575342466
+    },
+    {
+      "participantId": "045",
+      "age": 40.2575342466
+    },
+    {
+      "participantId": "046",
+      "age": 37.6273972603
+    },
+    {
+      "participantId": "047",
+      "age": 37.2904109589
+    },
+    {
+      "participantId": "048",
+      "age": 38.7123287671
+    },
+    {
+      "participantId": "049",
+      "age": 38.7123287671
+    },
+    {
+      "participantId": "050",
+      "age": 35.3232876712
+    },
+    {
+      "participantId": "051",
+      "age": 35.3232876712
+    },
+    {
+      "participantId": "052",
+      "age": 39.0109589041
+    },
+    {
+      "participantId": "053",
+      "age": 39.0109589041
+    },
+    {
+      "participantId": "054",
+      "age": 34.2383561644
+    },
+    {
+      "participantId": "055",
+      "age": 34.8410958904
+    },
+    {
+      "participantId": "056",
+      "age": 34.8410958904
+    },
+    {
+      "participantId": "057",
+      "age": 36.9671232877
+    },
+    {
+      "participantId": "058",
+      "age": 36.9671232877
+    },
+    {
+      "participantId": "059",
+      "age": 42.8356164384
+    },
+    {
+      "participantId": "060",
+      "age": 42.7671232877
+    },
+    {
+      "participantId": "061",
+      "age": 35.4931506849
+    },
+    {
+      "participantId": "062",
+      "age": 35.5095890411
+    },
+    {
+      "participantId": "063",
+      "age": 36.8849315068
+    },
+    {
+      "participantId": "064",
+      "age": 36.8849315068
+    },
+    {
+      "participantId": "065",
+      "age": 36.5506849315
+    },
+    {
+      "participantId": "066",
+      "age": 36.5506849315
+    },
+    {
+      "participantId": "067",
+      "age": 33.904109589
+    },
+    {
+      "participantId": "068",
+      "age": 35.895890411
+    },
+    {
+      "participantId": "069",
+      "age": 35.895890411
+    },
+    {
+      "participantId": "070",
+      "age": 33.7671232877
+    },
+    {
+      "participantId": "071",
+      "age": 33.8493150685
+    },
+    {
+      "participantId": "072",
+      "age": 33.8493150685
+    },
+    {
+      "participantId": "073",
+      "age": 40.5780821918
+    },
+    {
+      "participantId": "074",
+      "age": 40.5780821918
+    },
+    {
+      "participantId": "075",
+      "age": 36.2164383562
+    },
+    {
+      "participantId": "076",
+      "age": 36.2164383562
+    },
+    {
+      "participantId": "077",
+      "age": 43.1315068493
+    },
+    {
+      "participantId": "078",
+      "age": 43.1315068493
+    },
+    {
+      "participantId": "079",
+      "age": 35.2191780822
+    },
+    {
+      "participantId": "080",
+      "age": 35.2191780822
+    },
+    {
+      "participantId": "081",
+      "age": 36.9534246575
+    },
+    {
+      "participantId": "082",
+      "age": 36.9534246575
+    },
+    {
+      "participantId": "083",
+      "age": 42.2904109589
+    },
+    {
+      "participantId": "084",
+      "age": 42.2438356164
+    },
+    {
+      "participantId": "085",
+      "age": 39.9589041096
+    },
+    {
+      "participantId": "086",
+      "age": 39.9589041096
+    },
+    {
+      "participantId": "087",
+      "age": 35.3232876712
+    },
+    {
+      "participantId": "088",
+      "age": 37.3589041096
+    },
+    {
+      "participantId": "089",
+      "age": 37.3589041096
+    },
+    {
+      "participantId": "090",
+      "age": 37
+    },
+    {
+      "participantId": "091",
+      "age": 37
+    },
+    {
+      "participantId": "092",
+      "age": 35.1479452055
+    },
+    {
+      "participantId": "093",
+      "age": 35.1479452055
+    },
+    {
+      "participantId": "094",
+      "age": 35.1178082192
+    },
+    {
+      "participantId": "095",
+      "age": 35.1178082192
+    },
+    {
+      "participantId": "096",
+      "age": 34.8219178082
+    },
+    {
+      "participantId": "097",
+      "age": 34.8219178082
+    },
+    {
+      "participantId": "098",
+      "age": 36.7698630137
+    },
+    {
+      "participantId": "099",
+      "age": 36.7698630137
+    },
+    {
+      "participantId": "100",
+      "age": 34.6
+    },
+    {
+      "participantId": "101",
+      "age": 35.0849315068
+    },
+    {
+      "participantId": "102",
+      "age": 38.2931506849
+    },
+    {
+      "participantId": "103",
+      "age": 38.3397260274
+    },
+    {
+      "participantId": "104",
+      "age": 38.8082191781
+    },
+    {
+      "participantId": "105",
+      "age": 38.8082191781
+    },
+    {
+      "participantId": "106",
+      "age": 41.3178082192
+    },
+    {
+      "participantId": "107",
+      "age": 37.0657534247
+    },
+    {
+      "participantId": "108",
+      "age": 37.0657534247
+    },
+    {
+      "participantId": "109",
+      "age": 40.8739726027
+    },
+    {
+      "participantId": "110",
+      "age": 40.8739726027
+    },
+    {
+      "participantId": "111",
+      "age": 34.5397260274
+    },
+    {
+      "participantId": "112",
+      "age": 35.5780821918
+    },
+    {
+      "participantId": "113",
+      "age": 41.6931506849
+    },
+    {
+      "participantId": "114",
+      "age": 41.6931506849
+    },
+    {
+      "participantId": "115",
+      "age": 39.5205479452
+    },
+    {
+      "participantId": "116",
+      "age": 37.2904109589
+    },
+    {
+      "participantId": "117",
+      "age": 33.5369863014
+    },
+    {
+      "participantId": "118",
+      "age": 33.495890411
+    }
+  ],
+  "tasks": [
+    "Experiment"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 4199,
+  "size": 12111825,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

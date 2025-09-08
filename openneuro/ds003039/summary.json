@@ -1,0 +1,117 @@
+{
+  "sessions": [],
+  "subjects": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "001",
+      "age": 26
+    },
+    {
+      "participantId": "002",
+      "age": 28
+    },
+    {
+      "participantId": "003",
+      "age": 25
+    },
+    {
+      "participantId": "004",
+      "age": 19
+    },
+    {
+      "participantId": "005",
+      "age": 21
+    },
+    {
+      "participantId": "006",
+      "age": 26
+    },
+    {
+      "participantId": "007",
+      "age": 32
+    },
+    {
+      "participantId": "008",
+      "age": 19
+    },
+    {
+      "participantId": "009",
+      "age": 24
+    },
+    {
+      "participantId": "010",
+      "age": 29
+    },
+    {
+      "participantId": "011",
+      "age": 23
+    },
+    {
+      "participantId": "012",
+      "age": 23
+    },
+    {
+      "participantId": "013",
+      "age": 23
+    },
+    {
+      "participantId": "014",
+      "age": 32
+    },
+    {
+      "participantId": "015",
+      "age": 21
+    },
+    {
+      "participantId": "016",
+      "age": 25
+    },
+    {
+      "participantId": "017",
+      "age": 26
+    },
+    {
+      "participantId": "018",
+      "age": 25
+    },
+    {
+      "participantId": "019",
+      "age": 20
+    }
+  ],
+  "tasks": [
+    "neurCorrYoung"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 157,
+  "size": 6283189,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

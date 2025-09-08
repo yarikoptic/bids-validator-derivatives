@@ -1,0 +1,70 @@
+{
+  "sessions": [
+    "18901014",
+    "18901015",
+    "18910228",
+    "18910303",
+    "18910512",
+    "01"
+  ],
+  "subjects": [
+    "emptyroom",
+    "0002",
+    "0003",
+    "0004",
+    "0006",
+    "0007"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "0007",
+      "age": 21,
+      "sex": "Male"
+    },
+    {
+      "participantId": "0006",
+      "age": 30,
+      "sex": "Male"
+    },
+    {
+      "participantId": "0004",
+      "age": 28,
+      "sex": "Female"
+    },
+    {
+      "participantId": "0003",
+      "age": 35,
+      "sex": "Female"
+    },
+    {
+      "participantId": "0002",
+      "age": 23,
+      "sex": "Male"
+    },
+    {
+      "participantId": "emptyroom",
+      "age": null,
+      "sex": "n/a"
+    }
+  ],
+  "tasks": [
+    "noise",
+    "rest"
+  ],
+  "modalities": [
+    "MEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 60,
+  "size": 422762,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "meg",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,86 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "GZIP_HEADER_MTIME",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "rule": "rules.checks.privacy.GzipHeaderMtime",
+        "severity": "warning"
+      },
+      {
+        "code": "GZIP_HEADER_FILENAME",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "rule": "rules.checks.privacy.GzipHeaderFilename",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "Manufacturer",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: Manufacturer of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "ManufacturersModelName",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: Manufacturer's model name of the equipment that produced the measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "SoftwareVersions",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: Manufacturer's designation of software version of the equipment that produced\nthe measurements.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "DeviceSerialNumber",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.continuous.PhysioHardware",
+        "issueMessage": "Field description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "TaskName",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "severity": "warning",
+        "rule": "rules.sidecars.entity_rules.EntitiesTaskMetadata",
+        "issueMessage": "Field description: Name of the task.\nNo two tasks should have the same name.\nThe task label included in the filename MAY be derived from this `\"TaskName\"` field\nby removing all non-alphanumeric or `+` characters (that is, all except those matching `[0-9a-zA-Z+]`),\nand potentially replacing spaces with `+` to ease readability.\nFor example `\"TaskName\"` `\"faces n-back\"` or `\"head nodding\"` could correspond to task labels\n`faces+n+back` or `facesnback` and `head+nodding` or `headnodding`, respectively.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "rule": "rules.tabular_data.physio.PhysioColumns",
+        "subCode": "time",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "rule": "rules.tabular_data.physio.PhysioColumns",
+        "subCode": "Pupil",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "rule": "rules.tabular_data.physio.PhysioColumns",
+        "subCode": "X",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-23/func/sub-23_task-spatialdetection_run-05_recording-eye_physio.tsv.gz",
+        "rule": "rules.tabular_data.physio.PhysioColumns",
+        "subCode": "Y",
+        "severity": "warning"
+      }
+    ]
+  }
+}

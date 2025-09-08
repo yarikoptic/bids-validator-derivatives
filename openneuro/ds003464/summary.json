@@ -1,0 +1,121 @@
+{
+  "sessions": [
+    "2",
+    "1",
+    "3"
+  ],
+  "subjects": [
+    "jgroptoINS501",
+    "jgroptoINS503",
+    "jgroptoINS506",
+    "jgroptoINS515",
+    "jgroptoINS516",
+    "jgroptoINS517",
+    "jgroptoINS518",
+    "jgroptoINS522",
+    "jgroptoINS526",
+    "jgroptoINS541",
+    "jgroptoINS542",
+    "jgroptoINS543",
+    "jgroptoINS544",
+    "jgroptoINS546",
+    "jgroptoINS548",
+    "jgroptoINS550",
+    "jgroptoINS551",
+    "jgroptoINS554"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "jgroptoINS501",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS503",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS506",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS515",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS516",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS517",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS518",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS522",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS526",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS541",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS542",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS543",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS544",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS550",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS551",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS554",
+      "sex": "F"
+    },
+    {
+      "participantId": "jgroptoINS546",
+      "sex": "M"
+    },
+    {
+      "participantId": "jgroptoINS548",
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "opto",
+    "rest"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 167,
+  "size": 30944,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

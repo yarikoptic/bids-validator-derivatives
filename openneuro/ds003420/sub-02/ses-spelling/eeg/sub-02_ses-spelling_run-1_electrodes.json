@@ -1,0 +1,18 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EXCESSIVE_ELECTRODE_SPECIFICITY",
+        "location": "/sub-02/ses-spelling/eeg/sub-02_ses-spelling_run-1_electrodes.tsv",
+        "rule": "rules.checks.channels.ElectrodeSpecificity",
+        "severity": "warning"
+      },
+      {
+        "code": "REQUIRED_COORDSYSTEM",
+        "location": "/sub-02/ses-spelling/eeg/sub-02_ses-spelling_run-1_electrodes.tsv",
+        "rule": "rules.checks.channels.RequiredCoordsystem",
+        "severity": "error"
+      }
+    ]
+  }
+}

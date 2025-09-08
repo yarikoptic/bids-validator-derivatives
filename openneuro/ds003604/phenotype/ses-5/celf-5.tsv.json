@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/phenotype/ses-5/celf-5.tsv",
+        "severity": "error"
+      }
+    ]
+  }
+}

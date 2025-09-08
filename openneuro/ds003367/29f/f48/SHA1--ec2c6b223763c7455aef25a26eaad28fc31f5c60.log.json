@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/29f/f48/SHA1--ec2c6b223763c7455aef25a26eaad28fc31f5c60.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

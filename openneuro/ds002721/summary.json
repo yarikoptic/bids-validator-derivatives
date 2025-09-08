@@ -1,0 +1,208 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 31,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "age": 39,
+      "sex": "F"
+    },
+    {
+      "participantId": "04",
+      "age": 49,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 63,
+      "sex": "M"
+    },
+    {
+      "participantId": "07",
+      "age": 34,
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "09",
+      "age": 36,
+      "sex": "F"
+    },
+    {
+      "participantId": "10",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "11",
+      "age": 51,
+      "sex": "M"
+    },
+    {
+      "participantId": "12",
+      "age": 34,
+      "sex": "F"
+    },
+    {
+      "participantId": "13",
+      "age": 60,
+      "sex": "F"
+    },
+    {
+      "participantId": "14",
+      "age": 30,
+      "sex": "M"
+    },
+    {
+      "participantId": "15",
+      "age": 59,
+      "sex": "M"
+    },
+    {
+      "participantId": "16",
+      "age": 44,
+      "sex": "F"
+    },
+    {
+      "participantId": "17",
+      "age": 59,
+      "sex": "M"
+    },
+    {
+      "participantId": "18",
+      "age": 39,
+      "sex": "F"
+    },
+    {
+      "participantId": "19",
+      "age": 44,
+      "sex": "M"
+    },
+    {
+      "participantId": "20",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "21",
+      "age": 66,
+      "sex": "F"
+    },
+    {
+      "participantId": "22",
+      "age": 61,
+      "sex": "F"
+    },
+    {
+      "participantId": "23",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "24",
+      "age": 18,
+      "sex": "F"
+    },
+    {
+      "participantId": "25",
+      "age": 62,
+      "sex": "M"
+    },
+    {
+      "participantId": "26",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "27",
+      "age": 38,
+      "sex": "M"
+    },
+    {
+      "participantId": "28",
+      "age": 26,
+      "sex": "M"
+    },
+    {
+      "participantId": "29",
+      "age": 35,
+      "sex": "M"
+    },
+    {
+      "participantId": "30",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "31",
+      "age": 23,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Run"
+  ],
+  "modalities": [
+    "EEG"
+  ],
+  "secondaryModalities": [],
+  "totalFiles": 929,
+  "size": 2444100,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "eeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

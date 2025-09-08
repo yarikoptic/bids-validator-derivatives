@@ -1,0 +1,63 @@
+{
+  "sessions": [
+    "3T",
+    "GE",
+    "SE",
+    "GRASE",
+    "SE3sTR"
+  ],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 30,
+      "sex": "F",
+      "group": "healthy control"
+    },
+    {
+      "participantId": "02",
+      "age": 30,
+      "sex": "M",
+      "group": "healthy control"
+    },
+    {
+      "participantId": "03",
+      "age": 45,
+      "sex": "F",
+      "group": "healthy control"
+    },
+    {
+      "participantId": "04",
+      "age": 30,
+      "sex": "F",
+      "group": "healthy control"
+    }
+  ],
+  "tasks": [
+    "check",
+    "movie",
+    "prf"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 285,
+  "size": 259311,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

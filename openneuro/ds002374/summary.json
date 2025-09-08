@@ -1,0 +1,22 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01"
+  ],
+  "subjectMetadata": [],
+  "tasks": [],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Diffusion"
+  ],
+  "totalFiles": 7,
+  "size": 8475,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "dwi"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

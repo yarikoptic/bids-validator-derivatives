@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/tmp_dcm2bids/",
+        "severity": "error"
+      }
+    ]
+  }
+}

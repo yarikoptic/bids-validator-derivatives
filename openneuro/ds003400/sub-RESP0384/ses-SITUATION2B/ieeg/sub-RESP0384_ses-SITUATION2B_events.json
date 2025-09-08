@@ -1,0 +1,29 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "MISSING_REQUIRED_ENTITY",
+        "location": "/sub-RESP0384/ses-SITUATION2B/ieeg/sub-RESP0384_ses-SITUATION2B_events.json",
+        "issueMessage": "task missing from rule rules.files.raw.events.events",
+        "rule": "rules.files.raw.events.events",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "onset",
+        "location": "/sub-RESP0384/ses-SITUATION2B/ieeg/sub-RESP0384_ses-SITUATION2B_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_COLUMN_TYPE_REDEFINED",
+        "issueMessage": "Format \"string\" must be number",
+        "subCode": "duration",
+        "location": "/sub-RESP0384/ses-SITUATION2B/ieeg/sub-RESP0384_ses-SITUATION2B_events.json",
+        "rule": "rules.tabular_data.events.Events",
+        "severity": "warning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "sessions": [
+    "01"
+  ],
+  "subjects": [
+    "02003",
+    "02004",
+    "02005",
+    "02006",
+    "02007",
+    "02010",
+    "02011",
+    "02012",
+    "02014",
+    "02015",
+    "02016",
+    "02017",
+    "02018",
+    "02019",
+    "02021",
+    "02022",
+    "02023",
+    "02024",
+    "02027"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "02003"
+    },
+    {
+      "participantId": "02004"
+    },
+    {
+      "participantId": "02005"
+    },
+    {
+      "participantId": "02006"
+    },
+    {
+      "participantId": "02007"
+    },
+    {
+      "participantId": "02010"
+    },
+    {
+      "participantId": "02011"
+    },
+    {
+      "participantId": "02012"
+    },
+    {
+      "participantId": "02014"
+    },
+    {
+      "participantId": "02015"
+    },
+    {
+      "participantId": "02016"
+    },
+    {
+      "participantId": "02017"
+    },
+    {
+      "participantId": "02018"
+    },
+    {
+      "participantId": "02019"
+    },
+    {
+      "participantId": "02021"
+    },
+    {
+      "participantId": "02022"
+    },
+    {
+      "participantId": "02023"
+    },
+    {
+      "participantId": "02024"
+    },
+    {
+      "participantId": "02027"
+    }
+  ],
+  "tasks": [
+    "task-numbers"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 251,
+  "size": 817244,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

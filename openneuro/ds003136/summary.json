@@ -1,0 +1,182 @@
+{
+  "sessions": [
+    "01",
+    "02"
+  ],
+  "subjects": [
+    "0148",
+    "0178",
+    "0179",
+    "0182",
+    "0184",
+    "0185",
+    "0186",
+    "0187",
+    "0190",
+    "0192",
+    "0193",
+    "0194",
+    "0196",
+    "3080",
+    "3081",
+    "3091",
+    "3120",
+    "3128",
+    "3130",
+    "3142",
+    "3146",
+    "3148",
+    "3217",
+    "3227",
+    "3329"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "0148",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "0178",
+      "age": 32,
+      "sex": "F"
+    },
+    {
+      "participantId": "0179",
+      "age": 20,
+      "sex": "F"
+    },
+    {
+      "participantId": "0182",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "0184",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "0185",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "0186",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "0187",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "0190",
+      "age": 28,
+      "sex": "F"
+    },
+    {
+      "participantId": "0192",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "0193",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "0194",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "0196",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "3080",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "3081",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "3091",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "3120",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "3128",
+      "age": 26,
+      "sex": "F"
+    },
+    {
+      "participantId": "3130",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "3142",
+      "age": 33,
+      "sex": "F"
+    },
+    {
+      "participantId": "3146",
+      "age": 30,
+      "sex": "F"
+    },
+    {
+      "participantId": "3148",
+      "age": 31,
+      "sex": "F"
+    },
+    {
+      "participantId": "3217",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "3227",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "3329",
+      "age": 27,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Observing and Labeling Affective Faces",
+    "Neural Reactivity to Own- and Other-Infant Affect"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 486,
+  "size": 370237,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "phenotype",
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

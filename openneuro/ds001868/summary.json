@@ -1,0 +1,36 @@
+{
+  "sessions": [
+    "postimp",
+    "postop",
+    "preimp"
+  ],
+  "subjects": [
+    "ecog01"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "ecog01",
+      "age": 38,
+      "sex": "m"
+    }
+  ],
+  "tasks": [
+    "seizure"
+  ],
+  "modalities": [
+    "iEEG",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 26,
+  "size": 59969523,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "ieeg"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

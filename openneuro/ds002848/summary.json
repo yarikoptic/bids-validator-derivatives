@@ -1,0 +1,56 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "SZ_0113",
+      "age": 25,
+      "sex": "male"
+    },
+    {
+      "participantId": "SZ_0115",
+      "age": 28,
+      "sex": "female"
+    },
+    {
+      "participantId": "SZ_0118",
+      "age": 19,
+      "sex": "male"
+    },
+    {
+      "participantId": "SZ_0119",
+      "age": 22,
+      "sex": "female"
+    },
+    {
+      "participantId": "SZ_0121",
+      "age": 24,
+      "sex": "male"
+    }
+  ],
+  "tasks": [
+    "Resting state fMRI"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 19,
+  "size": 2276,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

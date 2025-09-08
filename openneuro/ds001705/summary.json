@@ -1,0 +1,57 @@
+{
+  "sessions": [
+    "baseline",
+    "displaced"
+  ],
+  "subjects": [
+    "000101",
+    "000102",
+    "000103",
+    "000104",
+    "000105"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "000101",
+      "age": 50,
+      "sex": "M"
+    },
+    {
+      "participantId": "000102",
+      "age": 39,
+      "sex": "M"
+    },
+    {
+      "participantId": "000103",
+      "age": 53,
+      "sex": "M"
+    },
+    {
+      "participantId": "000104",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "000105",
+      "age": 36,
+      "sex": "M"
+    }
+  ],
+  "tasks": [],
+  "modalities": [
+    "PET",
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Structural"
+  ],
+  "totalFiles": 46,
+  "size": 36476,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "pet"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

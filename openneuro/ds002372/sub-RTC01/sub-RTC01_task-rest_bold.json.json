@@ -1,0 +1,50 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "MagneticFieldStrength",
+        "issueMessage": "must be number\n\nField description: Nominal field strength of MR magnet in Tesla.\nCorresponds to [DICOM Tag 0018, 0087](https://dicomlookup.com/dicomtags/(0018,0087)) `Magnetic Field Strength`.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/sub-RTC01/sub-RTC01_task-rest_bold.json",
+        "affects": [
+          "/sub-RTC01/ses-func01/func/sub-RTC01_ses-func01_task-rest_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be number\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-RTC01/sub-RTC01_task-rest_bold.json",
+        "affects": [
+          "/sub-RTC01/ses-func01/func/sub-RTC01_ses-func01_task-rest_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must be array\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-RTC01/sub-RTC01_task-rest_bold.json",
+        "affects": [
+          "/sub-RTC01/ses-func01/func/sub-RTC01_ses-func01_task-rest_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      },
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "FlipAngle",
+        "issueMessage": "must match a schema in anyOf\n\nField description: Flip angle (FA) for the acquisition, specified in degrees.\nCorresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.\nThe data type number may apply to files from any MRI modality concerned with\na single value for this field, or to the files in a\n[file collection](SPEC_ROOT/appendices/file-collections.md)\nwhere the value of this field is iterated using the\n[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).\n",
+        "rule": "rules.sidecars.mri.MRIFlipAngleLookLockerFalse",
+        "location": "/sub-RTC01/sub-RTC01_task-rest_bold.json",
+        "affects": [
+          "/sub-RTC01/ses-func01/func/sub-RTC01_ses-func01_task-rest_run-01_bold.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

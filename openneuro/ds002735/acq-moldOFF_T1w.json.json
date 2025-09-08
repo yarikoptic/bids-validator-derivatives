@@ -1,0 +1,17 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "JSON_SCHEMA_VALIDATION_ERROR",
+        "subCode": "DeviceSerialNumber",
+        "issueMessage": "must be string\n\nField description: The serial number of the equipment that produced the measurements.\nA pseudonym can also be used to prevent the equipment from being\nidentifiable, so long as each pseudonym is unique within the dataset.\n",
+        "rule": "rules.sidecars.mri.MRIHardware",
+        "location": "/acq-moldOFF_T1w.json",
+        "affects": [
+          "/sub-01/anat/sub-01_acq-moldOFF_T1w.nii.gz"
+        ],
+        "severity": "error"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_WITHOUT_DATAFILE",
+        "location": "/sub-384/ses-postop/func/sub-384_ses-postop_task-es_bold.json",
+        "severity": "error"
+      }
+    ]
+  }
+}

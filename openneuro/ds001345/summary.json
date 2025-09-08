@@ -1,0 +1,98 @@
+{
+  "sessions": [],
+  "subjects": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "01",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "02",
+      "age": 24.35,
+      "sex": "F"
+    },
+    {
+      "participantId": "03",
+      "age": 30.48,
+      "sex": "F"
+    },
+    {
+      "participantId": "04",
+      "age": 28.21,
+      "sex": "F"
+    },
+    {
+      "participantId": "05",
+      "age": 34.84,
+      "sex": "F"
+    },
+    {
+      "participantId": "06",
+      "age": 29.57,
+      "sex": "F"
+    },
+    {
+      "participantId": "07",
+      "age": 29.91,
+      "sex": "M"
+    },
+    {
+      "participantId": "08",
+      "age": 24.51,
+      "sex": "F"
+    },
+    {
+      "participantId": "09",
+      "age": 27.29,
+      "sex": "M"
+    },
+    {
+      "participantId": "10",
+      "age": 28.38,
+      "sex": "M"
+    },
+    {
+      "participantId": "11",
+      "age": 30.55,
+      "sex": "F"
+    },
+    {
+      "participantId": "12",
+      "age": 26.59,
+      "sex": "F"
+    }
+  ],
+  "tasks": [
+    "Audio-Visual Memory"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 113,
+  "size": 113189,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

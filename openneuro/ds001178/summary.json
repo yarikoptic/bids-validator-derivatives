@@ -1,0 +1,123 @@
+{
+  "sessions": [],
+  "subjects": [
+    "arielle01",
+    "arielle02",
+    "beast329",
+    "ben01",
+    "ben02",
+    "ben03",
+    "ben04",
+    "ben05",
+    "ben06",
+    "ben07",
+    "ben08",
+    "ben09",
+    "ds001s07",
+    "ds045s409874",
+    "kate000",
+    "kate001",
+    "kate002",
+    "kate004",
+    "kate006",
+    "kate007",
+    "kate008",
+    "kate013",
+    "steph02"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "steph02"
+    },
+    {
+      "participantId": "kate000"
+    },
+    {
+      "participantId": "kate001"
+    },
+    {
+      "participantId": "kate002"
+    },
+    {
+      "participantId": "kate004"
+    },
+    {
+      "participantId": "kate006"
+    },
+    {
+      "participantId": "kate007"
+    },
+    {
+      "participantId": "kate008"
+    },
+    {
+      "participantId": "kate013"
+    },
+    {
+      "participantId": "ben01"
+    },
+    {
+      "participantId": "ben02"
+    },
+    {
+      "participantId": "ben03"
+    },
+    {
+      "participantId": "ben04"
+    },
+    {
+      "participantId": "ben05"
+    },
+    {
+      "participantId": "ben06"
+    },
+    {
+      "participantId": "ben07"
+    },
+    {
+      "participantId": "ben08"
+    },
+    {
+      "participantId": "ben09"
+    },
+    {
+      "participantId": "arielle01"
+    },
+    {
+      "participantId": "arielle02"
+    },
+    {
+      "participantId": "ds001s07"
+    },
+    {
+      "participantId": "beast329"
+    },
+    {
+      "participantId": "ds045s409874"
+    }
+  ],
+  "tasks": [
+    "unknown",
+    "uknown",
+    "rest",
+    "balloon analog risk task",
+    "machinegame",
+    "Unknown"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 43,
+  "size": 16601,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "func",
+    "anat"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

@@ -1,0 +1,45 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "EVENT_ONSET_ORDER",
+        "location": "/sub-03/func/sub-03_task-postheatstimulation_events.tsv",
+        "rule": "rules.checks.events.SortedOnsets",
+        "severity": "warning"
+      },
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-03/func/sub-03_task-postheatstimulation_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "onset",
+        "location": "/sub-03/func/sub-03_task-postheatstimulation_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 10,
+        "issueMessage": "'onset'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "duration",
+        "location": "/sub-03/func/sub-03_task-postheatstimulation_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 10,
+        "issueMessage": "'duration'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-03/func/sub-03_task-postheatstimulation_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "mechanical stimulation with brush consisting of 15 stiff von-Frey-hairs",
+        "severity": "warning"
+      }
+    ]
+  }
+}

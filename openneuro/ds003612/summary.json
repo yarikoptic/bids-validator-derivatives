@@ -1,0 +1,331 @@
+{
+  "sessions": [
+    "1"
+  ],
+  "subjects": [
+    "108TUSW011001",
+    "108TUSW011002",
+    "108TUSW011003",
+    "108TUSW011004",
+    "108TUSW011005",
+    "108TUSW011006",
+    "108TUSW011007",
+    "108TUSW011008",
+    "108TUSW011009",
+    "108TUSW011010",
+    "108TUSW011011",
+    "108TUSW011012",
+    "108TUSW011013",
+    "108TUSW011014",
+    "108TUSW011015",
+    "108TUSW011016",
+    "108TUSW011017",
+    "108TUSW011018",
+    "108TUSW011019",
+    "108TUSW011020",
+    "108TUSW011021",
+    "108TUSW011022",
+    "108TUSW011023",
+    "108TUSW011024",
+    "108TUSW011025",
+    "108TUSW011026",
+    "108TUSW011027",
+    "108TUSW011028",
+    "108TUSW011029",
+    "108TUSW011030",
+    "108TUSW011031",
+    "108TUSW011032",
+    "108TUSW011033",
+    "108TUSW011034",
+    "108TUSW011035",
+    "108TUSW011036",
+    "108TUSW011037",
+    "108TUSW011038",
+    "108TUSW011039",
+    "108TUSW011040",
+    "108TUSW011041",
+    "108TUSW011042",
+    "108TUSW011043",
+    "108TUSW011044",
+    "108TUSW011045",
+    "108TUSW011046",
+    "108TUSW011047",
+    "108TUSW011048",
+    "108TUSW011049",
+    "108TUSW011050",
+    "108TUSW011051"
+  ],
+  "subjectMetadata": [
+    {
+      "participantId": "108TUSW011001",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011002",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011003",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011004",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011005",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011006",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011007",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011008",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011009",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011010",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011011",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011012",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011013",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011014",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011015",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011016",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011017",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011018",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011019",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011020",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011021",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011022",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011023",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011024",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011025",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011026",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011027",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011028",
+      "age": 25,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011029",
+      "age": 29,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011030",
+      "age": 25,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011031",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011032",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011033",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011034",
+      "age": 24,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011035",
+      "age": 23,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011036",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011037",
+      "age": 21,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011038",
+      "age": 27,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011039",
+      "age": 22,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011040",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011041",
+      "age": 29,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011042",
+      "age": 27,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011043",
+      "age": 22,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011044",
+      "age": 21,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011045",
+      "age": 23,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011046",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011047",
+      "age": 19,
+      "sex": "F"
+    },
+    {
+      "participantId": "108TUSW011048",
+      "age": 24,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011050",
+      "age": 28,
+      "sex": "M"
+    },
+    {
+      "participantId": "108TUSW011051",
+      "age": 24,
+      "sex": "M"
+    }
+  ],
+  "tasks": [
+    "execution",
+    "imagery"
+  ],
+  "modalities": [
+    "MRI"
+  ],
+  "secondaryModalities": [
+    "MRI_Functional",
+    "MRI_Structural"
+  ],
+  "totalFiles": 614,
+  "size": 979711,
+  "dataProcessed": false,
+  "pet": {},
+  "dataTypes": [
+    "anat",
+    "fmap",
+    "func"
+  ],
+  "schemaVersion": "1.2.0-dev"
+}

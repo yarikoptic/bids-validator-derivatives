@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/acd/daa/SHA1--1e13cbfbd48666c8ba52d8565529c659c564a7e0.log",
+        "severity": "error"
+      }
+    ]
+  }
+}

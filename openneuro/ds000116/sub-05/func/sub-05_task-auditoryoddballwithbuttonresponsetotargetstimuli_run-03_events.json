@@ -1,0 +1,37 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-05/func/sub-05_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-03_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "subCode": "response_time",
+        "location": "/sub-05/func/sub-05_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "line": 152,
+        "issueMessage": "'standard'",
+        "severity": "error"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Response",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-05/func/sub-05_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-03_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "Stimulus",
+        "severity": "warning"
+      }
+    ]
+  }
+}

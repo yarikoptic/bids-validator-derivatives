@@ -1,0 +1,42 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "SIDECAR_KEY_RECOMMENDED",
+        "subCode": "StimulusPresentation",
+        "location": "/sub-14/func/sub-14_task-loc_events.tsv",
+        "severity": "warning",
+        "rule": "rules.sidecars.events.StimulusPresentation",
+        "issueMessage": "Field description: Object containing key-value pairs related to the software used to present\nthe stimuli during the experiment.\n"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-14/func/sub-14_task-loc_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialNum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-14/func/sub-14_task-loc_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "BlockNum",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-14/func/sub-14_task-loc_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "TrialType",
+        "severity": "warning"
+      },
+      {
+        "code": "TSV_ADDITIONAL_COLUMNS_UNDEFINED",
+        "location": "/sub-14/func/sub-14_task-loc_events.tsv",
+        "rule": "rules.tabular_data.events.Events",
+        "subCode": "RT ",
+        "severity": "warning"
+      }
+    ]
+  }
+}
